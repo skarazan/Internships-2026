@@ -400,6 +400,64 @@
     "job_posted_at": "2026-04-04T07:08:36.377Z"
   },
   {
+    "job_id": "js-cisco-mto710o9k7ovu0zfaaaaaa==",
+    "job_title": "Software Consulting Engineer I (Intern) - United States",
+    "employer_name": "Cisco",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000688EXTERNALENGLOBAL/Software-Consulting-Engineer-I-Intern-United-States",
+    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "34b59028696d7c36b0b1f71c458179608ba61f5b0ce8bb4d6df26255874db7f6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-04T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bae-systems-4gybwow2nyxjbuzqaaaaaa==",
+    "job_title": "Software Engineering Intern III, Summer 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Nashua",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118009BR/Software-Engineering-Intern-III-Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "778d3dad2c514ebec8aafb83a05c37fa346a7f5ff8c1972185250abac24c3e04",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-04T00:00:00.000Z"
+  },
+  {
     "job_id": "js-rubrik-qpbitjnsp3wjs3fyaaaaaa==",
     "job_title": "AI Engineer (Marketing) Intern, Summer 2026",
     "employer_name": "Rubrik",
@@ -475,35 +533,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cisco-mto710o9k7ovu0zfaaaaaa==",
-    "job_title": "Software Consulting Engineer I (Intern) - United States",
-    "employer_name": "Cisco",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000688EXTERNALENGLOBAL/Software-Consulting-Engineer-I-Intern-United-States",
-    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "34b59028696d7c36b0b1f71c458179608ba61f5b0ce8bb4d6df26255874db7f6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -2116,6 +2145,64 @@
     "job_posted_at": "2026-04-03T00:31:45.758Z"
   },
   {
+    "job_id": "js-eisneramper-2iu-rmdwlqiyijy4aaaaaa==",
+    "job_title": "2026 Enterprise Technology Finance Summer Intern",
+    "employer_name": "EisnerAmper",
+    "job_city": "New Jersey",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.eisneramper.com/job/75798503",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "e5d0eb71b591c43566ceacbe45639af55865c497bcbe8a3ea2367ba1c51738fe",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-centralsquare-technologies-gs-dbcmhusibiapkaaaaaa==",
+    "job_title": "Software Developer Intern (Summer Internship Opportunity) - Remote",
+    "employer_name": "CentralSquare Technologies",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://builtin.com/job/software-developer-intern-summer-internship-opportunity-remote/8957596",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "c2aab2fd4eb86e954c51fe0540244d28805ac18c1c8c7349edf85790fbb3a6fb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
     "job_id": "js-our-group-0m1jplzr9tbo1lnhaaaaaa==",
     "job_title": "Computer Science Engineering Team Internship",
     "employer_name": "our group",
@@ -2161,35 +2248,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-2nmmlcjqwwborqflaaaaaa==",
-    "job_title": "Systems Engineering Intern II, Summer 2026",
-    "employer_name": "BAE Systems",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/122952BR/Systems-Engineering-Intern-II-Summer-2026",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "a9a7863d0ff100abd198a828629fd849fc98b85d42701b8c24cd6e5a01b3cd14",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -2249,64 +2307,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-centralsquare-technologies-gs-dbcmhusibiapkaaaaaa==",
-    "job_title": "Software Developer Intern (Summer Internship Opportunity) - Remote",
-    "employer_name": "CentralSquare Technologies",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://builtin.com/job/software-developer-intern-summer-internship-opportunity-remote/8957596",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "c2aab2fd4eb86e954c51fe0540244d28805ac18c1c8c7349edf85790fbb3a6fb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-eisneramper-2iu-rmdwlqiyijy4aaaaaa==",
-    "job_title": "2026 Enterprise Technology Finance Summer Intern",
-    "employer_name": "EisnerAmper",
-    "job_city": "New Jersey",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.eisneramper.com/job/75798503",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "e5d0eb71b591c43566ceacbe45639af55865c497bcbe8a3ea2367ba1c51738fe",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
       ],
       "locations": [
         "us",
@@ -5069,6 +5069,65 @@
     "job_posted_at": "2026-04-01T20:30:30-04:00"
   },
   {
+    "job_id": "js-parsons-dqfsg6xcfcri5zcwaaaaaa==",
+    "job_title": "Software Engineering Intern (Summer 2026)",
+    "employer_name": "Parsons",
+    "job_city": "West Virginia",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://career.io/job/software-engineering-intern-summer-2026-parsons-e13ec84bc2a604f66ad1f86340e99419",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "2dc7b6188960e558b9f0c00c0c2f52e15db8ffc5601310501a27f310d2f3bf15",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "netflix-790315177455",
+    "job_title": "Documentary Awards & Publicity Intern, Summer 2026",
+    "employer_name": "Netflix",
+    "job_city": "Los Angeles",
+    "job_state": "California",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790315177455",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "35eae611ddeca5cb3e20aa133c16a8f30af5197379a3bb2a1afeadb391d572bf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "netflix",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
     "job_id": "js-wayup-fmcpqwmaac-7qkcuaaaaaa==",
     "job_title": "Adobe, 2026 AI/ML Intern",
     "employer_name": "WayUp",
@@ -5127,36 +5186,6 @@
     "job_posted_at": "2026-04-02T00:00:00.000Z"
   },
   {
-    "job_id": "netflix-790315177455",
-    "job_title": "Documentary Awards & Publicity Intern, Summer 2026",
-    "employer_name": "Netflix",
-    "job_city": "Los Angeles",
-    "job_state": "California",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790315177455",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "35eae611ddeca5cb3e20aa133c16a8f30af5197379a3bb2a1afeadb391d572bf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "netflix",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
     "job_id": "js-quantco-zvgb6u4w3z0vsaelaaaaaa==",
     "job_title": "Data Science Intern at QuantCo United States",
     "employer_name": "QuantCo",
@@ -5173,35 +5202,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-parsons-dqfsg6xcfcri5zcwaaaaaa==",
-    "job_title": "Software Engineering Intern (Summer 2026)",
-    "employer_name": "Parsons",
-    "job_city": "West Virginia",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://career.io/job/software-engineering-intern-summer-2026-parsons-e13ec84bc2a604f66ad1f86340e99419",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "2dc7b6188960e558b9f0c00c0c2f52e15db8ffc5601310501a27f310d2f3bf15",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -8153,6 +8153,34 @@
     "job_posted_at": "2026-04-01T07:03:39.270Z"
   },
   {
+    "job_id": "workday-leidos-R-00175383",
+    "job_title": "Manufacturing/Quality Intern",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00175383",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:32.342Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7573749763f3fb50c12a79d57117860d2d1e4e831ad6116ce7203ef404f99e5a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:32.342Z"
+  },
+  {
     "job_id": "workday-leidos-R-00179742",
     "job_title": "Space Payloads Signal Processing Intern",
     "employer_name": "Leidos",
@@ -8197,34 +8225,6 @@
       "employment": "internship",
       "domains": [
         "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:32.342Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00175383",
-    "job_title": "Manufacturing/Quality Intern",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00175383",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:32.342Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7573749763f3fb50c12a79d57117860d2d1e4e831ad6116ce7203ef404f99e5a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us"
@@ -8771,62 +8771,6 @@
     "job_posted_at": "2026-04-01T07:02:53.298Z"
   },
   {
-    "job_id": "workday-ge-aerospace-R5032038",
-    "job_title": "Military DoD SkillBridge Internship - Test Technician Level 2 – On Wing Support",
-    "employer_name": "GE Aerospace",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician-Level-2---On-Wing-Support_R5032038-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f8ebeace1a4586a006ddb218f6bc7386daf3ca4fc8a522ae150d03bbc72dea2e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:31.990Z"
-  },
-  {
-    "job_id": "workday-ge-aerospace-R5032042",
-    "job_title": "Military DoD SkillBridge Internship - On Wing Support Test Technician",
-    "employer_name": "GE Aerospace",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---On-Wing-Support-Test-Technician_R5032042-1",
-    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1003b8eaddeecb63a9f6bfc9010529b81d9c00971e863a377104bed8fc908757",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:02:31.990Z"
-  },
-  {
     "job_id": "workday-ge-aerospace-R5032037",
     "job_title": "Military DoD SkillBridge Internship - Maintenance Technician",
     "employer_name": "GE Aerospace",
@@ -8867,6 +8811,62 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c2de26b0474ca78c46ae24092195973b942cb9ef460199c5aa138e9029e3286c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:31.990Z"
+  },
+  {
+    "job_id": "workday-ge-aerospace-R5032038",
+    "job_title": "Military DoD SkillBridge Internship - Test Technician Level 2 – On Wing Support",
+    "employer_name": "GE Aerospace",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician-Level-2---On-Wing-Support_R5032038-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f8ebeace1a4586a006ddb218f6bc7386daf3ca4fc8a522ae150d03bbc72dea2e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:02:31.990Z"
+  },
+  {
+    "job_id": "workday-ge-aerospace-R5032042",
+    "job_title": "Military DoD SkillBridge Internship - On Wing Support Test Technician",
+    "employer_name": "GE Aerospace",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Pittsburgh/Military-DoD-SkillBridge-Internship---On-Wing-Support-Test-Technician_R5032042-1",
+    "job_posted_at_datetime_utc": "2026-04-01T07:02:31.990Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1003b8eaddeecb63a9f6bfc9010529b81d9c00971e863a377104bed8fc908757",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9794,6 +9794,64 @@
     "job_posted_at": "2026-04-01T02:00:00.000Z"
   },
   {
+    "job_id": "js-bae-systems-fgbltsvhetyhxwr9aaaaaa==",
+    "job_title": "Software Engineering Intern (On-Site)",
+    "employer_name": "BAE Systems",
+    "job_city": "Rome",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "93ad359fb2ca87ee52004c185fe4a0b05ba1660ffd318b11f75801f75fdf765e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-collins-aerospace-0od4jhh_ny_5hx1gaaaaaa==",
+    "job_title": "Software Engineering Intern - (Summer 2026) (Onsite)",
+    "employer_name": "Collins Aerospace",
+    "job_city": "West Valley City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://career.abilityjobs.com/job/software-engineering-intern-summer-2026-onsite/83110641/",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "a4ec2e65a4664b6d2e4aba1aebfdb61b83bf6064f9f6481090f041a77511e8f2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
     "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
     "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
     "employer_name": "Amerihealth Caritas",
@@ -10014,64 +10072,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-fgbltsvhetyhxwr9aaaaaa==",
-    "job_title": "Software Engineering Intern (On-Site)",
-    "employer_name": "BAE Systems",
-    "job_city": "Rome",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "93ad359fb2ca87ee52004c185fe4a0b05ba1660ffd318b11f75801f75fdf765e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-collins-aerospace-0od4jhh_ny_5hx1gaaaaaa==",
-    "job_title": "Software Engineering Intern - (Summer 2026) (Onsite)",
-    "employer_name": "Collins Aerospace",
-    "job_city": "West Valley City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://career.abilityjobs.com/job/software-engineering-intern-summer-2026-onsite/83110641/",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "a4ec2e65a4664b6d2e4aba1aebfdb61b83bf6064f9f6481090f041a77511e8f2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -13112,6 +13112,64 @@
     "job_posted_at": "2026-03-30T22:56:36-04:00"
   },
   {
+    "job_id": "js-webex-events-formerly-socio-lhtmaz1jc_bu1v5kaaaaaa==",
+    "job_title": "Software Engineer Full Stack & Application Development I (Intern) United States",
+    "employer_name": "Webex Events (formerly Socio)",
+    "job_city": "Fulton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://salutemyjob.com/jobs/software-engineer-full-stack-application-development-i-intern-united-states-fulton-maryland/2695996918-2/",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "b72fac2b765785021308044b4b4ff522b7dfab60d644965feb2080c5eecc5563",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-peraton-cuo2w0uxae0qhzpqaaaaaa==",
+    "job_title": "Summer 2026 Software Engineer Intern - Clearfield, UT",
+    "employer_name": "Peraton",
+    "job_city": "Clearfield",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.careers.peraton.com/jobs-old/summer-2026-software-engineer-intern-clearfield-ut-clearfield-utah-164209-jobs--cms-engineering--",
+    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "7d0fbfe80bab142f730e9c402269ec0026d0b2916eaca67ee3ff0cc08cf45926",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-03-31T00:00:00.000Z"
+  },
+  {
     "job_id": "js-adobe-xq1r-o-uqubxgkm7aaaaaa==",
     "job_title": "2026 Intern - Machine Learning Engineer",
     "employer_name": "Adobe",
@@ -13200,64 +13258,6 @@
     "job_posted_at": "2026-03-31T00:00:00.000Z"
   },
   {
-    "job_id": "js-webex-events-formerly-socio-lhtmaz1jc_bu1v5kaaaaaa==",
-    "job_title": "Software Engineer Full Stack & Application Development I (Intern) United States",
-    "employer_name": "Webex Events (formerly Socio)",
-    "job_city": "Fulton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://salutemyjob.com/jobs/software-engineer-full-stack-application-development-i-intern-united-states-fulton-maryland/2695996918-2/",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b72fac2b765785021308044b4b4ff522b7dfab60d644965feb2080c5eecc5563",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-peraton-cuo2w0uxae0qhzpqaaaaaa==",
-    "job_title": "Summer 2026 Software Engineer Intern - Clearfield, UT",
-    "employer_name": "Peraton",
-    "job_city": "Clearfield",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.careers.peraton.com/jobs-old/summer-2026-software-engineer-intern-clearfield-ut-clearfield-utah-164209-jobs--cms-engineering--",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "7d0fbfe80bab142f730e9c402269ec0026d0b2916eaca67ee3ff0cc08cf45926",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
     "job_id": "js-sei1global-cgackgs_xek00dnwaaaaaa==",
     "job_title": "2026 Intern - SEI Data Office AI Intern",
     "employer_name": "SEI1GLOBAL",
@@ -13270,64 +13270,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "8ca20d924a30fb4d8e7fc5a6d57f7374ab8294af97623e8f48b5490637cd7fa6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-borgwarner-oefryueurbdibs7vaaaaaa==",
-    "job_title": "Finance Summer Intern",
-    "employer_name": "BorgWarner",
-    "job_city": "Auburn Hills",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/finance-summer-intern/8904629",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b0071621a4d6b84c157f20dca1ab18d4662193148f249c971f64f46b12d91200",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-03-31T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-medtronic-tis2zazvwmgelgqnaaaaaa==",
-    "job_title": "Summer 2025 Finance Intern - Undergraduate at Medtronic Boulder, CO",
-    "employer_name": "Medtronic",
-    "job_city": "Boulder",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "http://oldhotelholland.com/library/job/summer-2025-finance-intern-undergraduate-at-medtronic-boulder-co-cVBJODhwcFlmd2pTNE52YWd6c1lwc29kVkE9PQ==",
-    "job_posted_at_datetime_utc": "2026-03-31T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "6c7301ba70bd7d47faaf1f2ae12360529502369fce22c41573c0baf398f16e5a",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -15483,61 +15425,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-03-30T14:14:32.247Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-065700",
-    "job_title": "MSAT Co-op Fall 2026",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Athens",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/MSAT-Co-op-Fall-2026_R-065700",
-    "job_posted_at_datetime_utc": "2026-03-30T13:18:55.463Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1723a6d875a7f252b39b2ecc963404b241ef57671beeed3b133dc6dece10c5c5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-03-30T13:18:55.463Z"
-  },
-  {
-    "job_id": "greenhouse-samsara-7581914",
-    "job_title": "Electrical Engineering Co-Op",
-    "employer_name": "Samsara",
-    "job_city": "San Francisco - SF9",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.samsara.com/company/careers/roles/7581914?gh_jid=7581914",
-    "job_posted_at_datetime_utc": "2026-03-30T09:17:56-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3871254a8ca329a04b240d62ef70e66366b22e2e3f6b0a44fdf43120067ce264",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-03-30T09:17:56-04:00"
   }
 ]
