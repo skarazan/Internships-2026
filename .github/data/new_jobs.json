@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-kla-2635509",
+    "job_title": "Product Sustainability Intern",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Sustainability-Intern_2635509",
+    "job_posted_at_datetime_utc": "2026-04-07T00:33:56.757Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c79f5c88d945ea6421d893cef294519f0712688f5feaa9c143c9f7be00ad5b35",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T00:33:56.757Z"
+  },
+  {
     "job_id": "workday-sel-2026-19530",
     "job_title": "Marketing Intern - SEO",
     "employer_name": "SEL",
@@ -3589,6 +3617,35 @@
     "job_posted_at": "2026-04-05T21:50:26-04:00"
   },
   {
+    "job_id": "js-ge-healthcare-qf3sc9n9bwyzy7weaaaaaa==",
+    "job_title": "Edison Engineering Development Program Internship - Hardware",
+    "employer_name": "GE HEALTHCARE",
+    "job_city": "Aurora",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.gehealthcare.com/fr/fr/job/GEVGHLGLOBALR4027687EXTERNALFRFR/Edison-Engineering-Development-Program-Internship-Hardware",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "8b19ca9b2a5540aad1ac1c47369e9c7682f6857f0dbedad05405d8bbf3b6e96c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "js-mayo-clinic-advyu_o5xaouwvg1aaaaaa==",
     "job_title": "Intern Data Science AI&I (Bachelors degree level)",
     "employer_name": "Mayo Clinic",
@@ -3906,6 +3963,95 @@
     "job_posted_at": "2026-04-04T07:08:36.377Z"
   },
   {
+    "job_id": "js-ge-healthcare-crtf-xlugh_jqvudaaaaaa==",
+    "job_title": "Edison Engineering Development Program Internship - Hardware",
+    "employer_name": "GE HEALTHCARE",
+    "job_city": "Aurora",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4027687EXTERNALENGLOBAL/Edison-Engineering-Development-Program-Internship-Hardware",
+    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "8b19ca9b2a5540aad1ac1c47369e9c7682f6857f0dbedad05405d8bbf3b6e96c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-04T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-taylor-corporation-3m9tae69-fh0bppuaaaaaa==",
+    "job_title": "AI & Machine Learning Intern",
+    "employer_name": "Taylor Corporation",
+    "job_city": "Amsterdam",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/ai-machine-learning-intern--city-of-amsterdam--e01a39f4efa8fdc49233b67243e65fae4",
+    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "ac191477fcfe012704a7491d15a455811d167c76d8c4982d12397dcd891af17c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-04T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-blue-origin-hx9g_k2dwcfh-kquaaaaaa==",
+    "job_title": "Artificial Intelligence / Machine Learning Intern",
+    "employer_name": "Blue Origin",
+    "job_city": "Los Angeles",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/summer-2026-artificial-intelligence-machine-learning-intern-graduate-student--los-angeles--e26d729325d9b6128213dd5f03ce2b615",
+    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "f37f67264bbc01fa33e6714931692b2edb7a04a7c747af42dfb497d5aa92b8da",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-04T00:00:00.000Z"
+  },
+  {
     "job_id": "js-lmi-consulting-llc-fgqqc1p09agnr2wpaaaaaa==",
     "job_title": "Data Scientist Intern",
     "employer_name": "LMI Consulting, LLC",
@@ -4009,95 +4155,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ge-healthcare-crtf-xlugh_jqvudaaaaaa==",
-    "job_title": "Edison Engineering Development Program Internship - Hardware",
-    "employer_name": "GE HEALTHCARE",
-    "job_city": "Aurora",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4027687EXTERNALENGLOBAL/Edison-Engineering-Development-Program-Internship-Hardware",
-    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "8b19ca9b2a5540aad1ac1c47369e9c7682f6857f0dbedad05405d8bbf3b6e96c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-taylor-corporation-3m9tae69-fh0bppuaaaaaa==",
-    "job_title": "AI & Machine Learning Intern",
-    "employer_name": "Taylor Corporation",
-    "job_city": "Amsterdam",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/ai-machine-learning-intern--city-of-amsterdam--e01a39f4efa8fdc49233b67243e65fae4",
-    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "ac191477fcfe012704a7491d15a455811d167c76d8c4982d12397dcd891af17c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-blue-origin-hx9g_k2dwcfh-kquaaaaaa==",
-    "job_title": "Artificial Intelligence / Machine Learning Intern",
-    "employer_name": "Blue Origin",
-    "job_city": "Los Angeles",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/summer-2026-artificial-intelligence-machine-learning-intern-graduate-student--los-angeles--e26d729325d9b6128213dd5f03ce2b615",
-    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "f37f67264bbc01fa33e6714931692b2edb7a04a7c747af42dfb497d5aa92b8da",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us",
@@ -5653,6 +5710,35 @@
     "job_posted_at": "2026-04-03T00:31:45.758Z"
   },
   {
+    "job_id": "js-rockwell-automation-xltlx2fo2e4blymiaaaaaa==",
+    "job_title": "Co-op Hardware Development Engineer",
+    "employer_name": "Rockwell Automation",
+    "job_city": "Mayfield Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://simplify.jobs/p/346276e3-ed36-4b1e-9a06-a080452e996a/Co-op-Hardware-Development-Engineer",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "c22c808a3f9050c7d407a9acf02dcce27bef7a666286b04f0febcaca15e7ba24",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
     "job_id": "js-coherent-corp-fhr1e8gsrnb6d2craaaaaa==",
     "job_title": "Summer Data Science & AI Analytics Intern",
     "employer_name": "Coherent Corp.",
@@ -5729,35 +5815,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-rockwell-automation-xltlx2fo2e4blymiaaaaaa==",
-    "job_title": "Co-op Hardware Development Engineer",
-    "employer_name": "Rockwell Automation",
-    "job_city": "Mayfield Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://simplify.jobs/p/346276e3-ed36-4b1e-9a06-a080452e996a/Co-op-Hardware-Development-Engineer",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "c22c808a3f9050c7d407a9acf02dcce27bef7a666286b04f0febcaca15e7ba24",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -8607,6 +8664,65 @@
     "job_posted_at": "2026-04-01T20:30:30-04:00"
   },
   {
+    "job_id": "js-bae-systems-jmiq0jurpc9ey05yaaaaaa==",
+    "job_title": "Summer Internship - Hardware Engineering Intern",
+    "employer_name": "BAE Systems",
+    "job_city": "Manassas",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123057BR/Summer-Internship-Hardware-Engineering-Intern",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "4274f6a64fbda54b98e665674324867ad3ea69b511e42bbc3311f8dd5827262b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ibm-baxqfsvqjmkycvosaaaaaa==",
+    "job_title": "Hardware Test Engineer Intern: Innovate & Validate Systems",
+    "employer_name": "IBM",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/hardware-test-engineer-intern-innovate-validate-systems--san-diego--ef551a5493d25910fda2db9144840a08a",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "f60ffb73a9ca8319c5993cd97db09c65ffff37001ad87406521fc0d3734fdabc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
     "job_id": "netflix-790315177455",
     "job_title": "Documentary Awards & Publicity Intern, Summer 2026",
     "employer_name": "Netflix",
@@ -8711,65 +8827,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-bae-systems-jmiq0jurpc9ey05yaaaaaa==",
-    "job_title": "Summer Internship - Hardware Engineering Intern",
-    "employer_name": "BAE Systems",
-    "job_city": "Manassas",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123057BR/Summer-Internship-Hardware-Engineering-Intern",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "4274f6a64fbda54b98e665674324867ad3ea69b511e42bbc3311f8dd5827262b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ibm-baxqfsvqjmkycvosaaaaaa==",
-    "job_title": "Hardware Test Engineer Intern: Innovate & Validate Systems",
-    "employer_name": "IBM",
-    "job_city": "San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/hardware-test-engineer-intern-innovate-validate-systems--san-diego--ef551a5493d25910fda2db9144840a08a",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "f60ffb73a9ca8319c5993cd97db09c65ffff37001ad87406521fc0d3734fdabc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -11889,35 +11946,6 @@
     "job_posted_at": "2026-04-01T07:03:22.106Z"
   },
   {
-    "job_id": "workday-micron-JR96660",
-    "job_title": "Intern - Computer Engineer, AI/ML/LLM",
-    "employer_name": "Micron",
-    "job_city": "Richardson",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Computer-Engineer--AI-ML-LLM_JR96660",
-    "job_posted_at_datetime_utc": "2026-04-01T07:03:22.106Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4a52d14384e599f3e3f22446bc35984bd10a90a670d6a7bad6ab9baef5ec7c62",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-01T07:03:22.106Z"
-  },
-  {
     "job_id": "workday-micron-JR91786",
     "job_title": "Intern - Validation Strategy AI/ML",
     "employer_name": "Micron",
@@ -11962,6 +11990,35 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-01T07:03:22.106Z"
+  },
+  {
+    "job_id": "workday-micron-JR96660",
+    "job_title": "Intern - Computer Engineer, AI/ML/LLM",
+    "employer_name": "Micron",
+    "job_city": "Richardson",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Computer-Engineer--AI-ML-LLM_JR96660",
+    "job_posted_at_datetime_utc": "2026-04-01T07:03:22.106Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4a52d14384e599f3e3f22446bc35984bd10a90a670d6a7bad6ab9baef5ec7c62",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
       ],
       "locations": [
         "us"
@@ -13362,6 +13419,65 @@
     "job_posted_at": "2026-04-01T02:00:00.000Z"
   },
   {
+    "job_id": "js-xometry-gib_x-h9mj-vnei9aaaaaa==",
+    "job_title": "Machine Learning Intern",
+    "employer_name": "Xometry",
+    "job_city": "Kensington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-intern/kensington-maryland?id=2604426636",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "6107cda62afa8268a2e80359e2fedfeac776a64ad19ceed0d70dc2e22bcdb00e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-micron-technology-2teafswbmlmf6mlgaaaaaa==",
+    "job_title": "Intern - Validation Strategy AI/ML",
+    "employer_name": "Micron Technology",
+    "job_city": "Boise",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.micron.com/careers/job/40437210?hl=en",
+    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "65152a342cfcdcaf0559027e0f52c340b1c132497e15a325390b4b520b6ca951",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-01T00:00:00.000Z"
+  },
+  {
     "job_id": "js-ametek-inc-jrgwgrzlt5ru7bppaaaaaa==",
     "job_title": "Data Science and AI Intern",
     "employer_name": "Ametek, Inc.",
@@ -13581,36 +13697,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-01T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-xometry-gib_x-h9mj-vnei9aaaaaa==",
-    "job_title": "Machine Learning Intern",
-    "employer_name": "Xometry",
-    "job_city": "Kensington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/machine-learning-intern/kensington-maryland?id=2604426636",
-    "job_posted_at_datetime_utc": "2026-04-01T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "6107cda62afa8268a2e80359e2fedfeac776a64ad19ceed0d70dc2e22bcdb00e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us",
@@ -16371,18 +16457,18 @@
     "job_posted_at": "2026-03-31T07:02:06.766Z"
   },
   {
-    "job_id": "workday-cisco-2006310",
-    "job_title": "Corporate Strategy Manager MBA (Intern) - United States",
+    "job_id": "workday-cisco-2008628",
+    "job_title": "Operations Project Specialist I (Intern) - Costa Rica",
     "employer_name": "Cisco",
-    "job_city": "San Jose",
-    "job_state": "US",
+    "job_city": "SAN JOSE",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Corporate-Strategy-Manager-MBA--Intern----United-States_2006310-1",
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/CRI-SAN-JOSE/Operations-Project-Specialist-I--Intern----Costa-Rica_2008628",
     "job_posted_at_datetime_utc": "2026-03-31T07:02:06.632Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "2e54aca904ecb841e1efeba9db57620d5dd4756be9618bf1fd21d990df029c5b",
+    "fingerprint": "e37476f9d3082c52d3bf0e7a452114fcc52d8a37cf827d8be4804b86f918b69f",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -16399,18 +16485,18 @@
     "job_posted_at": "2026-03-31T07:02:06.632Z"
   },
   {
-    "job_id": "workday-cisco-2008628",
-    "job_title": "Operations Project Specialist I (Intern) - Costa Rica",
+    "job_id": "workday-cisco-2006310",
+    "job_title": "Corporate Strategy Manager MBA (Intern) - United States",
     "employer_name": "Cisco",
-    "job_city": "SAN JOSE",
-    "job_state": "",
+    "job_city": "San Jose",
+    "job_state": "US",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/CRI-SAN-JOSE/Operations-Project-Specialist-I--Intern----Costa-Rica_2008628",
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Corporate-Strategy-Manager-MBA--Intern----United-States_2006310-1",
     "job_posted_at_datetime_utc": "2026-03-31T07:02:06.632Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "e37476f9d3082c52d3bf0e7a452114fcc52d8a37cf827d8be4804b86f918b69f",
+    "fingerprint": "2e54aca904ecb841e1efeba9db57620d5dd4756be9618bf1fd21d990df029c5b",
     "tags": {
       "employment": "internship",
       "domains": [
