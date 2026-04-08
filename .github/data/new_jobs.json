@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-globus-medical-JR106351",
+    "job_title": "Co-Op",
+    "employer_name": "Globus Medical",
+    "job_city": "Audubon",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Co-Op_JR106351",
+    "job_posted_at_datetime_utc": "2026-04-08T15:34:03.257Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2920950513511fe4bd4f367ca6824f6d4f81de13be474d6eff41c7648968fb26",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T15:34:03.257Z"
+  },
+  {
     "job_id": "workday-jabil-J2445247",
     "job_title": "Recruitment Marketing Intern",
     "employer_name": "Jabil",
@@ -6232,34 +6260,6 @@
     "job_posted_at": "2026-04-06T07:07:18.441Z"
   },
   {
-    "job_id": "workday-kla-2635204",
-    "job_title": "Manufacturing Design Engineer Intern",
-    "employer_name": "KLA",
-    "job_city": "Milpitas",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Manufacturing-Design-Engineer-Intern_2635204-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:09.454Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "276e667fda825daf0b53b4196876f1a055207de81811d959b377ed96704aeb99",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:09.454Z"
-  },
-  {
     "job_id": "workday-kla-2635509",
     "job_title": "Product Sustainability Intern",
     "employer_name": "KLA",
@@ -6300,6 +6300,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c20e7f7894f89a689c8cac2845218df832690d88ab14983e93ac7c48f0da612f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:09.454Z"
+  },
+  {
+    "job_id": "workday-kla-2635204",
+    "job_title": "Manufacturing Design Engineer Intern",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Manufacturing-Design-Engineer-Intern_2635204-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:09.454Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "276e667fda825daf0b53b4196876f1a055207de81811d959b377ed96704aeb99",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6400,6 +6428,34 @@
     "job_posted_at": "2026-04-06T07:07:02.919Z"
   },
   {
+    "job_id": "workday-moog-R-26-16547",
+    "job_title": "Intern, Systems Engineering",
+    "employer_name": "Moog",
+    "job_city": "Salt Lake City",
+    "job_state": "UT",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Intern--Systems-Engineering_R-26-16547",
+    "job_posted_at_datetime_utc": "2026-04-06T07:06:59.007Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "786cb3b8c54c847cf581ebfa730071bf21d5b61d96705e618fabff7b9e56677c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:06:59.007Z"
+  },
+  {
     "job_id": "workday-moog-R-26-17014",
     "job_title": "Intern, Software Engineering",
     "employer_name": "Moog",
@@ -6468,34 +6524,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "54acb13e2abea5ec365d6ccab6578094b9474cb45368007286ed5b031c7f2e3a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:06:59.007Z"
-  },
-  {
-    "job_id": "workday-moog-R-26-16547",
-    "job_title": "Intern, Systems Engineering",
-    "employer_name": "Moog",
-    "job_city": "Salt Lake City",
-    "job_state": "UT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Salt-Lake-City-UT/Intern--Systems-Engineering_R-26-16547",
-    "job_posted_at_datetime_utc": "2026-04-06T07:06:59.007Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "786cb3b8c54c847cf581ebfa730071bf21d5b61d96705e618fabff7b9e56677c",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6682,18 +6710,18 @@
     "job_posted_at": "2026-04-06T07:06:36.691Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-067622",
-    "job_title": "Chemical Engineering Co-Op - Fall 2026",
+    "job_id": "workday-johnson-&-johnson-R-062718",
+    "job_title": "Fall 2026 Quality Engineering Co-op",
     "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
+    "job_city": "Cornelia",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Chemical-Engineering-Co-Op---Fall-2026_R-067622",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Fall-2026-Quality-Engineering-Co-op_R-062718-1",
     "job_posted_at_datetime_utc": "2026-04-06T07:06:34.837Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "4e8bf0aeef64c89adf15bab6ba98513039e7b23570112b1442c9ed3cfd2f4f48",
+    "fingerprint": "76f7d5c425eb1011a91e02cd73fef36166e538c8a03c5b7df1928a93c8e62979",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6710,18 +6738,18 @@
     "job_posted_at": "2026-04-06T07:06:34.837Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-062718",
-    "job_title": "Fall 2026 Quality Engineering Co-op",
+    "job_id": "workday-johnson-&-johnson-R-067622",
+    "job_title": "Chemical Engineering Co-Op - Fall 2026",
     "employer_name": "Johnson & Johnson",
-    "job_city": "Cornelia",
+    "job_city": "Raritan",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Cornelia-Georgia-United-States-of-America/Fall-2026-Quality-Engineering-Co-op_R-062718-1",
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/Chemical-Engineering-Co-Op---Fall-2026_R-067622",
     "job_posted_at_datetime_utc": "2026-04-06T07:06:34.837Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "76f7d5c425eb1011a91e02cd73fef36166e538c8a03c5b7df1928a93c8e62979",
+    "fingerprint": "4e8bf0aeef64c89adf15bab6ba98513039e7b23570112b1442c9ed3cfd2f4f48",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6963,18 +6991,18 @@
     "job_posted_at": "2026-04-06T07:05:48.441Z"
   },
   {
-    "job_id": "workday-cisco-2001164",
-    "job_title": "Software Engineer Security & Automation II (Intern) – United States",
+    "job_id": "workday-cisco-2007170",
+    "job_title": "Software Engineer I (Intern) - United States",
     "employer_name": "Cisco",
-    "job_city": "13 Locations",
+    "job_city": "2 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Security---Automation-II--Intern----United-States_2001164",
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-I--Intern----United-States_2007170",
     "job_posted_at_datetime_utc": "2026-04-06T07:05:43.465Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "d527cc2561c93476a908dd69e7bf929084361882c964724d516fcd41db5c6809",
+    "fingerprint": "3af53eeceedfa5dae5a1fd8c60d4de8862eba8332ff0d8e871bbf0034ff3543b",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -6991,18 +7019,18 @@
     "job_posted_at": "2026-04-06T07:05:43.465Z"
   },
   {
-    "job_id": "workday-cisco-2007170",
-    "job_title": "Software Engineer I (Intern) - United States",
+    "job_id": "workday-cisco-2001164",
+    "job_title": "Software Engineer Security & Automation II (Intern) – United States",
     "employer_name": "Cisco",
-    "job_city": "2 Locations",
+    "job_city": "13 Locations",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-I--Intern----United-States_2007170",
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Security---Automation-II--Intern----United-States_2001164",
     "job_posted_at_datetime_utc": "2026-04-06T07:05:43.465Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3af53eeceedfa5dae5a1fd8c60d4de8862eba8332ff0d8e871bbf0034ff3543b",
+    "fingerprint": "d527cc2561c93476a908dd69e7bf929084361882c964724d516fcd41db5c6809",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -7585,6 +7613,35 @@
     "job_posted_at": "2026-04-05T21:50:26-04:00"
   },
   {
+    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
+    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
+    "employer_name": "Amerihealth Caritas",
+    "job_city": "Newtown Square",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "js-the-walt-disney-company-corporate-lnj2qtphhjruqyloaaaaaa==",
     "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
     "employer_name": "The Walt Disney Company (Corporate)",
@@ -7835,35 +7892,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
-    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
-    "employer_name": "Amerihealth Caritas",
-    "job_city": "Newtown Square",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us",
@@ -13625,6 +13653,65 @@
     "job_posted_at": "2026-04-01T20:30:30-04:00"
   },
   {
+    "job_id": "js-our-group-0m1jplzr9tbo1lnhaaaaaa==",
+    "job_title": "Computer Science Engineering Team Internship",
+    "employer_name": "our group",
+    "job_city": "Shakopee",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.trabajo.org/job-4023-91525e0f4bfdd20532a4108b6da26c51",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "ab4d813bb7170726df5c5d5f5d66a2e78a7ec13443bccce7506622fccd07c9b4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
+    "job_id": "netflix-790315177455",
+    "job_title": "Documentary Awards & Publicity Intern, Summer 2026",
+    "employer_name": "Netflix",
+    "job_city": "Los Angeles",
+    "job_state": "California",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790315177455",
+    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "35eae611ddeca5cb3e20aa133c16a8f30af5197379a3bb2a1afeadb391d572bf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "netflix",
+    "job_posted_at": "2026-04-02T00:00:00.000Z"
+  },
+  {
     "job_id": "js-bae-systems-jmiq0jurpc9ey05yaaaaaa==",
     "job_title": "Summer Internship - Hardware Engineering Intern",
     "employer_name": "BAE Systems",
@@ -13743,36 +13830,6 @@
     "job_posted_at": "2026-04-02T00:00:00.000Z"
   },
   {
-    "job_id": "netflix-790315177455",
-    "job_title": "Documentary Awards & Publicity Intern, Summer 2026",
-    "employer_name": "Netflix",
-    "job_city": "Los Angeles",
-    "job_state": "California",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790315177455",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "35eae611ddeca5cb3e20aa133c16a8f30af5197379a3bb2a1afeadb391d572bf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "netflix",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
     "job_id": "js-harbinger-264sye7uibm-_n-naaaaaa==",
     "job_title": "Intern, Systems Engineering",
     "employer_name": "Harbinger",
@@ -13814,35 +13871,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "b64f6f0fcfc0decbd02c78eddae3e79ce866bee3615923e33639a225812f4f50",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-02T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-our-group-0m1jplzr9tbo1lnhaaaaaa==",
-    "job_title": "Computer Science Engineering Team Internship",
-    "employer_name": "our group",
-    "job_city": "Shakopee",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.trabajo.org/job-4023-91525e0f4bfdd20532a4108b6da26c51",
-    "job_posted_at_datetime_utc": "2026-04-02T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "ab4d813bb7170726df5c5d5f5d66a2e78a7ec13443bccce7506622fccd07c9b4",
     "tags": {
       "employment": "internship",
       "domains": [
