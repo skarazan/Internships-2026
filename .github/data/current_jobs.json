@@ -811,7 +811,7 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "hardware"
       ],
       "locations": [
         "us"
@@ -839,7 +839,7 @@
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "operations"
       ],
       "locations": [
         "us"
@@ -5317,6 +5317,63 @@
     "job_posted_at": "2026-04-07T07:00:00.000Z"
   },
   {
+    "job_id": "workday-cisco-2000445",
+    "job_title": "Software Engineer Embedded/Network Systems I (Intern) - United States",
+    "employer_name": "Cisco",
+    "job_city": "15 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Network-Systems-I--Intern----United-States_2000445",
+    "job_posted_at_datetime_utc": "2026-04-07T03:36:06.945Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d8343b24a678756fc83e24467c82d8b27850c3b7a4e3e12bce8a3ac5eb2967bf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T03:36:06.945Z"
+  },
+  {
+    "job_id": "workday-cisco-2001164",
+    "job_title": "Software Engineer Security & Automation II (Intern) – United States",
+    "employer_name": "Cisco",
+    "job_city": "13 Locations",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Security---Automation-II--Intern----United-States_2001164",
+    "job_posted_at_datetime_utc": "2026-04-07T03:36:06.945Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d527cc2561c93476a908dd69e7bf929084361882c964724d516fcd41db5c6809",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T03:36:06.945Z"
+  },
+  {
     "job_id": "workday-intel-JR0280872",
     "job_title": "Module Engineering Graduate Intern",
     "employer_name": "Intel",
@@ -5520,34 +5577,6 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
-    "job_id": "workday-sel-2025-17738",
-    "job_title": "Designer Intern",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Designer-Intern_2025-17738",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6277fe8d587f1c5c7ee9c829540ba4524032e54beda3960a2667b9c07a9dea8b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
     "job_id": "workday-sel-2026-19530",
     "job_title": "Marketing Intern - SEO",
     "employer_name": "SEL",
@@ -5704,6 +5733,34 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2025-17738",
+    "job_title": "Designer Intern",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Designer-Intern_2025-17738",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6277fe8d587f1c5c7ee9c829540ba4524032e54beda3960a2667b9c07a9dea8b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -9084,6 +9141,64 @@
     "job_posted_at": "2026-04-06T07:04:47.721Z"
   },
   {
+    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
+    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
+    "employer_name": "Amerihealth Caritas",
+    "job_city": "Newtown Square",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-jaros-baum-bolles-jbb-ptvmzqrelrilv3ntaaaaaa==",
+    "job_title": "Software Engineer Co-Op: Build Tools for Smart Buildings",
+    "employer_name": "Jaros, Baum & Bolles (JB&B)",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/software-engineer-co-op-build-tools-for-smart-buildings--new-york--ededcad9708cc0234c46cab52206d02e7",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "23043a33f611ee1ad29690ce3593a7eabd8f15d097cac6ad5f6eae286d74930c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "js-logistics-management-institute-ff0ghtijjxk39a2haaaaaa==",
     "job_title": "Data Scientist Intern – GenAI & ML Research (Summer 2026)",
     "employer_name": "Logistics Management Institute",
@@ -9259,35 +9374,6 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
-    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
-    "employer_name": "Amerihealth Caritas",
-    "job_city": "Newtown Square",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
     "job_id": "js-the-walt-disney-company-corporate-lnj2qtphhjruqyloaaaaaa==",
     "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
     "employer_name": "The Walt Disney Company (Corporate)",
@@ -9363,35 +9449,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-jaros-baum-bolles-jbb-ptvmzqrelrilv3ntaaaaaa==",
-    "job_title": "Software Engineer Co-Op: Build Tools for Smart Buildings",
-    "employer_name": "Jaros, Baum & Bolles (JB&B)",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/software-engineer-co-op-build-tools-for-smart-buildings--new-york--ededcad9708cc0234c46cab52206d02e7",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "23043a33f611ee1ad29690ce3593a7eabd8f15d097cac6ad5f6eae286d74930c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -12434,6 +12491,64 @@
     "job_posted_at": "2026-04-03T00:31:45.758Z"
   },
   {
+    "job_id": "js-athena-qjni8cbm6qb02pbtaaaaaa==",
+    "job_title": "Data Science Intern: Build XP-Client Matching Models",
+    "employer_name": "Athena",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-science-intern-build-xp-client-matching-models--united-states--ea1005464563b83e3f8d9776c7de471a4",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c44f42834520470cff556ebf1da5a10ada4f5c21482baeeb474ca3361c58b30f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-quantco-zvgb6u4w3z0vsaelaaaaaa==",
+    "job_title": "Data Science Intern at QuantCo United States",
+    "employer_name": "QuantCo",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ntnskole.no/vacancies/job/data-science-intern-at-quantco-united-states-WWJPOFVOVEcrOG1YRGJseFBmZTY3OHNnbFE9PQ==",
+    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "95e556d84fb7dcbf5106edf529ed97585f0a9cb0dbbebe744f56dc4cb890c061",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-03T00:00:00.000Z"
+  },
+  {
     "job_id": "js-constellation-f5-qnljlthzyfcitaaaaaa==",
     "job_title": "Strategic & Systems Engineering Intern",
     "employer_name": "Constellation",
@@ -12608,35 +12723,6 @@
     "job_posted_at": "2026-04-03T00:00:00.000Z"
   },
   {
-    "job_id": "js-quantco-zvgb6u4w3z0vsaelaaaaaa==",
-    "job_title": "Data Science Intern at QuantCo United States",
-    "employer_name": "QuantCo",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ntnskole.no/vacancies/job/data-science-intern-at-quantco-united-states-WWJPOFVOVEcrOG1YRGJseFBmZTY3OHNnbFE9PQ==",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "95e556d84fb7dcbf5106edf529ed97585f0a9cb0dbbebe744f56dc4cb890c061",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
     "job_id": "js-rockwell-automation-xltlx2fo2e4blymiaaaaaa==",
     "job_title": "Co-op Hardware Development Engineer",
     "employer_name": "Rockwell Automation",
@@ -12771,35 +12857,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-03T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-athena-qjni8cbm6qb02pbtaaaaaa==",
-    "job_title": "Data Science Intern: Build XP-Client Matching Models",
-    "employer_name": "Athena",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-science-intern-build-xp-client-matching-models--united-states--ea1005464563b83e3f8d9776c7de471a4",
-    "job_posted_at_datetime_utc": "2026-04-03T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c44f42834520470cff556ebf1da5a10ada4f5c21482baeeb474ca3361c58b30f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
       ],
       "locations": [
         "us",
