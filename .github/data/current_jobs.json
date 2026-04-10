@@ -1,5 +1,33 @@
 [
   {
+    "job_id": "workday-trimble-R53797",
+    "job_title": "Technical Support Intern",
+    "employer_name": "Trimble",
+    "job_city": "CA, San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CA-San-Diego/Technical-Support-Intern_R53797",
+    "job_posted_at_datetime_utc": "2026-04-10T17:06:30.692Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e785e5f5e39084fcefa3dff28bd4d0a0c3cc51ee53ec4656f97a5df5b8d129b6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T17:06:30.692Z"
+  },
+  {
     "job_id": "workday-microchip-technology-R1469-26",
     "job_title": "Intern - Development Systems",
     "employer_name": "Microchip Technology",
@@ -789,34 +817,6 @@
     "job_posted_at": "2026-04-10T01:00:00.000Z"
   },
   {
-    "job_id": "workday-boston-dynamics-R2423",
-    "job_title": "AI/ML Safety Intern",
-    "employer_name": "Boston Dynamics",
-    "job_city": "Waltham Office",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/AI-ML-Safety-Intern_R2423",
-    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4bf479faa69d379fa2d96b76f02670b751fe7968925fbd3421e0cc24cb06d7d1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-10T00:47:02.392Z"
-  },
-  {
     "job_id": "workday-boston-dynamics-R2476",
     "job_title": "Mechanical Engineering Co-Op",
     "employer_name": "Boston Dynamics",
@@ -861,6 +861,34 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-10T00:47:02.392Z"
+  },
+  {
+    "job_id": "workday-boston-dynamics-R2423",
+    "job_title": "AI/ML Safety Intern",
+    "employer_name": "Boston Dynamics",
+    "job_city": "Waltham Office",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/AI-ML-Safety-Intern_R2423",
+    "job_posted_at_datetime_utc": "2026-04-10T00:47:02.392Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4bf479faa69d379fa2d96b76f02670b751fe7968925fbd3421e0cc24cb06d7d1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
       ],
       "locations": [
         "us"
@@ -1015,6 +1043,35 @@
     "job_posted_at": "2026-04-09T23:02:49.375Z"
   },
   {
+    "job_id": "js-the-dow-chemical-company-m0sbxvorlc3zmuwlaaaaaa==",
+    "job_title": "Local College Co-op: Computer Science",
+    "employer_name": "THE DOW CHEMICAL COMPANY",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.dow.com/hiring/local-college-co-op-computer-science-bay-city-mi-69d887d2bd3c1d07733bd410",
+    "job_posted_at_datetime_utc": "2026-04-09T23:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "ee7ca15f0bdd9003ff19e0bb95c7902582d4a3696b524b2d0f6ec838f7127152",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T23:00:00.000Z"
+  },
+  {
     "job_id": "js-nexthink-76jul6rbr8by4xvhaaaaaa==",
     "job_title": "Corporate Finance Intern",
     "employer_name": "Nexthink",
@@ -1031,35 +1088,6 @@
       "employment": "internship",
       "domains": [
         "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T23:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-dow-chemical-company-m0sbxvorlc3zmuwlaaaaaa==",
-    "job_title": "Local College Co-op: Computer Science",
-    "employer_name": "THE DOW CHEMICAL COMPANY",
-    "job_city": "Bay City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.dow.com/hiring/local-college-co-op-computer-science-bay-city-mi-69d887d2bd3c1d07733bd410",
-    "job_posted_at_datetime_utc": "2026-04-09T23:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "68ceec5dd326ed1bb6a0a08fcf1766f21ed2dcf29dae6026ddbb7b4e93044a78",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us",
@@ -2605,6 +2633,64 @@
     "job_posted_at": "2026-04-09T01:53:25.361Z"
   },
   {
+    "job_id": "js-aem-xev5ykv9tupoeuxdaaaaaa==",
+    "job_title": "Sr. Computer Science Intern",
+    "employer_name": "AEM",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.jobsora.com/job-48381619205",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "ac8f0778310e9cabebb99ce7e1d5829d9b651fc2231e9b9c530d561c67e4c094",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-steel-partners-holdings-lp-bxcw6w7aytttlx0xaaaaaa==",
+    "job_title": "AI Intern",
+    "employer_name": "steel partners holdings lp",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobsearcher.com/jobs/56f3f7f386d17888acfdf832742f56836f49a4a216408b33ac24ea7f619fa3b7?c=Steel+Partners+Holdings&page=1",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "114ead295b792f748a3a59776e30dffb144019a89afe2971d100cd76634aab4c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-wsp-usa--v1p69ykyolojmueaaaaaa==",
     "job_title": "Electrical Engineering Intern",
     "employer_name": "WSP USA",
@@ -2650,35 +2736,6 @@
       "employment": "internship",
       "domains": [
         "healthcare"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-steel-partners-holdings-lp-bxcw6w7aytttlx0xaaaaaa==",
-    "job_title": "AI Intern",
-    "employer_name": "steel partners holdings lp",
-    "job_city": "Smyrna",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobsearcher.com/jobs/56f3f7f386d17888acfdf832742f56836f49a4a216408b33ac24ea7f619fa3b7?c=Steel+Partners+Holdings&page=1",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "f43f74bfd7f85473163a2ccb36b08b97f0531b187d31aefeb1f686501f2ad274",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
       ],
       "locations": [
         "us",
@@ -2800,35 +2857,6 @@
       "locations": [
         "us",
         "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-dow-chemical-company-zipcpsmrinpnb7npaaaaaa==",
-    "job_title": "Local College Co-op: Computer Science",
-    "employer_name": "THE DOW CHEMICAL COMPANY",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Local-College-Co-op--Computer-Science_R2064929",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "ee7ca15f0bdd9003ff19e0bb95c7902582d4a3696b524b2d0f6ec838f7127152",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "remote"
       ],
       "experience": "entry_level",
       "special": []
@@ -4094,34 +4122,6 @@
     "job_posted_at": "2026-04-08T07:10:18.356Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068869",
-    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Warsaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-068836",
     "job_title": "GET Athens Intern Summer 2026",
     "employer_name": "Johnson & Johnson",
@@ -4218,6 +4218,34 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068869",
+    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Warsaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5190,35 +5218,6 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
-    "job_id": "workday-sel-2026-20280",
-    "job_title": "Process Engineering Intern",
-    "employer_name": "SEL",
-    "job_city": "Lewiston",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Process-Engineering-Intern_2026-20280",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "717d743edb9832a1bf056058de2b4e5a020e32234905ca6ff90f6b70ca8c261d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
     "job_id": "workday-sel-2026-20283",
     "job_title": "Project Coordinator Intern",
     "employer_name": "SEL",
@@ -5472,6 +5471,35 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
+    "job_id": "workday-sel-2026-20280",
+    "job_title": "Process Engineering Intern",
+    "employer_name": "SEL",
+    "job_city": "Lewiston",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Process-Engineering-Intern_2026-20280",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "717d743edb9832a1bf056058de2b4e5a020e32234905ca6ff90f6b70ca8c261d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
     "job_id": "workday-sel-2026-19998",
     "job_title": "Human Resources Intern",
     "employer_name": "SEL",
@@ -5498,6 +5526,93 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "js-dow-inc-cyckhhab6hrpxtttaaaaaa==",
+    "job_title": "Local College Co-op: Computer Science",
+    "employer_name": "Dow Inc",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://corporate.dow.com/en-us/careers/jobs/position.R2064929.html",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "928b5ceb12bcd25a41e286a091f75aaaf613af7b0063266dc5a1a6c951870167",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-trane-technologies-jrdtiqsswvrjtxpjaaaaaa==",
+    "job_title": "2026 Engineering Intern (Computer Science / Computer Engineering / Software Engineering)",
+    "employer_name": "trane technologies",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/92502599/2026-Engineering-Intern-Computer-Science-Computer-Engineering-Software-Engineering",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "4e20ca93eb46624acf3d0347482d090df69d11f5fcbc01fd3e50fd32c530780a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-penn-state-sxmcabcr3eecb3x1aaaaaa==",
+    "job_title": "Cyber Security Systems Engineer Intern",
+    "employer_name": "Penn State",
+    "job_city": "Pennsylvania",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.higheredjobs.com/faculty/details.cfm?JobCode=179411427",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "53fb62754732f455dfe04853a3a225995431dfc2097c6c1c0a06051f05b02c6a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
     "job_id": "js-city-of-lubbock-i3xf8gthboun_ijjaaaaaa==",
@@ -5545,64 +5660,6 @@
       "employment": "internship",
       "domains": [
         "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dow-inc-cyckhhab6hrpxtttaaaaaa==",
-    "job_title": "Local College Co-op: Computer Science",
-    "employer_name": "Dow Inc",
-    "job_city": "Midland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://corporate.dow.com/en-us/careers/jobs/position.R2064929.html",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "870f7bf0e1393fcfef69964d5e7cf7ac40f1b1a745c253a8d0da4622df59633a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-trane-technologies-jrdtiqsswvrjtxpjaaaaaa==",
-    "job_title": "2026 Engineering Intern (Computer Science / Computer Engineering / Software Engineering)",
-    "employer_name": "trane technologies",
-    "job_city": "St Paul",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/92502599/2026-Engineering-Intern-Computer-Science-Computer-Engineering-Software-Engineering",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "5e18bf026a56f2f38162ae01250b0784eda33e33b25ce1085ecba0fb81bfe350",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -5715,35 +5772,6 @@
     "job_employment_type": "INTERNSHIP",
     "salary": null,
     "fingerprint": "f713b1d07612186bdd97a0f0d1373e55537025cf606a173434ed8af8896debae",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-penn-state-sxmcabcr3eecb3x1aaaaaa==",
-    "job_title": "Cyber Security Systems Engineer Intern",
-    "employer_name": "Penn State",
-    "job_city": "Pennsylvania",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.higheredjobs.com/faculty/details.cfm?JobCode=179411427",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "53fb62754732f455dfe04853a3a225995431dfc2097c6c1c0a06051f05b02c6a",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -7296,34 +7324,6 @@
     "job_posted_at": "2026-04-07T07:06:44.697Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-066944",
-    "job_title": "HFE co-op (Fall 2026)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-067039",
     "job_title": "Electrical Engineer Co-op",
     "employer_name": "Johnson & Johnson",
@@ -7480,6 +7480,34 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066944",
+    "job_title": "HFE co-op (Fall 2026)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raritan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
       ],
       "locations": [
         "us"
@@ -8533,6 +8561,36 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-07T01:33:28.233Z"
+  },
+  {
+    "job_id": "js-adobe-xq1r-o-uqubxgkm7aaaaaa==",
+    "job_title": "2026 Intern - Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R160621/2026-Intern-Machine-Learning-Engineer",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "d8493cfa2ca30d47b224e333d1729c92ca1c29d2132d1b35040b1a39bda33a7e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
     "job_id": "js-wsp-qjqr0ussdhhiemsvaaaaaa==",
@@ -12622,22 +12680,22 @@
     "job_posted_at": "2026-04-06T07:00:17.789Z"
   },
   {
-    "job_id": "js-cmta-inc-cqma1urbeam9k_v7aaaaaa==",
-    "job_title": "Electrical Engineer Intern/Co-op Summer 2026 - CMTA",
-    "employer_name": "CMTA, Inc",
-    "job_city": "Arlington",
+    "job_id": "js-first-solar-us-latvrgecg93zxqktaaaaaa==",
+    "job_title": "AI Intern (Summer 2026)",
+    "employer_name": "First Solar (US)",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://usnlx.com/arlington-va/electrical-engineer-internco-op-summer-2026-cmta/15DF8BDABF3E4778A9FBBE1FDE1941A0/job/",
+    "job_apply_link": "https://www.sonicjobs.com/us/jobs/perrysburg/full-time/ai-intern-summer-2026-69d4e708d524fbaeac1cb293",
     "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "0fb1d6169da9202c737ab437941dcf77383a2d6f983ebe5de24aa0f71e4ce572",
+    "fingerprint": "ae14822978705978dab6f9d79c517bb1fca86a0091332496518a4ce4e785503d",
     "tags": {
       "employment": "internship",
       "domains": [
-        "hardware"
+        "data_science"
       ],
       "locations": [
         "us",
@@ -12651,21 +12709,51 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-first-solar-us-latvrgecg93zxqktaaaaaa==",
-    "job_title": "AI Intern (Summer 2026)",
-    "employer_name": "First Solar (US)",
-    "job_city": "Perrysburg",
+    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
+    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
+    "employer_name": "Amerihealth Caritas",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.sonicjobs.com/us/jobs/perrysburg/full-time/ai-intern-summer-2026-69d4e708d524fbaeac1cb293",
+    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
     "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
+    "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "224c5b8cec65240a7c6138b8026ea797d80969ba3f570294e2ddcb889ac26955",
+    "fingerprint": "624ed5a1e1f2dea32a77fc7ea815519a68a7d2e1b73e3b417bcab864b1869414",
     "tags": {
       "employment": "internship",
       "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-the-walt-disney-company-corporate-lnj2qtphhjruqyloaaaaaa==",
+    "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
+    "employer_name": "The Walt Disney Company (Corporate)",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.disneycareers.com/en/job/seattle/machine-learning-engineer-intern-seattle-summer-2026/391/93694631456",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "780aba8e366019bf64ab2857bf4395138f50ea04a2c3ed58974b85483497800a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -12683,7 +12771,7 @@
     "job_id": "js-logistics-management-institute-ff0ghtijjxk39a2haaaaaa==",
     "job_title": "Data Scientist Intern – GenAI & ML Research (Summer 2026)",
     "employer_name": "Logistics Management Institute",
-    "job_city": "Tysons",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -12691,7 +12779,7 @@
     "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
     "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "54e3e19c9dde90b268d274d31c3bd789424eb1bdfa38adcf17ed52895849eeb9",
+    "fingerprint": "c0975b776f84f548d99c6d54de069e7f15324f9c9c271d0eaeb1778078af6ab9",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -12710,18 +12798,18 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-the-walt-disney-company-corporate-lnj2qtphhjruqyloaaaaaa==",
-    "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
-    "employer_name": "The Walt Disney Company (Corporate)",
-    "job_city": "Seattle",
+    "job_id": "js-doordash-sxy9lkat3qvndppfaaaaaa==",
+    "job_title": "Machine Learning Intern (Masters) - Summer 2026 at DoorDash",
+    "employer_name": "DoorDash",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.disneycareers.com/en/job/seattle/machine-learning-engineer-intern-seattle-summer-2026/391/93694631456",
+    "job_apply_link": "https://peerlist.io/company/doordash/careers/machine-learning-intern-masters--summer-2026/jobhmq6noppermajgida6med6pjajr",
     "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
     "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "a27fbb6077abdae3b888ab7909b6c0bd88ce3c875fa8952ef2256a70b808cd9b",
+    "fingerprint": "8cf4e86c4834751f74d145874e24dc93296238942c1c41fbf4dfd700724c9b33",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -12733,7 +12821,9 @@
         "on_site"
       ],
       "experience": "entry_level",
-      "special": []
+      "special": [
+        "unicorn"
+      ]
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
@@ -12769,22 +12859,22 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-amerihealth-caritas-2edqpxfsk4xh6pwbaaaaaa==",
-    "job_title": "Summer Intern (Graduate, Computer Science, UX / UI design)",
-    "employer_name": "Amerihealth Caritas",
-    "job_city": "Newtown Square",
+    "job_id": "js-cmta-inc-cqma1urbeam9k_v7aaaaaa==",
+    "job_title": "Electrical Engineer Intern/Co-op Summer 2026 - CMTA",
+    "employer_name": "CMTA, Inc",
+    "job_city": "Arlington",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.amerihealthcaritas.com/us/en/job/44378/Summer-Intern-Graduate-Computer-Science-UX-UI-design",
+    "job_apply_link": "https://usnlx.com/arlington-va/electrical-engineer-internco-op-summer-2026-cmta/15DF8BDABF3E4778A9FBBE1FDE1941A0/job/",
     "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
     "salary": null,
-    "fingerprint": "081733ae26a7c285939b839a401e1d06cc49e9eb60d9bbd1fb755393f3bbc3a6",
+    "fingerprint": "0fb1d6169da9202c737ab437941dcf77383a2d6f983ebe5de24aa0f71e4ce572",
     "tags": {
       "employment": "internship",
       "domains": [
-        "general"
+        "hardware"
       ],
       "locations": [
         "us",
@@ -12996,38 +13086,6 @@
       ],
       "experience": "entry_level",
       "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-doordash-sxy9lkat3qvndppfaaaaaa==",
-    "job_title": "Machine Learning Intern (Masters) - Summer 2026 at DoorDash",
-    "employer_name": "DoorDash",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://peerlist.io/company/doordash/careers/machine-learning-intern-masters--summer-2026/jobhmq6noppermajgida6med6pjajr",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "55c5e6fc7766ee4e5c24f0a6e60d8e9da20ccbdf8f3430e78a304adc50d0d5d1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "unicorn"
-      ]
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
@@ -14403,7 +14461,7 @@
     "job_id": "js-general-electric-jrsggelfwsaigpu5aaaaaa==",
     "job_title": "Applied AI Engineer Co-op – Fall 2026 (September Start)",
     "employer_name": "General Electric",
-    "job_city": "Feasterville-Trevose",
+    "job_city": "Unknown",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
@@ -14411,7 +14469,7 @@
     "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "1232eb0cdac07bfcfa6f1caf09536cbb3709e9fd551ec25e85bd483dea676dfc",
+    "fingerprint": "4374e13355f8c2fb286bc03b5d6900ef8d508bf1aa03fa5fcc03490969965700",
     "tags": {
       "employment": "internship",
       "domains": [
