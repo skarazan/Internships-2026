@@ -3419,62 +3419,6 @@
     "job_posted_at": "2026-04-08T07:10:18.356Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068841",
-    "job_title": "Pharm Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Athens",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/Pharm-Co-Op_R-068841",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068869",
-    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Warsaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-068836",
     "job_title": "GET Athens Intern Summer 2026",
     "employer_name": "Johnson & Johnson",
@@ -3547,6 +3491,62 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068841",
+    "job_title": "Pharm Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Athens",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/Pharm-Co-Op_R-068841",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068869",
+    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Warsaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -4487,6 +4487,90 @@
     "job_posted_at": "2026-04-08T04:19:11.863Z"
   },
   {
+    "job_id": "workday-sel-2026-19395",
+    "job_title": "Equipment Maintenance Technician Intern",
+    "employer_name": "SEL",
+    "job_city": "Lewiston",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d5786e35484ba92986ebefe3d3817c08a24bab7a96354752049466428dd4bab3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19855",
+    "job_title": "Project Management Intern",
+    "employer_name": "SEL",
+    "job_city": "Lewiston",
+    "job_state": "ID",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Project-Management-Intern_2026-19855",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0c0fcad186bffb9279d71ffe8a3619602882b562274724a12a1f3f73d6e9ebb0",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20203",
+    "job_title": "Engineering Intern",
+    "employer_name": "SEL",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
     "job_id": "workday-sel-2026-20358",
     "job_title": "Engineering Intern - Automation",
     "employer_name": "SEL",
@@ -4741,88 +4825,33 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
-    "job_id": "workday-sel-2026-19395",
-    "job_title": "Equipment Maintenance Technician Intern",
-    "employer_name": "SEL",
-    "job_city": "Lewiston",
-    "job_state": "ID",
+    "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
+    "job_title": "Hardware Engineering Co-op",
+    "employer_name": "Fresenius Medical Care",
+    "job_city": "Lawrence",
+    "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Equipment-Maintenance-Technician-Intern_2026-19395",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
+    "job_apply_link": "https://jobs.freseniusmedicalcare.com/hardware-engineering-co-op/job/55C8F8E9BD353E65BE3630D1F3A1F19A",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "d5786e35484ba92986ebefe3d3817c08a24bab7a96354752049466428dd4bab3",
+    "fingerprint": "31584f4df57968e15f06ebf2bcf7cba6c4bee8ad019ae32130e7ce9801874fea",
     "tags": {
       "employment": "internship",
       "domains": [
-        "manufacturing"
+        "hardware"
       ],
       "locations": [
-        "us"
+        "us",
+        "on_site"
       ],
       "experience": "entry_level",
       "special": []
     },
     "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19855",
-    "job_title": "Project Management Intern",
-    "employer_name": "SEL",
-    "job_city": "Lewiston",
-    "job_state": "ID",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Project-Management-Intern_2026-19855",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0c0fcad186bffb9279d71ffe8a3619602882b562274724a12a1f3f73d6e9ebb0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20203",
-    "job_title": "Engineering Intern",
-    "employer_name": "SEL",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
     "job_id": "js-trane-technologies-jrdtiqsswvrjtxpjaaaaaa==",
@@ -4870,35 +4899,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
-    "job_title": "Hardware Engineering Co-op",
-    "employer_name": "Fresenius Medical Care",
-    "job_city": "Lawrence",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.freseniusmedicalcare.com/hardware-engineering-co-op/job/55C8F8E9BD353E65BE3630D1F3A1F19A",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "31584f4df57968e15f06ebf2bcf7cba6c4bee8ad019ae32130e7ce9801874fea",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -6079,62 +6079,6 @@
     "job_posted_at": "2026-04-07T07:06:54.748Z"
   },
   {
-    "job_id": "workday-jabil-J2437711",
-    "job_title": "Marketing/Business Intelligence Intern (AI Programs)",
-    "employer_name": "Jabil",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing-Coordinator-Intern--AI-Programs-_J2437711",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3515d0ce4824a5f2d4415f737b0066d202e233b90f9cbaaa7f657a6ae6673810",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
-    "job_id": "workday-jabil-J2444715",
-    "job_title": "Financial Reporting Intern (Consolidations)",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
     "job_id": "workday-jabil-J2445379",
     "job_title": "Talent Acquisition Intern",
     "employer_name": "Jabil",
@@ -6235,6 +6179,62 @@
       "employment": "internship",
       "domains": [
         "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
+    "job_id": "workday-jabil-J2437711",
+    "job_title": "Marketing/Business Intelligence Intern (AI Programs)",
+    "employer_name": "Jabil",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Marketing-Coordinator-Intern--AI-Programs-_J2437711",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3515d0ce4824a5f2d4415f737b0066d202e233b90f9cbaaa7f657a6ae6673810",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
+    "job_id": "workday-jabil-J2444715",
+    "job_title": "Financial Reporting Intern (Consolidations)",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Financial-Reporting-Intern--Consolidations-_J2444715",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ebf6a1aeb8e7e40746ed4c9986072d09936c2d075872da067c00263bfcb8e7aa",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -6389,62 +6389,6 @@
     "job_posted_at": "2026-04-07T07:06:44.697Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-066944",
-    "job_title": "HFE co-op (Fall 2026)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-067039",
-    "job_title": "Electrical Engineer Co-op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Electrical-Engineer-Co-op_R-067039",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c6dd8f989c714024a8477046cbe5518fe8ad507ff434f1314f4fb820100f817c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-067610",
     "job_title": "Customer Service and Channel Ops Co-Op",
     "employer_name": "Johnson & Johnson",
@@ -6573,6 +6517,62 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-066944",
+    "job_title": "HFE co-op (Fall 2026)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raritan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-067039",
+    "job_title": "Electrical Engineer Co-op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Boston-Massachusetts-United-States-of-America/Electrical-Engineer-Co-op_R-067039",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c6dd8f989c714024a8477046cbe5518fe8ad507ff434f1314f4fb820100f817c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -6810,34 +6810,6 @@
     "job_posted_at": "2026-04-07T07:05:52.482Z"
   },
   {
-    "job_id": "workday-disney-10147010",
-    "job_title": "WDI Building Information Modeling (BIM) Intern, Summer 2026",
-    "employer_name": "Disney",
-    "job_city": "Celebration",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Building-Information-Modeling--BIM--Intern--Summer-2026_10147010-1",
-    "job_posted_at_datetime_utc": "2026-04-07T07:05:52.481Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6ff079c2267e5f2fddd26141f78b994eb876907e8d28ecf22bac894007a7c4eb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:05:52.481Z"
-  },
-  {
     "job_id": "workday-disney-10141472",
     "job_title": "Finance Data & Analytics Intern, Summer/Fall 2026",
     "employer_name": "Disney",
@@ -6939,6 +6911,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:05:52.481Z"
+  },
+  {
+    "job_id": "workday-disney-10147010",
+    "job_title": "WDI Building Information Modeling (BIM) Intern, Summer 2026",
+    "employer_name": "Disney",
+    "job_city": "Celebration",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Building-Information-Modeling--BIM--Intern--Summer-2026_10147010-1",
+    "job_posted_at_datetime_utc": "2026-04-07T07:05:52.481Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6ff079c2267e5f2fddd26141f78b994eb876907e8d28ecf22bac894007a7c4eb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
       ],
       "locations": [
         "us"
@@ -7628,6 +7628,66 @@
     "job_posted_at": "2026-04-07T01:33:28.233Z"
   },
   {
+    "job_id": "js-calix-1ykk9qpetilxp5pkaaaaaa==",
+    "job_title": "AI / Machine Learning Intern",
+    "employer_name": "Calix",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobgether.com/offer/69d57798aba5fafcee00f3e7-ai-machine-learning-intern",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "3721cb7520a91128946a9b853df974d0d958849b2b03da2b62142b9bffe93599",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-coherent-corp-7kmg1eoyv6gy1h8qaaaaaa==",
+    "job_title": "Internship in AI & Machine Learning",
+    "employer_name": "Coherent Corp.",
+    "job_city": "Saxonburg",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/internship-ai-and-machine-learning--saxonburg--e157e3cd947d01234d6fcb60d4c17cbe5",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "6f51dd615f401f4798d5e6f0acadcb422f6ec5f42228c9d3fab05683875345fb",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
     "job_id": "js-athena-athenacom-6krx8uxplbdzxhbjaaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "Athena (athena.com)",
@@ -7773,36 +7833,6 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
-    "job_id": "js-calix-1ykk9qpetilxp5pkaaaaaa==",
-    "job_title": "AI / Machine Learning Intern",
-    "employer_name": "Calix",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobgether.com/offer/69d57798aba5fafcee00f3e7-ai-machine-learning-intern",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "3721cb7520a91128946a9b853df974d0d958849b2b03da2b62142b9bffe93599",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
     "job_id": "js-wsp-qjqr0ussdhhiemsvaaaaaa==",
     "job_title": "Electrical Engineering Intern- Summer 2026",
     "employer_name": "WSP",
@@ -7819,36 +7849,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-coherent-corp-7kmg1eoyv6gy1h8qaaaaaa==",
-    "job_title": "Internship in AI & Machine Learning",
-    "employer_name": "Coherent Corp.",
-    "job_city": "Saxonburg",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/internship-ai-and-machine-learning--saxonburg--e157e3cd947d01234d6fcb60d4c17cbe5",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "6f51dd615f401f4798d5e6f0acadcb422f6ec5f42228c9d3fab05683875345fb",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us",
@@ -10083,34 +10083,6 @@
     "job_posted_at": "2026-04-06T07:07:18.441Z"
   },
   {
-    "job_id": "workday-kla-2635509",
-    "job_title": "Product Sustainability Intern",
-    "employer_name": "KLA",
-    "job_city": "Milpitas",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Sustainability-Intern_2635509",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:09.454Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c79f5c88d945ea6421d893cef294519f0712688f5feaa9c143c9f7be00ad5b35",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:09.454Z"
-  },
-  {
     "job_id": "workday-kla-2635323",
     "job_title": "Digital Transformation & AI Intern",
     "employer_name": "KLA",
@@ -10155,6 +10127,34 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:09.454Z"
+  },
+  {
+    "job_id": "workday-kla-2635509",
+    "job_title": "Product Sustainability Intern",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Sustainability-Intern_2635509",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:09.454Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c79f5c88d945ea6421d893cef294519f0712688f5feaa9c143c9f7be00ad5b35",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -11716,6 +11716,36 @@
     "job_posted_at": "2026-04-06T07:00:17.789Z"
   },
   {
+    "job_id": "js-the-walt-disney-company-corporate-lnj2qtphhjruqyloaaaaaa==",
+    "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
+    "employer_name": "The Walt Disney Company (Corporate)",
+    "job_city": "Seattle",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.disneycareers.com/en/job/seattle/machine-learning-engineer-intern-seattle-summer-2026/391/93694631456",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a27fbb6077abdae3b888ab7909b6c0bd88ce3c875fa8952ef2256a70b808cd9b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
     "job_id": "js-logistics-management-institute-ff0ghtijjxk39a2haaaaaa==",
     "job_title": "Data Scientist Intern – GenAI & ML Research (Summer 2026)",
     "employer_name": "Logistics Management Institute",
@@ -11733,6 +11763,65 @@
       "domains": [
         "ai",
         "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-blue-origin-w3hit8rnm7k1bin9aaaaaa==",
+    "job_title": "Artificial Intelligence / Machine Learning Intern - Graduate Student",
+    "employer_name": "Blue Origin",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/blue-origin/jobs-internships/artificial-intelligence-machine-learning-intern-graduate-student",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "e6ecf6402d0f9bd1260780ebd43998f4946ce590f264c1d8b29ff63a7e44c5b5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ibm-mq3npxndumwfazbqaaaaaa==",
+    "job_title": "Intern: Hardware Developer",
+    "employer_name": "IBM",
+    "job_city": "Poughkeepsie",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobsweb.com/job/intern-hardware-developer/83148058/",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c19a7e852e5d31dac532a46124b39de30214f8863d0ff7dc3c774e2c9672160f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
       ],
       "locations": [
         "us",
@@ -11891,36 +11980,6 @@
     "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
-    "job_id": "js-the-walt-disney-company-corporate-lnj2qtphhjruqyloaaaaaa==",
-    "job_title": "Machine Learning Engineer Intern, Seattle, Summer 2026",
-    "employer_name": "The Walt Disney Company (Corporate)",
-    "job_city": "Seattle",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.disneycareers.com/en/job/seattle/machine-learning-engineer-intern-seattle-summer-2026/391/93694631456",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a27fbb6077abdae3b888ab7909b6c0bd88ce3c875fa8952ef2256a70b808cd9b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
     "job_id": "js-first-solar-us-latvrgecg93zxqktaaaaaa==",
     "job_title": "AI Intern (Summer 2026)",
     "employer_name": "First Solar (US)",
@@ -11937,35 +11996,6 @@
       "employment": "internship",
       "domains": [
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ibm-mq3npxndumwfazbqaaaaaa==",
-    "job_title": "Intern: Hardware Developer",
-    "employer_name": "IBM",
-    "job_city": "Poughkeepsie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobsweb.com/job/intern-hardware-developer/83148058/",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c19a7e852e5d31dac532a46124b39de30214f8863d0ff7dc3c774e2c9672160f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -12053,36 +12083,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-blue-origin-w3hit8rnm7k1bin9aaaaaa==",
-    "job_title": "Artificial Intelligence / Machine Learning Intern - Graduate Student",
-    "employer_name": "Blue Origin",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/blue-origin/jobs-internships/artificial-intelligence-machine-learning-intern-graduate-student",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "e6ecf6402d0f9bd1260780ebd43998f4946ce590f264c1d8b29ff63a7e44c5b5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us",
@@ -12703,6 +12703,36 @@
     "job_posted_at": "2026-04-05T07:03:00.934Z"
   },
   {
+    "job_id": "js-winco-foods-j65v5udgnrj8nyrwaaaaaa==",
+    "job_title": "Machine Learning Developer Intern",
+    "employer_name": "WinCo Foods",
+    "job_city": "Boise",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers-winco.icims.com/jobs/150124/us-id-boise/job",
+    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "3fa9dc10b3601036984876a6368295589931a9b867e7c0384692573cfda388a5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-05T00:00:00.000Z"
+  },
+  {
     "job_id": "js-experian-0dbrrz5gldkrdurmaaaaaa==",
     "job_title": "Data Science Summer Intern (Remote & Paid)",
     "employer_name": "Experian",
@@ -12922,36 +12952,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-winco-foods-j65v5udgnrj8nyrwaaaaaa==",
-    "job_title": "Machine Learning Developer Intern",
-    "employer_name": "WinCo Foods",
-    "job_city": "Boise",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers-winco.icims.com/jobs/150124/us-id-boise/job",
-    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "3fa9dc10b3601036984876a6368295589931a9b867e7c0384692573cfda388a5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us",
@@ -13374,6 +13374,65 @@
     "job_posted_at": "2026-04-04T07:05:46.561Z"
   },
   {
+    "job_id": "js-taylor-corporation-3m9tae69-fh0bppuaaaaaa==",
+    "job_title": "AI & Machine Learning Intern",
+    "employer_name": "Taylor Corporation",
+    "job_city": "Amsterdam",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/ai-machine-learning-intern--city-of-amsterdam--e01a39f4efa8fdc49233b67243e65fae4",
+    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "ac191477fcfe012704a7491d15a455811d167c76d8c4982d12397dcd891af17c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-04T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-rockwell-automation-xltlx2fo2e4blymiaaaaaa==",
+    "job_title": "Co-op Hardware Development Engineer",
+    "employer_name": "Rockwell Automation",
+    "job_city": "Mayfield Heights",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://simplify.jobs/p/346276e3-ed36-4b1e-9a06-a080452e996a/Co-op-Hardware-Development-Engineer",
+    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "c22c808a3f9050c7d407a9acf02dcce27bef7a666286b04f0febcaca15e7ba24",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-04T00:00:00.000Z"
+  },
+  {
     "job_id": "js-goosehead-insurance-agency-p7o9j_dxrssda4mmaaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "Goosehead Insurance Agency",
@@ -13507,65 +13566,6 @@
       "employment": "internship",
       "domains": [
         "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-rockwell-automation-xltlx2fo2e4blymiaaaaaa==",
-    "job_title": "Co-op Hardware Development Engineer",
-    "employer_name": "Rockwell Automation",
-    "job_city": "Mayfield Heights",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://simplify.jobs/p/346276e3-ed36-4b1e-9a06-a080452e996a/Co-op-Hardware-Development-Engineer",
-    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "c22c808a3f9050c7d407a9acf02dcce27bef7a666286b04f0febcaca15e7ba24",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-04T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-taylor-corporation-3m9tae69-fh0bppuaaaaaa==",
-    "job_title": "AI & Machine Learning Intern",
-    "employer_name": "Taylor Corporation",
-    "job_city": "Amsterdam",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/ai-machine-learning-intern--city-of-amsterdam--e01a39f4efa8fdc49233b67243e65fae4",
-    "job_posted_at_datetime_utc": "2026-04-04T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "ac191477fcfe012704a7491d15a455811d167c76d8c4982d12397dcd891af17c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
       ],
       "locations": [
         "us",
