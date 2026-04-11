@@ -342,6 +342,35 @@
     "job_posted_at": "2026-04-10T23:03:59.646Z"
   },
   {
+    "job_id": "js-zoetis-inc-bdrkvg5tvcvykahmaaaaaa==",
+    "job_title": "ERP Finance Product Intern",
+    "employer_name": "Zoetis Inc.",
+    "job_city": "Parsippany-Troy Hills",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/erp-finance-product-intern/4242121",
+    "job_posted_at_datetime_utc": "2026-04-10T23:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "6cd5c2dec9177c3ecec6dc103b1db159b6748ce588cb419790a5779d35b9d2c6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-10T23:00:00.000Z"
+  },
+  {
     "job_id": "js-critical-loop-odpgphj_90cxogfwaaaaaa==",
     "job_title": "Electrical Engineering Intern (BESS & Energy Systems)",
     "employer_name": "Critical Loop",
@@ -431,35 +460,6 @@
     "job_posted_at": "2026-04-10T23:00:00.000Z"
   },
   {
-    "job_id": "js-zoetis-inc-bdrkvg5tvcvykahmaaaaaa==",
-    "job_title": "ERP Finance Product Intern",
-    "employer_name": "Zoetis Inc.",
-    "job_city": "Parsippany-Troy Hills",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/erp-finance-product-intern/4242121",
-    "job_posted_at_datetime_utc": "2026-04-10T23:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "6cd5c2dec9177c3ecec6dc103b1db159b6748ce588cb419790a5779d35b9d2c6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-10T23:00:00.000Z"
-  },
-  {
     "job_id": "workday-s&p-global-327158",
     "job_title": "People Team Intern",
     "employer_name": "S&P Global",
@@ -496,7 +496,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://www.samsara.com/company/careers/roles/7768922?gh_jid=7768922",
-    "job_posted_at_datetime_utc": "2026-04-10T17:19:35-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T21:19:35.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "140bc681b85fa777b1e5aa7f49caa4f5782ddd20eb77c176d638dc8d9c010905",
@@ -515,7 +515,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-10T17:19:35-04:00"
+    "job_posted_at": "2026-04-10T21:19:35.000Z"
   },
   {
     "job_id": "workday-rtx-01832259",
@@ -807,7 +807,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7799138?gh_jid=7799138",
-    "job_posted_at_datetime_utc": "2026-04-10T14:11:16-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T18:11:16.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d6e7607feba36e2b5dd8c780fc361622b816ce88c77163e474e6ba10d3e397f5",
@@ -824,7 +824,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-10T14:11:16-04:00"
+    "job_posted_at": "2026-04-10T18:11:16.000Z"
   },
   {
     "job_id": "workday-micron-JR82726",
@@ -1623,7 +1623,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077",
-    "job_posted_at_datetime_utc": "2026-04-10T07:41:27-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T11:41:27.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "55e404a40c8b182379779b4556a344d39d160671810bd05ec6d799a3b75ef13e",
@@ -1640,7 +1640,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-10T07:41:27-04:00"
+    "job_posted_at": "2026-04-10T11:41:27.000Z"
   },
   {
     "job_id": "greenhouse-cloudflare-7796003",
@@ -1651,7 +1651,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7796003?gh_jid=7796003",
-    "job_posted_at_datetime_utc": "2026-04-10T07:39:07-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T11:37:47.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "616cde6172a17da0e09815a15c768c460a946dd4576a8f55504e5840d998d648",
@@ -1668,7 +1668,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-10T07:39:07-04:00"
+    "job_posted_at": "2026-04-10T11:37:47.000Z"
   },
   {
     "job_id": "js-onto-68rwjzyyya2c_rcfaaaaaa==",
@@ -1708,7 +1708,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/workato/jobs/8492935002",
-    "job_posted_at_datetime_utc": "2026-04-09T23:12:52-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T03:06:29.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4b9df3077635e43fbea3c55ad9447c1771db75dda4e41f8e302b97b24d4a26db",
@@ -1726,7 +1726,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T23:12:52-04:00"
+    "job_posted_at": "2026-04-10T03:06:29.000Z"
   },
   {
     "job_id": "greenhouse-cloudflare-7797931",
@@ -1737,7 +1737,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7797931?gh_jid=7797931",
-    "job_posted_at_datetime_utc": "2026-04-09T22:08:24-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T02:08:24.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d6e7607feba36e2b5dd8c780fc361622b816ce88c77163e474e6ba10d3e397f5",
@@ -1754,7 +1754,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T22:08:24-04:00"
+    "job_posted_at": "2026-04-10T02:08:24.000Z"
   },
   {
     "job_id": "greenhouse-cloudflare-7802906",
@@ -1765,7 +1765,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906",
-    "job_posted_at_datetime_utc": "2026-04-09T22:07:27-04:00",
+    "job_posted_at_datetime_utc": "2026-04-10T02:07:27.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "0b0e58a228ca601083f3a70cda019df4d18b5367b876a22034c5b7d92a5922aa",
@@ -1782,7 +1782,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T22:07:27-04:00"
+    "job_posted_at": "2026-04-10T02:07:27.000Z"
   },
   {
     "job_id": "workday-boston-dynamics-R2476",
@@ -1869,6 +1869,35 @@
     "job_posted_at": "2026-04-10T00:47:02.392Z"
   },
   {
+    "job_id": "js-vertiv-usa-1aiqzdj2nebjbqcoaaaaaa==",
+    "job_title": "Engineering Intern - DC Power Systems",
+    "employer_name": "Vertiv USA",
+    "job_city": "Lorain",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/vertiv-usa/jobs-internships/engineering-intern-dc-power-systems",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "38a172ff52950839b8666f7af651b11765caf6e40918e1898aadfc77b2fadfa1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
     "job_id": "js-vertiv-usa-phakirm7xe_dgpjeaaaaaa==",
     "job_title": "Computer Engineering Internship",
     "employer_name": "Vertiv USA",
@@ -1927,35 +1956,6 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "js-vertiv-usa-1aiqzdj2nebjbqcoaaaaaa==",
-    "job_title": "Engineering Intern - DC Power Systems",
-    "employer_name": "Vertiv USA",
-    "job_city": "Lorain",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/vertiv-usa/jobs-internships/engineering-intern-dc-power-systems",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "38a172ff52950839b8666f7af651b11765caf6e40918e1898aadfc77b2fadfa1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
     "job_id": "js-the-dow-chemical-company--mz15_yme4sntmbaaaaaaa==",
     "job_title": "Local College Co-op: Computer Science",
     "employer_name": "THE DOW CHEMICAL COMPANY",
@@ -1985,35 +1985,6 @@
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
-    "job_id": "greenhouse-lucidmotors-4953725007",
-    "job_title": "Intern, Electrical Machines Testing & Data Analytics, Summer 2026",
-    "employer_name": "Lucid Motors",
-    "job_city": "Newark",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/4953725007",
-    "job_posted_at_datetime_utc": "2026-04-09T19:05:21-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7b222e4bc3341e97d0db83071762f42b9b7fb868b884074b9b65d0218d3fa433",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T19:05:21-04:00"
-  },
-  {
     "job_id": "greenhouse-cloudflare-7792962",
     "job_title": "Solutions Engineer - Intern (Summer & Fall 2026)",
     "employer_name": "Cloudflare",
@@ -2022,7 +1993,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7792962?gh_jid=7792962",
-    "job_posted_at_datetime_utc": "2026-04-09T19:04:53-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T23:04:53.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "ba75acd88ea5fe0cdf507c00f1e45a4fce1a0838fefbc0772aa093ab76d3e17f",
@@ -2039,7 +2010,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T19:04:53-04:00"
+    "job_posted_at": "2026-04-09T23:04:53.000Z"
   },
   {
     "job_id": "sr-Intuitive-744000119712947",
@@ -2366,7 +2337,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/astranis/jobs/4671835006",
-    "job_posted_at_datetime_utc": "2026-04-09T14:09:36-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T18:09:36.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "93169d84a2d94bcdd0d3bbde3c758c14e08d0bff410eb45357e17aa76db6bdd6",
@@ -2384,7 +2355,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T14:09:36-04:00"
+    "job_posted_at": "2026-04-09T18:09:36.000Z"
   },
   {
     "job_id": "workday-rtx-01836425",
@@ -2479,7 +2450,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/point72/jobs/8500448002?gh_jid=8500448002",
-    "job_posted_at_datetime_utc": "2026-04-09T12:44:01-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T16:44:01.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "c3ef1ad61c406970bd634c92a185b81f4b79ae350b6c79c8db4b92f2c3a6ed50",
@@ -2497,7 +2468,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T12:44:01-04:00"
+    "job_posted_at": "2026-04-09T16:44:01.000Z"
   },
   {
     "job_id": "sr-BoschGroup-744000119658898",
@@ -2622,7 +2593,7 @@
     "job_country": "United States",
     "job_is_remote": true,
     "job_apply_link": "https://www.samsara.com/company/careers/roles/7743948?gh_jid=7743948",
-    "job_posted_at_datetime_utc": "2026-04-09T11:45:09-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T15:45:09.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4b56b0baea27ad1a6b3f4e9123c03cb4a5003cdb4040cd9d9750ef72c8a28a08",
@@ -2640,7 +2611,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T11:45:09-04:00"
+    "job_posted_at": "2026-04-09T15:45:09.000Z"
   },
   {
     "job_id": "workday-intel-JR0282584",
@@ -2728,34 +2699,6 @@
     "job_posted_at": "2026-04-09T15:05:50.646Z"
   },
   {
-    "job_id": "greenhouse-zscaler-5100446007",
-    "job_title": "AI/MI Intern, Agenic Cloud",
-    "employer_name": "Zscaler",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5100446007",
-    "job_posted_at_datetime_utc": "2026-04-09T11:00:58-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "7bfa564ee1e2ff9d83c239e0e6c3388e623114636a95cf51d2187807569cbc10",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T11:00:58-04:00"
-  },
-  {
     "job_id": "js-detail-connect-gp91p4kzewsbxv0naaaaaa==",
     "job_title": "Computer Science Internship",
     "employer_name": "Detail Connect",
@@ -2783,6 +2726,34 @@
     "_source": "aggregator",
     "_original_source": "jsearch",
     "job_posted_at": "2026-04-09T15:00:00.000Z"
+  },
+  {
+    "job_id": "greenhouse-zscaler-5100446007",
+    "job_title": "AI/MI Intern, Agenic Cloud",
+    "employer_name": "Zscaler",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5100446007",
+    "job_posted_at_datetime_utc": "2026-04-09T14:59:43.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7bfa564ee1e2ff9d83c239e0e6c3388e623114636a95cf51d2187807569cbc10",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-09T14:59:43.000Z"
   },
   {
     "job_id": "sr-INFICON2-744000119625648",
@@ -2822,7 +2793,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7786702?gh_jid=7786702",
-    "job_posted_at_datetime_utc": "2026-04-09T10:27:17-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T14:27:17.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "bde9eca0d2acd37ed9af2ee18ef096fe0b16cf08fd5ac920ecd2a18efc7c41ef",
@@ -2839,7 +2810,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T10:27:17-04:00"
+    "job_posted_at": "2026-04-09T14:27:17.000Z"
   },
   {
     "job_id": "workday-nxp-R-10062736",
@@ -2964,7 +2935,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7736663?gh_jid=7736663",
-    "job_posted_at_datetime_utc": "2026-04-09T04:09:19-04:00",
+    "job_posted_at_datetime_utc": "2026-04-09T08:09:19.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "53dfafba505c1f445dc548b5920d127ad096ad675edc6bdfa766c797f81c6773",
@@ -2981,7 +2952,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-09T04:09:19-04:00"
+    "job_posted_at": "2026-04-09T08:09:19.000Z"
   },
   {
     "job_id": "workday-takeda-R0165902",
@@ -3744,6 +3715,122 @@
     "job_posted_at": "2026-04-09T01:53:25.361Z"
   },
   {
+    "job_id": "js-generac-zvzmco1rdr-yqw4xaaaaaa==",
+    "job_title": "Operations Finance Intern",
+    "employer_name": "Generac",
+    "job_city": "Waukesha",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.generac.com/en/jobs/jr13527/operations-finance-intern/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "484ecd80b4d27a937ee925fa24cd6b53c37abd41a19340cc4f73d2a294e723b2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-nexthink-76jul6rbr8by4xvhaaaaaa==",
+    "job_title": "Corporate Finance Intern",
+    "employer_name": "Nexthink",
+    "job_city": "Boston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.builtinboston.com/job/corporate-finance-intern/9009193",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "115c971eba6fcc03f6c91d04800454b5ffec34c4dc7b46ec6c13fd0c4644d75f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-anduril-aez1yrmv50ukvjuoaaaaaa==",
+    "job_title": "Software Engineer Intern at Anduril",
+    "employer_name": "Anduril",
+    "job_city": "Reston",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://peerlist.io/company/anduril/careers/software-engineer-intern/jobhmq6njl9m6aln8fjp9mk9kn9rnr",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "6b8dc82d2505e68bf1a97a99a32a45681cc1677b6ccc74fc75da42fc28a57c7d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bae-systems-cd4aw7nrym82d2ewaaaaaa==",
+    "job_title": "Software Engineering Intern II, Summer 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118008BR/Software-Engineering-Intern-II-Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "84efd1c022e2f1d130dfd0e61d65e9fa9af043f7884438ed8e826d4afb643351",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-the-dow-chemical-company-fijsb19uead7kb1caaaaaa==",
     "job_title": "Local College Co-op: Computer Science",
     "employer_name": "THE DOW CHEMICAL COMPANY",
@@ -3760,35 +3847,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-aem-xev5ykv9tupoeuxdaaaaaa==",
-    "job_title": "Sr. Computer Science Intern",
-    "employer_name": "AEM",
-    "job_city": "Victoria",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://us.jobsora.com/job-48381619205",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a98aa576a09f115003df086c0abf5f6d5582649db31ef61fe9b9879e342ae512",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -4096,93 +4154,6 @@
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
-    "job_id": "js-nexthink-76jul6rbr8by4xvhaaaaaa==",
-    "job_title": "Corporate Finance Intern",
-    "employer_name": "Nexthink",
-    "job_city": "Boston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.builtinboston.com/job/corporate-finance-intern/9009193",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "115c971eba6fcc03f6c91d04800454b5ffec34c4dc7b46ec6c13fd0c4644d75f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-generac-zvzmco1rdr-yqw4xaaaaaa==",
-    "job_title": "Operations Finance Intern",
-    "employer_name": "Generac",
-    "job_city": "Waukesha",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.generac.com/en/jobs/jr13527/operations-finance-intern/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "484ecd80b4d27a937ee925fa24cd6b53c37abd41a19340cc4f73d2a294e723b2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-anduril-aez1yrmv50ukvjuoaaaaaa==",
-    "job_title": "Software Engineer Intern at Anduril",
-    "employer_name": "Anduril",
-    "job_city": "Reston",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://peerlist.io/company/anduril/careers/software-engineer-intern/jobhmq6njl9m6aln8fjp9mk9kn9rnr",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "6b8dc82d2505e68bf1a97a99a32a45681cc1677b6ccc74fc75da42fc28a57c7d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
     "job_id": "js-the-dow-chemical-company-y0yqntwqi__qb4mnaaaaaa==",
     "job_title": "Local College Co-op: Computer Science",
     "employer_name": "THE DOW CHEMICAL COMPANY",
@@ -4337,7 +4308,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/rocketlab/jobs/7005425003",
-    "job_posted_at_datetime_utc": "2026-04-08T18:13:33-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T22:13:33.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a0064b27f3dbb19a3a45e28fb15f37b7bcf49659ee8d3b8e5d3fb362412c873f",
@@ -4354,7 +4325,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T18:13:33-04:00"
+    "job_posted_at": "2026-04-08T22:13:33.000Z"
   },
   {
     "job_id": "ashby-gecko-robotics-e319d5c9-f360-45f7-a736-0a18efa78386",
@@ -4538,7 +4509,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7694192003",
-    "job_posted_at_datetime_utc": "2026-04-08T16:47:29-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T20:47:29.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d1cbee65c7d11c7d20014dade27c485a3fa731c0fbd8dc146a795ef11cbceb8e",
@@ -4555,7 +4526,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T16:47:29-04:00"
+    "job_posted_at": "2026-04-08T20:47:29.000Z"
   },
   {
     "job_id": "js-bosch-group-als5suxazp0b-tztaaaaaa==",
@@ -4766,7 +4737,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7791676?gh_jid=7791676",
-    "job_posted_at_datetime_utc": "2026-04-08T13:53:51-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T17:53:51.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d2d72d2b9ee68d5d02c245acc0ef67fa9e8a4b7f7572432e808a3613f314111b",
@@ -4783,7 +4754,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T13:53:51-04:00"
+    "job_posted_at": "2026-04-08T17:53:51.000Z"
   },
   {
     "job_id": "sr-VeoliaEnvironnementSA-744000119442257",
@@ -4880,7 +4851,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7779151?gh_jid=7779151",
-    "job_posted_at_datetime_utc": "2026-04-08T12:35:17-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T16:35:17.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "3793ba2d15421e6f8c68f5f454ba4323a543f9a775baf0a4c73928f53b22497d",
@@ -4898,7 +4869,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T12:35:17-04:00"
+    "job_posted_at": "2026-04-08T16:35:17.000Z"
   },
   {
     "job_id": "ashby-metalenz-2c1b45cc-1af4-4743-9e49-f00c64ef16d2",
@@ -4940,7 +4911,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://www.okta.com/company/careers/opportunity/7791786?gh_jid=7791786",
-    "job_posted_at_datetime_utc": "2026-04-08T10:58:42-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T14:58:42.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "186d80922fdfdeb4191fca24dc811d56b3d8a39f191f29de77ada91311f3934e",
@@ -4957,7 +4928,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T10:58:42-04:00"
+    "job_posted_at": "2026-04-08T14:58:42.000Z"
   },
   {
     "job_id": "greenhouse-cloudflare-7781953",
@@ -4968,7 +4939,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7781953?gh_jid=7781953",
-    "job_posted_at_datetime_utc": "2026-04-08T10:45:19-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T14:45:19.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8a0cbec189aa382e8eba6e234f3197da6ac6415b2bb86115b6b0438d85422cae",
@@ -4986,7 +4957,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T10:45:19-04:00"
+    "job_posted_at": "2026-04-08T14:45:19.000Z"
   },
   {
     "job_id": "sr-WesternDigital-744000119390388",
@@ -5082,7 +5053,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5029463007?gh_jid=5029463007",
-    "job_posted_at_datetime_utc": "2026-04-08T09:03:03-04:00",
+    "job_posted_at_datetime_utc": "2026-04-08T13:02:31.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8464203652fd4c783572438fb03d6b6661f92fbc53c080b1deb1a8afb43b59e2",
@@ -5099,7 +5070,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-08T09:03:03-04:00"
+    "job_posted_at": "2026-04-08T13:02:31.000Z"
   },
   {
     "job_id": "greenhouse-lucidsoftware-5633294004",
@@ -5553,62 +5524,6 @@
     "job_posted_at": "2026-04-08T07:10:18.356Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068841",
-    "job_title": "Pharm Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Athens",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/Pharm-Co-Op_R-068841",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-068869",
-    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Warsaw",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
-    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T07:10:09.203Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-068836",
     "job_title": "GET Athens Intern Summer 2026",
     "employer_name": "Johnson & Johnson",
@@ -5681,6 +5596,62 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068841",
+    "job_title": "Pharm Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Athens",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Athens-Georgia-United-States-of-America/Pharm-Co-Op_R-068841",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0a81c09f4fff097bcd7eec3d13487d745f04a71d5208b0bd67771f3eb2b2bc59",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T07:10:09.203Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068869",
+    "job_title": "Fall 2026 Hip/Knee R&D Co-Op",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Warsaw",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Warsaw-Indiana-United-States-of-America/Fall-2026-Hip-Knee-R-D-Co-Op_R-068869",
+    "job_posted_at_datetime_utc": "2026-04-08T07:10:09.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4e76407e3676995c93c0dcb062c9a043fbd03da859b50cb9bfaa3c810fc6fec",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -6621,6 +6592,34 @@
     "job_posted_at": "2026-04-08T04:19:11.863Z"
   },
   {
+    "job_id": "workday-sel-2026-20203",
+    "job_title": "Engineering Intern",
+    "employer_name": "SEL",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
+    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
     "job_id": "workday-sel-2026-20358",
     "job_title": "Engineering Intern - Automation",
     "employer_name": "SEL",
@@ -6874,34 +6873,6 @@
     "job_posted_at": "2026-04-08T01:10:15.391Z"
   },
   {
-    "job_id": "workday-sel-2026-20203",
-    "job_title": "Engineering Intern",
-    "employer_name": "SEL",
-    "job_city": "Charlotte",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Engineering-Intern_2026-20203",
-    "job_posted_at_datetime_utc": "2026-04-08T01:10:15.391Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "472eead40ca7781f6ee2508a2de516e79d205c2253214ff16b2566ac8c7c21ef",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-08T01:10:15.391Z"
-  },
-  {
     "job_id": "workday-sel-2026-20280",
     "job_title": "Process Engineering Intern",
     "employer_name": "SEL",
@@ -6957,6 +6928,122 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-08T01:10:15.391Z"
+  },
+  {
+    "job_id": "js-state-street-corporation-lfo27wmiw3bgyc-xaaaaaa==",
+    "job_title": "Software Engineer Intern -6 Month intern- July- Dec | Burlington, VT, USA",
+    "employer_name": "State Street Corporation",
+    "job_city": "Burlington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-VT-Burlington-Software_Engineer_Intern_-6_Month_intern-_July-_Dec.id24100087",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c371c5ec3981cf045d241df47b200c409d98f222573f01261185ce94e8ed6fc2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-city-of-austin-tx-uvlusvwx2zalxcgtaaaaaa==",
+    "job_title": "Austin Energy Intern, Power System Engineering (Undergraduate, Graduate or Postgraduate)",
+    "employer_name": "City of Austin, TX",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.careersingovernment.com/job/1037238/austin-energy-intern/",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "8e92216e2cde20af976d64164ce4bef9102ac7e2d259e7531877a6a9967347b6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ttm-technologies-inc-mdcaq20k2nt06-sjaaaaaa==",
+    "job_title": "Finance Intern",
+    "employer_name": "TTM Technologies, Inc.",
+    "job_city": "Santa Ana",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Finance-Intern_R15466",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "6b9f009cb58ed146498b4cfaa2f9e642b5fff4a53a4723022289d6022d986a15",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-uline-qcozeri6otzpciapaaaaaa==",
+    "job_title": "Software Developer Internship - Summer 2026",
+    "employer_name": "Uline",
+    "job_city": "Pleasant Prairie",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.uline.jobs/JobDetails?culture=en&jobid=R262813&jobtitle=Software-Developer-Internship---Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
+    "job_employment_type": "PART-TIME",
+    "salary": null,
+    "fingerprint": "72199ab51bf862adf9131acbe623557fa5eb06f7c5f4c1bf21beed95c616a337",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
     "job_id": "js-dow-inc-cyckhhab6hrpxtttaaaaaa==",
@@ -7279,93 +7366,6 @@
     "job_posted_at": "2026-04-08T00:00:00.000Z"
   },
   {
-    "job_id": "js-state-street-corporation-lfo27wmiw3bgyc-xaaaaaa==",
-    "job_title": "Software Engineer Intern -6 Month intern- July- Dec | Burlington, VT, USA",
-    "employer_name": "State Street Corporation",
-    "job_city": "Burlington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.efinancialcareers.com/jobs-USA-VT-Burlington-Software_Engineer_Intern_-6_Month_intern-_July-_Dec.id24100087",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c371c5ec3981cf045d241df47b200c409d98f222573f01261185ce94e8ed6fc2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ttm-technologies-inc-mdcaq20k2nt06-sjaaaaaa==",
-    "job_title": "Finance Intern",
-    "employer_name": "TTM Technologies, Inc.",
-    "job_city": "Santa Ana",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Finance-Intern_R15466",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "6b9f009cb58ed146498b4cfaa2f9e642b5fff4a53a4723022289d6022d986a15",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-uline-qcozeri6otzpciapaaaaaa==",
-    "job_title": "Software Developer Internship - Summer 2026",
-    "employer_name": "Uline",
-    "job_city": "Pleasant Prairie",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.uline.jobs/JobDetails?culture=en&jobid=R262813&jobtitle=Software-Developer-Internship---Summer-2026",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "PART-TIME",
-    "salary": null,
-    "fingerprint": "72199ab51bf862adf9131acbe623557fa5eb06f7c5f4c1bf21beed95c616a337",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
     "job_id": "js-leonardo-drs-inc--vzsb3e3qsd47tncaaaaaa==",
     "job_title": "2026 Technical Co-Op Intern - Software Engineering - Cypress CA",
     "employer_name": "Leonardo DRS, Inc.",
@@ -7440,35 +7440,6 @@
       "employment": "internship",
       "domains": [
         "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-08T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-city-of-austin-tx-uvlusvwx2zalxcgtaaaaaa==",
-    "job_title": "Austin Energy Intern, Power System Engineering (Undergraduate, Graduate or Postgraduate)",
-    "employer_name": "City of Austin, TX",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.careersingovernment.com/job/1037238/austin-energy-intern/",
-    "job_posted_at_datetime_utc": "2026-04-08T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "8e92216e2cde20af976d64164ce4bef9102ac7e2d259e7531877a6a9967347b6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
       ],
       "locations": [
         "us",
@@ -8009,7 +7980,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://www.flyzipline.com/careers/open-roles?gh_jid=7692662003",
-    "job_posted_at_datetime_utc": "2026-04-07T16:01:45-04:00",
+    "job_posted_at_datetime_utc": "2026-04-07T20:01:45.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5d62df01bf4e3341b0e053e22a96b8ec1fd276b3fd2534f5a07244a660ace1a9",
@@ -8026,7 +7997,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-07T16:01:45-04:00"
+    "job_posted_at": "2026-04-07T20:01:45.000Z"
   },
   {
     "job_id": "sr-VeoliaEnvironnementSA-744000119208932",
@@ -8094,7 +8065,7 @@
     "job_country": "United States",
     "job_is_remote": true,
     "job_apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5100618007",
-    "job_posted_at_datetime_utc": "2026-04-07T13:46:43-04:00",
+    "job_posted_at_datetime_utc": "2026-04-07T17:46:43.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "d176d8ed150cd11a09f74b6f29e9edbbea543a4d116359e3d6b24b6efd2cbb46",
@@ -8112,7 +8083,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-07T13:46:43-04:00"
+    "job_posted_at": "2026-04-07T17:46:43.000Z"
   },
   {
     "job_id": "workday-caterpillar-R0000357193",
@@ -8297,7 +8268,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/5071345007?gh_jid=5071345007",
-    "job_posted_at_datetime_utc": "2026-04-07T11:31:32-04:00",
+    "job_posted_at_datetime_utc": "2026-04-07T15:31:32.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "76715621eeababc09dfe09c5930e988324c2005a3f1b335486a349f9e0205927",
@@ -8314,7 +8285,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-07T11:31:32-04:00"
+    "job_posted_at": "2026-04-07T15:31:32.000Z"
   },
   {
     "job_id": "workday-jabil-J2445304",
@@ -8381,7 +8352,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/workato/jobs/8453788002",
-    "job_posted_at_datetime_utc": "2026-04-07T10:50:12-04:00",
+    "job_posted_at_datetime_utc": "2026-04-07T14:50:12.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f07ac724526e824f173a25fffdcac8e107a97a0aa3b512f7f9dfda44195f8c1e",
@@ -8399,7 +8370,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-07T10:50:12-04:00"
+    "job_posted_at": "2026-04-07T14:50:12.000Z"
   },
   {
     "job_id": "greenhouse-formlabs-7514061",
@@ -8410,7 +8381,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://careers.formlabs.com/job/7514061/apply/?gh_jid=7514061",
-    "job_posted_at_datetime_utc": "2026-04-07T10:45:25-04:00",
+    "job_posted_at_datetime_utc": "2026-04-07T14:45:25.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "1ab744b43a72b9509416e5aaaf3c370d3fe01f9ddee9a7e7b8e77e6b789e8885",
@@ -8427,7 +8398,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-07T10:45:25-04:00"
+    "job_posted_at": "2026-04-07T14:45:25.000Z"
   },
   {
     "job_id": "sr-BoschGroup-744000119132742",
@@ -9133,34 +9104,6 @@
     "job_posted_at": "2026-04-07T07:06:54.748Z"
   },
   {
-    "job_id": "workday-jabil-J2445379",
-    "job_title": "Talent Acquisition Intern",
-    "employer_name": "Jabil",
-    "job_city": "St. Petersburg/Tampa",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Talent-Acquisition-Intern_J2445379",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d757d9d54c6831a0735125762294e9ee03f8d60dc1ad288c65cf3ab46657f61a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:51.847Z"
-  },
-  {
     "job_id": "workday-jabil-J2445426",
     "job_title": "Information Security Intern",
     "employer_name": "Jabil",
@@ -9205,6 +9148,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:51.847Z"
+  },
+  {
+    "job_id": "workday-jabil-J2445379",
+    "job_title": "Talent Acquisition Intern",
+    "employer_name": "Jabil",
+    "job_city": "St. Petersburg/Tampa",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Talent-Acquisition-Intern_J2445379",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:51.847Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d757d9d54c6831a0735125762294e9ee03f8d60dc1ad288c65cf3ab46657f61a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
       ],
       "locations": [
         "us"
@@ -9387,6 +9358,34 @@
     "job_posted_at": "2026-04-07T07:06:44.697Z"
   },
   {
+    "job_id": "workday-johnson-&-johnson-R-066944",
+    "job_title": "HFE co-op (Fall 2026)",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raritan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
+    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-07T07:06:42.121Z"
+  },
+  {
     "job_id": "workday-johnson-&-johnson-R-067039",
     "job_title": "Electrical Engineer Co-op",
     "employer_name": "Johnson & Johnson",
@@ -9459,34 +9458,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-07T07:06:42.121Z"
-  },
-  {
-    "job_id": "workday-johnson-&-johnson-R-066944",
-    "job_title": "HFE co-op (Fall 2026)",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/HFE-co-op--Fall-2026-_R-066944",
-    "job_posted_at_datetime_utc": "2026-04-07T07:06:42.121Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5c172998f88f5394f2ac495c28dea0390a44a14638d33c0e2c1cda1b4e78d381",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "healthcare"
       ],
       "locations": [
         "us"
@@ -10570,23 +10541,80 @@
     "job_posted_at": "2026-04-07T01:33:28.233Z"
   },
   {
-    "job_id": "js-adobe-xq1r-o-uqubxgkm7aaaaaa==",
-    "job_title": "2026 Intern - Machine Learning Engineer",
-    "employer_name": "Adobe",
+    "job_id": "js-netapp-rqoyg5a9udix8i6zaaaaaa==",
+    "job_title": "Finance Intern -G&A",
+    "employer_name": "NetApp",
     "job_city": "San Jose",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R160621/2026-Intern-Machine-Learning-Engineer",
+    "job_apply_link": "https://careers.netapp.com/job/san-jose/finance-intern-g-and-a/27600/93730905648",
     "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
+    "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "87e00c990da413f7a8eeef42b05a3ea4bcab7995b4a88301aff097aeac18ce19",
+    "fingerprint": "2676f581e33053628a057b65376e0f8a930f76ea564a128380064beff989d856",
     "tags": {
       "employment": "internship",
       "domains": [
-        "ai",
-        "data_science"
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-the-jackson-laboratory-sgzjvumdaysbz2mqaaaaaa==",
+    "job_title": "Summer Intern - Software Engineering",
+    "employer_name": "The Jackson Laboratory",
+    "job_city": "Farmington",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://thejacksonlaboratory.wd503.myworkdayjobs.com/en-US/External_JAX/job/Summer-Intern---Software-Engineering_JR005818",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "c83727bf789d3f8c12a1157f172d2f9129163c169e1dbb4684d1b20df488c0d7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-07T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-citizens-bank-na-renvgh9t-uarmognaaaaaa==",
+    "job_title": "Software Engineer Intern | Summer 2026 | Enterprise Technology & Security Summer Internship",
+    "employer_name": "Citizens Bank, N.A.",
+    "job_city": "New Jersey",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.citizensbank.com/job/johnston/software-engineer-intern-summer-2026-enterprise-technology-and-security-summer-internship/288/93722257456",
+    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "914dd4a5c00558f06f1b32c2d98723bd9180d5abe135ea1c7ddaff690dcddf8f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
       ],
       "locations": [
         "us",
@@ -10690,64 +10718,6 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
-    "job_id": "js-netapp-rqoyg5a9udix8i6zaaaaaa==",
-    "job_title": "Finance Intern -G&A",
-    "employer_name": "NetApp",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.netapp.com/job/san-jose/finance-intern-g-and-a/27600/93730905648",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "2676f581e33053628a057b65376e0f8a930f76ea564a128380064beff989d856",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-jackson-laboratory-sgzjvumdaysbz2mqaaaaaa==",
-    "job_title": "Summer Intern - Software Engineering",
-    "employer_name": "The Jackson Laboratory",
-    "job_city": "Farmington",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://thejacksonlaboratory.wd503.myworkdayjobs.com/en-US/External_JAX/job/Summer-Intern---Software-Engineering_JR005818",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "c83727bf789d3f8c12a1157f172d2f9129163c169e1dbb4684d1b20df488c0d7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
     "job_id": "js-zendesk-inc-bebhxiojvacxjvwyaaaaaa==",
     "job_title": "Software Engineer Intern",
     "employer_name": "Zendesk, Inc.",
@@ -10768,35 +10738,6 @@
       "locations": [
         "us",
         "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-07T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-citizens-bank-na-renvgh9t-uarmognaaaaaa==",
-    "job_title": "Software Engineer Intern | Summer 2026 | Enterprise Technology & Security Summer Internship",
-    "employer_name": "Citizens Bank, N.A.",
-    "job_city": "New Jersey",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.citizensbank.com/job/johnston/software-engineer-intern-summer-2026-enterprise-technology-and-security-summer-internship/288/93722257456",
-    "job_posted_at_datetime_utc": "2026-04-07T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "914dd4a5c00558f06f1b32c2d98723bd9180d5abe135ea1c7ddaff690dcddf8f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
       ],
       "experience": "entry_level",
       "special": []
@@ -11302,34 +11243,6 @@
     "job_posted_at": "2026-04-07T00:00:00.000Z"
   },
   {
-    "job_id": "workday-sel-2025-17738",
-    "job_title": "Designer Intern",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Designer-Intern_2025-17738",
-    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6277fe8d587f1c5c7ee9c829540ba4524032e54beda3960a2667b9c07a9dea8b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T23:45:18.545Z"
-  },
-  {
     "job_id": "workday-sel-2026-19530",
     "job_title": "Marketing Intern - SEO",
     "employer_name": "SEL",
@@ -11486,6 +11399,34 @@
       "employment": "internship",
       "domains": [
         "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T23:45:18.545Z"
+  },
+  {
+    "job_id": "workday-sel-2025-17738",
+    "job_title": "Designer Intern",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Designer-Intern_2025-17738",
+    "job_posted_at_datetime_utc": "2026-04-06T23:45:18.545Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "6277fe8d587f1c5c7ee9c829540ba4524032e54beda3960a2667b9c07a9dea8b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -11765,7 +11706,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5100623007",
-    "job_posted_at_datetime_utc": "2026-04-06T18:21:30-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T22:21:30.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5811a37cf0bff43a0b589282cae2a905a0b9f0490408b9a7f7ea079b4cb30767",
@@ -11782,35 +11723,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T18:21:30-04:00"
-  },
-  {
-    "job_id": "greenhouse-verkada-5099529007",
-    "job_title": "Frontend Software Engineering Intern - Fall 2026",
-    "employer_name": "Verkada",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
-    "job_posted_at_datetime_utc": "2026-04-06T18:20:09-04:00",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "499de6d931b6f0aa30fe9b35dc13111569a0fc52d241f75bf694f2c8c5a5ac40",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T18:20:09-04:00"
+    "job_posted_at": "2026-04-06T22:21:30.000Z"
   },
   {
     "job_id": "greenhouse-verkada-5099596007",
@@ -11821,7 +11734,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5099596007",
-    "job_posted_at_datetime_utc": "2026-04-06T18:16:48-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T22:16:48.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a6205a96f5a97334dfaa4c01ed16a45cfb82ae40ad4debc04cc682e8ba18ee14",
@@ -11839,7 +11752,35 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T18:16:48-04:00"
+    "job_posted_at": "2026-04-06T22:16:48.000Z"
+  },
+  {
+    "job_id": "greenhouse-verkada-5099529007",
+    "job_title": "Frontend Software Engineering Intern - Fall 2026",
+    "employer_name": "Verkada",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5099529007",
+    "job_posted_at_datetime_utc": "2026-04-06T22:16:39.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "499de6d931b6f0aa30fe9b35dc13111569a0fc52d241f75bf694f2c8c5a5ac40",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-06T22:16:39.000Z"
   },
   {
     "job_id": "greenhouse-verkada-5099422007",
@@ -11850,7 +11791,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5099422007",
-    "job_posted_at_datetime_utc": "2026-04-06T18:16:27-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T22:16:27.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6bda7b5cb86cda92cc00749dac9f03b3d3134f1544b3f72cbb6a8fc76e9fd782",
@@ -11867,7 +11808,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T18:16:27-04:00"
+    "job_posted_at": "2026-04-06T22:16:27.000Z"
   },
   {
     "job_id": "greenhouse-workato-8380876002",
@@ -12106,7 +12047,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670561006",
-    "job_posted_at_datetime_utc": "2026-04-06T16:11:46-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T20:11:46.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "21923fafef9a4c2b737183c9a955d1e1974c50e34d9c87ccc8c686f964d9abb8",
@@ -12123,7 +12064,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T16:11:46-04:00"
+    "job_posted_at": "2026-04-06T20:11:46.000Z"
   },
   {
     "job_id": "greenhouse-sharkninjaoperatingllc-4670565006",
@@ -12134,7 +12075,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670565006",
-    "job_posted_at_datetime_utc": "2026-04-06T16:11:39-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T20:11:39.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7e6c25402d12f49bec03a18e3219a33fe5431ece219b8d74176894cccf50b3dd",
@@ -12151,7 +12092,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T16:11:39-04:00"
+    "job_posted_at": "2026-04-06T20:11:39.000Z"
   },
   {
     "job_id": "greenhouse-sharkninjaoperatingllc-4670586006",
@@ -12162,7 +12103,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670586006",
-    "job_posted_at_datetime_utc": "2026-04-06T16:11:29-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T20:11:29.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "62c507816b592b6cc45de52aa9ccaf8e13bce5d6180d9e1b23b85e5ce227d528",
@@ -12179,7 +12120,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T16:11:29-04:00"
+    "job_posted_at": "2026-04-06T20:11:29.000Z"
   },
   {
     "job_id": "workday-salesforce-JR334490",
@@ -12276,7 +12217,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/zscaler/jobs/5100450007",
-    "job_posted_at_datetime_utc": "2026-04-06T15:32:19-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T19:32:19.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5a9db7784d561228b811a0e5d58dd63f900fbc30a10eef76794444dcd6058b3b",
@@ -12293,7 +12234,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T15:32:19-04:00"
+    "job_posted_at": "2026-04-06T19:32:19.000Z"
   },
   {
     "job_id": "workday-leidos-R-00180059",
@@ -12501,7 +12442,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://www.ixl.com/company/jobs?gh_jid=8486934002",
-    "job_posted_at_datetime_utc": "2026-04-06T14:10:35-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T18:10:35.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "056049cf9c05b4b40825d8f1b8d71b9be6920f5e393301a0b722ecd0f54a01e4",
@@ -12518,7 +12459,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T14:10:35-04:00"
+    "job_posted_at": "2026-04-06T18:10:35.000Z"
   },
   {
     "job_id": "greenhouse-ixllearning-8486939002",
@@ -12529,7 +12470,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://www.ixl.com/company/jobs?gh_jid=8486939002",
-    "job_posted_at_datetime_utc": "2026-04-06T14:10:19-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T18:10:19.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "4c8f9c8f956e7ed5145fe2c4fe72c2714fc022eaaaa89dcf3a0ec768ec459a0f",
@@ -12546,7 +12487,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T14:10:19-04:00"
+    "job_posted_at": "2026-04-06T18:10:19.000Z"
   },
   {
     "job_id": "workday-sel-2026-19425",
@@ -12762,7 +12703,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/4953783007",
-    "job_posted_at_datetime_utc": "2026-04-06T13:10:39-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T17:10:39.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "5dc7aa1b90842137e44a80b28956371040a93b419866ff1c577feea166e37359",
@@ -12779,7 +12720,36 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T13:10:39-04:00"
+    "job_posted_at": "2026-04-06T17:10:39.000Z"
+  },
+  {
+    "job_id": "greenhouse-lucidmotors-4953725007",
+    "job_title": "Intern, Electrical Machines Testing & Data Analytics, Summer 2026",
+    "employer_name": "Lucid Motors",
+    "job_city": "Newark",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://job-boards.greenhouse.io/lucidmotors/jobs/4953725007",
+    "job_posted_at_datetime_utc": "2026-04-06T17:09:34.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "7b222e4bc3341e97d0db83071762f42b9b7fb868b884074b9b65d0218d3fa433",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-06T17:09:34.000Z"
   },
   {
     "job_id": "greenhouse-sharkninjaoperatingllc-4670554006",
@@ -12790,7 +12760,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670554006",
-    "job_posted_at_datetime_utc": "2026-04-06T12:58:53-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T16:58:36.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "b5e6ab4a2e6fb3d9c2689347ef0822d21d12e92f44b1550dfabcce7180ff99d8",
@@ -12807,7 +12777,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T12:58:53-04:00"
+    "job_posted_at": "2026-04-06T16:58:36.000Z"
   },
   {
     "job_id": "greenhouse-sharkninjaoperatingllc-4670543006",
@@ -12818,7 +12788,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670543006",
-    "job_posted_at_datetime_utc": "2026-04-06T12:58:05-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T16:58:05.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a408f20562fc2c4dd159dfda9080714dcbbd06a459468afd38648ce356674ec5",
@@ -12835,7 +12805,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T12:58:05-04:00"
+    "job_posted_at": "2026-04-06T16:58:05.000Z"
   },
   {
     "job_id": "greenhouse-sharkninjaoperatingllc-4670548006",
@@ -12846,7 +12816,7 @@
     "job_country": "United States",
     "job_is_remote": false,
     "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670548006",
-    "job_posted_at_datetime_utc": "2026-04-06T12:41:41-04:00",
+    "job_posted_at_datetime_utc": "2026-04-06T16:41:31.000Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "df9cfb355ebb88648dc2fad600cc0e183ccc611ca536f4e678588614ac3435d2",
@@ -12863,7 +12833,7 @@
     },
     "_source": "aggregator",
     "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-06T12:41:41-04:00"
+    "job_posted_at": "2026-04-06T16:41:31.000Z"
   },
   {
     "job_id": "workday-zendesk-R34507",
@@ -13373,34 +13343,6 @@
     "job_posted_at": "2026-04-06T07:07:18.441Z"
   },
   {
-    "job_id": "workday-kla-2635509",
-    "job_title": "Product Sustainability Intern",
-    "employer_name": "KLA",
-    "job_city": "Milpitas",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Sustainability-Intern_2635509",
-    "job_posted_at_datetime_utc": "2026-04-06T07:07:09.454Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c79f5c88d945ea6421d893cef294519f0712688f5feaa9c143c9f7be00ad5b35",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:07:09.454Z"
-  },
-  {
     "job_id": "workday-kla-2635323",
     "job_title": "Digital Transformation & AI Intern",
     "employer_name": "KLA",
@@ -13445,6 +13387,34 @@
       "employment": "internship",
       "domains": [
         "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:07:09.454Z"
+  },
+  {
+    "job_id": "workday-kla-2635509",
+    "job_title": "Product Sustainability Intern",
+    "employer_name": "KLA",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Sustainability-Intern_2635509",
+    "job_posted_at_datetime_utc": "2026-04-06T07:07:09.454Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c79f5c88d945ea6421d893cef294519f0712688f5feaa9c143c9f7be00ad5b35",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
       ],
       "locations": [
         "us"
@@ -14726,90 +14696,6 @@
     "job_posted_at": "2026-04-06T07:01:20.859Z"
   },
   {
-    "job_id": "workday-state-street-R-787603",
-    "job_title": "Product Enablement and Documentation Intern -6 months- CRD - July- Dec",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Enablement-and-Documentation-Intern--6-months--CRD---July--Dec_R-787603-1",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "adfea83c5c4e6b11a308f48386542e56a4f962ffb751dd1b4a5699762a66d569",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:14.287Z"
-  },
-  {
-    "job_id": "workday-state-street-R-787596",
-    "job_title": "Software Engineer Intern -6 Month intern- July- Dec",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "531d21c949c1d57e4ef80f2e173ccecf3569b4ec7c499437789a5c4381047219",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:14.287Z"
-  },
-  {
-    "job_id": "workday-state-street-R-787592",
-    "job_title": "Project Management Intern -CRD-6 month intern- July- DEC",
-    "employer_name": "State Street",
-    "job_city": "Burlington Massachusetts",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Project-Management-Intern--CRD-6-month-intern--July--DEC_R-787592",
-    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "409e0362653dfea8fd69af5b594814d1498d9d483db6452176db23151f843b85",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-06T07:01:14.287Z"
-  },
-  {
     "job_id": "workday-state-street-R-781935",
     "job_title": "State Street - Global Delivery - Alpha Operations Summer Internship 2026",
     "employer_name": "State Street",
@@ -14922,6 +14808,90 @@
     "job_posted_at": "2026-04-06T07:01:14.287Z"
   },
   {
+    "job_id": "workday-state-street-R-787603",
+    "job_title": "Product Enablement and Documentation Intern -6 months- CRD - July- Dec",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Enablement-and-Documentation-Intern--6-months--CRD---July--Dec_R-787603-1",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "adfea83c5c4e6b11a308f48386542e56a4f962ffb751dd1b4a5699762a66d569",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:14.287Z"
+  },
+  {
+    "job_id": "workday-state-street-R-787596",
+    "job_title": "Software Engineer Intern -6 Month intern- July- Dec",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer-Intern--6-Month-intern--July--Dec_R-787596",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "531d21c949c1d57e4ef80f2e173ccecf3569b4ec7c499437789a5c4381047219",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:14.287Z"
+  },
+  {
+    "job_id": "workday-state-street-R-787592",
+    "job_title": "Project Management Intern -CRD-6 month intern- July- DEC",
+    "employer_name": "State Street",
+    "job_city": "Burlington Massachusetts",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Project-Management-Intern--CRD-6-month-intern--July--DEC_R-787592",
+    "job_posted_at_datetime_utc": "2026-04-06T07:01:14.287Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "409e0362653dfea8fd69af5b594814d1498d9d483db6452176db23151f843b85",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-06T07:01:14.287Z"
+  },
+  {
     "job_id": "workday-salesforce-JR337175",
     "job_title": "Summer 2026 Intern - Strategy & Change Management Intern",
     "employer_name": "Salesforce",
@@ -15004,6 +14974,35 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-06T07:00:17.789Z"
+  },
+  {
+    "job_id": "js-saic-affpst5ioyh6ukfjaaaaaa==",
+    "job_title": "Mission Assurance Engineering Intern",
+    "employer_name": "SAIC",
+    "job_city": "Chantilly",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.saic.com/jobs/17585480-mission-assurance-engineering-intern",
+    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "c489d2486430b815e385e151c0f6a92f2279f4cac6f6800ecc22922b4c9ae6c6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-06T00:00:00.000Z"
   },
   {
     "job_id": "js-first-solar-us-latvrgecg93zxqktaaaaaa==",
@@ -15141,35 +15140,6 @@
       "domains": [
         "ai",
         "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-saic-affpst5ioyh6ukfjaaaaaa==",
-    "job_title": "Mission Assurance Engineering Intern",
-    "employer_name": "SAIC",
-    "job_city": "Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.saic.com/jobs/17585480-mission-assurance-engineering-intern",
-    "job_posted_at_datetime_utc": "2026-04-06T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "c489d2486430b815e385e151c0f6a92f2279f4cac6f6800ecc22922b4c9ae6c6",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
       ],
       "locations": [
         "us",
@@ -16084,6 +16054,35 @@
     "job_posted_at": "2026-04-05T07:03:00.934Z"
   },
   {
+    "job_id": "js-the-mitre-corporation-gantpw-byyevx5hmaaaaaa==",
+    "job_title": "Systems Engineering Intern",
+    "employer_name": "The MITRE Corporation",
+    "job_city": "McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.mitre.org/us/en/job/R116336/Systems-Engineering-Intern",
+    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "254441ca38711dd6b2ca97fde765fd44b45a5b55ec28ca617d0e666e7d8aeaf2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-05T00:00:00.000Z"
+  },
+  {
     "job_id": "js-bae-systems-jmiq0jurpc9ey05yaaaaaa==",
     "job_title": "Summer Internship - Hardware Engineering Intern",
     "employer_name": "BAE Systems",
@@ -16184,35 +16183,6 @@
     "job_employment_type": "FULL-TIME",
     "salary": null,
     "fingerprint": "9317839b3fd9fc9a12ca2e05702302a6afda3be109f7592a584c26673b06328f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-05T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-the-mitre-corporation-gantpw-byyevx5hmaaaaaa==",
-    "job_title": "Systems Engineering Intern",
-    "employer_name": "The MITRE Corporation",
-    "job_city": "McLean",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.mitre.org/us/en/job/R116336/Systems-Engineering-Intern",
-    "job_posted_at_datetime_utc": "2026-04-05T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "254441ca38711dd6b2ca97fde765fd44b45a5b55ec28ca617d0e666e7d8aeaf2",
     "tags": {
       "employment": "internship",
       "domains": [
