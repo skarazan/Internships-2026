@@ -44,6 +44,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About Carrier Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating solutions that matter for people and our planet for generations to come.",
       "is_remote": false
@@ -82,6 +83,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
       "is_remote": false
@@ -171,6 +173,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Zscaler accelerates digital transformation to ensure our customers can be more agile, efficient, resilient, and secure.",
       "is_remote": false
@@ -213,6 +216,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-TX-FORT BLISS-11005-CUST ~ 11005 Fort Bliss ~ BLDG 11005 (External Site) Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -255,6 +259,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -296,6 +301,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you excited to discover and adapt new signal processing software to meet evolving needs?",
       "is_remote": false
@@ -335,6 +341,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About Carrier Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating solutions that matter for people and our planet for generations to come.",
       "is_remote": false
@@ -379,6 +386,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Materials Engineering student needed to support global product engineering and testing for Bosch Power Solutions located in Charleston, SC.",
       "is_remote": false
@@ -429,6 +437,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you looking for a unique opportunity to be a part of something great?",
       "is_remote": false
@@ -637,6 +646,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
       "is_remote": false
@@ -682,6 +692,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
       "is_remote": false
@@ -782,6 +793,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Introduction to the job ASML US brings together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient micro…",
       "is_remote": false
@@ -854,6 +866,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date d’affichag e / Date Posted: 2026-04-13 Pays / Country: Canada Emplacement / Location: CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG À propos de Pratt & Whitney Canada Pratt & Whitney…",
       "is_remote": false
@@ -928,6 +941,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere.",
       "is_remote": false
@@ -1024,6 +1038,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to dev…",
       "is_remote": false
@@ -1065,6 +1080,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-FL-MELBOURNE-312 ~ 795 W Nasa Blvd ~ BLDG 312 Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -1161,6 +1177,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
       "is_remote": false
@@ -1207,6 +1224,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The Health and Services Sector at Leidos currently has an opening for a Computer Vision/Machine Learning Intern to work in our Warfighter Performance program supporting the Operational Readiness Direc…",
       "is_remote": false
@@ -1387,6 +1405,7 @@
       "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications • Must be a full-time student pursuing an undergraduate or graduate degree from an accredited college/university and enrolled full-time in Fall 2026.",
       "is_remote": false
@@ -1426,6 +1445,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications • Sustained excellence in academic studies.",
       "is_remote": false
@@ -1469,6 +1489,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What you will need: • Currently pursuing a Bachelors or Masters in Business • Strong interpersonal and communication skills.",
       "is_remote": false
@@ -1520,6 +1541,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Software Engineer Intern (Summer 2026) job at Cloudflare.",
       "is_remote": false
@@ -1568,6 +1590,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About You  Currently pursuing a degree in Computer Science, Software Engineering, IT, or related field.",
       "is_remote": false
@@ -1611,6 +1634,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Intel put Silicon in Silicon Valley.",
       "is_remote": false
@@ -1659,6 +1683,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description Boston Dynamics is seeking an ambitious Junior Engineer to join the Atlas Compute and Sensing Mechanical Engineering team.",
       "is_remote": false
@@ -1706,6 +1731,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description Boston Dynamics is seeking a creative and proactive Junior Engineer to join the Atlas End Effectors Team to contribute to gripper development.",
       "is_remote": false
@@ -1748,6 +1774,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Procurement Internship Program Boston Dynamics in partnership with Hyundai Motor Group About The program Boston Dynamics is offering a unique Procurement Internship experience in partnership with Hyun…",
       "is_remote": false
@@ -1799,6 +1826,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description Boston Dynamics is seeking an ambitious engineer to join our Atlas Platform Mechanical team.",
       "is_remote": false
@@ -1850,6 +1878,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description Boston Dynamics is seeking an ambitious engineer to join our Atlas Platform Mechanical team.",
       "is_remote": false
@@ -1895,6 +1924,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you passionate about the intersection of foundation models and physical AI?",
       "is_remote": false
@@ -1946,6 +1976,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Location: Waltham, MA (Public transportation accessible from Boston/Alewife) Start Date: June 2026 Are you a rising junior, rising senior, or graduate student in Robotics, Computer Science, or a relat…",
       "is_remote": false
@@ -2030,6 +2061,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College with 0 years of relevant experience) or currently enrolled in an undergraduat…",
       "is_remote": false
@@ -2101,6 +2133,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications: • Must be currently enrolled in a college/university program and in pursuit of a degree in engineering.",
       "is_remote": false
@@ -2150,6 +2183,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "REQUIREMENTS | We are looking for graduates who meet the following requirements: • Graduating Spring 2027 or earlier with a Bachelor’s degree in computer science or related field from an accredited 4…",
       "is_remote": false
@@ -2194,6 +2228,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "based position, the expected compensation range is $22 - $27 per hour.",
       "is_remote": false
@@ -2236,6 +2271,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Education Requirements • Fulltime enrollment in Bachelor’s or Master’s degree in Computer Science, Software Engineering, Data Science, or related field (must be completing 3+ years)  Work Environment…",
       "is_remote": false
@@ -2305,6 +2341,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Qualifications:  The educational requirement is enrollment in a university or college program leading to a BS degree in Electrical Engineering or related field.",
       "is_remote": false
@@ -2375,6 +2412,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to dev…",
       "is_remote": false
@@ -2615,6 +2653,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The internship will focus on 3D simulation of the following topics Mixture preparation process in the engine, resulting in a quantitative assessment of fuel wall film formation and subsequent soot for…",
       "is_remote": false
@@ -2754,6 +2793,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Voyager (94001), India, Bangalore, Karnātaka Software Engineering Intern At Capital One, we think big and do bigger things.",
       "is_remote": false
@@ -2797,6 +2837,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "We're Celonis, the global leader in Process Intelligence technology and one of the world's fastest-growing SaaS firms.",
       "is_remote": false
@@ -2870,6 +2911,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Voyager (94001), India, Bangalore, Karnātaka Data Science Intern At Capital One India data is at the center of everything we do.",
       "is_remote": false
@@ -3020,6 +3062,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
       "is_remote": false
@@ -3069,6 +3112,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you looking for a unique opportunity to be a part of something great?",
       "is_remote": false
@@ -3112,6 +3156,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description Work Arrangement This role is categorized as hybrid.",
       "is_remote": false
@@ -3162,6 +3207,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "We are Generac, a leading energy technology company committed to powering a smarter world.",
       "is_remote": false
@@ -3288,6 +3334,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "AI Data Analyst Intern The Opportunity : As a data analyst, you love diving into data and turning it into meaningful insights.",
       "is_remote": false
@@ -3332,6 +3379,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "AIOps Engineer Intern The Opportunity : Imagine using artifi cia l intelligence ( AI ) to improve critical IT operations for Air Power.",
       "is_remote": false
@@ -3397,6 +3445,7 @@
       "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
       "is_remote": false
@@ -3438,6 +3487,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
       "is_remote": false
@@ -3646,6 +3696,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-10 Country: United States of America Location: US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -3749,6 +3800,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-10 Country: United States of America Location: US-CT-EAST HARTFORD-G ~ 400 Main St ~ BLDG G Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -3792,6 +3844,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere.",
       "is_remote": false
@@ -3890,6 +3943,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
       "is_remote": false
@@ -4013,6 +4067,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Qualifications  • Currently pursuing a Bachelor's degree in Electrical Engineering or a related field.",
       "is_remote": false
@@ -4062,6 +4117,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": true,
       "summary_line": "Workato transforms technology complexity into business opportunity.",
       "is_remote": false
@@ -4166,6 +4222,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Boston Dynamics is seeking an ambitious Junior Engineer to join the Atlas Mechanical Engineering Group.",
       "is_remote": false
@@ -4214,6 +4271,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Boston Dynamics is seeking an ambitious Junior Engineer to join the Atlas Mechanical Engineering Group.",
       "is_remote": false
@@ -4257,6 +4315,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you passionate about AI Safety?",
       "is_remote": false
@@ -4354,6 +4413,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What We’re Looking For • Currently pursuing a Bachelor’s or Master’s degree in Electrical Engineering or a related field  • Interest in power systems, renewable energy, or battery energy storage (BESS…",
       "is_remote": false
@@ -4399,6 +4459,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "What we're looking for • Currently pursuing a PhD in Computer Science, Machine Learning, Statistics, Physics, Applied Mathematics, or a closely related field • Proven experience applying machine learn…",
       "is_remote": false
@@ -4437,6 +4498,7 @@
       "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Hybrid SSM‑Transformer models have a unique advantage for on‑chip memory efficiency: • SSM layers compress sequence history into a fixed‑size recurrent state • Attention layers store key‑value caches…",
       "is_remote": false
@@ -4507,6 +4569,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "A leading healthcare organization in Washington, D.C., is seeking a full-time Data Analyst Intern.",
       "is_remote": false
@@ -4550,6 +4613,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What you’ll bring • Strong technical background.",
       "is_remote": false
@@ -4589,6 +4653,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Combining next generation technologies and product offerings with the country's lowest carbon generating fleet, our company is purpose-built to meet the challenges of the climate crisis.",
       "is_remote": false
@@ -4629,6 +4694,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog have a job vacancy for Intern, It Computer Science – Data Analytics in Buffalo New York",
       "is_remote": false
@@ -4678,6 +4744,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About You \r \r The company is looking for: \r \r \r • Currently pursuing a Bachelor’s degree in Electrical Engineering, Computer Engineering, Computer Science, or a related field.",
       "is_remote": false
@@ -4718,6 +4785,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Job Qualifications:  Skills: Problem Solving, Programming Languages, Statistical Analysis Techniques  Certifications: None",
       "is_remote": false
@@ -4766,6 +4834,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Summer 2026 Internship: Data Science",
       "is_remote": false
@@ -4806,6 +4875,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About You \r \r The company is looking for: \r \r \r • Preferred major/field of study: Electrical or Electronics Engineering \r • Preferred year: Junior or Senior \r • Exposure to tools such as Creo Electric…",
       "is_remote": false
@@ -4877,6 +4947,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companie…",
       "is_remote": false
@@ -4922,6 +4993,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Primary Function of Position We are seeking strong hands-on, energetic and high-capacity intern candidates for the Manufacturing Software Engineering team.",
       "is_remote": false
@@ -5024,6 +5096,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Supports and contributes to software development infrastructure and processes including automation, monitoring, and optimization.",
       "is_remote": false
@@ -5152,6 +5225,7 @@
       ],
       "sponsors_visa": true,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "* This role is hybrid out of our Boston, MA office and interns are expected to be in office at least 1 day a week.",
       "is_remote": false
@@ -5221,6 +5295,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "This is an opportunity to join a development team designing state-of-the-art DDR memory controllers to be used in a wide range of applications including Datacenter, Edge computing, Automotive, and AI.",
       "is_remote": false
@@ -5261,6 +5336,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "This is an opportunity to join a development team designing state-of-the-art DDR memory controllers to be used in a wide range of applications including Datacenter, Edge computing, Automotive, and AI.",
       "is_remote": false
@@ -5300,6 +5376,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": true,
       "summary_line": "Completion of 2nd year of bachelor's in engineering.",
       "is_remote": false
@@ -5338,6 +5415,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -5405,6 +5483,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Function Cloud & Data Engineering Our Company We’re Hitachi Digital Services, a global digital solutions and transformation business with a bold vision of our world’s potential.",
       "is_remote": false
@@ -5454,6 +5533,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Long/Short Equity is Point72’s core strategy and its success is dependent upon our sector-based investing teams.",
       "is_remote": false
@@ -5504,6 +5584,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "In this internship, you will conduct advanced research and engineering in 3D perception, scene understanding, and machine learning to address challenges in autonomous systems.",
       "is_remote": false
@@ -5542,6 +5623,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
       "is_remote": false
@@ -5591,6 +5673,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Pay Rate/Hourly Range:• The hourly range is $20.00 - $43.00 per hour.",
       "is_remote": false
@@ -5633,6 +5716,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: The STTD Module Development Team is seeking a highly motivated Test Engineer Intern to support next generation server and client technology development.",
       "is_remote": false
@@ -5707,6 +5791,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: The world is transforming - and so is Intel.",
       "is_remote": false
@@ -5749,6 +5834,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Position Purpose: The purpose of this position is to contribute to the design and development of Advanced Metering Infrastructure (AMI) systems within our Metering Services team.",
       "is_remote": false
@@ -5787,6 +5873,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title Intern-Product Quality Engineering-Cambridge, MA-Summer 2026 Job Description Are you interested in an internship opportunity with Philips?",
       "is_remote": false
@@ -5872,6 +5959,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Zscaler accelerates digital transformation to ensure our customers can be more agile, efficient, resilient, and secure.",
       "is_remote": false
@@ -5976,6 +6064,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description Job Title: DFT Intern Location: Austin, TX (On-site/Hybrid) Department: Digital Design – DFT Reports To: DFT Engineer / Manager About the Role: We are seeking a highly motivated and de…",
       "is_remote": false
@@ -6044,6 +6133,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications: • Must be a degree-seeking undergraduate OR graduate student at the University of Nevada, Reno during the Spring ‘26 semester • Fall ‘25 or earlier graduates are not eligible…",
       "is_remote": false
@@ -6089,6 +6179,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
       "is_remote": false
@@ -6183,6 +6274,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
       "is_remote": false
@@ -6235,6 +6327,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Be visionary Teledyne Technologies Incorporated provides enabling technologies for industrial growth markets that require advanced technology and high reliability.",
       "is_remote": false
@@ -6389,6 +6482,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Reliability Engineer Co-Op - Fall 2026 Job Description: Reliability Engineer Co-Op - Fall 2026 Here at Entegris, we use advanced science to enable technologies that transform the world, and…",
       "is_remote": false
@@ -6463,6 +6557,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Please note this posting is to advertise potential job opportunities.",
       "is_remote": false
@@ -6506,6 +6601,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The Allegro Development team is looking for an intern to join them this summer.",
       "is_remote": false
@@ -6548,6 +6644,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The intern will be part of a large team developing Machine Learning systems for the synthesis of electronic components.",
       "is_remote": false
@@ -6591,6 +6688,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "The Allegro Development team is looking for an intern to join them this summer.",
       "is_remote": false
@@ -6633,6 +6731,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "The intern will be part of a large team developing Machine Learning systems for the synthesis of electronic components.",
       "is_remote": false
@@ -6786,6 +6885,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description Joining Thermo Fisher Scientific means contributing significantly to finding cures, protecting the environment, and ens…",
       "is_remote": false
@@ -6912,6 +7012,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-09 Country: United States of America Location: US-PR-AGUADILLA-110 ~ Rd 110 N Km 28.8 ~ RD110 Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -7076,6 +7177,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
       "is_remote": false
@@ -7206,6 +7308,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Anduril is hiring with Peerlist for a Internship Software Engineer Intern.",
       "is_remote": false
@@ -7252,6 +7355,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Person, or Immigration Status Requirements: Must be authorized to work in the U.S.",
       "is_remote": false
@@ -7304,6 +7408,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Requirements • Currently enrolled in a BS/MS program in Computer Science or a related field • Need to be very organized with a program management approach • Flexible, dedicated, and be a fast learner…",
       "is_remote": false
@@ -7348,6 +7453,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Qualifications",
       "is_remote": false
@@ -7387,6 +7493,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Qualifications: • Pursuing a bachelor's degree or higher in electrical engineering • Minimum GPA of 3.0 • Completed Sophomore year of college • No relocation assistance provided  We are committed to t…",
       "is_remote": false
@@ -7430,6 +7537,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum Qualifications  • Currently enrolled in an undergraduate degree program in Electrical Engineering, Computer Engineering, or a related field.",
       "is_remote": false
@@ -7484,6 +7592,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Schneider Electric™ creates connected technologies that reshape industries, transform cities and enrich lives.",
       "is_remote": false
@@ -7531,6 +7640,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What We’re Looking For Required: • Familiarity with machine learning concepts (coursework or projects)  • Experience with Python, SQL, or similar  • Strong analytical and problem-solving skills  • Cle…",
       "is_remote": true
@@ -7579,6 +7689,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: None Job Family: Interns Job Qualifications: Skills:…",
       "is_remote": false
@@ -7654,6 +7765,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Bring your passion for space!Join our team of innovators and get a chance to work alongside a team of talented, curious people that are passionate about designing and deploying solutions that are acce…",
       "is_remote": false
@@ -7707,6 +7819,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Here's what we're looking for:  Knowledge and skills: • Ability to program with SQL, R and Python.",
       "is_remote": false
@@ -7763,6 +7876,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College with 0 years of relevant experience) or currently enrolled in an undergraduat…",
       "is_remote": false
@@ -7815,6 +7929,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "## Qualifications * End-to-end AI system design-from data ingestion to user experience * Best practices for scalable, secure, and maintainable AI microservices * Real-world application of agentic AI p…",
       "is_remote": false
@@ -7863,6 +7978,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "What You Bring • Currently pursuing a graduate degree in Computer Science, Data Science, Remote Sensing, or a related field • Proficiency in Python and experience with deep learning frameworks (e.g.,…",
       "is_remote": false
@@ -7907,6 +8023,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What You Need: • Proficiency in Python.",
       "is_remote": false
@@ -7949,6 +8066,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Qualifications  • Currently enrolled as a sophomore or junior in a Bachelor’s degree program at a U.S.",
       "is_remote": false
@@ -8010,6 +8128,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise.",
       "is_remote": false
@@ -8090,6 +8209,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "The driving force behind our success has always been the people of AspenTech.",
       "is_remote": false
@@ -8233,6 +8353,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications • Return to school in the Fall of 2026 to complete degree program • Currently enrolled in a PhD degree program in Machine Learning, Computer Science, Electrical Engineering, Ph…",
       "is_remote": true
@@ -8302,6 +8423,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About You \r \r The company is looking for: \r \r \r • Currently pursuing a Bachelor's degree in Electrical Engineering or a related field \r • Interest in power systems design, especially for data center o…",
       "is_remote": false
@@ -8342,6 +8464,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "More about you  While we value and appreciate all applicants, we believe that the following experience and skills will be needed to shine brightly in this job opening: • Currently pursuing a bachelor’…",
       "is_remote": false
@@ -8392,6 +8515,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Qualifications  • Candidate must be actively enrolled in an accredited University for the duration of an intern assignment pursuing a Bachelor's, Master of Science and/or MBA  • Minimum GPA of 2.8 is…",
       "is_remote": false
@@ -8440,6 +8564,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Qualifications • US Citizen • Foundational understanding of AI, neural networks, machine learning concepts, or computational thinking • Experience with programming languages such as Python, JavaScript…",
       "is_remote": false
@@ -8591,6 +8716,7 @@
       "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-08 Country: United States of America Location: US-IL-ROCKFORD-P6 ~ 4747 Harrison Ave ~ 4747 HARRISON AVE-P6 Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -8660,6 +8786,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "We are looking for an accomplished student in the ML space with strong technical skills to work with us on the design, implementation, training and roll-out the next generation of AI-enabled triage an…",
       "is_remote": false
@@ -8705,6 +8832,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Freeform builds AI-native manufacturing systems that unify software, hardware, and physics to produce industrial-scale parts at the speed of human ideation.",
       "is_remote": false
@@ -8752,6 +8880,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Qualifications  Required: • Currently enrolled in a Masters or PhD program • Minimum GPA of 3.0 • Hands-on experience with Pytorch for model development, training and testing in a Linux environment •…",
       "is_remote": false
@@ -8823,6 +8952,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Minimum Qualifications:   Master’s or higher degree, in DS/CS/CE/EE, Math, Statistics, or related field   Strong programming and software development skills in Python, SQL, and Git   Hands-on experien…",
       "is_remote": false
@@ -8922,6 +9052,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Module Software Solutions Group within Assembly Test Technology Development (ATTD) is seeking a Software Engineering Intern to work on the next generation of Intel's test…",
       "is_remote": false
@@ -9108,6 +9239,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companie…",
       "is_remote": false
@@ -9155,6 +9287,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": null,
       "is_simple_apply": true,
       "summary_line": "Metalenz is developing next-generation sensing systems for consumer electronics with metasurface technology.",
       "is_remote": false
@@ -9252,6 +9385,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "As a Servo Track Write intern, you will participate in various stages of analyzing large datasets collected from hard disk drive manufacturing processes.",
       "is_remote": false
@@ -9297,6 +9431,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "What success looks like in this role: • Develops knowledge and skills within a particular area or discipline.",
       "is_remote": false
@@ -9342,6 +9477,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Where mathematics, electrical and electronic engineering and computer science meet you will find the discipline of computer arithmetic.",
       "is_remote": false
@@ -9385,6 +9521,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Must be pursuing a Bachelor’s, Master's, or PhD in Computer Science, Computer/Software Engineering, Robotics, Mathematics, Physics, or any related field.",
       "is_remote": false
@@ -9455,6 +9592,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
       "is_remote": false
@@ -9501,6 +9639,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Responsibilities may be quite diverse of a technical nature.",
       "is_remote": false
@@ -9558,6 +9697,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The Opportunity at Adobe , we’re reimagining how businesses connect with their customers — and we want you to be part of it.",
       "is_remote": false
@@ -9812,6 +9952,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Please note this posting is to advertise potential job opportunities.",
       "is_remote": false
@@ -9882,6 +10023,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Cyber Intern The Opportunity : Work as part of an innovative team on various aspects of the cybersecurity field.",
       "is_remote": false
@@ -9924,6 +10066,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Cyber Intern The Opportunity: Work as part of an innovative team on various aspects of the cybersecurity field.",
       "is_remote": false
@@ -9975,6 +10118,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Software Engineering Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Req…",
       "is_remote": false
@@ -10026,6 +10170,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Software Engineering Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Req…",
       "is_remote": false
@@ -10077,6 +10222,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Software Engineering Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Req…",
       "is_remote": false
@@ -10119,6 +10265,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Mechanical Engineer Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Requ…",
       "is_remote": false
@@ -10163,6 +10310,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
       "is_remote": false
@@ -10231,6 +10379,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Make your mark in the fight against cancer.",
       "is_remote": false
@@ -10326,6 +10475,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description Software Engineer Intern Engineering & Integration Shared Services Who We're Looking For: Zendesk is seeking an innovative and motivated Software Engineer Intern to join our growing En…",
       "is_remote": false
@@ -10373,6 +10523,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Company Description Zayo provides mission-critical bandwidth to the world’s most impactful companies, fueling the innovations that are transforming our society.",
       "is_remote": false
@@ -10502,6 +10653,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The Homeland Sector at Leidos currently has an opening for a Software Developer Intern to support the DHS FLETC mission during the Summer 2026 internship period (June through August 2026).",
       "is_remote": false
@@ -10553,6 +10705,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-08 Country: United States of America Location: US-VA-DULLES-760 ~ 22260 Pacific Blvd ~ BLDG 60 Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -10708,6 +10861,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Title: National Security Solutions (NSS)- Engineering Intern Belong.",
       "is_remote": false
@@ -10756,6 +10910,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you looking for a unique opportunity to be a part of something great?",
       "is_remote": false
@@ -10795,6 +10950,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you looking for a unique opportunity to be a part of something great?",
       "is_remote": false
@@ -10842,6 +10998,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
       "is_remote": false
@@ -10879,6 +11036,7 @@
       "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title Co-op-Mechanical Engineering Technician-Latham, NY-January-June 2026 Job Description Are you interested in an co-op opportunity with Philips?",
       "is_remote": false
@@ -10918,6 +11076,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
       "is_remote": false
@@ -10957,6 +11116,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
       "is_remote": false
@@ -11002,6 +11162,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "It's fun to work in a company where people truly BELIEVE in what they're doing!",
       "is_remote": false
@@ -11213,6 +11374,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
       "is_remote": false
@@ -11317,6 +11479,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Summary: Develop validation and characterization test plans.",
       "is_remote": false
@@ -11387,6 +11550,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description Summary Come and join our powerful, unified force with the energy to change the world.",
       "is_remote": false
@@ -11452,6 +11616,7 @@
       "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Essential Duties and Responsibilities 1.",
       "is_remote": false
@@ -11601,6 +11766,7 @@
       "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Essential Duties and Responsibilities 1.",
       "is_remote": false
@@ -11752,6 +11918,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Schweitzer Engineering Laboratories (SEL) seeks a professional, driven and innovative individual for our Process Engineering Intern position.",
       "is_remote": false
@@ -11828,6 +11995,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Requirements:  Currently enrolled in a bachelor or master’s degree program at an accredited college or university  Possess a minimum cumulative GPA of 3.0 (not just in major)  Have completed at least…",
       "is_remote": false
@@ -11875,6 +12043,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Software Engineer Intern -6 Month intern- July- Dec",
       "is_remote": false
@@ -11915,6 +12084,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum Requirements • This full-time, 12-week internship is open to Junior-status college students only.",
       "is_remote": false
@@ -11956,6 +12126,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Qualifications:  Foundational level of proficiency: • Creative thinking.",
       "is_remote": false
@@ -11995,6 +12166,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Qualifications • High school diploma or GED • Current GPA of 3.5 or higher • Must be able to be onsite in Cypress CA • Engineering student  U.S.",
       "is_remote": false
@@ -12035,6 +12207,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About You \r \r The company is looking for: \r \r \r • Active enrollment in an accredited Electrical Engineering or related Undergraduate program with anticipated graduation August 2026 or later.",
       "is_remote": false
@@ -12076,6 +12249,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening a…",
       "is_remote": false
@@ -12116,6 +12290,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Requirements: • Preferred MS in Electrical Engineering • Entry level understanding of product and process development of medical devices is preferred.",
       "is_remote": false
@@ -12184,6 +12359,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "• We are looking for performance-driven, innovative leaders who understand the importance of collaboration and customer focus.",
       "is_remote": false
@@ -12282,6 +12458,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Minimum Qualifications: • Graduation from an accredited high school or equivalent.",
       "is_remote": false
@@ -12353,6 +12530,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "QUALIFICATIONS  Education/Experience Required: • Be currently enrolled at an accredited university pursuing an undergraduate degree with a focus in Electrical Engineering, or a related field • Must ha…",
       "is_remote": false
@@ -12422,6 +12600,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum Requirements • This full-time, 12-week internship is open to Junior-status college students only.",
       "is_remote": false
@@ -12465,6 +12644,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "A leading technology firm in California is seeking a Data Scientist intern to support AI and data science initiatives.",
       "is_remote": false
@@ -12508,6 +12688,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "A leading life sciences company in Milford, Massachusetts is seeking an AI Engineer Intern for a 10-12 week internship starting in summer 2026.",
       "is_remote": false
@@ -12551,6 +12732,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Qualifications",
       "is_remote": false
@@ -12599,6 +12781,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "We are looking for performance-driven, innovative leaders who understand the importance of collaboration and customer focus.",
       "is_remote": false
@@ -12670,6 +12853,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "We are seeking a motivated and detail‑oriented Summer Intern to join our Solution & Systems Engineering team.",
       "is_remote": false
@@ -12711,6 +12895,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Crum & Forster Company Overview Crum & Forster (C&F) , with a proud history dating to 1822, provides specialty and standard commercial lines insurance products through our admitted and surplus lines i…",
       "is_remote": true
@@ -12779,6 +12964,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Perform paraprofessional engineering and drafting work in the office or field.",
       "is_remote": false
@@ -12816,6 +13002,7 @@
       "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About our Company:Medidata is powering smarter treatments and healthier people through digital solutions to support clinical trials.",
       "is_remote": false
@@ -12868,6 +13055,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Our Summer Internship Program is designed to provide meaningful, hands-on experience where you will work on real projects, solve real business challenges, and collaborate with leaders across the organ…",
       "is_remote": false
@@ -12908,6 +13096,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "A leading AI solutions firm in Reston, Virginia, is seeking an intern to support its Accelerators Team.",
       "is_remote": false
@@ -12963,6 +13152,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Upload an unofficial copy of your transcript",
       "is_remote": false
@@ -13043,6 +13233,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About You  The company is looking for: • Students actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, or a related field f…",
       "is_remote": false
@@ -13115,6 +13306,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Module Software Solutions Group within Assembly Test Technology Development (ATTD) is seeking a Software Engineering Intern to work on the next generation of Intel's test…",
       "is_remote": false
@@ -13159,6 +13351,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: The Role and Impact: Are you eager to kick-start your career by building test & automation tools for network hardware that powers modern day digital communication infrast…",
       "is_remote": false
@@ -13203,6 +13396,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: The Role and Impact: Intel is seeking a motivated and driven Process Integration and Yield Engineer Graduate Intern to join our dynamic team.",
       "is_remote": false
@@ -13276,6 +13470,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The Transportation Solution Division within the Leidos Civil group is seeking Systems, Integration and Software Engineer Interns who will be a member of a dynamic team working on the one of several Ai…",
       "is_remote": false
@@ -13315,6 +13510,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Come start your career with some of the brightest and most innovative minds in the country.",
       "is_remote": false
@@ -13382,6 +13578,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Position Purpose: The ENGINEERING INTERN role within the organization will take on projects from initiation to completion during the extent of their time with the team.",
       "is_remote": false
@@ -13539,6 +13736,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": true,
       "summary_line": "About You   - You are currently pursuing a PhD in Computer Science or a related technical degree (e.g.",
       "is_remote": true
@@ -13609,6 +13807,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "As an Intern in mechanical simulation team, you will join an international team of experts developing leading edge mechanical technologies and solutions for the industry’s most demanding HDD products.",
       "is_remote": false
@@ -13681,6 +13880,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Must be pursuing a Bachelor’s or Master's degree in Computer Science, Computer/Software Engineering, Mathematics, Physics, or any related field.",
       "is_remote": false
@@ -13751,6 +13951,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Do you want to change how the world creates?",
       "is_remote": false
@@ -13790,6 +13991,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "This is a Co-op Opportunity for Engineering students to support driving output and quality improvements, supporting production lines, and identifying technical solutions for gaps in capacity and deman…",
       "is_remote": false
@@ -13858,6 +14060,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
       "is_remote": false
@@ -13913,6 +14116,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications:",
       "is_remote": false
@@ -13991,6 +14195,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-07 Country: United States of America Location: US-CT-EAST HARTFORD-RTRC K ~ 411 Silver Ln ~ RTRC K Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -14043,6 +14248,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-07 Country: United States of America Location: US-FL-MELBOURNE-313 ~ 1344 S Babcock St ~ BLDG 313 Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -14142,6 +14348,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
       "is_remote": false
@@ -14181,6 +14388,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Embark with us on a journey of growth and transformation as we create exceptionally engineered technology and bring AI everywhere.",
       "is_remote": false
@@ -14250,6 +14458,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
       "is_remote": false
@@ -14375,6 +14584,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Please note this posting is to advertise potential job opportunities.",
       "is_remote": false
@@ -14432,6 +14642,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Please note this posting is to advertise potential job opportunities.",
       "is_remote": false
@@ -14536,6 +14747,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
       "is_remote": false
@@ -14634,6 +14846,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About GlobalFoundries GlobalFoundries (GF) is a leading full-service semiconductor foundry providing a unique combination of design, development, and fabrication services to some of the world’s most i…",
       "is_remote": false
@@ -14777,6 +14990,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Posting Title: Machine Learning Engineer Intern, Seattle, Summer 2026 Req ID: 10143620 Job Description: About the Role & Program The Walt Disney Company has spent 100 years immersing audiences in…",
       "is_remote": false
@@ -14933,6 +15147,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Posting Title: WDI Building Information Modeling (BIM) Intern, Summer 2026 Req ID: 10147010 Job Description: About our Program: Magic is Within You Walt Disney Imagineering (WDI) is the master pla…",
       "is_remote": false
@@ -14999,6 +15214,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Materials Quality Engineering Co-Op - Fall 2026 Job Description: Materials Quality Engineering Co-Op - Fall 2026 Here at Entegris, we use advanced science to enable technologies that transf…",
       "is_remote": false
@@ -15035,6 +15251,7 @@
       "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Continuous Improvement Engineer Co-Op - Fall 2026 Job Description: Continuous Improvement Engineer Co-Op - Fall 2026 Here at Entegris, we use advanced science to enable technologies that tr…",
       "is_remote": false
@@ -15160,6 +15377,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Please note that the salary range information provided is a general guideline only, reflecting a position based in Connecticut.",
       "is_remote": false
@@ -15264,6 +15482,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "University, Applied AI Software Developer The Opportunity: In the defense mission space, artifi cia l intelligence (AI) is only as strong as the mathematical foundations that enable it.",
       "is_remote": false
@@ -15311,6 +15530,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "University, Applied AI Software Developer The Opportunity: In the defense mission space, artifi cia l intelligence (AI) is only as strong as the mathematical foundations that enable it.",
       "is_remote": false
@@ -15350,6 +15570,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Cadence is searching for a Software Engineer to work on delay calculation and signal integrity (SI) analysis in Static Timing Analysis tool.",
       "is_remote": false
@@ -15389,6 +15610,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Cadence is searching for a Software Engineer to work on delay calculation and signal integrity (SI) analysis in Static Timing Analysis tool.",
       "is_remote": false
@@ -15459,6 +15681,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
       "is_remote": false
@@ -15502,6 +15725,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?",
       "is_remote": false
@@ -15543,6 +15767,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?",
       "is_remote": false
@@ -15614,6 +15839,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Launch Your Tech Career as an IS Help Desk Intern with a Global Leader!",
       "is_remote": false
@@ -15716,6 +15942,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The Transportation Solution Division within the Leidos Civil group is seeking Systems, Integration and Software Engineer Interns who will be a member of a dynamic team working on one of several Air Tr…",
       "is_remote": false
@@ -15866,6 +16093,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
       "is_remote": false
@@ -15907,6 +16135,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "It's fun to work in a company where people truly BELIEVE in what they're doing!",
       "is_remote": false
@@ -16014,6 +16243,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
       "is_remote": false
@@ -16065,6 +16295,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
       "is_remote": false
@@ -16109,6 +16340,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Our commitment extends beyond business success as we strive to build sustainable processes that minimize environmental impact and foster vibrant and diverse communities around the globe.",
       "is_remote": false
@@ -16210,6 +16442,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Embark with us on a journey of growth and transformation as we create exceptionally engineered technology and bring AI everywhere.",
       "is_remote": false
@@ -16279,6 +16512,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
       "is_remote": false
@@ -16320,6 +16554,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Build your best future with the Johnson Controls Team: As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places,…",
       "is_remote": false
@@ -16392,6 +16627,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "As a global leader in smart, healthy, and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places and the planet.",
       "is_remote": false
@@ -16502,6 +16738,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Please note this posting is to advertise potential job opportunities.",
       "is_remote": false
@@ -16571,6 +16808,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Supports the development and implementation of manufacturing process for a specific module in semiconductor manufacturing, including sustaining and improving manufacturin…",
       "is_remote": false
@@ -16617,6 +16855,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Job Summary and Qualifications  A Data Engineering Intern supports the design, development, and maintenance of data pipelines and data systems that enable reliable reporting, analytics, and applicatio…",
       "is_remote": false
@@ -16665,6 +16904,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Summer 2026 Internship: Data Science",
       "is_remote": false
@@ -16721,6 +16961,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College with 0 years of relevant experience) or currently enrolled in an undergraduat…",
       "is_remote": false
@@ -16793,6 +17034,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Qualifications",
       "is_remote": false
@@ -16849,6 +17091,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "About You \r \r The company is looking for: \r \r \r • Students actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, Mechanical…",
       "is_remote": false
@@ -16896,6 +17139,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Join a team that designs, develops, and integrates highly complex software applications within Honeywell.",
       "is_remote": false
@@ -16953,6 +17197,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "First Solar reserves the right to offer you a role most applicable to your experience and skillset.",
       "is_remote": false
@@ -16994,6 +17239,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Engineering Intern - Summer Internship 💰 Salary: $43,740 - 43,740 per year",
       "is_remote": false
@@ -17039,6 +17285,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "BAE Systems is seeking a talented, motivated Quality Engineering internship candidate who wants to join a team at a dynamic company that values your technical excellence.",
       "is_remote": false
@@ -17079,6 +17326,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "JOB DESCRIPTION AND POSITION REQUIREMENTS  We are searching for an undergraduate student to join our Cyber & Information Security Department at the Applied Research Laboratory (ARL) at Penn State Univ…",
       "is_remote": false
@@ -17127,6 +17375,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Preferred Requirements • Radar, spectrum sensing, and communication systems • Digital signal processing, Fourier theory, complex analysis • Lab experience using RF test equipment (oscilloscope, spectr…",
       "is_remote": false
@@ -17174,6 +17423,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Cerro Wire LLC As a part of the global industrial organization Marmon Holdings—which is backed by Berkshire Hathaway—you’ll be doing things that matter, leading at every level, and winning a better wa…",
       "is_remote": false
@@ -17242,6 +17492,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Description Software Engineer Intern Engineering & Integration Shared Services Who We're Looking For: Zendesk is seeking an innovative and motivated Software Engineer Intern to join our growing En…",
       "is_remote": true
@@ -17291,6 +17542,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Qualifications • Currently pursuing a graduate degree or senior undergraduate status in Data Science, Computer Science, Statistics, or related fields.",
       "is_remote": false
@@ -17347,6 +17599,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications:",
       "is_remote": false
@@ -17388,6 +17641,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "ITAR Requirement:  This position requires access to information that is subject to compliance with the International Traffic Arms Regulations (“ITAR”) and/or the Export Administration Regulations (“EA…",
       "is_remote": false
@@ -17435,6 +17689,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Summer Intern - Software Engineering Location Remote/Hybrid Duration Internship Duration: May – August 2026 About the Role We are seeking a motivated and detail-oriented Software Engineering Intern to…",
       "is_remote": false
@@ -17486,6 +17741,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Qualifications: • Currently enrolled in a college degree program in Computer Science, Artificial Intelligence, Machine Learning, Data Science, or a related engineering discipline.",
       "is_remote": true
@@ -17537,6 +17793,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Please note this posting is to advertise potential job opportunities.",
       "is_remote": false
@@ -17576,6 +17833,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Who You Are",
       "is_remote": false
@@ -17634,6 +17892,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Data Science Internship Summer 2026 – Stamford, CT",
       "is_remote": false
@@ -17681,6 +17940,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Job Details: Job Description: Responsibilities may be quite diverse of a technical nature.",
       "is_remote": false
@@ -17718,6 +17978,7 @@
       "required_skills": [],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The Electrical Engineer Intern will be a part of the Engineering Technical Support Team which support the operational maintenance of Safran's Cockpit, Navigation, Computer, and Calculator on the comme…",
       "is_remote": false
@@ -17757,6 +18018,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum qualifications:  Candidate must be pursuing a MS degree in Electrical Engineer, Computer Science Engineering, Computer Engineering, Systems Engineering or Mechanical Engineering or related fie…",
       "is_remote": false
@@ -17804,6 +18066,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "TRIGO Global Quality Solutions has an immediate opening for an Automation and Vision System Engineer Intern in Greer, SC.",
       "is_remote": false
@@ -17846,6 +18109,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Position: AI/ML & Data Science Intern — Summer 2026",
       "is_remote": false
@@ -17885,6 +18149,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Schneider is seeking a Software Engineer Intern in Green Bay, WI to perform single function tasks that are small to moderate in size and complexity.",
       "is_remote": false
@@ -17926,6 +18191,7 @@
       ],
       "sponsors_visa": false,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Requirements • Must be a current undergraduate, graduate or advanced degree student in good academic standing.",
       "is_remote": false
@@ -18049,6 +18315,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Schweitzer Engineering Laboratories (SEL) Engineering Services seeks a professional, innovative, and detailed individual for our Designer Intern position.",
       "is_remote": false
@@ -18172,6 +18439,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "SEL has an exciting opportunity to welcome a new employee-owner to our Product Compliance team in Pullman, WA.",
       "is_remote": false
@@ -18211,6 +18479,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Essential Duties and Responsibilities 1.",
       "is_remote": false
@@ -18249,6 +18518,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Schweitzer Engineering Laboratories (SEL) seeks a motivated Chemical Engineering student who is passionate about solving problems and improving the lives of people.",
       "is_remote": false
@@ -18354,6 +18624,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum Qualifications • Currently enrolled in a certification program (e.g., Boot Camp, Apprenticeship, Community College), or currently enrolled in an undergraduate degree program.",
       "is_remote": false
@@ -18395,6 +18666,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "What We Are Looking For:  MAXISIQ is seeking a self-motivated, curious, and creative Software Engineer Intern to join our team in Arlington, VA (Ballston neighborhood) for the spring or summer (10-12…",
       "is_remote": false
@@ -18442,6 +18714,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Qualifications • Proficiency in programming languages such as Python, R, or similar.",
       "is_remote": false
@@ -18484,6 +18757,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "QUALIFICATIONS:   - Pursuing a bachelor's or master’s degree in computer science, engineering, or another related field.",
       "is_remote": true
@@ -18527,6 +18801,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": true,
       "summary_line": "Ability to work at Verkada HQ during Fall 2026 (proposed internship dates: August 31 to December 18)    Actively pursuing a degree in Computer Science (or similar degree plan).",
       "is_remote": false
@@ -18569,6 +18844,7 @@
       ],
       "sponsors_visa": true,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": true,
       "summary_line": "Ability to work at Verkada HQ during Fall 2026    Actively pursuing a Bachelor's or Master's degree in Computer Science or similar technical field of study and graduating by June 2027   Internship exp",
       "is_remote": false
@@ -18613,6 +18889,7 @@
       ],
       "sponsors_visa": true,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": true,
       "summary_line": "Ability to work at Verkada HQ during Fall 2026 (proposed internship dates: August 31 to December 18)    Actively pursuing a Bachelor's or Master's degree in Computer Science or similar technical field",
       "is_remote": false
@@ -18661,6 +18938,7 @@
       ],
       "sponsors_visa": true,
       "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": true,
       "summary_line": "Ability to work at Verkada HQ during fall 2026 (proposed internship dates: August 31 - December 18)    Actively pursuing a Bachelor's or Master's degree in Computer Science or similar technical field ",
       "is_remote": false
@@ -18738,6 +19016,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-06 Country: United States of America Location: US-CA-FULLERTON-675 ~ 1801 Hughes Dr ~ BLDG 675 Position Role Type: Onsite U.S.",
       "is_remote": false
@@ -18782,6 +19061,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The CTO office focuses on developing and accessing next-generation materials and device technologies for scalable manufacturing.",
       "is_remote": false
@@ -18826,6 +19106,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "We are seeking a highly motivated Ph.D.",
       "is_remote": false
@@ -18866,6 +19147,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Essential Duties and Responsibilities: Accountable for Customer Qualifications of Enterprise HDDs Interlock with the Cross-Functional Team Including Engineering, Manufacturing, Quality, Marketing, Sal…",
       "is_remote": false
@@ -18912,6 +19194,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Join WD's HDD Integration and Head-Media Reliability team as an HDD Test Intern, where you'll support critical testing operations that validate drive performance and quality.",
       "is_remote": false
@@ -19067,6 +19350,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": true,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Collaborates with other functions to actively facilitate the interaction of cross-functional stakeholders to ensure that products are winning in the market",
       "is_remote": false
@@ -19237,6 +19521,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The Advanced Materials Group at Leidos is seeking a motivated Engineering Intern – Software/App Development for Simulating Metal Additive Manufacturing Process to join our team.",
       "is_remote": false
@@ -19282,6 +19567,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Configuration Management Co-op/Intern - Summer & Fall 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percent…",
       "is_remote": false
@@ -19361,6 +19647,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Job Title: Software Engineering Intern - Summer 2026 Job Category: Intern/Co-op Time Type: Part time Minimum Clearance Required to Start: None Employee Type: Part-Time On-Call Percentage of Travel Req…",
       "is_remote": false
@@ -19431,6 +19718,7 @@
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
+      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Virtually every electronic device in the world is produced using our technologies.",
       "is_remote": false
@@ -19464,89 +19752,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-04-06T18:37:17.485Z"
-  },
-  {
-    "job_id": "greenhouse-ixllearning-8486934002",
-    "job_title": "Software Engineer, Intern",
-    "employer_name": "IXL Learning",
-    "job_city": "Raleigh",
-    "job_state": "NC",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.ixl.com/company/jobs?gh_jid=8486934002",
-    "job_posted_at_datetime_utc": "2026-04-06T18:10:35.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "056049cf9c05b4b40825d8f1b8d71b9be6920f5e393301a0b722ecd0f54a01e4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "css",
-        "java",
-        "javascript",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": "Students in their third year of undergrad or students pursuing an advanced degree in Computer Science or a related discipline    >A solid grasp of general programming principles   Excellent programmin",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T18:10:35.000Z"
-  },
-  {
-    "job_id": "greenhouse-ixllearning-8486939002",
-    "job_title": "Software Engineer, Intern",
-    "employer_name": "IXL Learning",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.ixl.com/company/jobs?gh_jid=8486939002",
-    "job_posted_at_datetime_utc": "2026-04-06T18:10:19.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4c8f9c8f956e7ed5145fe2c4fe72c2714fc022eaaaa89dcf3a0ec768ec459a0f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "css",
-        "java",
-        "javascript",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": "Students in their third year of undergrad or students pursuing an advanced degree in Computer Science or a related discipline    A solid grasp of general programming principles   Excellent programming",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-06T18:10:19.000Z"
   }
 ]
