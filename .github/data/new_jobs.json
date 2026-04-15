@@ -2778,53 +2778,6 @@
     "job_posted_at": "2026-04-14T00:04:13.325Z"
   },
   {
-    "job_id": "js-quest-diagnostics-z1kz25cuagr94sxeaaaaaa==",
-    "job_title": "Data Scientist, Intern (Remote)",
-    "employer_name": "Quest Diagnostics",
-    "job_city": "Pittsburgh",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://builtin.com/job/data-scientist-intern-remote/8807647",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "59d5bcca869825798217b89d0eca35cf043fce6aa2a10e96aedac592a7be6c0e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "aws",
-        "computer science",
-        "data science",
-        "deep learning",
-        "machine learning",
-        "python",
-        "sql",
-        "statistics"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications  - Master’s degree or PhD student in quantitative field including Data Science, Biostatistics, Bioinformatics, Public Health, Computer Science, Economics, Statistics, or Mathematics - S…",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-b1729052-d96c-4c37-9394-fa9ecde19497",
     "job_title": "2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
     "employer_name": "Amazon.com Services LLC",
@@ -2870,6 +2823,53 @@
       "is_simple_apply": false,
       "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
       "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-quest-diagnostics-z1kz25cuagr94sxeaaaaaa==",
+    "job_title": "Data Scientist, Intern (Remote)",
+    "employer_name": "Quest Diagnostics",
+    "job_city": "Pittsburgh",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://builtin.com/job/data-scientist-intern-remote/8807647",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "59d5bcca869825798217b89d0eca35cf043fce6aa2a10e96aedac592a7be6c0e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "aws",
+        "computer science",
+        "data science",
+        "deep learning",
+        "machine learning",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications  - Master’s degree or PhD student in quantitative field including Data Science, Biostatistics, Bioinformatics, Public Health, Computer Science, Economics, Statistics, or Mathematics - S…",
+      "is_remote": true
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
@@ -4534,49 +4534,6 @@
     "job_posted_at": "2026-04-13T16:59:55.000Z"
   },
   {
-    "job_id": "workday-rtx-01837277",
-    "job_title": "2026 Intern - Production Test Engineering Intern - Onsite (TX)",
-    "employer_name": "RTX",
-    "job_city": "TX-FORT BLISS-11005-CUST ~ 11005 Fort Bliss ~ BLDG 11005",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-FORT-BLISS-11005-CUST--11005-Fort-Bliss--BLDG-11005-External-Site/XMLNAME-2026-Intern---Production-Test-Engineering-Intern---Onsite--TX-_01837277",
-    "job_posted_at_datetime_utc": "2026-04-13T16:55:07.305Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ffa24e2fdcc99e3a40c16a463b6e782f75f6e50de38d34be1a010fe9cb3e28b2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "excel",
-        "failure mode",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-TX-FORT BLISS-11005-CUST ~ 11005 Fort Bliss ~ BLDG 11005 (External Site) Position Role Type: Onsite U.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T16:55:07.305Z"
-  },
-  {
     "job_id": "workday-rtx-01837215",
     "job_title": "Electrical Engineering Intern (Summer 2026)(Onsite)",
     "employer_name": "RTX",
@@ -4615,6 +4572,49 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A Position Role Type: Onsite U.S.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T16:55:07.305Z"
+  },
+  {
+    "job_id": "workday-rtx-01837277",
+    "job_title": "2026 Intern - Production Test Engineering Intern - Onsite (TX)",
+    "employer_name": "RTX",
+    "job_city": "TX-FORT BLISS-11005-CUST ~ 11005 Fort Bliss ~ BLDG 11005",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-FORT-BLISS-11005-CUST--11005-Fort-Bliss--BLDG-11005-External-Site/XMLNAME-2026-Intern---Production-Test-Engineering-Intern---Onsite--TX-_01837277",
+    "job_posted_at_datetime_utc": "2026-04-13T16:55:07.305Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ffa24e2fdcc99e3a40c16a463b6e782f75f6e50de38d34be1a010fe9cb3e28b2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "excel",
+        "failure mode",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date Posted: 2026-04-13 Country: United States of America Location: US-TX-FORT BLISS-11005-CUST ~ 11005 Fort Bliss ~ BLDG 11005 (External Site) Position Role Type: Onsite U.S.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T16:55:07.305Z"
@@ -5791,7 +5791,7 @@
       "visa_question_present": false,
       "possible_sponsor": null,
       "is_simple_apply": false,
-      "summary_line": "�� Typical Qualifications • Bachelor’s or Master’s degree in Computer Science, AI, or related field Or equivalent hands-on experience with AI/ML projects Responsibilities: • AI Software Engineer will d…",
+      "summary_line": "• Typical Qualifications • Bachelor’s or Master’s degree in Computer Science, AI, or related field Or equivalent hands-on experience with AI/ML projects Responsibilities: • AI Software Engineer will d…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T00:00:00.000Z"
@@ -6044,6 +6044,48 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T23:00:00.000Z"
+  },
+  {
+    "job_id": "js-veralto-global-lqdf0ifunrjz4dtcaaaaaa==",
+    "job_title": "Engineering Intern - Hardware Engineering",
+    "employer_name": "Veralto Global",
+    "job_city": "Loveland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10265730/Engineering-Intern-Hardware-Engineering",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "0108c2033cd76b4ea4e4dd6cba83d37d0175a01307c03293e24bc4036d145df1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "regression"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "QUALIFICATIONS • Pursuing a degree in Mechanical Engineering or a related field • Minimum 2+ years of completed course work • Ability to plan experiments, analyze data, and draw objective conclusions.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
   },
   {
     "job_id": "js-lmi-consulting-llc-g6kq72dwmx856cbbaaaaaa==",
@@ -6404,48 +6446,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Job Qualifications • Problem Solving • Programming Languages • Statistical Analysis Techniques  Job Description • Type of Requisition: Regular • Clearance Level Must Currently Possess: None • Clearanc…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-veralto-global-lqdf0ifunrjz4dtcaaaaaa==",
-    "job_title": "Engineering Intern - Hardware Engineering",
-    "employer_name": "Veralto Global",
-    "job_city": "Loveland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10265730/Engineering-Intern-Hardware-Engineering",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "0108c2033cd76b4ea4e4dd6cba83d37d0175a01307c03293e24bc4036d145df1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "regression"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "QUALIFICATIONS • Pursuing a degree in Mechanical Engineering or a related field • Minimum 2+ years of completed course work • Ability to plan experiments, analyze data, and draw objective conclusions.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
@@ -7310,6 +7310,51 @@
     "job_posted_at": "2026-04-11T07:00:57.788Z"
   },
   {
+    "job_id": "js-schneider-electric-citpwl86cajaoyooaaaaaa==",
+    "job_title": "Engineering Intern",
+    "employer_name": "Schneider Electric",
+    "job_city": "Maryland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.themuse.com/jobs/schneiderelectric/engineering-intern-05b642",
+    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "b2ff496b6a905e241a171c40f65903d422c51369f5c25d9e018ffa600919f610",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cybersecurity",
+        "excel",
+        "microsoft office",
+        "system design",
+        "visio"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "based position, the expected compensation range is $22 - $27 per hour.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-11T00:00:00.000Z"
+  },
+  {
     "job_id": "js-essential-utilities-vzacspy2d73o_muyaaaaaa==",
     "job_title": "Finance Intern",
     "employer_name": "Essential Utilities",
@@ -7377,51 +7422,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications: • Must be currently enrolled in a college/university program and in pursuit of a degree in engineering.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-11T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-schneider-electric-citpwl86cajaoyooaaaaaa==",
-    "job_title": "Engineering Intern",
-    "employer_name": "Schneider Electric",
-    "job_city": "Maryland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.themuse.com/jobs/schneiderelectric/engineering-intern-05b642",
-    "job_posted_at_datetime_utc": "2026-04-11T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b2ff496b6a905e241a171c40f65903d422c51369f5c25d9e018ffa600919f610",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cybersecurity",
-        "excel",
-        "microsoft office",
-        "system design",
-        "visio"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "based position, the expected compensation range is $22 - $27 per hour.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-11T00:00:00.000Z"
@@ -9866,6 +9866,50 @@
     "job_posted_at": "2026-04-10T00:30:30.818Z"
   },
   {
+    "job_id": "js-cisco-y0ujcr16zzlyi-gqaaaaaa==",
+    "job_title": "Hardware Engineer I (Co-op) - United States",
+    "employer_name": "Cisco",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000041EXTERNALENGLOBAL/Hardware-Engineer-I-Co-op-United-States",
+    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e7c33d94ba112a24d43cd694eda2e84d5bf19e54086d99c7f1ee0a7d00f1ac11",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "cadence",
+        "mentor graphics",
+        "multimeter",
+        "oscilloscope"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Qualifications • Currently enrolled in an undergraduate degree program in Electrical Engineering, Computer Engineering, or a related field.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-10T00:00:00.000Z"
+  },
+  {
     "job_id": "js-dsm-firmenich-ai9i6tbqyuiuk1-paaaaaa==",
     "job_title": "Summer 2026 Internship: Data Science - Long Island City, NY",
     "employer_name": "dsm-firmenich",
@@ -9995,50 +10039,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Hybrid SSM‑Transformer models have a unique advantage for on‑chip memory efficiency: • SSM layers compress sequence history into a fixed‑size recurrent state • Attention layers store key‑value caches…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cisco-y0ujcr16zzlyi-gqaaaaaa==",
-    "job_title": "Hardware Engineer I (Co-op) - United States",
-    "employer_name": "Cisco",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.cisco.com/global/en/job/CISCISGLOBAL2000041EXTERNALENGLOBAL/Hardware-Engineer-I-Co-op-United-States",
-    "job_posted_at_datetime_utc": "2026-04-10T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "e7c33d94ba112a24d43cd694eda2e84d5bf19e54086d99c7f1ee0a7d00f1ac11",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "cadence",
-        "mentor graphics",
-        "multimeter",
-        "oscilloscope"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Qualifications • Currently enrolled in an undergraduate degree program in Electrical Engineering, Computer Engineering, or a related field.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
@@ -12700,6 +12700,245 @@
     "job_posted_at": "2026-04-09T01:53:25.361Z"
   },
   {
+    "job_id": "js-dover-corporation-ta0n1usenlwhrzdeaaaaaa==",
+    "job_title": "Engineer, Hardware Intern",
+    "employer_name": "Dover Corporation",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.dovercorporation.com/job/Austin-Engineer%2C-Hardware-Intern-TX-78728/1382731533/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "9d238b2d433790d81d9c7344c0a1a238874df67b829108285df53463ecc164c8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-redwire-space-f6p1uf1wtyyzwo2baaaaaa==",
+    "job_title": "Hardware Engineering Internship",
+    "employer_name": "redwire space",
+    "job_city": "Northborough",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobsearcher.com/jobs/1dc44a4a4295b59bc45c46f7d6ce47bcbd14c63a1c91c75605789169c7677c7e",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "a7c990f65d8e9e262a593234ef8de6b4a4ee58745055d2112cbb9d69433e76d2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "excel",
+        "fpga",
+        "git",
+        "microcontroller",
+        "python",
+        "solidworks"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Bring your passion for space!Join our team of innovators and get a chance to work alongside a team of talented, curious people that are passionate about designing and deploying solutions that are acce…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-amentum-wv4wttxtrli0rhb4aaaaaa==",
+    "job_title": "Electrical Engineer Intern",
+    "employer_name": "Amentum",
+    "job_city": "Cocoa Beach",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineer-intern-cocoa-beach-florida-united-states",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "73828840d85071e46eec52ef1197228e4d060976295a834f2782806f6c939b5d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications • Currently enrolled in a college or university program as a sophomore or above (or a recent graduate within the last year).",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-syensqo-fjczt1p8fqllqzahaaaaaa==",
+    "job_title": "Intern Electrical Engineer",
+    "employer_name": "syensqo",
+    "job_city": "Vernon",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.syensqo.com/job/USA-Vernon%2C-TX-Intern-Electrical-Engineer-TX/1348666555/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "46b4dd36c180625ecff66b7b94add89d8b63f012dfb591d47b34f5ac13e03449",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Syensqo is all about chemistry.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-westinghouse-electric-company-llc-qzdaceog7uidyvjzaaaaaa==",
+    "job_title": "Electrical Engineer Intern Summer 2026",
+    "employer_name": "Westinghouse Electric Company, LLC",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Electrical-Engineer-Intern-Summer-2026-NC/1381281700/",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "4ac92e68f7b3bff0bbd4b9fac94e8049f178a0f29b77cdb2e8883b97522f655f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "http"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications: • Pursuing a bachelor's degree or higher in electrical engineering • Minimum GPA of 3.0 • Completed Sophomore year of college • No relocation assistance provided  We are committed to t…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
+    "job_title": "Hardware Engineering Co-op",
+    "employer_name": "Fresenius Medical Care",
+    "job_city": "Lawrence",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.freseniusmedicalcare.com/hardware-engineering-co-op/job/55C8F8E9BD353E65BE3630D1F3A1F19A",
+    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "31584f4df57968e15f06ebf2bcf7cba6c4bee8ad019ae32130e7ce9801874fea",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "microprocessor",
+        "system design"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Requirements: • Preferred MS in Electrical Engineering • Entry level understanding of product and process development of medical devices is preferred.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-09T00:00:00.000Z"
+  },
+  {
     "job_id": "js-healthtrust-i4uifun23sjxb4zsaaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "HealthTrust",
@@ -13122,128 +13361,6 @@
     "job_posted_at": "2026-04-09T00:00:00.000Z"
   },
   {
-    "job_id": "js-westinghouse-electric-company-llc-qzdaceog7uidyvjzaaaaaa==",
-    "job_title": "Electrical Engineer Intern Summer 2026",
-    "employer_name": "Westinghouse Electric Company, LLC",
-    "job_city": "North Carolina",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Electrical-Engineer-Intern-Summer-2026-NC/1381281700/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "4ac92e68f7b3bff0bbd4b9fac94e8049f178a0f29b77cdb2e8883b97522f655f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "http"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications: • Pursuing a bachelor's degree or higher in electrical engineering • Minimum GPA of 3.0 • Completed Sophomore year of college • No relocation assistance provided  We are committed to t…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amentum-wv4wttxtrli0rhb4aaaaaa==",
-    "job_title": "Electrical Engineer Intern",
-    "employer_name": "Amentum",
-    "job_city": "Cocoa Beach",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineer-intern-cocoa-beach-florida-united-states",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "73828840d85071e46eec52ef1197228e4d060976295a834f2782806f6c939b5d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications • Currently enrolled in a college or university program as a sophomore or above (or a recent graduate within the last year).",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-syensqo-fjczt1p8fqllqzahaaaaaa==",
-    "job_title": "Intern Electrical Engineer",
-    "employer_name": "syensqo",
-    "job_city": "Vernon",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.syensqo.com/job/USA-Vernon%2C-TX-Intern-Electrical-Engineer-TX/1348666555/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "46b4dd36c180625ecff66b7b94add89d8b63f012dfb591d47b34f5ac13e03449",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Syensqo is all about chemistry.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
     "job_id": "js-rocket-lab-rocketlab-z-npuwzftltedi7waaaaaa==",
     "job_title": "RF Test Engineering Intern",
     "employer_name": "Rocket Lab - rocketlab",
@@ -13433,123 +13550,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: None Job Family: Interns Job Qualifications: Skills:…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-dover-corporation-ta0n1usenlwhrzdeaaaaaa==",
-    "job_title": "Engineer, Hardware Intern",
-    "employer_name": "Dover Corporation",
-    "job_city": "Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.dovercorporation.com/job/Austin-Engineer%2C-Hardware-Intern-TX-78728/1382731533/",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "9d238b2d433790d81d9c7344c0a1a238874df67b829108285df53463ecc164c8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-redwire-space-f6p1uf1wtyyzwo2baaaaaa==",
-    "job_title": "Hardware Engineering Internship",
-    "employer_name": "redwire space",
-    "job_city": "Northborough",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobsearcher.com/jobs/1dc44a4a4295b59bc45c46f7d6ce47bcbd14c63a1c91c75605789169c7677c7e",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "a7c990f65d8e9e262a593234ef8de6b4a4ee58745055d2112cbb9d69433e76d2",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "altium",
-        "excel",
-        "fpga",
-        "git",
-        "microcontroller",
-        "python",
-        "solidworks"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Bring your passion for space!Join our team of innovators and get a chance to work alongside a team of talented, curious people that are passionate about designing and deploying solutions that are acce…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-09T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-fresenius-medical-care-8inbz_-9it41sgtcaaaaaa==",
-    "job_title": "Hardware Engineering Co-op",
-    "employer_name": "Fresenius Medical Care",
-    "job_city": "Lawrence",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.freseniusmedicalcare.com/hardware-engineering-co-op/job/55C8F8E9BD353E65BE3630D1F3A1F19A",
-    "job_posted_at_datetime_utc": "2026-04-09T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "31584f4df57968e15f06ebf2bcf7cba6c4bee8ad019ae32130e7ce9801874fea",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "microprocessor",
-        "system design"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Requirements: • Preferred MS in Electrical Engineering • Entry level understanding of product and process development of medical devices is preferred.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-09T00:00:00.000Z"
@@ -16754,18 +16754,18 @@
     "job_posted_at": "2026-04-08T07:00:56.710Z"
   },
   {
-    "job_id": "workday-moog-R-26-16997",
+    "job_id": "workday-moog-R-26-17015",
     "job_title": "Intern, Software Engineering",
     "employer_name": "Moog",
-    "job_city": "Torrance",
-    "job_state": "CA",
+    "job_city": "Buffalo",
+    "job_state": "NY",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-26-16997",
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17015",
     "job_posted_at_datetime_utc": "2026-04-08T07:00:53.225Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "aecddb424287e128e87fe1f84921956b9709bb73b7193788a49a42a9b831ecf6",
+    "fingerprint": "9a8d2d714f8440d6972b6e5f5f054899cdcdf2f9a4b9a9ef9f32932cc23d6340",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -16794,18 +16794,18 @@
     "job_posted_at": "2026-04-08T07:00:53.225Z"
   },
   {
-    "job_id": "workday-moog-R-26-17015",
+    "job_id": "workday-moog-R-26-16997",
     "job_title": "Intern, Software Engineering",
     "employer_name": "Moog",
-    "job_city": "Buffalo",
-    "job_state": "NY",
+    "job_city": "Torrance",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17015",
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Software-Engineering_R-26-16997",
     "job_posted_at_datetime_utc": "2026-04-08T07:00:53.225Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9a8d2d714f8440d6972b6e5f5f054899cdcdf2f9a4b9a9ef9f32932cc23d6340",
+    "fingerprint": "aecddb424287e128e87fe1f84921956b9709bb73b7193788a49a42a9b831ecf6",
     "tags": {
       "employment": "internship",
       "domains": [
