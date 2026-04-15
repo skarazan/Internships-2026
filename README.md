@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-475-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-473-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-200-blue?style=flat&logo=building)
 ![Other Internships](https://img.shields.io/badge/Other_Internships-235-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -70,13 +70,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Appian** | Software Engineering Intern | ✅ Sponsor | McLean | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/7727768) |
-| 🏢 **Cadence** | Software Intern | ✅ Sponsor | SAN JOSE | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R54380-1) |
-| 🏢 **Cadence (University)** | Software Intern | ✅ Sponsor | SAN JOSE | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R54380) |
+| 🏢 **Cadence** | Software Intern | ✅ Sponsor | SAN JOSE | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R54380-1) |
+| 🏢 **Cadence (University)** | Software Intern | ✅ Sponsor | SAN JOSE | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R54380) |
 | 🏢 **CACI** | Software Engineer Intern - Summer 2026 | ✅ Sponsor | TX Austin | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-TX-Austin/Software-Engineer-Intern---Summer-2026_316653) |
 | 🏢 **Amentum** | Intern - Software Systems Engineer | ✅ Sponsor | Huntsville | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amentumcareers.com/jobs/intern-software-systems-engineer-huntsville-alabama-united-states) |
-| 🏢 **Moog** | Intern, Systems Engineering |  | Buffalo, NY | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-16992) |
+| 🏢 **Moog** | Intern, Systems Engineering |  | Buffalo, NY | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-16992) |
 | 🏢 **Moog** | Intern, Software Engineering |  | Buffalo, NY + 1 more | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-16800) |
-| 🛡️ **BAE Systems** | Software Engineering Intern II, Summer 2026 |  | Unknown | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/118008BR/Software-Engineering-Intern-II-Summer-2026) |
 | 🏢 **Dick's Sporting Goods** | Android Software Engineer Summer Intern, Stats & Insights | ✅ Sponsor | Enfield | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/android-software-engineer-summer-intern-stats-insights/9033983) |
 | 🏢 **Astranis** | Embedded Software Developer, Network/Payload Software Intern (Summer 2026) |  | San Francisco | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4601134006) |
 | 🏢 **Carrier Global** | Software Engineering Intern - Summer | ✅ Sponsor | Syracuse, 6304 Ca... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30203896-1) |
@@ -163,11 +162,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Baird** | Internship - Data & Analytics (Milwaukee, WI)   Milwaukee, WI, USA |  | Milwaukee | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.efinancialcareers.com/jobs-USA-WI-Milwaukee-Internship_-_Data__Analytics_Milwaukee_WI.id24109970) |
 | 🏢 **Point72** | 2026 AI Engineer Intern, Long/Short Equities | ✅ Sponsor | New York | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/point72/jobs/8500448002?gh_jid=8500448002) |
 | 🏢 **FLIR Systems** | Business Data Analyst - Report Automation Focus (Intern) |  | Mountain View, CA... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Mountain-View-CA/Business-Data-Analyst---Report-Automation-Focus--Intern-_REQ33990) |
-| 🏢 **Waters Corporation** | Summer AI Engineer Intern — ML for Life Sciences | ✅ Sponsor | Milford | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/summer-ai-engineer-intern-ml-for-life-sciences--milford--e26f6526651d98d016592bb644d3acf7e) |
 | 🏢 **HealthTrust** | Data Science Intern |  | Nashville | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.hcahealthcare.com/jobs/17585097-software-quality-assurance-internship) |
 | 🏢 **AARP** | Generative AI Data Science Intern (NLP & Big Data) | ✅ Sponsor | Washington | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/generative-ai-data-science-intern-nlp-big-data--washington--eade81d49c2901527c4aeb82686ea7f74) |
-| 🏢 **Experian** | Data Science Summer Intern (Remote & Paid) | ✅ Sponsor | Baltimore | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/2yjFSJJoIsMV5FsBtxs5iS) |
 | 🏢 **Crum & Forster** | Data Science Intern- Summer 2026 - Morristown, NJ or Remote |  | Morristown | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.jobrapido.com/jobpreview/7418765942458417152) |
+| 🏢 **Experian** | Data Science Summer Intern (Remote & Paid) | ✅ Sponsor | Baltimore | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.digitalhire.com/job-listing/opening/2yjFSJJoIsMV5FsBtxs5iS) |
+| 🏢 **Waters Corporation** | Summer AI Engineer Intern — ML for Life Sciences | ✅ Sponsor | Milford | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/summer-ai-engineer-intern-ml-for-life-sciences--milford--e26f6526651d98d016592bb644d3acf7e) |
 | 🏢 **BMW Group** | Intern, Data Scientist - DSSC | ✅ Sponsor | Columbus | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.bmwgroup.com/job/Columbus-Intern%2C-Data-Scientist-DSSC-Ohio/1382355333/) |
 | 🌐 **Cisco** | Data Science Analyst I Intern United States | ✅ Sponsor | San Jose | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.wayup.com/i-j-Data-Science-Analyst-I-Intern-United-States-Cisco-631467400418251/) |
 | 🏢 **Circle K** | Data Science Intern, Global Data & Analytics | ✅ Sponsor | Charlotte | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://workwithus.circlek.com/global/en/job/CIKCGLOBALR565962EXTERNALENGLOBAL/Data-Science-Intern-Global-Data-Analytics) |
@@ -189,7 +188,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 📡 **Analog Devices** | AI/ML Design Layout Intern | ✅ Sponsor | US, MA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/AI-ML-Design-Layout-Intern_R257312) |
+| 📡 **Analog Devices** | AI/ML Design Layout Intern | ✅ Sponsor | US, MA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/AI-ML-Design-Layout-Intern_R257312) |
 | 🏢 **Moog** | Intern, Design Engineering |  | Blacksburg, VA + 2 more | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Design-Engineering_R-26-17084) |
 | 🏢 **Leidos** | Mechanical Design Engineer Summer Intern |  | Huntsville, AL | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00177432) |
 | 🏢 **RTX** | Stage - Automne 2026 - Conception pour Ingénierie, centre de produit - Composantes Externes Contrôle et Nacelle / Internship - Fall 2026 - Design for Product Center Engineering - External Component Control and Nacelle |  | Qc, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Conception-pour-Ingnierie--centre-de-produit---Composantes-Externes-Contrle-et-Nacelle---Internship---Fall-2026---Design-for-Product-Center-Engineering---External-Component-Control-and-Nacelle_01838018) |
@@ -328,7 +327,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
 | 🏢 **Veolia Environnement SA** | Finance Intern |  | Milwaukee, WI | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000120805918) |
-| 🏢 **Xometry** | Accounting Intern |  | North Bethesda, MD + 1 more | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5008903007) |
+| 🏢 **Xometry** | Accounting Intern |  | North Bethesda, MD + 1 more | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5008903007) |
 | 🏢 **Cloudflare** | Finance Business Operations Intern |  | Remote | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7808551?gh_jid=7808551) |
 | 🏢 **Five9** | Financial Analyst Intern |  | San Ramon | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.builtinsf.com/job/financial-analyst-intern/9038768) |
 | 🏢 **Essential Utilities** | Finance Intern |  | North Shore | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://builtin.com/job/finance-intern/8783873) |
@@ -344,7 +343,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Nichols College** | Operations Intern: Learn Finance, HR & Tech for Good |  | Dudley | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobleads.com/us/job/operations-intern-learn-finance-hr-tech-for-good--dudley--e656cc7c8914236578d7e0681b895512f) |
 | 🏢 **Nexthink** | Corporate Finance Intern |  | Boston | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.builtinboston.com/job/corporate-finance-intern/9009193) |
 | 🏢 **Lucid Software** | Customer Operations Intern - Summer 2026 |  | Raleigh, NC | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/lucidsoftware/jobs/5633294004) |
-| 🏢 **Sandisk** | Summer 2026 Sales and Business Operations Intern |  | Milpitas, CA | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/Sandisk/744000119273437) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -375,7 +373,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Visa | Location | Posted | **Apply** |
 |---------|------|------|----------|--------|----------|
-| 🏢 **Takeda** | 2026 Summer Internship Program: Global Procurement Intern |  | Boston, MA | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/XMLNAME-2026-Summer-Internship-Program--Global-Procurement-Intern_R0166341) |
+| 🏢 **Takeda** | 2026 Summer Internship Program: Global Procurement Intern |  | Boston, MA | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://takeda.wd3.myworkdayjobs.com/External/job/Boston-MA/XMLNAME-2026-Summer-Internship-Program--Global-Procurement-Intern_R0166341) |
 | 🏢 **Booz Allen Hamilton** | Procurement & Global Supply Chain Intern |  | McLean, VA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Procurement---Global-Supply-Chain-Intern_R0237620) |
 | 🏢 **Boston Dynamics** | Electronics Manufacturing & Supply Chain Engineering Intern | ✅ Sponsor | Waltham | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electronics-Manufacturing---Supply-Chain-Engineering-Intern_R2502) |
 | 🏢 **Curtiss-Wright** | Supply Chain Intern |  | OH-Brecksville | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Brecksville-Farris/Supply-Chain-Intern_JR11297) |
@@ -398,7 +396,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cloudflare** | Content Marketing Intern (July to December 2026) |  | Remote | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7733168?gh_jid=7733168) |
 | 🏢 **Contentful** | Communications & Marketing Intern |  | San Francisco | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/contentful/jobs/7793670) |
 | 🏢 **Hudl** | Social Media Intern |  | Lincoln, NE | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hudl/jobs/7571462) |
-| 🏢 **Cloudflare** | Marketing Campaigns and Account Based Marketing Intern  (3 months - Fall 2026)) |  | Remote | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7733377?gh_jid=7733377) |
+| 🏢 **Cloudflare** | Marketing Campaigns and Account Based Marketing Intern  (3 months - Fall 2026)) |  | Remote | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7733377?gh_jid=7733377) |
 | 🏢 **Hudl** | College & Professional Marketing Intern |  | Lincoln, NE | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/hudl/jobs/7643363) |
 | 🏢 **CACI** | Recruitment Marketing Intern - Summer 2026 |  | VA Reston | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Reston/Recruitment-Marketing-Intern---Summer-2026_322570) |
 | 🏢 **Zscaler** | Marketing Intern |  | San Jose | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5081917007) |
@@ -421,14 +419,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Johnson Controls** | Human Resource Grad Intern |  | Wisconsin-United ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/HR-Intern---Service-Operations_WD30259108-1) |
 | ⚗️ **Applied Materials** | 2026 Summer Intern - Technical Project/Program Manager | ✅ Sponsor | Santa Clara, CA | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Technical-Project-Program-Manager_R2519420) |
 | 🏢 **ResMed** | Product Lifecycle (Mechanical) Engineer Intern |  | Chatsworth CA Uni... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/Chatsworth-CA-United-States/Product-Lifecycle--Mechanical--Engineer-Intern_JR_050337) |
-| ☁️ **Salesforce** | Summer 2026 Intern - Strategy & Change Management |  | Illinois Chicago | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Summer-2026-Intern---Strategy---Change-Management-Intern_JR337175-1) |
+| ☁️ **Salesforce** | Summer 2026 Intern - Strategy & Change Management |  | Illinois Chicago | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Summer-2026-Intern---Strategy---Change-Management-Intern_JR337175-1) |
 | 🏢 **Microchip Technology** | Intern- Engineering (AI Marketing) |  | Chandler | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Intern--Engineering--AI-Marketing-_R1598-26) |
 | 🏢 **SEL** | Process Engineering Intern | ✅ Sponsor | Moscow, ID + 1 more | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Moscow/Process-Engineering-Intern_2026-20824) |
-| 🏢 **Okta** | Digital Solutions Intern (Summer 2026) |  | Bellevue | 5h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7551302?gh_jid=7551302) |
-| ⚗️ **Applied Materials** | Mechnical Engineer Intern |  | Santa Clara, CA | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechnical-Engineer-Intern_R2616255) |
+| 🏢 **Okta** | Digital Solutions Intern (Summer 2026) |  | Bellevue | 6h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.okta.com/company/careers/opportunity/7551302?gh_jid=7551302) |
+| ⚗️ **Applied Materials** | Mechnical Engineer Intern |  | Santa Clara, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechnical-Engineer-Intern_R2616255) |
 | ☁️ **Salesforce** | Summer 2026 Intern - Legal Associate |  | Chicago, IL | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Summer-2026-Intern---Legal-Associate_JR338460-1) |
 | 🏢 **Johnson & Johnson** | Co-Op MAKE MedTech |  | San Angelo | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/San-Angelo-Texas-United-States-of-America/Co-Op-MAKE-MedTech_R-068958) |
-| 🏢 **Rockwell Automation** | Intern, Digital Client |  | Mequon | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-1872) |
+| 🏢 **Rockwell Automation** | Intern, Digital Client |  | Mequon | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Digital-Client_R26-1872) |
 | 🏢 **Johnson Controls** | BEST Sales Intern HVAC Controls |  | Texas-United Stat... | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Houston-Texas-United-States-of-America/BEST-Sales-Intern-HVAC-Controls_WD30266824) |
 | 🏢 **RTX** | Stage - Automne 2026 - Étudiant en génie des matériaux (8 mois) / Internship - Fall 2026 - Materials Engineering Student (8 months) | ✅ Sponsor | Qc, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---tudiant-en-gnie-des-matriaux--8-mois----Internship---Fall-2026---Materials-Engineering-Student--8-months-_01837897) |
 | 🏢 **Bosch Group** | Chemistry Intern |  | Sunnyvale, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000120796028) |
@@ -440,7 +438,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Bosch Group** | Project Management/Sales Intern - Honda Driver Assistance |  | Plymouth, MI | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000120782717) |
 | 🏢 **Veolia Environnement SA** | Intern |  | Toms River, NJ + 1 more | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000120779747) |
 | 🏢 **Leidos** | Inventory Control Co-op |  | Bethesda, MD | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Inventory-Control-Co-op_R-00180806) |
-| 🏢 **CACI** | Space Systems Cyber Security Intern - Summer 2026 | ✅ Sponsor | CO Colorado Springs | 10h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Space-Systems-Cyber-Security-Intern---Summer-2026_324875) |
+| 🏢 **CACI** | Space Systems Cyber Security Intern - Summer 2026 | ✅ Sponsor | CO Colorado Springs | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Space-Systems-Cyber-Security-Intern---Summer-2026_324875) |
 | 🏢 **OpenAI** | Business Insights Intern |  | San Francisco | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ashbyhq.com/openai/821168d6-c97c-457a-9187-88a2cb95ba32/application) |
 | 🏢 **Leidos** | Project Management Intern |  | Reston, VA | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Project-Management-Intern_R-00178838) |
 | 🏢 **Hitachi** | Sales Operations and FP&A Intern |  | Santa Clara | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Sales-Operations-and-FP-A-Intern_R0126919) |
@@ -450,15 +448,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cloudflare** | Developer GTM Intern – Enterprise Sales & AI Automation (Summer 2026) |  | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7789256?gh_jid=7789256) |
 | 🏢 **Leidos** | Business Development High School Intern |  | Reston, VA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Business-Development-High-School-Intern_R-00180737) |
 | ⚗️ **Applied Materials** | 2026 Summer Internship - Optical Transceiver Engineer - PhD (Santa Clara, CA) |  | Santa Clara, CA | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Internship---Optical-Transceiver-Engineer---PhD--Santa-Clara--CA-_R2518403) |
-| 🏢 **Samsara** | Supply Planning Intern - Summer Intern |  | Remote | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7793470?gh_jid=7793470) |
-| 🏢 **Johnson Controls** | Fire Installer Intern | ✅ Sponsor | Pennsylvania-Unit... | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Cranberry-Township-Pennsylvania-United-States-of-America/Fire-Installer-Intern_WD30264162) |
+| 🏢 **Samsara** | Supply Planning Intern - Summer Intern |  | Remote | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.samsara.com/company/careers/roles/7793470?gh_jid=7793470) |
+| 🏢 **Johnson Controls** | Fire Installer Intern | ✅ Sponsor | Pennsylvania-Unit... | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Cranberry-Township-Pennsylvania-United-States-of-America/Fire-Installer-Intern_WD30264162) |
 | 🏢 **Formlabs** | Supply Planning Intern (Summer 2026) |  | Somerville, MA | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.formlabs.com/job/7723608/apply/?gh_jid=7723608) |
 | 🏢 **State Street** | State Street Audit Team - Business/Operational Auditor - Summer Internship 2026 |  | Boston | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Audit-Team---Business-Operational-Auditor---Summer-Internship-2026_R-787195) |
 | 🏢 **RTX** | Stage - Superviseur CO-OP ( St-Hubert ) |  | Qc, CA | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Superviseur-CO-OP---St-Hubert--_01837298) |
 | 🏢 **CACI** | Content & Documentation Intern - Summer 2026 |  | CO Colorado Springs | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/US-CO-Colorado-Springs/Content---Documentation-Intern---Summer-2026_324804) |
-| 🏢 **Bosch Group** | Intern, Engineering Application Mechanics - New Brake Systems |  | Plymouth, MI + 1 more | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000120702643) |
+| 🏢 **Bosch Group** | Intern, Engineering Application Mechanics - New Brake Systems |  | Plymouth, MI + 1 more | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000120702643) |
 | 🏢 **Veolia Environnement SA** | Analytical Laboratory Intern |  | Tomball, TX + 1 more | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000120682670) |
-| 🏢 **Moog** | Intern, Market Research |  | Buffalo, NY | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Market-Research_R-26-17174) |
+| 🏢 **Moog** | Intern, Market Research |  | Buffalo, NY | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Market-Research_R-26-17174) |
 | 🏢 **Ameriprise Financial** | Financial Planning Tools Intern (CFP® Pathway) |  | Minneapolis | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Financial-Planning-Scientist-Intern_R26_0476) |
 | 🏢 **Microchip Technology** | Intern- Administrative (Logistics Analyst) |  | Chandler | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Intern--Administrative--Logistics-Analyst-_R667-26) |
 | 🏢 **Amazon.com Services LLC** | 2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting | ✅ Sponsor | Seattle, WA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) |
@@ -636,7 +634,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 475 current opportunities from 200 companies**
+**🎯 473 current opportunities from 200 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
