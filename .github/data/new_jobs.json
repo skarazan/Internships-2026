@@ -25,6 +25,25 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "api",
+        "dashboards",
+        "data analysis",
+        "databricks",
+        "etl",
+        "flux",
+        "https",
+        "power bi"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Date d’affichag e / Date Posted: 2026-04-16 Pays / Country: Canada Emplacement / Location: CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG English will follow Titre du poste : Analyste d’aff…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T21:51:53.200Z"
   },
   {
@@ -82,6 +101,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "deep learning",
+        "express",
+        "java",
+        "machine learning",
+        "matlab",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "The Opportunity Adobe is looking for a Machine Learning intern who will apply AI and machine learning techniques to big-data problems to help Adobe better understand, lead and optimize the experience…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T21:48:21.663Z"
   },
   {
@@ -2211,6 +2248,23 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "deep learning",
+        "large language model",
+        "machine learning",
+        "palo alto",
+        "reinforcement learning",
+        "statistics",
+        "unsupervised learning"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Unlock the Future with Amazon Science!",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
