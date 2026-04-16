@@ -1,5 +1,61 @@
 [
   {
+    "job_id": "workday-takeda-R0166383",
+    "job_title": "2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern",
+    "employer_name": "Takeda",
+    "job_city": "MA - Cambridge - Kendall Square - 500",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/External/job/USA---MA---Cambridge---Kendall-Square---500/XMLNAME-2026-Summer-Internship-Program---US-New-Product-Launches--Data--Digital---Technology--DD-T--Intern_R0166383",
+    "job_posted_at_datetime_utc": "2026-04-16T18:44:59.729Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1f033b6115c93874101432064e3bf990076deb4e683bd228393eb65f0aac4571",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "healthcare"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T18:44:59.729Z"
+  },
+  {
+    "job_id": "workday-carrier-global-30203046",
+    "job_title": "FP&A Intern - Summer",
+    "employer_name": "Carrier Global",
+    "job_city": "Charlotte, 5900 Northwoods Business Parkway, Charlotte, NC, 28269 USA",
+    "job_state": "NC",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/FP-A-Intern---Summer_30203046",
+    "job_posted_at_datetime_utc": "2026-04-16T18:42:02.605Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "eadc4e7cca9d3433d9a9018f2ec176e610180f1b3a23d15eb120f2409c8abc67",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T18:42:02.605Z"
+  },
+  {
     "job_id": "workday-leidos-R-00181090",
     "job_title": "Computer Science Intern",
     "employer_name": "Leidos",
@@ -6251,6 +6307,62 @@
     "job_posted_at": "2026-04-14T07:01:49.892Z"
   },
   {
+    "job_id": "workday-leidos-R-00178838",
+    "job_title": "Project Management Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Project-Management-Intern_R-00178838",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c2059ac13bbf4cf038b9d6adc60433861ffea76e2c1e6c07381d2b941412769d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:58.430Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180737",
+    "job_title": "Business Development High School Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Business-Development-High-School-Intern_R-00180737",
+    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "397d5934e2cb010f62d57c4aeac46e6a21204093fa6a85efba2d094dab54f265",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-14T07:00:58.430Z"
+  },
+  {
     "job_id": "workday-leidos-R-00177432",
     "job_title": "Mechanical Design Engineer Summer Intern",
     "employer_name": "Leidos",
@@ -6308,62 +6420,6 @@
       "employment": "internship",
       "domains": [
         "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:58.430Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00178838",
-    "job_title": "Project Management Intern",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Project-Management-Intern_R-00178838",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c2059ac13bbf4cf038b9d6adc60433861ffea76e2c1e6c07381d2b941412769d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-14T07:00:58.430Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00180737",
-    "job_title": "Business Development High School Intern",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Business-Development-High-School-Intern_R-00180737",
-    "job_posted_at_datetime_utc": "2026-04-14T07:00:58.430Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "397d5934e2cb010f62d57c4aeac46e6a21204093fa6a85efba2d094dab54f265",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
       ],
       "locations": [
         "us"
@@ -6951,6 +7007,35 @@
       "summary_line": "Required Qualifications: • Must be a U.S.",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-bae-systems-cd4aw7nrym82d2ewaaaaaa==",
+    "job_title": "Software Engineering Intern II, Summer 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/118008BR/Software-Engineering-Intern-II-Summer-2026",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "84efd1c022e2f1d130dfd0e61d65e9fa9af043f7884438ed8e826d4afb643351",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -9719,34 +9804,6 @@
     "job_posted_at": "2026-04-13T07:01:25.560Z"
   },
   {
-    "job_id": "workday-microchip-technology-R667-26",
-    "job_title": "Intern- Administrative (Logistics Analyst)",
-    "employer_name": "Microchip Technology",
-    "job_city": "Chandler",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Intern--Administrative--Logistics-Analyst-_R667-26",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:49.302Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "579d8bde0149e682c779ac1dbd330cc435a38fe019360d8cc2f909a698272ca4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-13T07:00:49.302Z"
-  },
-  {
     "job_id": "workday-microchip-technology-R1465-26",
     "job_title": "Intern (Electrical & Computer Engineering)",
     "employer_name": "Microchip Technology",
@@ -9836,6 +9893,34 @@
       "summary_line": "Are you looking for a unique opportunity to be a part of something great?",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-13T07:00:49.302Z"
+  },
+  {
+    "job_id": "workday-microchip-technology-R667-26",
+    "job_title": "Intern- Administrative (Logistics Analyst)",
+    "employer_name": "Microchip Technology",
+    "job_city": "Chandler",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://microchiphr.wd5.myworkdayjobs.com/External/job/AZ---Chandler/Intern--Administrative--Logistics-Analyst-_R667-26",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:49.302Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "579d8bde0149e682c779ac1dbd330cc435a38fe019360d8cc2f909a698272ca4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-13T07:00:49.302Z"
   },
   {
@@ -10277,52 +10362,6 @@
     "job_posted_at": "2026-04-13T07:00:19.755Z"
   },
   {
-    "job_id": "workday-johnson-&-johnson-R-068249",
-    "job_title": "R&D Engineer Co-Op - Fall 2026",
-    "employer_name": "Johnson & Johnson",
-    "job_city": "Raritan",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Co-Op---Fall-2026_R-068249",
-    "job_posted_at_datetime_utc": "2026-04-13T07:00:19.016Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d23f4967b70174542f4eeacc895360ab1fbf2e1d01e3f15122e455700cf7d412",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cad",
-        "excel",
-        "https",
-        "less",
-        "mechatronics",
-        "microsoft office",
-        "robotics",
-        "solidworks"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T07:00:19.016Z"
-  },
-  {
     "job_id": "workday-johnson-&-johnson-R-067812",
     "job_title": "NA Outbound Transportation Co-Op",
     "employer_name": "Johnson & Johnson",
@@ -10376,6 +10415,52 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "job_posted_at": "2026-04-13T07:00:19.016Z"
+  },
+  {
+    "job_id": "workday-johnson-&-johnson-R-068249",
+    "job_title": "R&D Engineer Co-Op - Fall 2026",
+    "employer_name": "Johnson & Johnson",
+    "job_city": "Raritan",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jj.wd5.myworkdayjobs.com/jj/job/Raritan-New-Jersey-United-States-of-America/R-D-Engineer-Co-Op---Fall-2026_R-068249",
+    "job_posted_at_datetime_utc": "2026-04-13T07:00:19.016Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d23f4967b70174542f4eeacc895360ab1fbf2e1d01e3f15122e455700cf7d412",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cad",
+        "excel",
+        "https",
+        "less",
+        "mechatronics",
+        "microsoft office",
+        "robotics",
+        "solidworks"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-13T07:00:19.016Z"
   },
   {
@@ -16285,7 +16370,7 @@
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "��� We are looking for performance-driven, innovative leaders who understand the importance of collaboration and customer focus.",
+      "summary_line": "• We are looking for performance-driven, innovative leaders who understand the importance of collaboration and customer focus.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
