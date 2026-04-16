@@ -53,6 +53,24 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        ".net",
+        "c#",
+        "c++",
+        "computer science",
+        "data analysis",
+        "jmp",
+        "semiconductors",
+        "wafer"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T00:32:02.013Z"
   },
   {
@@ -1180,6 +1198,62 @@
     "job_posted_at": "2026-04-15T17:55:53.491Z"
   },
   {
+    "job_id": "workday-sel-2026-20327",
+    "job_title": "Human Resources Intern - Immigration",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Human-Resources-Intern---Immigration_2026-20327",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "628511c956617b5439b261935bebf60274bab743ebc82f1d49d3ff58b9946403",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20283",
+    "job_title": "Project Coordinator Intern",
+    "employer_name": "SEL",
+    "job_city": "Fairview Heights",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Fairview-Heights/Project-Coordinator-Intern_2026-20283-1",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1e6cdcc06460f81c042ff8a32d823970ed8046044d90e645193daf03080a2ea",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
     "job_id": "workday-sel-2026-20357",
     "job_title": "Application Engineering Intern",
     "employer_name": "SEL",
@@ -1612,62 +1686,6 @@
       "employment": "internship",
       "domains": [
         "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20327",
-    "job_title": "Human Resources Intern - Immigration",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Human-Resources-Intern---Immigration_2026-20327",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "628511c956617b5439b261935bebf60274bab743ebc82f1d49d3ff58b9946403",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20283",
-    "job_title": "Project Coordinator Intern",
-    "employer_name": "SEL",
-    "job_city": "Fairview Heights",
-    "job_state": "IL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Fairview-Heights/Project-Coordinator-Intern_2026-20283-1",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1e6cdcc06460f81c042ff8a32d823970ed8046044d90e645193daf03080a2ea",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
       ],
       "locations": [
         "us"
@@ -5558,23 +5576,22 @@
     "job_posted_at": "2026-04-14T01:50:23.000Z"
   },
   {
-    "job_id": "js-cruze-t_ekuchyuxuezsveaaaaaa==",
-    "job_title": "Machine Learning Intern",
-    "employer_name": "Cruze",
-    "job_city": "San Antonio",
+    "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
+    "job_title": "Electrical Engineering Intern - Summer 2026",
+    "employer_name": "Amentum",
+    "job_city": "Oak Ridge",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://us.trabajo.org/job-4112-93eb0ebbcbde9a95847ce622ae17bab7",
+    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineering-intern-summer-2026-oak-ridge-tennessee-united-states-9e76c274-0ff6-4723-ae4f-27dbafa3b64c",
     "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "e4b7b5249d782849ec8ba16ee60a012b3c3a9f81a250cad6582e05102a45dc6e",
+    "fingerprint": "cfa426ad38594f9facf84dbb03ba09fbc87ab684fcb7081526137a681e29592a",
     "tags": {
       "employment": "internship",
       "domains": [
-        "ai",
-        "data_science"
+        "hardware"
       ],
       "locations": [
         "us",
@@ -5587,18 +5604,14 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "linear",
-        "move",
-        "python",
-        "pytorch",
-        "robotics",
-        "tensorflow"
+        "autocad",
+        "microsoft office"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
-      "possible_sponsor": null,
+      "possible_sponsor": true,
       "is_simple_apply": false,
-      "summary_line": "Technical Requirements Math Heavy: Strong foundation in Linear Algebra, Calculus, and Differential Equations.",
+      "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -5648,6 +5661,52 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cruze-t_ekuchyuxuezsveaaaaaa==",
+    "job_title": "Machine Learning Intern",
+    "employer_name": "Cruze",
+    "job_city": "San Antonio",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://us.trabajo.org/job-4112-93eb0ebbcbde9a95847ce622ae17bab7",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e4b7b5249d782849ec8ba16ee60a012b3c3a9f81a250cad6582e05102a45dc6e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "linear",
+        "move",
+        "python",
+        "pytorch",
+        "robotics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Technical Requirements Math Heavy: Strong foundation in Linear Algebra, Calculus, and Differential Equations.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -5944,47 +6003,6 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
-    "job_title": "Electrical Engineering Intern - Summer 2026",
-    "employer_name": "Amentum",
-    "job_city": "Oak Ridge",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineering-intern-summer-2026-oak-ridge-tennessee-united-states-9e76c274-0ff6-4723-ae4f-27dbafa3b64c",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cfa426ad38594f9facf84dbb03ba09fbc87ab684fcb7081526137a681e29592a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
-      "is_remote": false
-    },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -8921,6 +8939,51 @@
     "job_posted_at": "2026-04-13T05:01:27.673Z"
   },
   {
+    "job_id": "js-american-honda-motor-co-inc-w_5u4zhbr_8ccj9xaaaaaa==",
+    "job_title": "Electrical Engineering Co-op/Intern - Fall 2026",
+    "employer_name": "American Honda Motor Co., Inc.",
+    "job_city": "Unknown",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.honda.com/us/en/job/9633/Electrical-Engineering-Co-op-Intern-Fall-2026",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "a70c7a8b1061ef94a36409aa28dd4db42e45239b6bcc3a3b868dafa12d6b3b4c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "express",
+        "networking",
+        "performance testing",
+        "project management",
+        "reporting"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Electrical Engineering Co-op/Intern – Fall 2026",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
     "job_id": "js-earnin-yb8i6cavaiuqrv1haaaaaa==",
     "job_title": "Machine Learning Intern",
     "employer_name": "Earnin",
@@ -9140,51 +9203,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "About You  The company is looking for: • Currently pursuing a B.S.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-american-honda-motor-co-inc-w_5u4zhbr_8ccj9xaaaaaa==",
-    "job_title": "Electrical Engineering Co-op/Intern - Fall 2026",
-    "employer_name": "American Honda Motor Co., Inc.",
-    "job_city": "Unknown",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.honda.com/us/en/job/9633/Electrical-Engineering-Co-op-Intern-Fall-2026",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "a70c7a8b1061ef94a36409aa28dd4db42e45239b6bcc3a3b868dafa12d6b3b4c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "express",
-        "networking",
-        "performance testing",
-        "project management",
-        "reporting"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Electrical Engineering Co-op/Intern – Fall 2026",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T00:00:00.000Z"
@@ -9643,6 +9661,50 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-nightwing-se8ltwxydkwi3i9raaaaaa==",
+    "job_title": "RF Engineering Intern",
+    "employer_name": "Nightwing",
+    "job_city": "Sterling",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/nightwing/jobs-internships/rf-engineering-intern-0",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "5db8a6e56c29b6d8e74a1804ed207d78d1010638e870c784074dcd3afbf6194f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "hfss",
+        "microsoft office",
+        "microwave",
+        "rf"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "About You  The company is looking for: • Currently pursuing a Bachelor's or Master's degree in Electrical Engineering, or a related field.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "js-general-dynamics-information-technology-bnmrht36asuypkgaaaaaaa==",
     "job_title": "Artificial Intelligence & Machine Learning Associate Intern",
     "employer_name": "General Dynamics Information Technology",
@@ -10053,50 +10115,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Qualifications • Proficiency in programming languages such as Python, R, or similar.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-nightwing-se8ltwxydkwi3i9raaaaaa==",
-    "job_title": "RF Engineering Intern",
-    "employer_name": "Nightwing",
-    "job_city": "Sterling",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/nightwing/jobs-internships/rf-engineering-intern-0",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "5db8a6e56c29b6d8e74a1804ed207d78d1010638e870c784074dcd3afbf6194f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "hfss",
-        "microsoft office",
-        "microwave",
-        "rf"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "About You  The company is looking for: • Currently pursuing a Bachelor's or Master's degree in Electrical Engineering, or a related field.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
@@ -13811,6 +13829,25 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data modeling",
+        "data science",
+        "machine learning",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "sql",
+        "tensorflow"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "What We’re Looking For  Required: • Familiarity with machine learning concepts (coursework or projects) • Experience with Python, SQL, or similar • Strong analytical and problem-solving skills • Clear…",
+      "is_remote": true
+    },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
@@ -13841,6 +13878,31 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "data science",
+        "databricks",
+        "github",
+        "https",
+        "machine learning",
+        "neural network",
+        "numpy",
+        "pandas",
+        "python",
+        "scikit-learn",
+        "scipy",
+        "sql",
+        "statistics",
+        "xgboost"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Schneider Electric™ creates connected technologies that reshape industries, transform cities and enrich lives.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-10T00:00:00.000Z"
   },
   {
