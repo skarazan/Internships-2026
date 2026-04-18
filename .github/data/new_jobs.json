@@ -3967,34 +3967,6 @@
     "job_posted_at": "2026-04-16T10:20:19.241Z"
   },
   {
-    "job_id": "workday-rtx-01836795",
-    "job_title": "Stage - Automne 2026 - Analyste en comptabilité financière / Internship - Fall 2026 - Financial Accounting Analyst",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyste-en-comptabilit-financire---Internship---Fall-2026---Financial-Accounting-Analyst_01836795",
-    "job_posted_at_datetime_utc": "2026-04-16T10:20:08.250Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "de03ea4e9972668764eb053d18841d65a87efe9fe6ac48968a779309ebfb2211",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "finance"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T10:20:08.250Z"
-  },
-  {
     "job_id": "workday-rtx-01838201",
     "job_title": "Summer 2026– Infrastructure PMO Ops & Partnership Intern (Remote)",
     "employer_name": "RTX",
@@ -4248,6 +4220,34 @@
     "job_posted_at": "2026-04-16T10:20:08.250Z"
   },
   {
+    "job_id": "workday-rtx-01836795",
+    "job_title": "Stage - Automne 2026 - Analyste en comptabilité financière / Internship - Fall 2026 - Financial Accounting Analyst",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyste-en-comptabilit-financire---Internship---Fall-2026---Financial-Accounting-Analyst_01836795",
+    "job_posted_at_datetime_utc": "2026-04-16T10:20:08.250Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "de03ea4e9972668764eb053d18841d65a87efe9fe6ac48968a779309ebfb2211",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T10:20:08.250Z"
+  },
+  {
     "job_id": "workday-rtx-01837489",
     "job_title": "Stage - Automne 2026 - Analyste d’affaires et de Données / Internship - Fall 2026 - Business & Data Analyst",
     "employer_name": "RTX",
@@ -4467,84 +4467,6 @@
     "job_posted_at": "2026-04-16T10:20:03.815Z"
   },
   {
-    "job_id": "workday-leidos-R-00177690",
-    "job_title": "Cyber & Privacy Intern",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Cyber---Privacy-Intern_R-00177690",
-    "job_posted_at_datetime_utc": "2026-04-16T10:19:09.959Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1da27bfec447ad6fd9fe721fc39b10da3bac5e4aad5e135af5da675ec6d0deff",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-16T10:19:09.959Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00170158",
-    "job_title": "AI Data Science Intern",
-    "employer_name": "Leidos",
-    "job_city": "Orlando",
-    "job_state": "FL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/AI-Data-Science-Intern_R-00170158",
-    "job_posted_at_datetime_utc": "2026-04-16T10:19:09.959Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2481a836d00f9f1731a93a694983cab7e7f2106d722ecc97e2ce4e9e1166b094",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "computer vision",
-        "data pipeline",
-        "data science",
-        "java",
-        "javascript",
-        "large language model",
-        "llm",
-        "machine learning",
-        "multimodal",
-        "natural language processing",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Leidos is seeking a university student to join our Orlando-based team as Software Development Interns supporting Internal Research and Development (IRAD) efforts.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T10:19:09.959Z"
-  },
-  {
     "job_id": "workday-leidos-R-00180872",
     "job_title": "Software Engineer Intern",
     "employer_name": "Leidos",
@@ -4667,6 +4589,84 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "job_posted_at": "2026-04-16T10:19:09.959Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00177690",
+    "job_title": "Cyber & Privacy Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Cyber---Privacy-Intern_R-00177690",
+    "job_posted_at_datetime_utc": "2026-04-16T10:19:09.959Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1da27bfec447ad6fd9fe721fc39b10da3bac5e4aad5e135af5da675ec6d0deff",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-16T10:19:09.959Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00170158",
+    "job_title": "AI Data Science Intern",
+    "employer_name": "Leidos",
+    "job_city": "Orlando",
+    "job_state": "FL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/AI-Data-Science-Intern_R-00170158",
+    "job_posted_at_datetime_utc": "2026-04-16T10:19:09.959Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2481a836d00f9f1731a93a694983cab7e7f2106d722ecc97e2ce4e9e1166b094",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer vision",
+        "data pipeline",
+        "data science",
+        "java",
+        "javascript",
+        "large language model",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "natural language processing",
+        "python"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Leidos is seeking a university student to join our Orlando-based team as Software Development Interns supporting Internal Research and Development (IRAD) efforts.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T10:19:09.959Z"
   },
   {
@@ -5794,73 +5794,22 @@
     "job_posted_at": "2026-04-16T00:32:02.013Z"
   },
   {
-    "job_id": "js-fullsteam-sbp1hqxdhleijkt9aaaaaa==",
-    "job_title": "Data Science, Machine Learning & AI Intern",
-    "employer_name": "Fullsteam",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://builtin.com/job/data-science-machine-learning-ai-intern/9087628",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "8c7335ce477be0a78ae700a74946774ccc3f9b7973273d521426f3523c60e2d4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "machine learning",
-        "python",
-        "pytorch",
-        "scikit-learn",
-        "sql",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Minimum Qualifications: • Currently pursuing or recently completed a Master’s degree in Statistics, Data Science, Computer Science, Machine Learning, Mathematics, or a related quantitative field • Cou…",
-      "is_remote": true
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-pge-corporation-qbik1jsyduosjuohaaaaaa==",
-    "job_title": "Electric Substation engineering Business Operations Intern",
-    "employer_name": "PG&E Corporation",
-    "job_city": "West Sacramento",
+    "job_id": "js-noblis-rl-3ckss65bl8dyfaaaaaa==",
+    "job_title": "Health Data AI/ML Intern",
+    "employer_name": "Noblis",
+    "job_city": "Dover",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.pge.com/job/west-sacramento/electric-substation-engineering-business-operations-intern/29673/94046728448",
+    "job_apply_link": "https://www.jobleads.com/us/job/summer-2026-health-data-ai-ml-intern--dover--e65536738449387f71d5d6827553fb131",
     "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "3da469349e173ec46c96ab23cfb9a206d7f1488c1680a5677f3ad509d7d91ede",
+    "fingerprint": "5ead55770abacf9f566ac7a6008b8149b68db09f91e5279258576a763d373548",
     "tags": {
       "employment": "internship",
       "domains": [
-        "hardware",
-        "operations"
+        "ai"
       ],
       "locations": [
         "us",
@@ -5871,20 +5820,64 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "dashboards",
-        "excel",
-        "program management",
-        "reporting"
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-finance-intern-united-states-of-america-cdd-qmvz6lpedb0t-l2eaaaaaa==",
+    "job_title": "Finance Intern",
+    "employer_name": "Finance Intern, United States of America, CDD",
+    "job_city": "Paramus",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.veolia.com/en/job/paramus/finance-intern/3091/37368348928",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f29ae1867212ccbac8df6dd657180f424711e9ecb58dec7c1f2f0750aa823c4c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
       ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications",
-      "is_remote": false
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
     },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-asure-software-ubt5tnvefngeshw7aaaaaa==",
+    "job_title": "Intern - Finance",
+    "employer_name": "Asure Software",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.builtinaustin.com/job/intern-finance/9083920",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "7e749d607e11d7801543e95e77176cccf2e163e64791388472ea2c52d7dac3d2",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "finance"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
@@ -6029,22 +6022,22 @@
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
-    "job_id": "js-finance-intern-united-states-of-america-cdd-qmvz6lpedb0t-l2eaaaaaa==",
-    "job_title": "Finance Intern",
-    "employer_name": "Finance Intern, United States of America, CDD",
-    "job_city": "Paramus",
+    "job_id": "js-leidos-j2ksevlfdgzanefjaaaaaa==",
+    "job_title": "Computer Science Intern",
+    "employer_name": "Leidos",
+    "job_city": "Alexandria",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.veolia.com/en/job/paramus/finance-intern/3091/37368348928",
+    "job_apply_link": "https://onemainfinancial-veteranjobs.dejobs.org/alexandria-va/computer-science-intern/71B40A4E4A8F434DA5BF32A08B227481/job/",
     "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "f29ae1867212ccbac8df6dd657180f424711e9ecb58dec7c1f2f0750aa823c4c",
+    "fingerprint": "1125fe61782d8aa1fd2b4b88f46f7567a5cfebcaa4da1ca71a8d978442723688",
     "tags": {
       "employment": "internship",
       "domains": [
-        "finance"
+        "general"
       ],
       "locations": [
         "us",
@@ -6058,22 +6051,73 @@
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
-    "job_id": "js-asure-software-ubt5tnvefngeshw7aaaaaa==",
-    "job_title": "Intern - Finance",
-    "employer_name": "Asure Software",
-    "job_city": "Austin",
+    "job_id": "js-fullsteam-sbp1hqxdhleijkt9aaaaaa==",
+    "job_title": "Data Science, Machine Learning & AI Intern",
+    "employer_name": "Fullsteam",
+    "job_city": "",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.builtinaustin.com/job/intern-finance/9083920",
+    "job_is_remote": true,
+    "job_apply_link": "https://builtin.com/job/data-science-machine-learning-ai-intern/9087628",
     "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
     "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "7e749d607e11d7801543e95e77176cccf2e163e64791388472ea2c52d7dac3d2",
+    "fingerprint": "8c7335ce477be0a78ae700a74946774ccc3f9b7973273d521426f3523c60e2d4",
     "tags": {
       "employment": "internship",
       "domains": [
-        "finance"
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "machine learning",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "sql",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Minimum Qualifications: • Currently pursuing or recently completed a Master’s degree in Statistics, Data Science, Computer Science, Machine Learning, Mathematics, or a related quantitative field • Cou…",
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-pge-corporation-qbik1jsyduosjuohaaaaaa==",
+    "job_title": "Electric Substation engineering Business Operations Intern",
+    "employer_name": "PG&E Corporation",
+    "job_city": "West Sacramento",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.pge.com/job/west-sacramento/electric-substation-engineering-business-operations-intern/29673/94046728448",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "3da469349e173ec46c96ab23cfb9a206d7f1488c1680a5677f3ad509d7d91ede",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware",
+        "operations"
       ],
       "locations": [
         "us",
@@ -6084,6 +6128,20 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "excel",
+        "program management",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
   },
   {
@@ -8808,50 +8866,6 @@
     "job_posted_at": "2026-04-15T07:01:08.009Z"
   },
   {
-    "job_id": "workday-leidos-R-00180867",
-    "job_title": "Data Engineer Intern",
-    "employer_name": "Leidos",
-    "job_city": "Fort Belvoir",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867",
-    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "53c1d714e9a58eeefe409bb977c1bcca4f22f0da1d5c8e3ff0fb47e27d2f84bc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "cybersecurity",
-        "data lake",
-        "fine-tuning",
-        "information security",
-        "infrastructure as code",
-        "llm"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "This internship will provide rotational exposure to the Defense Threat Reduction Agency (DTRA) Experimentation Lab (DEL) operations within a cleared DoW environment.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:00:17.245Z"
-  },
-  {
     "job_id": "workday-leidos-R-00180874",
     "job_title": "Systems, Integration and Software Engineer Intern",
     "employer_name": "Leidos",
@@ -8980,6 +8994,50 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "The Transportation Solution Division within the Leidos Civil group is seeking a Systems, Integration and Software Engineer Intern who will be a member of a dynamic team working on the one of several A…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:00:17.245Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00180867",
+    "job_title": "Data Engineer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Fort Belvoir",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867",
+    "job_posted_at_datetime_utc": "2026-04-15T07:00:17.245Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "53c1d714e9a58eeefe409bb977c1bcca4f22f0da1d5c8e3ff0fb47e27d2f84bc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "cybersecurity",
+        "data lake",
+        "fine-tuning",
+        "information security",
+        "infrastructure as code",
+        "llm"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "This internship will provide rotational exposure to the Defense Threat Reduction Agency (DTRA) Experimentation Lab (DEL) operations within a cleared DoW environment.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T07:00:17.245Z"
@@ -11430,18 +11488,18 @@
     "job_posted_at": "2026-04-14T07:21:13.474Z"
   },
   {
-    "job_id": "workday-applied-materials-R2616255",
-    "job_title": "Mechnical Engineer Intern",
+    "job_id": "workday-applied-materials-R2518403",
+    "job_title": "2026 Summer Internship - Optical Transceiver Engineer - PhD (Santa Clara, CA)",
     "employer_name": "Applied Materials",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechnical-Engineer-Intern_R2616255",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Internship---Optical-Transceiver-Engineer---PhD--Santa-Clara--CA-_R2518403",
     "job_posted_at_datetime_utc": "2026-04-14T07:20:56.146Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "1b42081eb63f5ce9f6d8aa2758259fe9c1d40bb56b53080ed3cff54c42134f2e",
+    "fingerprint": "35fdfb1a2a283b3ff27a6c14d96fe2ddfab8e00cb555e4fad98fe8830024a8f4",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -11458,18 +11516,18 @@
     "job_posted_at": "2026-04-14T07:20:56.146Z"
   },
   {
-    "job_id": "workday-applied-materials-R2518403",
-    "job_title": "2026 Summer Internship - Optical Transceiver Engineer - PhD (Santa Clara, CA)",
+    "job_id": "workday-applied-materials-R2616255",
+    "job_title": "Mechnical Engineer Intern",
     "employer_name": "Applied Materials",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Internship---Optical-Transceiver-Engineer---PhD--Santa-Clara--CA-_R2518403",
+    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Mechnical-Engineer-Intern_R2616255",
     "job_posted_at_datetime_utc": "2026-04-14T07:20:56.146Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "35fdfb1a2a283b3ff27a6c14d96fe2ddfab8e00cb555e4fad98fe8830024a8f4",
+    "fingerprint": "1b42081eb63f5ce9f6d8aa2758259fe9c1d40bb56b53080ed3cff54c42134f2e",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -12437,6 +12495,77 @@
     "job_posted_at": "2026-04-14T01:50:23.000Z"
   },
   {
+    "job_id": "js-poshmark-06fjte4pkzxf80ruaaaaaa==",
+    "job_title": "AI/ML Engineering Intern (Summer 2026)",
+    "employer_name": "Poshmark",
+    "job_city": "Redwood City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.ashbyhq.com/poshmark/0eee9939-6306-47a2-9b24-8cb7bf1dec71/application",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "9b9792b6bb418713d6337236e22626da399484b94035603218a7bf8a4249379f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "airflow",
+        "classification",
+        "computer science",
+        "data science",
+        "databricks",
+        "datadog",
+        "docker",
+        "fastapi",
+        "flask",
+        "grafana",
+        "java",
+        "jenkins",
+        "kafka",
+        "kibana",
+        "kubernetes",
+        "machine learning",
+        "mlflow",
+        "mongodb",
+        "python",
+        "pytorch",
+        "rabbitmq",
+        "redis",
+        "redshift",
+        "regression",
+        "scala",
+        "sklearn",
+        "spark",
+        "sql",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "💡 What You’ll Bring • Pursuing or just finished a degree in relevant quantitative field such as Statistics, Math, Computer Science or Data Science  • Familiarity with Machine Learning techniques and…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
     "job_id": "js-unitedhealth-group-x-jb7npylchotnrjaaaaaa==",
     "job_title": "AI/ML Research Intern - PHD Level - Remote",
     "employer_name": "UnitedHealth Group",
@@ -12491,63 +12620,22 @@
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
-    "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
-    "job_title": "Electrical Engineering Intern - Summer 2026",
-    "employer_name": "Amentum",
-    "job_city": "Oak Ridge",
+    "job_id": "js-arrivia-b9ugo5kbntgtybvaaaaaaa==",
+    "job_title": "Finance Intern",
+    "employer_name": "arrivia",
+    "job_city": "Scottsdale",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineering-intern-summer-2026-oak-ridge-tennessee-united-states-9e76c274-0ff6-4723-ae4f-27dbafa3b64c",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cfa426ad38594f9facf84dbb03ba09fbc87ab684fcb7081526137a681e29592a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-stantec-1ixrtpyq2xm0pxxtaaaaaa==",
-    "job_title": "Electrical Engineering Intern - Transportation (Summer 2026)",
-    "employer_name": "Stantec",
-    "job_city": "Baton Rouge",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://stantec.jobs/baton-rouge-la/electrical-engineering-intern-transportation-summer-2026/B01E2619104448E4882DA435F2248021/job/",
+    "job_apply_link": "https://builtin.com/job/finance-intern/9058073",
     "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
     "job_employment_type": "INTERNSHIP",
     "salary": null,
-    "fingerprint": "473310a2ee12ace7d1ab44f1dee749bf9d560ec969b3a372746c5dd2d5e7a432",
+    "fingerprint": "884bf288b1bdffde4aa31c0aee526398e5d695e99968e8ee7baa5bf5256f7f83",
     "tags": {
       "employment": "internship",
       "domains": [
-        "hardware"
+        "finance"
       ],
       "locations": [
         "us",
@@ -12558,17 +12646,35 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics"
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cloudflare-goyb-5cnaif6gzxjaaaaaa==",
+    "job_title": "Finance Business Operations Intern",
+    "employer_name": "Cloudflare",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.builtinsf.com/job/finance-business-operations-intern/9048215",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "255b660a53afb89905bdd52eb7e49ca16b699426af8f481cebb35c8f48797d57",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
       ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Education and Experience • Enrolled in an ABET accredited university in pursuit of a Bachelor’s or higher degree in Electrical Engineering  Typical office environment working with computers and remain…",
-      "is_remote": false
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
     },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -12616,90 +12722,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-coherent-corp-8zgwb7mmvs5cf8isaaaaaa==",
-    "job_title": "Intern - Data Scientist",
-    "employer_name": "Coherent Corp.",
-    "job_city": "Easton",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/intern-data-scientist/8824204",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "71e8677dbf481a6a0fa3792dfd9166e39f22baff840a82f8cc49dadfb9335d5f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Education & Experience • Open to currently enrolled students or those who have graduated within one year of the internship start date.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-rtx-taxcvdtushu0a0euaaaaaa==",
-    "job_title": "2026 Raytheon Summer Intern- Software Engineer (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "Aurora",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.rtx.com/ca/fr/job/01838378/2026-Raytheon-Summer-Intern-Software-Engineer-Onsite",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a3cf169483825e534f4726c023e5e6b0e6c27b673590ead0c9b61f17d4c1a8ec",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "continuous delivery",
-        "continuous integration",
-        "devsecops"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Person, or Immigration Status Requirements: The ability to obtain and maintain a U.S.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -12844,23 +12866,102 @@
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
-    "job_id": "js-poshmark-06fjte4pkzxf80ruaaaaaa==",
-    "job_title": "AI/ML Engineering Intern (Summer 2026)",
-    "employer_name": "Poshmark",
-    "job_city": "Redwood City",
+    "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
+    "job_title": "Electrical Engineering Intern - Summer 2026",
+    "employer_name": "Amentum",
+    "job_city": "Oak Ridge",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://jobs.ashbyhq.com/poshmark/0eee9939-6306-47a2-9b24-8cb7bf1dec71/application",
+    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineering-intern-summer-2026-oak-ridge-tennessee-united-states-9e76c274-0ff6-4723-ae4f-27dbafa3b64c",
     "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
+    "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "9b9792b6bb418713d6337236e22626da399484b94035603218a7bf8a4249379f",
+    "fingerprint": "cfa426ad38594f9facf84dbb03ba09fbc87ab684fcb7081526137a681e29592a",
     "tags": {
       "employment": "internship",
       "domains": [
-        "software",
-        "ai",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-stantec-1ixrtpyq2xm0pxxtaaaaaa==",
+    "job_title": "Electrical Engineering Intern - Transportation (Summer 2026)",
+    "employer_name": "Stantec",
+    "job_city": "Baton Rouge",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://stantec.jobs/baton-rouge-la/electrical-engineering-intern-transportation-summer-2026/B01E2619104448E4882DA435F2248021/job/",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "473310a2ee12ace7d1ab44f1dee749bf9d560ec969b3a372746c5dd2d5e7a432",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Education and Experience • Enrolled in an ABET accredited university in pursuit of a Bachelor’s or higher degree in Electrical Engineering  Typical office environment working with computers and remain…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-coherent-corp-8zgwb7mmvs5cf8isaaaaaa==",
+    "job_title": "Intern - Data Scientist",
+    "employer_name": "Coherent Corp.",
+    "job_city": "Easton",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/intern-data-scientist/8824204",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "71e8677dbf481a6a0fa3792dfd9166e39f22baff840a82f8cc49dadfb9335d5f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
         "data_science"
       ],
       "locations": [
@@ -12874,63 +12975,34 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "airflow",
-        "classification",
-        "computer science",
-        "data science",
-        "databricks",
-        "datadog",
-        "docker",
-        "fastapi",
-        "flask",
-        "grafana",
-        "java",
-        "jenkins",
-        "kafka",
-        "kibana",
-        "kubernetes",
-        "machine learning",
-        "mlflow",
-        "mongodb",
-        "python",
-        "pytorch",
-        "rabbitmq",
-        "redis",
-        "redshift",
-        "regression",
-        "scala",
-        "sklearn",
-        "spark",
-        "sql",
-        "statistics",
-        "tensorflow"
+        "computer science"
       ],
-      "sponsors_visa": null,
+      "sponsors_visa": false,
       "visa_question_present": false,
-      "possible_sponsor": true,
+      "possible_sponsor": null,
       "is_simple_apply": false,
-      "summary_line": "💡 What You’ll Bring • Pursuing or just finished a degree in relevant quantitative field such as Statistics, Math, Computer Science or Data Science  • Familiarity with Machine Learning techniques and…",
+      "summary_line": "Education & Experience • Open to currently enrolled students or those who have graduated within one year of the internship start date.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
-    "job_id": "js-arrivia-b9ugo5kbntgtybvaaaaaaa==",
-    "job_title": "Finance Intern",
-    "employer_name": "arrivia",
-    "job_city": "Scottsdale",
+    "job_id": "js-rtx-taxcvdtushu0a0euaaaaaa==",
+    "job_title": "2026 Raytheon Summer Intern- Software Engineer (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "Aurora",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/finance-intern/9058073",
+    "job_apply_link": "https://careers.rtx.com/ca/fr/job/01838378/2026-Raytheon-Summer-Intern-Software-Engineer-Onsite",
     "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
+    "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "884bf288b1bdffde4aa31c0aee526398e5d695e99968e8ee7baa5bf5256f7f83",
+    "fingerprint": "a3cf169483825e534f4726c023e5e6b0e6c27b673590ead0c9b61f17d4c1a8ec",
     "tags": {
       "employment": "internship",
       "domains": [
-        "finance"
+        "software"
       ],
       "locations": [
         "us",
@@ -12941,35 +13013,21 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cloudflare-goyb-5cnaif6gzxjaaaaaa==",
-    "job_title": "Finance Business Operations Intern",
-    "employer_name": "Cloudflare",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.builtinsf.com/job/finance-business-operations-intern/9048215",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "255b660a53afb89905bdd52eb7e49ca16b699426af8f481cebb35c8f48797d57",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "continuous delivery",
+        "continuous integration",
+        "devsecops"
       ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Person, or Immigration Status Requirements: The ability to obtain and maintain a U.S.",
+      "is_remote": false
     },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-14T00:00:00.000Z"
   },
   {
@@ -16540,6 +16598,86 @@
     "job_posted_at": "2026-04-13T05:01:27.673Z"
   },
   {
+    "job_id": "js-general-motors-a9eezqrzoecz75-jaaaaaa==",
+    "job_title": "2026 Summer Intern - AI/ML Intern - Vision Language Model/Action (PhD)",
+    "employer_name": "General Motors",
+    "job_city": "Sunnyvale",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.whatjobs.com/jobs/2026-summer-intern-ai-ml/sunnyvale-california?id=2638388040",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "7b72f623c3b389170dff24650cf21f52a3efbb1a0e536c398539103277193d34",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "adas",
+        "computer science",
+        "deep learning",
+        "llm",
+        "machine learning",
+        "multimodal",
+        "python",
+        "pytorch",
+        "reinforcement learning",
+        "robotics",
+        "tensorflow",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description To help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cambia-health-solutions-uk9zxberztgjc9heaaaaaa==",
+    "job_title": "AI Scientist Intern",
+    "employer_name": "Cambia Health Solutions",
+    "job_city": "Salt Lake City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/cambia-health-solutions/jobs-internships/ai-scientist-intern",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "b1a431bd7c472b17eaa5dd6bec3f8e461123f5068989e79a4fcc034204314318",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
     "job_id": "js-magna-international-v33ewujpuhwoedtaaaaaaa==",
     "job_title": "Electrical Engineering Intern",
     "employer_name": "Magna International",
@@ -16928,86 +17066,6 @@
       "summary_line": "Required Skills  • Currently pursuing a Bachelor's or Master's degree in Data Science, Computer Science, Mathematics, Statistics, Engineering, or a related field • Strong foundation in Python (Pandas,…",
       "is_remote": false
     },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-general-motors-a9eezqrzoecz75-jaaaaaa==",
-    "job_title": "2026 Summer Intern - AI/ML Intern - Vision Language Model/Action (PhD)",
-    "employer_name": "General Motors",
-    "job_city": "Sunnyvale",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.whatjobs.com/jobs/2026-summer-intern-ai-ml/sunnyvale-california?id=2638388040",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "7b72f623c3b389170dff24650cf21f52a3efbb1a0e536c398539103277193d34",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "adas",
-        "computer science",
-        "deep learning",
-        "llm",
-        "machine learning",
-        "multimodal",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "robotics",
-        "tensorflow",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Job Description To help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-cambia-health-solutions-uk9zxberztgjc9heaaaaaa==",
-    "job_title": "AI Scientist Intern",
-    "employer_name": "Cambia Health Solutions",
-    "job_city": "Salt Lake City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/cambia-health-solutions/jobs-internships/ai-scientist-intern",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b1a431bd7c472b17eaa5dd6bec3f8e461123f5068989e79a4fcc034204314318",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
     "job_posted_at": "2026-04-13T00:00:00.000Z"
   },
   {
@@ -17616,6 +17674,183 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-murata-america-vgotd2tewtz6bidpaaaaaa==",
+    "job_title": "Intern, Software Engineer, AI/ML - Summer 2026",
+    "employer_name": "Murata America",
+    "job_city": "San Diego",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.murata.com/pSemi/job/San-Diego-Intern%2C-Software-Engineer%2C-AIML-Summer-2026-CA-92101/1357166500/",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME AND INTERNSHIP",
+    "salary": null,
+    "fingerprint": "6edee51641418d2bb250da42f846055b3b07597fbbda81def6c240ebd2ad487e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data science",
+        "http"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Education Requirements • Fulltime enrollment in Bachelor’s or Master’s degree in Computer Science, Software Engineering, Data Science, or related field (must be completing 3+ years)  Work Environment…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-amneal-usa-lcqnureeqj2bkgzyaaaaaa==",
+    "job_title": "Information Technology Internship - Finance & IT",
+    "employer_name": "Amneal USA",
+    "job_city": "Piscataway",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/amneal/jobs-internships/information-technology-internship-finance-it",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "10a2577f129a4f3ff3aacb9a77912bc8e5af2e86416cd94daf032b42a291f37d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "data lake",
+        "power bi",
+        "s3",
+        "sap"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "About You  The company is looking for: • Current full-time enrollment in an accredited college or university undergraduate or graduate program in Human Resources, Business Administration, Psychology,…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-nightwing-se8ltwxydkwi3i9raaaaaa==",
+    "job_title": "RF Engineering Intern",
+    "employer_name": "Nightwing",
+    "job_city": "Sterling",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/nightwing/jobs-internships/rf-engineering-intern-0",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "5db8a6e56c29b6d8e74a1804ed207d78d1010638e870c784074dcd3afbf6194f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "hfss",
+        "microsoft office",
+        "microwave",
+        "rf"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "About You  The company is looking for: • Currently pursuing a Bachelor's or Master's degree in Electrical Engineering, or a related field.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-scentair-technologies-llc-q5cnlgkpw4w2r2n7aaaaaa==",
+    "job_title": "Technology & Data Science Intern – ScentAir (Charlotte, NC)",
+    "employer_name": "ScentAir Technologies LLC",
+    "job_city": "Charlotte",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://scentair.applytojob.com/apply/biM9pB8qhL/Technology-Data-Science-Intern-ScentAir-Charlotte-NC",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "4708cc56159b356be03744cecf4e915fa5dfe69f6f7c7a23ffd69d4d608bb96f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "computer science",
+        "data science",
+        "javascript",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "What We’re Looking For: • Currently enrolled in a Computer Science, Data Science, or Engineering program.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "js-general-dynamics-information-technology-bnmrht36asuypkgaaaaaaa==",
     "job_title": "Artificial Intelligence & Machine Learning Associate Intern",
     "employer_name": "General Dynamics Information Technology",
@@ -17901,93 +18136,6 @@
     "job_posted_at": "2026-04-12T00:00:00.000Z"
   },
   {
-    "job_id": "js-nightwing-se8ltwxydkwi3i9raaaaaa==",
-    "job_title": "RF Engineering Intern",
-    "employer_name": "Nightwing",
-    "job_city": "Sterling",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/nightwing/jobs-internships/rf-engineering-intern-0",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "5db8a6e56c29b6d8e74a1804ed207d78d1010638e870c784074dcd3afbf6194f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "hfss",
-        "microsoft office",
-        "microwave",
-        "rf"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "About You  The company is looking for: • Currently pursuing a Bachelor's or Master's degree in Electrical Engineering, or a related field.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-murata-america-vgotd2tewtz6bidpaaaaaa==",
-    "job_title": "Intern, Software Engineer, AI/ML - Summer 2026",
-    "employer_name": "Murata America",
-    "job_city": "San Diego",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.murata.com/pSemi/job/San-Diego-Intern%2C-Software-Engineer%2C-AIML-Summer-2026-CA-92101/1357166500/",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME AND INTERNSHIP",
-    "salary": null,
-    "fingerprint": "6edee51641418d2bb250da42f846055b3b07597fbbda81def6c240ebd2ad487e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "ai"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "data science",
-        "http"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Education Requirements • Fulltime enrollment in Bachelor’s or Master’s degree in Computer Science, Software Engineering, Data Science, or related field (must be completing 3+ years)  Work Environment…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
     "job_id": "js-noblis-sag-psenc_cavfaraaaaaa==",
     "job_title": "Health Data AI/ML Intern",
     "employer_name": "Noblis",
@@ -18025,96 +18173,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Required Qualifications  • A GPA of 3.3 or higher.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amneal-usa-lcqnureeqj2bkgzyaaaaaa==",
-    "job_title": "Information Technology Internship - Finance & IT",
-    "employer_name": "Amneal USA",
-    "job_city": "Piscataway",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/amneal/jobs-internships/information-technology-internship-finance-it",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "10a2577f129a4f3ff3aacb9a77912bc8e5af2e86416cd94daf032b42a291f37d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "aws",
-        "data lake",
-        "power bi",
-        "s3",
-        "sap"
-      ],
-      "sponsors_visa": false,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "About You  The company is looking for: • Current full-time enrollment in an accredited college or university undergraduate or graduate program in Human Resources, Business Administration, Psychology,…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-scentair-technologies-llc-q5cnlgkpw4w2r2n7aaaaaa==",
-    "job_title": "Technology & Data Science Intern – ScentAir (Charlotte, NC)",
-    "employer_name": "ScentAir Technologies LLC",
-    "job_city": "Charlotte",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://scentair.applytojob.com/apply/biM9pB8qhL/Technology-Data-Science-Intern-ScentAir-Charlotte-NC",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "4708cc56159b356be03744cecf4e915fa5dfe69f6f7c7a23ffd69d4d608bb96f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "data science",
-        "javascript",
-        "python",
-        "sql"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "What We’re Looking For: • Currently enrolled in a Computer Science, Data Science, or Engineering program.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
