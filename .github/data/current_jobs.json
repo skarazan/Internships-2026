@@ -93,6 +93,35 @@
     "job_posted_at": "2026-04-18T00:33:32.447Z"
   },
   {
+    "job_id": "js-bae-systems-kt6tntw8j5g8fr-4aaaaaa==",
+    "job_title": "Electrical Engineering Coop, Summer-Fall 2026",
+    "employer_name": "BAE Systems",
+    "job_city": "Cedar Rapids",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
+    "job_posted_at_datetime_utc": "2026-04-18T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cc57634b0fb5563e82be60d63ff82e7a907ba7bc5e7b03519ceb7db9fb41afa4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-18T00:00:00.000Z"
+  },
+  {
     "job_id": "workday-logitech-146177",
     "job_title": "Finance Intern",
     "employer_name": "Logitech",
@@ -2816,68 +2845,6 @@
     "job_posted_at": "2026-04-17T00:00:00.000Z"
   },
   {
-    "job_id": "workday-cisco-2009059",
-    "job_title": "AI/ML Modeling Engineer II (Intern)- United States ENG/CPO/WTG ETR",
-    "employer_name": "Cisco",
-    "job_city": "San Francisco",
-    "job_state": "US",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Francisco-California-US/AI-ML-Modeling-Engineer-II--Intern---United-States-ENG-CPO-WTG-ETR_2009059",
-    "job_posted_at_datetime_utc": "2026-04-16T23:18:22.091Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0bb1b224ef49bcd03760a99ba6b0d115b3412a9ed8a2546c776c70cb10830946",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "c++",
-        "cisco",
-        "computer science",
-        "data analysis",
-        "data pipeline",
-        "data science",
-        "git",
-        "java",
-        "jupyter",
-        "jupyter notebook",
-        "linear",
-        "machine learning",
-        "matplotlib",
-        "numpy",
-        "pandas",
-        "python",
-        "pytorch",
-        "regression",
-        "scikit-learn",
-        "sql",
-        "statistics",
-        "tensorflow",
-        "unsupervised learning"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "The application window is expected to close on: 04/18/2026 Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received .",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T23:18:22.091Z"
-  },
-  {
     "job_id": "lever-zoox-15aa4a31-81e0-4f7a-b9d9-5bc64eb2afb8",
     "job_title": "Software Engineer Intern, Perception Data",
     "employer_name": "Zoox",
@@ -2933,6 +2900,50 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T23:01:59.419Z"
+  },
+  {
+    "job_id": "js-pge-corporation-qbik1jsyduosjuohaaaaaa==",
+    "job_title": "Electric Substation engineering Business Operations Intern",
+    "employer_name": "PG&E Corporation",
+    "job_city": "West Sacramento",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.pge.com/job/west-sacramento/electric-substation-engineering-business-operations-intern/29673/94046728448",
+    "job_posted_at_datetime_utc": "2026-04-16T23:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "3da469349e173ec46c96ab23cfb9a206d7f1488c1680a5677f3ad509d7d91ede",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware",
+        "operations"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "excel",
+        "program management",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Qualifications",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T23:00:00.000Z"
   },
   {
     "job_id": "js-finance-intern-united-states-of-america-cdd-qmvz6lpedb0t-l2eaaaaaa==",
@@ -2997,50 +3008,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "An internship at Don’t Panic Labs is an opportunity to experience engineering-focused software product development in a fun and supportive environment.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T23:00:00.000Z"
-  },
-  {
-    "job_id": "js-pge-corporation-qbik1jsyduosjuohaaaaaa==",
-    "job_title": "Electric Substation engineering Business Operations Intern",
-    "employer_name": "PG&E Corporation",
-    "job_city": "West Sacramento",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.pge.com/job/west-sacramento/electric-substation-engineering-business-operations-intern/29673/94046728448",
-    "job_posted_at_datetime_utc": "2026-04-16T23:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "3da469349e173ec46c96ab23cfb9a206d7f1488c1680a5677f3ad509d7d91ede",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware",
-        "operations"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "dashboards",
-        "excel",
-        "program management",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Qualifications",
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T23:00:00.000Z"
@@ -5337,46 +5304,6 @@
     "job_posted_at": "2026-04-16T00:32:02.013Z"
   },
   {
-    "job_id": "js-hdr-7ranribwhf-ajxxlaaaaaa==",
-    "job_title": "Data Science and Analysis Intern",
-    "employer_name": "HDR",
-    "job_city": "Salt Lake City",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.jobleads.com/us/job/data-science-analysis-intern--salt-lake-city--eaa7c9efe08d1b4eb7ef2983afbbaacc3",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "6861db2fbddecb4fefd2d38c499d83f916763690f9090f2506e276084bdbd631",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Required Qualifications  • Must be currently enrolled in an undergraduate or graduate program  • Attention to detail a must  • Must possess strong problem-solving and communication skills  • Basic Mic…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-73e494e5-df59-4b02-93aa-75ee7285d916",
     "job_title": "2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
     "employer_name": "Amazon.com Services LLC",
@@ -5513,6 +5440,46 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - Are 18 years of age or older - Currently working towards Bachelor's, Master's, or higher in Engineering, Robotics, Mechanical Engineering, Electrical Engineering, Computer Engi…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-hdr-7ranribwhf-ajxxlaaaaaa==",
+    "job_title": "Data Science and Analysis Intern",
+    "employer_name": "HDR",
+    "job_city": "Salt Lake City",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.jobleads.com/us/job/data-science-analysis-intern--salt-lake-city--eaa7c9efe08d1b4eb7ef2983afbbaacc3",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "6861db2fbddecb4fefd2d38c499d83f916763690f9090f2506e276084bdbd631",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications  • Must be currently enrolled in an undergraduate or graduate program  • Attention to detail a must  • Must possess strong problem-solving and communication skills  • Basic Mic…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
@@ -7266,34 +7233,6 @@
     "job_posted_at": "2026-04-15T07:21:44.566Z"
   },
   {
-    "job_id": "workday-cisco-2000470",
-    "job_title": "AI Product Management Engineer II (Intern) - United States",
-    "employer_name": "Cisco",
-    "job_city": "San Jose California US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Product-Management-Engineer-II--Intern----United-States_2000470",
-    "job_posted_at_datetime_utc": "2026-04-15T07:21:36.815Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3be725ba0566873983b1b2253a01757bf64726542d0d9537e1ca45797789a47f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "product"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:21:36.815Z"
-  },
-  {
     "job_id": "workday-adobe-R161485",
     "job_title": "2026 Intern - Security Engineer",
     "employer_name": "Adobe",
@@ -8330,48 +8269,6 @@
     "job_posted_at": "2026-04-15T00:20:08.048Z"
   },
   {
-    "job_id": "js-thales-zq0syqoug_nw6xq8aaaaaa==",
-    "job_title": "Software Engineer Intern",
-    "employer_name": "Thales",
-    "job_city": "Plantation",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.thalesgroup.com/global/en/job/R0323979/Software-Engineer-Intern",
-    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "464d4fc4e83b425c57c5f1a084a85c38e36bbaa3625123457a3bdfb4aca0740a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "continuous deployment",
-        "continuous integration"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Special Position Requirements  Core Business Hours Monday-Friday.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T00:00:00.000Z"
-  },
-  {
     "job_id": "js-pge-corporation-_ywewmfu9dcarj3eaaaaaa==",
     "job_title": "Substation Engineering Intern",
     "employer_name": "PG&E Corporation",
@@ -8455,6 +8352,48 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Minimum Requirements  In addition to pursuing a degree in Electrical Engineering, Computer Science, Mathematics, Physics, or a related field from an accredited college or university, qualified interns…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-thales-zq0syqoug_nw6xq8aaaaaa==",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "Thales",
+    "job_city": "Plantation",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.thalesgroup.com/global/en/job/R0323979/Software-Engineer-Intern",
+    "job_posted_at_datetime_utc": "2026-04-15T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "464d4fc4e83b425c57c5f1a084a85c38e36bbaa3625123457a3bdfb4aca0740a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "continuous deployment",
+        "continuous integration"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Special Position Requirements  Core Business Hours Monday-Friday.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-15T00:00:00.000Z"
@@ -10500,45 +10439,6 @@
     "job_posted_at": "2026-04-14T07:21:13.474Z"
   },
   {
-    "job_id": "workday-applied-materials-R2519420",
-    "job_title": "2026 Summer Intern - Technical Project/Program Manager",
-    "employer_name": "Applied Materials",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Technical-Project-Program-Manager_R2519420",
-    "job_posted_at_datetime_utc": "2026-04-14T07:20:56.146Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "01aa235ee47908a2458f8935742642dbdb10047f0cc927b25b3a0a5c275f66e3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "project management"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Who We Are Applied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T07:20:56.146Z"
-  },
-  {
     "job_id": "workday-applied-materials-R2616255",
     "job_title": "Mechnical Engineer Intern",
     "employer_name": "Applied Materials",
@@ -11546,6 +11446,76 @@
     "job_posted_at": "2026-04-14T01:50:23.000Z"
   },
   {
+    "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
+    "job_title": "Electrical Engineering Intern - Summer 2026",
+    "employer_name": "Amentum",
+    "job_city": "Oak Ridge",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineering-intern-summer-2026-oak-ridge-tennessee-united-states-9e76c274-0ff6-4723-ae4f-27dbafa3b64c",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "cfa426ad38594f9facf84dbb03ba09fbc87ab684fcb7081526137a681e29592a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "microsoft office"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-cisco-9mgcpxw4_c_6nh3uaaaaaa==",
+    "job_title": "Hardware Engineer I (Co-op) - United States",
+    "employer_name": "Cisco",
+    "job_city": "North Carolina",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.career.com/job/cisco/hardware-engineer-i-co-op-united-states/j202511131828362763140",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "e7c33d94ba112a24d43cd694eda2e84d5bf19e54086d99c7f1ee0a7d00f1ac11",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
     "job_id": "amazon-b1729052-d96c-4c37-9394-fa9ecde19497",
     "job_title": "2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
     "employer_name": "Amazon.com Services LLC",
@@ -11808,47 +11778,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "About You  The company is looking for: • Current student or recent graduate in Computer Science, Software Engineering, or a related field.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-amentum-25cuksqdls9vb3rnaaaaaa==",
-    "job_title": "Electrical Engineering Intern - Summer 2026",
-    "employer_name": "Amentum",
-    "job_city": "Oak Ridge",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amentumcareers.com/jobs/electrical-engineering-intern-summer-2026-oak-ridge-tennessee-united-states-9e76c274-0ff6-4723-ae4f-27dbafa3b64c",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "cfa426ad38594f9facf84dbb03ba09fbc87ab684fcb7081526137a681e29592a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "microsoft office"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Minimum requirements: • Current student in pursuit of a Bachelor of Science degree in Electrical Engineering from an accredited program • Must be at least a rising Junior • Working knowledge of Micros…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
@@ -15508,62 +15437,6 @@
     "job_posted_at": "2026-04-13T05:01:27.673Z"
   },
   {
-    "job_id": "js-ecs-sqi820xnhqgh0fwqaaaaaa==",
-    "job_title": "Junior Data Scientist Intern",
-    "employer_name": "ECS",
-    "job_city": "Fairfax",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://prosple.com/graduate-employers/ecs/jobs-internships/junior-data-scientist-intern",
-    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "54f0768a31df0e850c66953aeeb6368c04df42d4ecca141509775fe85604e9cc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "computer vision",
-        "data science",
-        "data visualization",
-        "databricks",
-        "ecs",
-        "git",
-        "hugging face",
-        "matplotlib",
-        "nlp",
-        "numpy",
-        "pandas",
-        "python",
-        "pytorch",
-        "statistics",
-        "tensorflow",
-        "transformers"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Required Skills • Must be a US Citizen • Currently pursuing a Bachelor’s or Master’s degree in Data Science, Computer Science, Mathematics, Statistics, Engineering, or a related field • Strong foundat…",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-13T00:00:00.000Z"
-  },
-  {
     "job_id": "js-american-honda-motor-co-inc-vjtvvk7kp2rc3v08aaaaaa==",
     "job_title": "Electrical Engineering Co-op/Intern - Fall 2026",
     "employer_name": "American Honda Motor Co., Inc.",
@@ -15697,6 +15570,62 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "Schneider Electric has an opportunity for an Electrical Engineering Co-Op at our Andover, MA facility, starting June 2026.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-13T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ecs-sqi820xnhqgh0fwqaaaaaa==",
+    "job_title": "Junior Data Scientist Intern",
+    "employer_name": "ECS",
+    "job_city": "Fairfax",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://prosple.com/graduate-employers/ecs/jobs-internships/junior-data-scientist-intern",
+    "job_posted_at_datetime_utc": "2026-04-13T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "54f0768a31df0e850c66953aeeb6368c04df42d4ecca141509775fe85604e9cc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "computer vision",
+        "data science",
+        "data visualization",
+        "databricks",
+        "ecs",
+        "git",
+        "hugging face",
+        "matplotlib",
+        "nlp",
+        "numpy",
+        "pandas",
+        "python",
+        "pytorch",
+        "statistics",
+        "tensorflow",
+        "transformers"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Required Skills • Must be a US Citizen • Currently pursuing a Bachelor’s or Master’s degree in Data Science, Computer Science, Mathematics, Statistics, Engineering, or a related field • Strong foundat…",
       "is_remote": false
     },
     "job_posted_at": "2026-04-13T00:00:00.000Z"
@@ -16438,6 +16367,48 @@
     "job_posted_at": "2026-04-12T23:00:00.000Z"
   },
   {
+    "job_id": "js-veralto-global-lqdf0ifunrjz4dtcaaaaaa==",
+    "job_title": "Engineering Intern - Hardware Engineering",
+    "employer_name": "Veralto Global",
+    "job_city": "Loveland",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10265730/Engineering-Intern-Hardware-Engineering",
+    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "0108c2033cd76b4ea4e4dd6cba83d37d0175a01307c03293e24bc4036d145df1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "regression"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "QUALIFICATIONS • Pursuing a degree in Mechanical Engineering or a related field • Minimum 2+ years of completed course work • Ability to plan experiments, analyze data, and draw objective conclusions.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-12T00:00:00.000Z"
+  },
+  {
     "job_id": "js-genmab-wvqqktkjleux7ru7aaaaaa==",
     "job_title": "Translational Imaging & Multi-Omics Data Science Intern",
     "employer_name": "Genmab",
@@ -16712,48 +16683,6 @@
       "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": "About You  The company is looking for: • Currently pursuing a Bachelor's or Master's degree in Electrical Engineering, or a related field.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-12T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-veralto-global-lqdf0ifunrjz4dtcaaaaaa==",
-    "job_title": "Engineering Intern - Hardware Engineering",
-    "employer_name": "Veralto Global",
-    "job_city": "Loveland",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jobs.veralto.com/global/en/job/R10265730/Engineering-Intern-Hardware-Engineering",
-    "job_posted_at_datetime_utc": "2026-04-12T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "0108c2033cd76b4ea4e4dd6cba83d37d0175a01307c03293e24bc4036d145df1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "excel",
-        "regression"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "QUALIFICATIONS • Pursuing a degree in Mechanical Engineering or a related field • Minimum 2+ years of completed course work • Ability to plan experiments, analyze data, and draw objective conclusions.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-12T00:00:00.000Z"
