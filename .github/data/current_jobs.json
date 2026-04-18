@@ -27,6 +27,23 @@
     },
     "_source": "aggregator",
     "_original_source": "ashby",
+    "enrichment": {
+      "required_skills": [
+        "altium",
+        "c++",
+        "cadence",
+        "pcb",
+        "pcb design",
+        "python",
+        "soldering"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": true,
+      "possible_sponsor": null,
+      "is_simple_apply": true,
+      "summary_line": "Qualifications:   - Working toward a Bachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, or a related field   - Coursework or projects related to PCB design, digital communi…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-18T00:33:32.447Z"
   },
   {
@@ -5764,114 +5781,6 @@
     "job_posted_at": "2026-04-15T17:55:53.491Z"
   },
   {
-    "job_id": "workday-sel-2025-18339",
-    "job_title": "Drafter/ Designer Intern",
-    "employer_name": "SEL",
-    "job_city": "Lakewood",
-    "job_state": "CO",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Drafter--Designer-Intern_2025-18339",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4e7d0e5ca76159ba38c51a3f4e8b8b8af930cb76aaf8347bba365aa83e95bd1c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "autocad",
-        "cad"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Schweitzer Engineering Laboratories (SEL) Engineering Services seeks a professional, innovative, and detailed individual for our Designer Intern position.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19609",
-    "job_title": "Account Administrator Intern",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Account-Administrator-Intern_2026-19609",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b04f8f841be8625d480d5f4e2f35d52ee8c13f40b0a4c5dc5d458ff4c6afecaf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
-    "job_id": "workday-sel-2026-20169",
-    "job_title": "Engineering Intern",
-    "employer_name": "SEL",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-20169",
-    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a4c0d00bbdb752f4edb8d3d286677b7a7653564ba543beaa703f7f2117230150",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "visio",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Essential Duties and Responsibilities 1.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T17:47:02.515Z"
-  },
-  {
     "job_id": "workday-sel-2026-20358",
     "job_title": "Engineering Intern - Automation",
     "employer_name": "SEL",
@@ -6205,6 +6114,114 @@
       "summary_line": "SEL has an exciting opportunity to welcome a new employee-owner to our Product Compliance team in Pullman, WA.",
       "is_remote": false
     },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-20169",
+    "job_title": "Engineering Intern",
+    "employer_name": "SEL",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Engineering-Intern_2026-20169",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a4c0d00bbdb752f4edb8d3d286677b7a7653564ba543beaa703f7f2117230150",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "visio",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Essential Duties and Responsibilities 1.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2025-18339",
+    "job_title": "Drafter/ Designer Intern",
+    "employer_name": "SEL",
+    "job_city": "Lakewood",
+    "job_state": "CO",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Drafter--Designer-Intern_2025-18339",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4e7d0e5ca76159ba38c51a3f4e8b8b8af930cb76aaf8347bba365aa83e95bd1c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "autocad",
+        "cad"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Schweitzer Engineering Laboratories (SEL) Engineering Services seeks a professional, innovative, and detailed individual for our Designer Intern position.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T17:47:02.515Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19609",
+    "job_title": "Account Administrator Intern",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Account-Administrator-Intern_2026-19609",
+    "job_posted_at_datetime_utc": "2026-04-15T17:47:02.515Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b04f8f841be8625d480d5f4e2f35d52ee8c13f40b0a4c5dc5d458ff4c6afecaf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-15T17:47:02.515Z"
   },
   {
@@ -6790,6 +6807,47 @@
     "job_posted_at": "2026-04-15T07:22:48.868Z"
   },
   {
+    "job_id": "workday-moog-R-25-12749",
+    "job_title": "Intern, Quality Engineering",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Quality-Engineering_R-25-12749",
+    "job_posted_at_datetime_utc": "2026-04-15T07:22:48.765Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e8c2bc8ec48ee1ab1a20ebe52e2fdf37d49d9ffadec4ec27dc83f2529f808d1c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "process improvement",
+        "reporting"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-15T07:22:48.765Z"
+  },
+  {
     "job_id": "workday-moog-R-26-17150",
     "job_title": "Intern, Electrical Engineering",
     "employer_name": "Moog",
@@ -6838,47 +6896,6 @@
     "job_posted_at": "2026-04-15T07:22:48.765Z"
   },
   {
-    "job_id": "workday-moog-R-25-12749",
-    "job_title": "Intern, Quality Engineering",
-    "employer_name": "Moog",
-    "job_city": "Buffalo",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Quality-Engineering_R-25-12749",
-    "job_posted_at_datetime_utc": "2026-04-15T07:22:48.765Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e8c2bc8ec48ee1ab1a20ebe52e2fdf37d49d9ffadec4ec27dc83f2529f808d1c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "process improvement",
-        "reporting"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Moog is a performance culture that empowers people to achieve great things.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T07:22:48.765Z"
-  },
-  {
     "job_id": "workday-intel-JR0282042",
     "job_title": "2026 Summer Supply Chain Undergraduate Intern",
     "employer_name": "Intel",
@@ -6907,34 +6924,6 @@
     "job_posted_at": "2026-04-15T07:22:31.440Z"
   },
   {
-    "job_id": "workday-johnson-controls-WD30266948",
-    "job_title": "BEST - Technical Sales Intern - Controls",
-    "employer_name": "Johnson Controls",
-    "job_city": "Hawaii-United States of America",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Honolulu-Hawaii-United-States-of-America/BEST---Technical-Sales-Intern---Controls_WD30266948",
-    "job_posted_at_datetime_utc": "2026-04-15T07:22:27.254Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec996d3c0a4080839e9d365650925cd9147783819e7292a9edbb8b193f760ae8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:22:27.254Z"
-  },
-  {
     "job_id": "workday-johnson-controls-WD30266697",
     "job_title": "HVAC Intern - Controls Tech School",
     "employer_name": "Johnson Controls",
@@ -6951,6 +6940,34 @@
       "employment": "internship",
       "domains": [
         "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:22:27.254Z"
+  },
+  {
+    "job_id": "workday-johnson-controls-WD30266948",
+    "job_title": "BEST - Technical Sales Intern - Controls",
+    "employer_name": "Johnson Controls",
+    "job_city": "Hawaii-United States of America",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://jci.wd5.myworkdayjobs.com/JCI/job/Honolulu-Hawaii-United-States-of-America/BEST---Technical-Sales-Intern---Controls_WD30266948",
+    "job_posted_at_datetime_utc": "2026-04-15T07:22:27.254Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec996d3c0a4080839e9d365650925cd9147783819e7292a9edbb8b193f760ae8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
       ],
       "locations": [
         "us"
@@ -7600,6 +7617,62 @@
     "job_posted_at": "2026-04-15T07:01:19.426Z"
   },
   {
+    "job_id": "workday-rtx-01835278",
+    "job_title": "Skillbridge Intern Industrial Security Specialist (Onsite)",
+    "employer_name": "RTX",
+    "job_city": "CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, Ast",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Skillbridge-Intern-Industrial-Security-Specialist--Onsite-_01835278",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "02366f53e4c4580828e00a9f26f757a2d1314ef8d45c5ce887d4163873f475f7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
+    "job_id": "workday-rtx-01838232",
+    "job_title": "Summer 2026 Contracts Intern (Remote)",
+    "employer_name": "RTX",
+    "job_city": "AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Summer-2026-Contracts-Intern--Remote-_01838232",
+    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1e4e18dd99c804546d7ae673c525f6dab53bb4ab53ed5d112a4bb956f45629f4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-15T07:01:19.425Z"
+  },
+  {
     "job_id": "workday-rtx-01838467",
     "job_title": "2026 Raytheon Part Time Co-op - SW Platform Engineer (Remote)",
     "employer_name": "RTX",
@@ -7790,62 +7863,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "6085d70876752927b0f10abf1d2d823d2c7c78a62f2e09b42ec99c5de3e3866c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:19.425Z"
-  },
-  {
-    "job_id": "workday-rtx-01835278",
-    "job_title": "Skillbridge Intern Industrial Security Specialist (Onsite)",
-    "employer_name": "RTX",
-    "job_city": "CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826, Ast",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Skillbridge-Intern-Industrial-Security-Specialist--Onsite-_01835278",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "02366f53e4c4580828e00a9f26f757a2d1314ef8d45c5ce887d4163873f475f7",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-15T07:01:19.425Z"
-  },
-  {
-    "job_id": "workday-rtx-01838232",
-    "job_title": "Summer 2026 Contracts Intern (Remote)",
-    "employer_name": "RTX",
-    "job_city": "AZ-TUCSON-9020 ~ 9020 S Rita Rd ~ BLDG 9020",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Summer-2026-Contracts-Intern--Remote-_01838232",
-    "job_posted_at_datetime_utc": "2026-04-15T07:01:19.425Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1e4e18dd99c804546d7ae673c525f6dab53bb4ab53ed5d112a4bb956f45629f4",
     "tags": {
       "employment": "internship",
       "domains": [
