@@ -24615,73 +24615,6 @@
     "job_posted_at": "2026-04-16T00:32:02.013Z"
   },
   {
-    "job_id": "js-dont-panic-labs-n-zgpdwflfi8sdufaaaaaa==",
-    "job_title": "Software Engineering Intern (Summer 2026)",
-    "employer_name": "Don't Panic Labs",
-    "job_city": "Lincoln",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://builtin.com/job/software-engineering-intern-summer-2026/7429902",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "385f11d1cc3f66e943cb4438191e53859e702297f017a9879a4f551dcd80f288",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "An internship at Don’t Panic Labs is an opportunity to experience engineering-focused software product development in a fun and supportive environment.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-ripple-lxaubywcdyloqhgoaaaaaa==",
-    "job_title": "Software Engineer Intern, GTreasury (Summer 2026)",
-    "employer_name": "Ripple",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.builtinchicago.org/job/software-engineer-intern-gtreasury-summer-2026/9074504",
-    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "b280bc6ad66c7e08c7bf59409f5fa44be684e4d2b09f274e19f9665e0bdc9848",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "job_posted_at": "2026-04-16T00:00:00.000Z"
-  },
-  {
     "job_id": "amazon-73e494e5-df59-4b02-93aa-75ee7285d916",
     "job_title": "2026 Fall Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
     "employer_name": "Amazon.com Services LLC",
@@ -24818,6 +24751,90 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": "Basic Qualifications: - Are 18 years of age or older - Currently working towards Bachelor's, Master's, or higher in Engineering, Robotics, Mechanical Engineering, Electrical Engineering, Computer Engi…",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-dont-panic-labs-n-zgpdwflfi8sdufaaaaaa==",
+    "job_title": "Software Engineering Intern (Summer 2026)",
+    "employer_name": "Don't Panic Labs",
+    "job_city": "Lincoln",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://builtin.com/job/software-engineering-intern-summer-2026/7429902",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "385f11d1cc3f66e943cb4438191e53859e702297f017a9879a4f551dcd80f288",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "An internship at Don’t Panic Labs is an opportunity to experience engineering-focused software product development in a fun and supportive environment.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-ripple-lxaubywcdyloqhgoaaaaaa==",
+    "job_title": "Software Engineer Intern, GTreasury (Summer 2026)",
+    "employer_name": "Ripple",
+    "job_city": "Chicago",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.builtinchicago.org/job/software-engineer-intern-gtreasury-summer-2026/9074504",
+    "job_posted_at_datetime_utc": "2026-04-16T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "b280bc6ad66c7e08c7bf59409f5fa44be684e4d2b09f274e19f9665e0bdc9848",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "computer science",
+        "golang",
+        "java",
+        "python",
+        "r",
+        "rest"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
       "is_remote": false
     },
     "job_posted_at": "2026-04-16T00:00:00.000Z"
@@ -31664,6 +31681,55 @@
     "job_posted_at": "2026-04-14T01:50:23.000Z"
   },
   {
+    "job_id": "amazon-b1729052-d96c-4c37-9394-fa9ecde19497",
+    "job_title": "2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
+    "employer_name": "Amazon.com Services LLC",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
+    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8f74b281ec341ff107820ab01bff75e8e4175dad041d2da677cf1cd34b890f0d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "faang",
+        "fortune500"
+      ]
+    },
+    "_source": "aggregator",
+    "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "deep learning",
+        "distributed systems",
+        "large language model",
+        "machine learning",
+        "natural language processing",
+        "neural network",
+        "palo alto"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-14T00:00:00.000Z"
+  },
+  {
     "job_id": "js-general-dynamics-information-technology-dtmftlvumvtpdf7laaaaaa==",
     "job_title": "Summer 2026 Software Developer Internship",
     "employer_name": "General Dynamics Information Technology",
@@ -31841,55 +31907,6 @@
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-14T00:00:00.000Z"
-  },
-  {
-    "job_id": "amazon-b1729052-d96c-4c37-9394-fa9ecde19497",
-    "job_title": "2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
-    "employer_name": "Amazon.com Services LLC",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
-    "job_posted_at_datetime_utc": "2026-04-14T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8f74b281ec341ff107820ab01bff75e8e4175dad041d2da677cf1cd34b890f0d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ]
-    },
-    "_source": "aggregator",
-    "_original_source": "amazon",
-    "enrichment": {
-      "required_skills": [
-        "deep learning",
-        "distributed systems",
-        "large language model",
-        "machine learning",
-        "natural language processing",
-        "neural network",
-        "palo alto"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "Unleash Your Potential as an AI Trailblazer At Amazon, we're on a mission to revolutionize the way people discover and access information.",
       "is_remote": false
     },
     "job_posted_at": "2026-04-14T00:00:00.000Z"
