@@ -1640,6 +1640,22 @@
     },
     "_source": "aggregator",
     "_original_source": "amazon",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "data lake",
+        "data warehouse",
+        "python",
+        "scala",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Basic Qualifications: - Are 18 years of age or older - Work 40 hours/week minimum and commit to 12 week internship maximum - Are enrolled in a academic program that is physically located in the United…",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-22T00:00:00.000Z"
   },
   {
@@ -25646,6 +25662,41 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "angularjs",
+        "apache",
+        "api",
+        "aws",
+        "computer science",
+        "continuous deployment",
+        "continuous integration",
+        "cybersecurity",
+        "data science",
+        "github",
+        "github actions",
+        "java",
+        "javascript",
+        "junit",
+        "langchain",
+        "machine learning",
+        "nginx",
+        "postgresql",
+        "rag",
+        "rest",
+        "rest api",
+        "selenium",
+        "spring",
+        "spring framework",
+        "transformers"
+      ],
+      "sponsors_visa": false,
+      "visa_question_present": false,
+      "possible_sponsor": null,
+      "is_simple_apply": false,
+      "summary_line": "Required Qualifications  • Currently pursuing a Master’s or Ph.D.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-20T00:00:00.000Z"
   },
   {
@@ -30460,6 +30511,22 @@
     },
     "_source": "aggregator",
     "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "data analysis",
+        "integration testing",
+        "microsoft office",
+        "plc"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": "Job Description You don’t see it, but it’s there.",
+      "is_remote": false
+    },
     "job_posted_at": "2026-04-17T00:00:00.000Z"
   },
   {
@@ -35171,150 +35238,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-15T20:43:40.000Z"
-  },
-  {
-    "job_id": "greenhouse-pinterest-7258004",
-    "job_title": "Software Engineer Intern Fall 2026 (Toronto)",
-    "employer_name": "Pinterest",
-    "job_city": "Toronto",
-    "job_state": "ON",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.pinterestcareers.com/jobs/?gh_jid=7258004",
-    "job_posted_at_datetime_utc": "2026-04-15T18:58:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c1ff1c64c8e1b1a7706659b669d9028928f28488ec1a7da09871a7e20640161a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "enrichment": {
-      "required_skills": [
-        "cad"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": "We let the type of work you do guide the collaboration style.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T18:58:20.000Z"
-  },
-  {
-    "job_id": "workday-hp-inc-3153304",
-    "job_title": "Software Developer Internship",
-    "employer_name": "HP Inc",
-    "job_city": "4 Locations",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1",
-    "job_posted_at_datetime_utc": "2026-04-15T18:46:41.229Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "998716b403b121f33d984a0b6665b4508c6ff5b5404fb6ceec6e49647e0c584a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "analytics",
-        "android",
-        "angular",
-        "apache",
-        "apache kafka",
-        "aws",
-        "azure",
-        "azure devops",
-        "bash",
-        "c++",
-        "cloudwatch",
-        "computer science",
-        "cyber security",
-        "data analysis",
-        "data science",
-        "devops",
-        "dns",
-        "dynamodb",
-        "ec2",
-        "eks",
-        "embedded systems",
-        "encryption",
-        "excel",
-        "express",
-        "figma",
-        "firewall",
-        "firewalls",
-        "firmware",
-        "forecasting",
-        "git",
-        "github",
-        "go",
-        "grafana",
-        "graphql",
-        "ids",
-        "ips",
-        "java",
-        "jira",
-        "kafka",
-        "kibana",
-        "kotlin",
-        "lambda",
-        "lean",
-        "linux",
-        "networking",
-        "observability",
-        "palo alto",
-        "power bi",
-        "program management",
-        "project management",
-        "prometheus",
-        "python",
-        "rabbitmq",
-        "rails",
-        "rds",
-        "react",
-        "reporting",
-        "restful",
-        "ruby",
-        "scrum",
-        "splunk",
-        "sql",
-        "sqs",
-        "swift",
-        "tcp/ip",
-        "tdd",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": "Software Developer Internship Description - The following posting is a pipeline requisition, meant to accumulate candidates for 2026 Summer Internships.",
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-15T18:46:41.229Z"
   }
 ]
