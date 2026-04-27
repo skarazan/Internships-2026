@@ -2100,34 +2100,6 @@
     "job_posted_at": "2026-04-24T07:21:18.471Z"
   },
   {
-    "job_id": "workday-s&p-global-326768",
-    "job_title": "Economic Consulting Graduate Intern – Advisory Services",
-    "employer_name": "S&P Global",
-    "job_city": "Washington DC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Washington-DC/Economic-Consulting-Graduate-Intern---Advisory-Services_326768",
-    "job_posted_at_datetime_utc": "2026-04-24T07:20:56.622Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b3ffc8556c2fbf9ef15585a768f0208a2124e0454c03ca1f98e68ce276620311",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:20:56.622Z"
-  },
-  {
     "job_id": "workday-s&p-global-320543",
     "job_title": "Research Analyst Intern - Fuels & Chemicals (Early Career)",
     "employer_name": "S&P Global",
@@ -2168,6 +2140,34 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-04-24T07:20:56.622Z"
+  },
+  {
+    "job_id": "workday-s&p-global-326768",
+    "job_title": "Economic Consulting Graduate Intern – Advisory Services",
+    "employer_name": "S&P Global",
+    "job_city": "Washington DC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Washington-DC/Economic-Consulting-Graduate-Intern---Advisory-Services_326768",
+    "job_posted_at_datetime_utc": "2026-04-24T07:20:56.622Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b3ffc8556c2fbf9ef15585a768f0208a2124e0454c03ca1f98e68ce276620311",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-24T07:20:56.622Z"
   },
   {
@@ -2686,123 +2686,6 @@
     "job_posted_at": "2026-04-24T07:20:06.947Z"
   },
   {
-    "job_id": "workday-leidos-R-00181765",
-    "job_title": "Signal Processing Intern",
-    "employer_name": "Leidos",
-    "job_city": "San Diego",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Signal-Processing-Intern_R-00181765",
-    "job_posted_at_datetime_utc": "2026-04-24T07:19:56.443Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a11aae1c8801bfa6d413c7bc76bf9a6fa3b1fc4addd81c804515ce0a4950029a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "data analysis",
-        "matlab",
-        "python",
-        "radar",
-        "signal processing"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T07:19:56.443Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00181756",
-    "job_title": "Computer Engineering Intern",
-    "employer_name": "Leidos",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Albuquerque-NM/Computer-Engineering-Intern_R-00181756",
-    "job_posted_at_datetime_utc": "2026-04-24T07:19:56.443Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "cea3fdfaf005eea922ee02c9d5a906e02215f8fe4f1eca22b8c2b0c3c58d6847",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "excel",
-        "labview",
-        "linux",
-        "matlab",
-        "reporting",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T07:19:56.443Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00181745",
-    "job_title": "Ethics & Business Integrity Intern",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Ethics---Business-Integrity-Intern_R-00181745-1",
-    "job_posted_at_datetime_utc": "2026-04-24T07:19:56.443Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "80bd3111c6517df00a8f8794118746aaa2dce4ec8992d7bca7852965fd8161c4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-24T07:19:56.443Z"
-  },
-  {
     "job_id": "workday-leidos-R-00181532",
     "job_title": "Program Coordination Intern",
     "employer_name": "Leidos",
@@ -2997,6 +2880,123 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-04-24T07:19:56.443Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00181765",
+    "job_title": "Signal Processing Intern",
+    "employer_name": "Leidos",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Signal-Processing-Intern_R-00181765",
+    "job_posted_at_datetime_utc": "2026-04-24T07:19:56.443Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a11aae1c8801bfa6d413c7bc76bf9a6fa3b1fc4addd81c804515ce0a4950029a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "data analysis",
+        "matlab",
+        "python",
+        "radar",
+        "signal processing"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-24T07:19:56.443Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00181756",
+    "job_title": "Computer Engineering Intern",
+    "employer_name": "Leidos",
+    "job_city": "Albuquerque",
+    "job_state": "NM",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Albuquerque-NM/Computer-Engineering-Intern_R-00181756",
+    "job_posted_at_datetime_utc": "2026-04-24T07:19:56.443Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "cea3fdfaf005eea922ee02c9d5a906e02215f8fe4f1eca22b8c2b0c3c58d6847",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "excel",
+        "labview",
+        "linux",
+        "matlab",
+        "reporting",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-24T07:19:56.443Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00181745",
+    "job_title": "Ethics & Business Integrity Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Ethics---Business-Integrity-Intern_R-00181745-1",
+    "job_posted_at_datetime_utc": "2026-04-24T07:19:56.443Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "80bd3111c6517df00a8f8794118746aaa2dce4ec8992d7bca7852965fd8161c4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-24T07:19:56.443Z"
   },
   {
@@ -5938,6 +5938,111 @@
     "job_posted_at": "2026-04-23T05:00:00.000Z"
   },
   {
+    "job_id": "workday-sel-2026-20358",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
+    "job_posted_at_datetime_utc": "2026-04-23T04:07:05.303Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-23T04:07:05.303Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19808",
+    "job_title": "Engineering Intern - Automation",
+    "employer_name": "SEL",
+    "job_city": "Phoenix",
+    "job_state": "AZ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
+    "job_posted_at_datetime_utc": "2026-04-23T04:07:05.303Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "visio",
+        "windows"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-23T04:07:05.303Z"
+  },
+  {
+    "job_id": "workday-sel-2026-19425",
+    "job_title": "Purchasing Intern",
+    "employer_name": "SEL",
+    "job_city": "Pullman",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Purchasing-Intern_2026-19425",
+    "job_posted_at_datetime_utc": "2026-04-23T04:07:05.303Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c410232c71e6833ef917d642ea8c1108c85fe44b6bde8d99c5ceeb918919b4f3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-04-23T04:07:05.303Z"
+  },
+  {
     "job_id": "workday-sel-2026-20327",
     "job_title": "Human Resources Intern - Immigration",
     "employer_name": "SEL",
@@ -6208,111 +6313,6 @@
     "job_posted_at": "2026-04-23T04:07:05.303Z"
   },
   {
-    "job_id": "workday-sel-2026-20358",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2026-20358",
-    "job_posted_at_datetime_utc": "2026-04-23T04:07:05.303Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "56e9f52077cbf2825a0ed09e258c94fe0842736ebfa98d211ecbbc2e62ab2002",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-23T04:07:05.303Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19808",
-    "job_title": "Engineering Intern - Automation",
-    "employer_name": "SEL",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Arizona---Phoenix/Engineering-Intern---Automation_2026-19808",
-    "job_posted_at_datetime_utc": "2026-04-23T04:07:05.303Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "aef9adfdfe448d6260120510eaff95241c7cad48b4b595f547fad73928a2b91a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "visio",
-        "windows"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-23T04:07:05.303Z"
-  },
-  {
-    "job_id": "workday-sel-2026-19425",
-    "job_title": "Purchasing Intern",
-    "employer_name": "SEL",
-    "job_city": "Pullman",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Purchasing-Intern_2026-19425",
-    "job_posted_at_datetime_utc": "2026-04-23T04:07:05.303Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c410232c71e6833ef917d642ea8c1108c85fe44b6bde8d99c5ceeb918919b4f3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-23T04:07:05.303Z"
-  },
-  {
     "job_id": "workday-sel-2026-19609",
     "job_title": "Account Administrator Intern",
     "employer_name": "SEL",
@@ -6466,6 +6466,52 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-23T04:03:54.493Z"
+  },
+  {
+    "job_id": "js-susquehanna-international-group-llp-sig-rf4kfgyjzt5ewgsjaaaaaa==",
+    "job_title": "Machine Learning Internship - PhD: 2027",
+    "employer_name": "Susquehanna International Group, LLP (SIG)",
+    "job_city": "Bala Cynwyd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.sig.com/job/10785/Machine-Learning-Internship-PhD-2027",
+    "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "04b1f1ebf48addebd18458737ddecac30808cd7e9ff2c02c7d315bc47bd1d376",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science",
+        "excel",
+        "machine learning",
+        "pytorch",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-23T00:00:00.000Z"
   },
   {
     "job_id": "js-shake-shack-_yz0gcbu5sfmlwzvaaaaaa==",
@@ -6646,52 +6692,6 @@
       "sponsors_visa": true,
       "visa_question_present": false,
       "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-23T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-susquehanna-international-group-llp-sig-rf4kfgyjzt5ewgsjaaaaaa==",
-    "job_title": "Machine Learning Internship - PhD: 2027",
-    "employer_name": "Susquehanna International Group, LLP (SIG)",
-    "job_city": "Bala Cynwyd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.sig.com/job/10785/Machine-Learning-Internship-PhD-2027",
-    "job_posted_at_datetime_utc": "2026-04-23T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "04b1f1ebf48addebd18458737ddecac30808cd7e9ff2c02c7d315bc47bd1d376",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "computer science",
-        "excel",
-        "machine learning",
-        "pytorch",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
@@ -9633,6 +9633,63 @@
     "job_posted_at": "2026-04-22T00:06:05.756Z"
   },
   {
+    "job_id": "js-experian-0dbrrz5gldkrdurmaaaaaa==",
+    "job_title": "Data Science Summer Intern (Remote & Paid)",
+    "employer_name": "Experian",
+    "job_city": "Baltimore",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2yjFSJJoIsMV5FsBtxs5iS",
+    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "e2b0d4df465eca3904792b8abf94a9dc96062333658c4ab1f3d4fed39d64ccb4",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "c++",
+        "computer science",
+        "data analysis",
+        "deep learning",
+        "java",
+        "keras",
+        "machine learning",
+        "pandas",
+        "pyspark",
+        "python",
+        "pytorch",
+        "r",
+        "reinforcement learning",
+        "scikit-learn",
+        "spark",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
+    },
+    "job_posted_at": "2026-04-22T00:00:00.000Z"
+  },
+  {
     "job_id": "js-mantech-dzcofvety7xudenbaaaaaa==",
     "job_title": "Data Science Intern - Machine Learning",
     "employer_name": "ManTech",
@@ -9677,18 +9734,18 @@
     "job_posted_at": "2026-04-22T00:00:00.000Z"
   },
   {
-    "job_id": "js-labcorp-xjhdgoilwt1ui0k5aaaaaa==",
-    "job_title": "Intern - Data Science and Artificial Intelligence",
-    "employer_name": "Labcorp",
-    "job_city": "",
+    "job_id": "js-adobe-neq5th4fklmb8j_2aaaaaa==",
+    "job_title": "2026 AI/ML Intern - Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "New York",
     "job_state": "",
     "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://careers.labcorp.com/global/en/job/COVAGLOBAL2534702EXTERNALENGLOBAL/Intern-Data-Science-and-Artificial-Intelligence",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer",
     "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
     "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "197e8cbb24ef63ec1b928aa3e16fb137aa37010840f57e1e6bebd8ec08c360ce",
+    "fingerprint": "9f43ab4fe94b82adb30d2a4681920a1482c1356d6612a6c8163e2bf0d4c5b8c0",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -9697,7 +9754,7 @@
       ],
       "locations": [
         "us",
-        "remote"
+        "on_site"
       ],
       "experience": "entry_level",
       "special": []
@@ -9706,14 +9763,21 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "computer science"
+        "analytics",
+        "computer science",
+        "deep learning",
+        "express",
+        "java",
+        "machine learning",
+        "matlab",
+        "python"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
       "is_simple_apply": false,
       "summary_line": null,
-      "is_remote": true
+      "is_remote": false
     },
     "job_posted_at": "2026-04-22T00:00:00.000Z"
   },
@@ -9809,6 +9873,47 @@
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
+    },
+    "job_posted_at": "2026-04-22T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-labcorp-xjhdgoilwt1ui0k5aaaaaa==",
+    "job_title": "Intern - Data Science and Artificial Intelligence",
+    "employer_name": "Labcorp",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": true,
+    "job_apply_link": "https://careers.labcorp.com/global/en/job/COVAGLOBAL2534702EXTERNALENGLOBAL/Intern-Data-Science-and-Artificial-Intelligence",
+    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
+    "job_employment_type": "FULL-TIME",
+    "salary": null,
+    "fingerprint": "197e8cbb24ef63ec1b928aa3e16fb137aa37010840f57e1e6bebd8ec08c360ce",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "remote"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "computer science"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": true
     },
     "job_posted_at": "2026-04-22T00:00:00.000Z"
   },
@@ -9947,54 +10052,6 @@
     "job_posted_at": "2026-04-22T00:00:00.000Z"
   },
   {
-    "job_id": "js-adobe-neq5th4fklmb8j_2aaaaaa==",
-    "job_title": "2026 AI/ML Intern - Machine Learning Engineer",
-    "employer_name": "Adobe",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer",
-    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "9f43ab4fe94b82adb30d2a4681920a1482c1356d6612a6c8163e2bf0d4c5b8c0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "computer science",
-        "deep learning",
-        "express",
-        "java",
-        "machine learning",
-        "matlab",
-        "python"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-22T00:00:00.000Z"
-  },
-  {
     "job_id": "js-glenn-research-center-lzqyc_un_78zbu5haaaaaa==",
     "job_title": "AI and Machine Learning Intern",
     "employer_name": "Glenn Research Center",
@@ -10082,63 +10139,6 @@
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
-    },
-    "job_posted_at": "2026-04-22T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-experian-0dbrrz5gldkrdurmaaaaaa==",
-    "job_title": "Data Science Summer Intern (Remote & Paid)",
-    "employer_name": "Experian",
-    "job_city": "Baltimore",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": true,
-    "job_apply_link": "https://jobs.digitalhire.com/job-listing/opening/2yjFSJJoIsMV5FsBtxs5iS",
-    "job_posted_at_datetime_utc": "2026-04-22T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "e2b0d4df465eca3904792b8abf94a9dc96062333658c4ab1f3d4fed39d64ccb4",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "remote"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "c++",
-        "computer science",
-        "data analysis",
-        "deep learning",
-        "java",
-        "keras",
-        "machine learning",
-        "pandas",
-        "pyspark",
-        "python",
-        "pytorch",
-        "r",
-        "reinforcement learning",
-        "scikit-learn",
-        "spark",
-        "statistics",
-        "tensorflow"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": true
     },
     "job_posted_at": "2026-04-22T00:00:00.000Z"
   },
@@ -12854,6 +12854,63 @@
     "job_posted_at": "2026-04-21T00:48:32.708Z"
   },
   {
+    "job_id": "js-pinterest-ysgrcpqgdhzbly-zaaaaaa==",
+    "job_title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
+    "employer_name": "Pinterest",
+    "job_city": "New York",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://www.pinterestcareers.com/jobs/7253017/masters-fall-machine-learning-internship-atg-visual-search/",
+    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
+    "job_employment_type": "INTERNSHIP",
+    "salary": null,
+    "fingerprint": "3c59a9fe33c0fe2f4586029fba2a0e849f691aeb7f17174132111c7288a6e15a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai",
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "Natural Language Processing",
+        "agents",
+        "analytics",
+        "c++",
+        "computer science",
+        "computer vision",
+        "data science",
+        "generative ai",
+        "java",
+        "machine learning",
+        "mlflow",
+        "networking",
+        "palo alto",
+        "python",
+        "pytorch",
+        "statistics",
+        "tensorflow"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T00:00:00.000Z"
+  },
+  {
     "job_id": "js-airbnb-lfav2zjexcjekwwwaaaaaa==",
     "job_title": "Data Science Intern",
     "employer_name": "Airbnb",
@@ -12903,21 +12960,22 @@
     "job_posted_at": "2026-04-21T00:00:00.000Z"
   },
   {
-    "job_id": "js-healthtrust-i4uifun23sjxb4zsaaaaaa==",
-    "job_title": "Data Science Intern",
-    "employer_name": "HealthTrust",
-    "job_city": "Nashville",
+    "job_id": "js-the-aerospace-corporation-bgrwlxq4s3f4u2rkaaaaaa==",
+    "job_title": "2026 Machine Learning Engineering Grad Intern",
+    "employer_name": "The Aerospace Corporation",
+    "job_city": "Chantilly",
     "job_state": "",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17585097",
+    "job_apply_link": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/XMLNAME-2026-Machine-Learning-Engineering-Grad-Intern_R014076",
     "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "FULL-TIME",
     "salary": null,
-    "fingerprint": "13f5856572b52728a60997d00d0bb0adbd4efd4fbdd5c212f4f271a77c909af9",
+    "fingerprint": "1988fe99ecef8c7e1d76abee3ee1b983cfee99ba55d8d5fc3383564aa647cc71",
     "tags": {
       "employment": "internship",
       "domains": [
+        "ai",
         "data_science"
       ],
       "locations": [
@@ -12931,11 +12989,30 @@
     "_original_source": "jsearch",
     "enrichment": {
       "required_skills": [
-        "dashboards",
+        "agentic",
+        "arm",
+        "computer science",
+        "computer vision",
+        "cyber security",
         "data science",
+        "devops",
+        "docker",
+        "generative ai",
+        "hadoop",
+        "kubernetes",
+        "linux",
         "machine learning",
+        "microservices",
+        "mlflow",
+        "natural language processing",
+        "process improvement",
+        "project management",
         "python",
-        "sql"
+        "pytorch",
+        "reinforcement learning",
+        "spark",
+        "statistics",
+        "unix"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
@@ -13085,6 +13162,50 @@
       "sponsors_visa": null,
       "visa_question_present": false,
       "possible_sponsor": true,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-04-21T00:00:00.000Z"
+  },
+  {
+    "job_id": "js-healthtrust-i4uifun23sjxb4zsaaaaaa==",
+    "job_title": "Data Science Intern",
+    "employer_name": "HealthTrust",
+    "job_city": "Nashville",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17585097",
+    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "13f5856572b52728a60997d00d0bb0adbd4efd4fbdd5c212f4f271a77c909af9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": []
+    },
+    "_source": "aggregator",
+    "_original_source": "jsearch",
+    "enrichment": {
+      "required_skills": [
+        "dashboards",
+        "data science",
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "possible_sponsor": null,
       "is_simple_apply": false,
       "summary_line": null,
       "is_remote": false
@@ -13317,70 +13438,6 @@
     "job_posted_at": "2026-04-21T00:00:00.000Z"
   },
   {
-    "job_id": "js-the-aerospace-corporation-bgrwlxq4s3f4u2rkaaaaaa==",
-    "job_title": "2026 Machine Learning Engineering Grad Intern",
-    "employer_name": "The Aerospace Corporation",
-    "job_city": "Chantilly",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/XMLNAME-2026-Machine-Learning-Engineering-Grad-Intern_R014076",
-    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
-    "job_employment_type": "FULL-TIME",
-    "salary": null,
-    "fingerprint": "1988fe99ecef8c7e1d76abee3ee1b983cfee99ba55d8d5fc3383564aa647cc71",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "arm",
-        "computer science",
-        "computer vision",
-        "cyber security",
-        "data science",
-        "devops",
-        "docker",
-        "generative ai",
-        "hadoop",
-        "kubernetes",
-        "linux",
-        "machine learning",
-        "microservices",
-        "mlflow",
-        "natural language processing",
-        "process improvement",
-        "project management",
-        "python",
-        "pytorch",
-        "reinforcement learning",
-        "spark",
-        "statistics",
-        "unix"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": null,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T00:00:00.000Z"
-  },
-  {
     "job_id": "js-amentum-ei9piil4mofx3hu2aaaaaa==",
     "job_title": "Intern - Software Systems Engineer",
     "employer_name": "Amentum",
@@ -13555,63 +13612,6 @@
       "required_skills": [
         "excel",
         "rf"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "possible_sponsor": true,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-21T00:00:00.000Z"
-  },
-  {
-    "job_id": "js-pinterest-ysgrcpqgdhzbly-zaaaaaa==",
-    "job_title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
-    "employer_name": "Pinterest",
-    "job_city": "New York",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://www.pinterestcareers.com/jobs/7253017/masters-fall-machine-learning-internship-atg-visual-search/",
-    "job_posted_at_datetime_utc": "2026-04-21T00:00:00.000Z",
-    "job_employment_type": "INTERNSHIP",
-    "salary": null,
-    "fingerprint": "3c59a9fe33c0fe2f4586029fba2a0e849f691aeb7f17174132111c7288a6e15a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "jsearch",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "agents",
-        "analytics",
-        "c++",
-        "computer science",
-        "computer vision",
-        "data science",
-        "generative ai",
-        "java",
-        "machine learning",
-        "mlflow",
-        "networking",
-        "palo alto",
-        "python",
-        "pytorch",
-        "statistics",
-        "tensorflow"
       ],
       "sponsors_visa": null,
       "visa_question_present": false,
