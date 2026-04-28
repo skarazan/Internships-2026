@@ -33351,34 +33351,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-21T21:42:03.000Z"
-  },
-  {
-    "job_id": "workday-intel-JR0282658",
-    "job_title": "Undegrad Intern- AI Software Development",
-    "employer_name": "Intel",
-    "job_city": "US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US, California, Folsom",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/Undegrad-Intern--AI-Software-Development_JR0282658",
-    "job_posted_at_datetime_utc": "2026-04-21T21:18:51.363Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "6550ed31d12045eb6f7dd48084111725f3c2fe1ab4c183121fdbae1cde85c09e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-21T21:18:51.363Z"
   }
 ]
