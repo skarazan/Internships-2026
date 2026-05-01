@@ -42334,34 +42334,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-24T18:17:33.689Z"
-  },
-  {
-    "job_id": "greenhouse-okta-7818811",
-    "job_title": "Social Media Engagement Intern (Summer 2026)",
-    "employer_name": "Okta",
-    "job_city": "Chicago",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Chicago, Illinois",
-    "job_apply_link": "https://www.okta.com/company/careers/opportunity/7818811?gh_jid=7818811",
-    "job_posted_at_datetime_utc": "2026-04-24T18:02:12.394Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5594666c09d4222aa0371771fb2a994f1f52021342254c45f18bfd6c2cc4da76",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "marketing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-24T18:02:12.394Z"
   }
 ]
