@@ -42284,55 +42284,5 @@
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
     "job_posted_at": "2026-04-24T18:53:17.343Z"
-  },
-  {
-    "job_id": "ashby-etched-11aedfd6-8321-45af-b71e-492ea7ed3fff",
-    "job_title": "Thermo-Mechanical, CFD Simulation Engineering Intern",
-    "employer_name": "Etched",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose",
-    "job_apply_link": "https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff/application",
-    "job_posted_at_datetime_utc": "2026-04-24T18:17:33.689Z",
-    "job_employment_type": "FullTime",
-    "salary": null,
-    "fingerprint": "65db03efda0e74ee78721975cd106dcff3beb1838042bedf9a941c6c77ea6f3d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "ashby",
-    "enrichment": {
-      "required_skills": [
-        "ansys",
-        "cfd",
-        "fea",
-        "html",
-        "linear",
-        "matlab",
-        "nx",
-        "python",
-        "r",
-        "solidworks"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-24T18:17:33.689Z"
   }
 ]
