@@ -42254,35 +42254,5 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-04-24T19:01:41.917Z"
-  },
-  {
-    "job_id": "sr-VeoliaEnvironnementSA-744000122747322",
-    "job_title": "Warehouse Intern",
-    "employer_name": "Veolia Environnement SA",
-    "job_city": "Milwaukee",
-    "job_state": "WI",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Milwaukee, WI",
-    "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122747322",
-    "job_posted_at_datetime_utc": "2026-04-24T18:53:17.343Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1c5b94cc6a825a0c845a84e01dc7da6394d05d1bb62bd4ba37a47277f5ab621b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "logistics"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "job_posted_at": "2026-04-24T18:53:17.343Z"
   }
 ]
