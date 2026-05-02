@@ -250,12 +250,43 @@
       "product marketing intern"
     ]
   },
+  "research_science": {
+    "title": "Research & Science",
+    "emoji": "\ud83d\udd2c",
+    "keywords": [
+      "research intern",
+      "research scientist",
+      "research assistant",
+      "research engineer",
+      "scientist intern",
+      "phd intern",
+      "computational intern",
+      "lab intern"
+    ]
+  },
+  "general_engineering": {
+    "title": "General Engineering",
+    "emoji": "\ud83d\udee0\ufe0f",
+    "keywords": [
+      "engineering intern",
+      "mechanical intern",
+      "electrical intern",
+      "aerospace intern",
+      "chemical intern",
+      "manufacturing intern",
+      "automation intern",
+      "quality intern",
+      "validation intern",
+      "power engineer intern"
+    ]
+  },
   "other_internships": {
     "title": "Other Internships",
     "emoji": "\ud83d\udcc2",
     "keywords": [
       "intern",
       "co-op",
+      "co op",
       "coop",
       "fellowship",
       "apprentice"
