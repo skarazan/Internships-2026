@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-guidehouse-35972",
+    "job_title": "Intern - Defense & Security Segment - Summer 2026",
+    "employer_name": "Guidehouse",
+    "job_city": "VA, McLean",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US - VA, McLean",
+    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Intern---Defense---Security-Segment---Summer-2026_35972",
+    "job_posted_at_datetime_utc": "2026-05-05T18:32:44.467Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d6e54187f59b55dd1489ff159f6a58307bd24608e60938e54ce9d82e5df592e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T18:32:44.467Z"
+  },
+  {
     "job_id": "workday-state-street-R-784963",
     "job_title": "IT Business Analyst – Data & Regulatory Reporting, Fulltime Internship (July - Dec 2026)",
     "employer_name": "State Street",
@@ -3996,36 +4026,6 @@
     "job_posted_at": "2026-05-02T13:30:45.196Z"
   },
   {
-    "job_id": "greenhouse-cloudflare-7773799",
-    "job_title": "Sales Project Manager Intern (AI Innovation) (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "In-Office",
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:45.195Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a15342aa2984505f7c9e88aab60442e1f45de036e920bac93367d1d936506133",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:45.195Z"
-  },
-  {
     "job_id": "greenhouse-cloudflare-7822668",
     "job_title": "Procurement Analyst Intern",
     "employer_name": "Cloudflare",
@@ -4137,6 +4137,36 @@
       "employment": "internship",
       "domains": [
         "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:45.195Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7773799",
+    "job_title": "Sales Project Manager Intern (AI Innovation) (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "In-Office",
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:45.195Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a15342aa2984505f7c9e88aab60442e1f45de036e920bac93367d1d936506133",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
       ],
       "locations": [
         "us"
@@ -7612,6 +7642,36 @@
     "job_posted_at": "2026-04-30T07:49:51.232Z"
   },
   {
+    "job_id": "greenhouse-knowbe4-8203256002",
+    "job_title": "Sales Development Representative Intern (Hybrid)",
+    "employer_name": "KnowBe4",
+    "job_city": "Arlington",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Arlington, Virginia",
+    "job_apply_link": "https://job-boards.greenhouse.io/knowbe4/jobs/8203256002",
+    "job_posted_at_datetime_utc": "2026-04-30T07:49:47.330Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d6d6a3c329ad531be9e1a95c6c7e872285d8b7a9959b719e48f30bef7b74ee2e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-04-30T07:49:47.330Z"
+  },
+  {
     "job_id": "greenhouse-knowbe4-8485631002",
     "job_title": "Demand Generation Intern",
     "employer_name": "KnowBe4",
@@ -7655,36 +7715,6 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7cb1ba8fd2dfd47a4ca83868d4fd10c00b58a2542fd73ef45c439e83e234efa1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-30T07:49:47.330Z"
-  },
-  {
-    "job_id": "greenhouse-knowbe4-8203256002",
-    "job_title": "Sales Development Representative Intern (Hybrid)",
-    "employer_name": "KnowBe4",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Arlington, Virginia",
-    "job_apply_link": "https://job-boards.greenhouse.io/knowbe4/jobs/8203256002",
-    "job_posted_at_datetime_utc": "2026-04-30T07:49:47.330Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d6d6a3c329ad531be9e1a95c6c7e872285d8b7a9959b719e48f30bef7b74ee2e",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -22249,36 +22279,6 @@
     "job_posted_at": "2026-04-29T07:01:36.249Z"
   },
   {
-    "job_id": "workday-moog-R-26-17425",
-    "job_title": "Intern, Contracts",
-    "employer_name": "Moog",
-    "job_city": "Buffalo",
-    "job_state": "NY",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Buffalo, NY",
-    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Contracts_R-26-17425",
-    "job_posted_at_datetime_utc": "2026-04-29T07:01:32.126Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "94e2d9026d656a49c2d832322d2d2ec4b7e4671a6586ea90afda1074d7362e0f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-04-29T07:01:32.126Z"
-  },
-  {
     "job_id": "workday-moog-R-25-13444",
     "job_title": "Intern, Sustainment Engineering",
     "employer_name": "Moog",
@@ -22316,6 +22316,36 @@
       "summary_line": null,
       "is_remote": false
     },
+    "job_posted_at": "2026-04-29T07:01:32.126Z"
+  },
+  {
+    "job_id": "workday-moog-R-26-17425",
+    "job_title": "Intern, Contracts",
+    "employer_name": "Moog",
+    "job_city": "Buffalo",
+    "job_state": "NY",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Buffalo, NY",
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Contracts_R-26-17425",
+    "job_posted_at_datetime_utc": "2026-04-29T07:01:32.126Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "94e2d9026d656a49c2d832322d2d2ec4b7e4671a6586ea90afda1074d7362e0f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
     "job_posted_at": "2026-04-29T07:01:32.126Z"
   },
   {
@@ -23885,38 +23915,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-28T22:18:10.938Z"
-  },
-  {
-    "job_id": "microsoft-200036313",
-    "job_title": "Research Intern - Socio-Technical Workflow Analysis",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, Washington, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556862680",
-    "job_posted_at_datetime_utc": "2026-04-28T22:15:40.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "03b7e04f2d4feab995c37f9a1523a287d5acd437b8b2e6e7861ef2c772010ca0",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-04-28T22:15:40.000Z"
   },
   {
     "job_id": "workday-sel-2026-19615",
