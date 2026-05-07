@@ -17,8 +17,8 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-265-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-103-blue?style=flat&logo=building)
+![Total Internships](https://img.shields.io/badge/Total_Internships-259-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-102-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
@@ -186,7 +186,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Northwood Space** | Electrical Engineer Intern (Summer 2026) | Torrance, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/northwoodspace/1d771e09-ffca-48fa-a9a0-bddd926fe513/application) |
 | 🏢 **Anduril** | Firmware Engineer Intern | Costa Mesa, Calif... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/andurilindustries/jobs/5121683007?gh_jid=5121683007) |
 | 🏢 **Johnson Controls** | Mechanical Engineering Intern | Wisconsin | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Mechanical-Engineering-Intern_WD30253236-1) |
-| 🏢 **Redwood Materials** | Mechanical Engineering Intern | McCarran, NV | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/redwoodmaterials/jobs/5819163004?gh_jid=5819163004) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -308,7 +307,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Bosch Group** | Product Quality Intern | Plymouth, MI | 12h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124973989) |
+| 🏢 **Bosch Group** | Product Quality Intern | Plymouth, MI | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124973989) |
 | 🏢 **Bosch Group** | Engineering Intern | Plymouth, MI | 17h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124921593) |
 | 🏢 **Susquehanna International Group (SIG)** | Trading System Engineering Intern | Ardmore, PA | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) |
 | 🏢 **Tesla** | Abuse Testing & Engineering Intern - Abuse Testing & Engineering | Palo Alto, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269326) |
@@ -342,7 +341,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Cloudflare** | Marketing Events and Campaigns Intern (Mid-Year 2026) | In- | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) |
-| 🏢 **KnowBe4** | Sales Development Representative Intern (Hybrid) | Arlington, Virginia | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8538904002) |
+| 🏢 **KnowBe4** | Sales Development Representative Intern (Hybrid) | Arlington, Virginia | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8538904002) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Trader Intern | Ardmore, PA | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Strategy Developer Intern | Ardmore, PA | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) |
 | 🏢 **Amentum** | Summer 2026 – SES Simulation Engineer Intern | Houston, TX | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870) |
@@ -415,8 +414,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Okta** | Enablement Communications & Events Coordinator Intern | Bellevue, Washing... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.okta.com/company/careers/opportunity/7818817?gh_jid=7818817) |
 | 🏢 **Olsson** | Student Internship - Construction Administration & Management | Oklahoma City, OK | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5199983008) |
 | 🏢 **Figure AI** | Firmware Intern [Summer 2026] | San Jose, CA | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/figureai/jobs/4618805006) |
-| 🏢 **Cloudflare** | Sales Project Manager Intern (AI Innovation) (Summer 2026) | In- | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) |
 | 🏢 **Cloudflare** | Procurement Analyst Intern | Hybrid | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7822668?gh_jid=7822668) |
+| 🏢 **Cloudflare** | Sales Project Manager Intern (AI Innovation) (Summer 2026) | In- | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799) |
 | 🏢 **Palantir** | Year at Palantir, Internship | Washington, D.C. | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/palantir/9410b487-c6c0-4178-903c-3311ce6b1861/apply) |
 | 🏢 **LG Electronics** | Intern - Builder Business Management | Englewood Cliffs, NJ | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/lgelectronics/jobs/5208168008) |
 | 🏢 **Labelbox** | Forward Deployed Engineer Intern | San Francisco Bay... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/labelbox/jobs/5126745007) |
@@ -496,7 +495,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 265 current opportunities from 103 companies**
+**🎯 259 current opportunities from 102 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
