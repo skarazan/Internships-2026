@@ -307,8 +307,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🟦 **Microsoft** | Research Intern - Post-Training | Redmond, Washingt... | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) |
-| 🟦 **Microsoft** | Research Intern - AI Frontiers | Redmond, Washingt... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556864498) |
+| 🟦 **Microsoft** | Research Intern - Post-Training | Redmond, Washingt... | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) |
+| 🟦 **Microsoft** | Research Intern - AI Frontiers | Redmond, Washingt... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556864498) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Research Intern - PhD: Summer 2027 | Ardmore, PA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10817/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Research Intern | Ardmore, PA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10819/job?mobile=true&needsRedirect=false) |
 | 🏢 **Peraton** | Summer 2026 Cyber Research Intern - Bedford - NH | Bedford, NH | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false) |
@@ -328,7 +328,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Bosch Group** | Product Quality Intern | Plymouth, MI | 11h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124973989) |
-| 🏢 **Bosch Group** | Engineering Intern | Plymouth, MI | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124921593) |
+| 🏢 **Bosch Group** | Engineering Intern | Plymouth, MI | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124921593) |
 | 🏢 **Susquehanna International Group (SIG)** | Trading System Engineering Intern | Ardmore, PA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false) |
 | 🏢 **Tesla** | Abuse Testing & Engineering Intern - Abuse Testing & Engineering | Palo Alto, CA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269326) |
 | 🏢 **GlobalFoundries** | Field Application Engineering Intern, Austin, TX (Summer 2026) | Texas | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795) |
@@ -361,7 +361,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Cloudflare** | Marketing Events and Campaigns Intern (July to Dec 2026) | In- | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) |
+| 🏢 **Cloudflare** | Marketing Events and Campaigns Intern (July to Dec 2026) | In- | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) |
 | 🏢 **KnowBe4** | Sales Development Representative Intern (Hybrid) | Arlington, Virginia | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8538904002) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Trader Intern | Ardmore, PA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Strategy Developer Intern | Ardmore, PA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) |
