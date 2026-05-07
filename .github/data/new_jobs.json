@@ -29,6 +29,16 @@
     },
     "_source": "aggregator",
     "_original_source": "smartrecruiters",
+    "enrichment": {
+      "required_skills": [
+        "project management"
+      ],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-07T19:30:26.313Z"
   },
   {
@@ -549,6 +559,74 @@
     "job_posted_at": "2026-05-06T14:29:20.202Z"
   },
   {
+    "job_id": "simplify-9424072c-485e-43c4-91e8-4f124356a286",
+    "job_title": "Trading System Engineering Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69485d599d82059607fddafa303bd52273adcc7a3f535ecfbde884139201437b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-14dcee99-b506-4efe-a80a-63151e541c4d",
+    "job_title": "Quantitative Strategy Developer Intern",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ec01482ecfed3380a3f25bc325964e4f6c14163d238dde79c18bf732267b1087",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
     "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
     "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
     "employer_name": "Peraton",
@@ -819,74 +897,6 @@
       "summary_line": null,
       "is_remote": false
     },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-9424072c-485e-43c4-91e8-4f124356a286",
-    "job_title": "Trading System Engineering Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10837/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69485d599d82059607fddafa303bd52273adcc7a3f535ecfbde884139201437b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-14dcee99-b506-4efe-a80a-63151e541c4d",
-    "job_title": "Quantitative Strategy Developer Intern",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ec01482ecfed3380a3f25bc325964e4f6c14163d238dde79c18bf732267b1087",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
@@ -8791,76 +8801,5 @@
       "is_remote": false
     },
     "job_posted_at": "2026-04-30T20:00:31.547Z"
-  },
-  {
-    "job_id": "sr-VeoliaEnvironnementSA-744000124018089",
-    "job_title": "Engineering Intern",
-    "employer_name": "Veolia Environnement SA",
-    "job_city": "Arkadelphia",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Arkadelphia, AR",
-    "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000124018089",
-    "job_posted_at_datetime_utc": "2026-04-30T19:51:03.270Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "337208a571b89dafc9cdec849745c65fbf47f3d471730439e7412c2d990799db",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us",
-        "on_site"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "smartrecruiters",
-    "enrichment": {
-      "required_skills": [
-        "networking"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-04-30T19:51:03.270Z"
-  },
-  {
-    "job_id": "greenhouse-qualtrics-7871039",
-    "job_title": "Sales Development Representative Intern",
-    "employer_name": "Qualtrics",
-    "job_city": "Provo",
-    "job_state": "UT",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Provo, Utah, United States",
-    "job_apply_link": "https://www.qualtrics.com/careers/us/en/job/7871039?gh_jid=7871039",
-    "job_posted_at_datetime_utc": "2026-04-30T19:47:06.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2961ee29a5c077eac5a04999120136b5de95d0f884ab86bca0430ef0328d8511",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-04-30T19:47:06.000Z"
   }
 ]
