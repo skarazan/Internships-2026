@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-197-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-196-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-86-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -68,7 +68,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **TikTok** | Software Engineer Intern - Quality and Efficiency Technology | San Jose, CA | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7637047421538404613) |
+| 🏢 **TikTok** | Software Engineer Intern - Quality and Efficiency Technology | San Jose, CA | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7637047421538404613) |
 | 🏢 **True Anomaly** | Front End Software Engineer Intern | Denver, CO | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131359007) |
 | 🏢 **Oracle** | Software Engineer Intern - NetSuite | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/332961) |
 | 🏢 **Tesla** | Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269819) |
@@ -103,7 +103,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **SentinelOne** | AI/Machine Learning Engineer Intern | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.sentinelone.com/jobs/7678136003?gh_jid=7678136003) |
 | 🏢 **State Street** | IT Business Analyst – Data & Regulatory Reporting, Fulltime Internship (July - Dec 2026) | Quincy, Massachus... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/IT-Business-Analyst---Data---Regulatory-Reporting--Fulltime-Internship--July---Dec-2026-_R-784963) |
 | 🏢 **RTX** | Stage - Automne - Stagiaire en soutien numérique et intelligence d’affaires / Internship - Fall - Digital Support & Business Intelligence Intern | Qc, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Stagiaire-en-soutien-numrique-et-intelligence-d-affaires---Internship---Fall---Digital-Support---Business-Intelligence-Intern_01838477) |
-| 🏢 **Leidos** | AI Data Science Intern | Orlando, FL | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/AI-Data-Science-Intern_R-00182332) |
+| 🏢 **Leidos** | AI Data Science Intern | Orlando, FL | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/AI-Data-Science-Intern_R-00182332) |
 | 🏢 **Expedia Group** | Data Science, Analytics Intern - 2026 - Seattle | Seattle | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Data-Science--Analytics-Intern---2026---Seattle_R-98638) |
 | 🏢 **Faire** | Data Science Intern - Personalization & Recommender Systems | San Francisco, CA | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/faire/jobs/8512996002?gh_jid=8512996002) |
 | 🏢 **Stripe** | PhD Data Scientist, Intern | San Francisco, Ne... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7874965) |
@@ -298,7 +298,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Copart** | Yard Engineering Intern | Dallas, TX - Head... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Yard-Engineering-Intern_JR108553) |
 | 🏢 **GlobalFoundries** | Digital Manufacturing Intern (Summer 2026) | New York | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-1H-University-Intern---Digital-Manufacturing_JR-2502722-1) |
 | 🏢 **Etched** | Thermo-Mechanical, CFD Simulation Engineering Intern | San Jose | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/11aedfd6-8321-45af-b71e-492ea7ed3fff/application) |
-| 🏢 **Bosch Group** | Motorsport Engineering Intern - 2026 | Farmington Hills, MI | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000124123909) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -313,9 +312,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Veolia Environnement SA** | Drafting Intern | Plainfield, IL | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125222379) |
 | 🏢 **Cloudflare** | Marketing Events and Campaigns Intern (Mid-Year 2026) | In- | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7736919?gh_jid=7736919) |
 | 🏢 **KnowBe4** | Sales Development Representative Intern (Hybrid) | Arlington, Virginia | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/knowbe4/jobs/8538904002) |
-| 🏢 **Susquehanna International Group (SIG)** | Quantitative Trader Intern | Ardmore, PA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) |
 | 🏢 **Susquehanna International Group (SIG)** | Quantitative Strategy Developer Intern | Ardmore, PA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false) |
 | 🏢 **Amentum** | Summer 2026 – SES Simulation Engineer Intern | Houston, TX | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870) |
+| 🏢 **Susquehanna International Group (SIG)** | Quantitative Trader Intern | Ardmore, PA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-sig.icims.com/jobs/10717/job?mobile=true&needsRedirect=false) |
 | 🏢 **JP Morgan Chase** | 2026 – Internship - Markets - Systematic Trading - New York | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133) |
 | 🏢 **Tesla** | Machine Learning Platform Intern - Multiple Teams | Palo Alto, CA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269812) |
 | 🏢 **AES Corporation** | Legal Intern-1 | US, Salt Lake Cit... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Salt-Lake-City-UT/Legal-Intern-1_R1063542-1) |
@@ -447,7 +446,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 197 current opportunities from 86 companies**
+**🎯 196 current opportunities from 86 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
