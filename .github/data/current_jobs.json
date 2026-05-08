@@ -1,5 +1,202 @@
 [
   {
+    "job_id": "ashby-snowflake-a488959b-6874-4563-acb2-af747c3dc6f7",
+    "job_title": "Software Engineer Intern (Security) - Fall 2026",
+    "employer_name": "Snowflake",
+    "job_city": "US-CA-Menlo Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CA-Menlo Park",
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/a488959b-6874-4563-acb2-af747c3dc6f7/application",
+    "job_posted_at_datetime_utc": "2026-05-08T17:12:36.271Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "b1c3a833124fea34430184a63ecd09c714c04ca7a61d0186ce10f6634b9af609",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-08T17:12:36.271Z"
+  },
+  {
+    "job_id": "ashby-snowflake-bbdee8bd-443c-456f-a4f0-1b363d843310",
+    "job_title": "Software Engineer Intern (Infrastructure Automation) - Fall 2026",
+    "employer_name": "Snowflake",
+    "job_city": "US-CA-Menlo Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CA-Menlo Park",
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/bbdee8bd-443c-456f-a4f0-1b363d843310/application",
+    "job_posted_at_datetime_utc": "2026-05-08T17:12:27.811Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "d13cf09fa036c6e510e0310abbb8f171c690f731a7f4918c527257420152e5c3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-08T17:12:27.811Z"
+  },
+  {
+    "job_id": "ashby-snowflake-fd76a37f-868d-467b-a256-0b6746b9e961",
+    "job_title": "Software Engineer Intern (Database Engineering) - Fall 2026",
+    "employer_name": "Snowflake",
+    "job_city": "US-CA-Menlo Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CA-Menlo Park",
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/fd76a37f-868d-467b-a256-0b6746b9e961/application",
+    "job_posted_at_datetime_utc": "2026-05-08T17:12:15.187Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "0e6fecd281734857a7bb84b007d26ac16d455a70c82f3edde51cab161616adee",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-08T17:12:15.187Z"
+  },
+  {
+    "job_id": "ashby-snowflake-4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5",
+    "job_title": "Software Engineer Intern (Core Engineering) - Fall 2026",
+    "employer_name": "Snowflake",
+    "job_city": "US-CA-Menlo Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CA-Menlo Park",
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/4f34aefa-681b-4aa8-a0ea-28ce56c9f1a5/application",
+    "job_posted_at_datetime_utc": "2026-05-08T17:12:01.421Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "ef72064bc0995d3cfde4a6507c9beb561719b6275216cda891bbacd349acad0b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-08T17:12:01.421Z"
+  },
+  {
+    "job_id": "ashby-snowflake-be659b54-08a1-4acf-b86c-f003ef6343ea",
+    "job_title": "Software Engineer Intern (AI/ML) - Fall 2026",
+    "employer_name": "Snowflake",
+    "job_city": "US-CA-Menlo Park",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CA-Menlo Park",
+    "job_apply_link": "https://jobs.ashbyhq.com/snowflake/be659b54-08a1-4acf-b86c-f003ef6343ea/application",
+    "job_posted_at_datetime_utc": "2026-05-08T17:11:54.068Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "22689071ea7c16ce9afa0364ab464369b04b137d2576c9e202de9acdca1543be",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "ai"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [
+        "unicorn"
+      ],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "ashby",
+    "job_posted_at": "2026-05-08T17:11:54.068Z"
+  },
+  {
+    "job_id": "sr-VeoliaEnvironnementSA-744000125380509",
+    "job_title": "Intern - Engineering",
+    "employer_name": "Veolia Environnement SA",
+    "job_city": "Plainfield",
+    "job_state": "IL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Plainfield, IL",
+    "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125380509",
+    "job_posted_at_datetime_utc": "2026-05-08T17:04:08.897Z",
+    "job_employment_type": "full_time",
+    "salary": null,
+    "fingerprint": "22342f98ae0d274abc743452924f836c6e02a811a60be9f6ca87d52ad4e925d7",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us",
+        "on_site"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "smartrecruiters",
+    "job_posted_at": "2026-05-08T17:04:08.897Z"
+  },
+  {
     "job_id": "simplify-9259b927-fb9f-421c-95d0-f346a63020a3",
     "job_title": "Software Engineer Intern - Quality and Efficiency Technology",
     "employer_name": "TikTok",
@@ -416,7 +613,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -522,7 +719,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -572,38 +769,6 @@
     "_source": "aggregator",
     "_original_source": "greenhouse",
     "job_posted_at": "2026-05-06T22:02:01.000Z"
-  },
-  {
-    "job_id": "microsoft-200036954",
-    "job_title": "Research Intern - Intelligent Quantum Systems Architecture",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Redmond, Washington, United States",
-    "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
-    "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "microsoft",
-    "job_posted_at": "2026-05-06T21:17:55.000Z"
   },
   {
     "job_id": "sr-BoschGroup-744000124973989",
@@ -674,74 +839,6 @@
       "is_remote": false
     },
     "job_posted_at": "2026-05-06T14:29:20.202Z"
-  },
-  {
-    "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
-    "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
-    "employer_name": "Peraton",
-    "job_city": "Bedford",
-    "job_state": "NH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bedford, NH",
-    "job_apply_link": "https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "69e4088bb08cc3643844711649a4f9c2f27ec2f95527c2fe3950bfeaca11aaaf",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
-    "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
-    "job_title": "Summer 2026 – SES Simulation Engineer Intern",
-    "employer_name": "Amentum",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Houston, TX",
-    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "enrichment": {
-      "required_skills": [],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
     "job_id": "simplify-04690200-00da-4592-b697-fc3f8a39af9c",
@@ -831,6 +928,74 @@
     },
     "_source": "aggregator",
     "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-0669f495-65b0-47b4-bfbf-1b7ad3682c5d",
+    "job_title": "Summer 2026 Cyber Research Intern - Bedford - NH",
+    "employer_name": "Peraton",
+    "job_city": "Bedford",
+    "job_state": "NH",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Bedford, NH",
+    "job_apply_link": "https://careers-peraton.icims.com/jobs/163715/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "69e4088bb08cc3643844711649a4f9c2f27ec2f95527c2fe3950bfeaca11aaaf",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
+    "job_title": "Summer 2026 – SES Simulation Engineer Intern",
+    "employer_name": "Amentum",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Houston, TX",
+    "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Summer-2026---SES-Simulation-Engineer-Intern_R0154870",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c194b63bcf7d55878105d9cc3c450a70c621ee29059a4c4d58d1d7a19da33fc9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
+    "enrichment": {
+      "required_skills": [],
+      "sponsors_visa": null,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "summary_line": null,
+      "is_remote": false
+    },
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
