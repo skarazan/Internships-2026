@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Total Internships](https://img.shields.io/badge/Total_Internships-235-brightgreen?style=flat&logo=briefcase)
+![Total Internships](https://img.shields.io/badge/Total_Internships-229-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-94-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
@@ -99,7 +99,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Cresta** | Data Science Intern (Customer Success) | United States (Re... | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213417008) |
+| 🏢 **Cresta** | Data Science Intern (Customer Success) | United States (Re... | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213417008) |
 | 🏢 **Tesla** | Data Engineer Intern - Multiple Teams | Palo Alto, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/269828) |
 | 🏢 **SentinelOne** | AI/Machine Learning Engineer Intern | United States | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.sentinelone.com/jobs/7678136003?gh_jid=7678136003) |
 | 🏢 **State Street** | IT Business Analyst – Data & Regulatory Reporting, Fulltime Internship (July - Dec 2026) | Quincy, Massachus... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/IT-Business-Analyst---Data---Regulatory-Reporting--Fulltime-Internship--July---Dec-2026-_R-784963) |
@@ -479,7 +479,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 235 current opportunities from 94 companies**
+**🎯 229 current opportunities from 94 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
