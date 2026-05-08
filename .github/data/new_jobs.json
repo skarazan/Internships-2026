@@ -1,5 +1,35 @@
 [
   {
+    "job_id": "workday-moog-R-26-17605",
+    "job_title": "Intern, Design Engineering",
+    "employer_name": "Moog",
+    "job_city": "Chatsworth",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Chatsworth, CA",
+    "job_apply_link": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Chatsworth-CA/Intern--Design-Engineering_R-26-17605",
+    "job_posted_at_datetime_utc": "2026-05-08T21:47:29.916Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2d0d402619907ac3b56c1c5cc0a16aab97079c01cbf98c7eb0e7bb43a199fdf6",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T21:47:29.916Z"
+  },
+  {
     "job_id": "workday-comcast-R436088",
     "job_title": "Comcast Global Audit Data Solutions - Data Architecture and Engineering Co-op",
     "employer_name": "Comcast",
@@ -57,6 +87,30 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "aws",
+        "ci/cd",
+        "fiber",
+        "git",
+        "github",
+        "jenkins",
+        "networking",
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-08T21:32:25.161Z"
   },
   {
@@ -287,11 +341,17 @@
         "salesforce",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:08:41.949Z"
   },
@@ -537,11 +597,17 @@
       "required_skills": [
         "mes"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:08:38.177Z"
   },
@@ -670,11 +736,17 @@
         "fmea",
         "root cause analysis"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
@@ -719,11 +791,17 @@
         "vba",
         "windows"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
@@ -768,11 +846,17 @@
         "vba",
         "windows"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
@@ -817,11 +901,17 @@
         "vba",
         "windows"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
@@ -896,11 +986,17 @@
         "vba",
         "windows"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
@@ -1002,11 +1098,17 @@
         "system design",
         "test driven development"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:08:27.958Z"
   },
@@ -1103,11 +1205,17 @@
         "computer science",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:55.123Z"
   },
@@ -1177,13 +1285,87 @@
         "gd&t",
         "solidworks"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:39.278Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182680",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "Leidos",
+    "job_city": "Reston",
+    "job_state": "VA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Reston, VA + 1 more",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00182680-1",
+    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a5cee1bbd7a001d3d08f4eba7679144ef3144342c5b865e3f60da535eed884e1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "aws",
+        "azure",
+        "bitbucket",
+        "ci/cd",
+        "computer science",
+        "confluence",
+        "continuous delivery",
+        "continuous integration",
+        "docker",
+        "express",
+        "gcp",
+        "git",
+        "helm",
+        "infrastructure as code",
+        "java",
+        "javascript",
+        "jenkins",
+        "jira",
+        "kafka",
+        "kubernetes",
+        "react",
+        "terraform"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
   {
     "job_id": "workday-leidos-R-00182690",
@@ -1243,68 +1425,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:07:39.277Z"
-  },
-  {
-    "job_id": "workday-leidos-R-00182680",
-    "job_title": "Software Engineer Intern",
-    "employer_name": "Leidos",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Reston, VA + 1 more",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Engineer-Intern_R-00182680-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:07:39.277Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a5cee1bbd7a001d3d08f4eba7679144ef3144342c5b865e3f60da535eed884e1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "aws",
-        "azure",
-        "bitbucket",
-        "ci/cd",
-        "computer science",
-        "confluence",
-        "continuous delivery",
-        "continuous integration",
-        "docker",
-        "express",
-        "gcp",
-        "git",
-        "helm",
-        "infrastructure as code",
-        "java",
-        "javascript",
-        "jenkins",
-        "jira",
-        "kafka",
-        "kubernetes",
-        "react",
-        "terraform"
-      ],
-      "sponsors_visa": null,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
-    },
     "job_posted_at": "2026-05-08T20:07:39.277Z"
   },
   {
@@ -1369,11 +1489,17 @@
       "required_skills": [
         "excel"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:07:26.642Z"
   },
@@ -1473,11 +1599,17 @@
         "project management",
         "robotics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:06:53.748Z"
   },
@@ -3527,36 +3659,6 @@
     "job_posted_at": "2026-05-08T20:06:07.747Z"
   },
   {
-    "job_id": "workday-comcast-R436576",
-    "job_title": "Comcast Market & Competitive Insights Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Market---Competitive-Insights-Co-op_R436576",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.746Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b0208e94d7482ce63e55816b9f4b0bb9571df6c869a309a707c51b19e2204d41",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:06:07.746Z"
-  },
-  {
     "job_id": "workday-comcast-R436182",
     "job_title": "Comcast Reporting Analyst Co-op",
     "employer_name": "Comcast",
@@ -3660,6 +3762,36 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "e99fc1a8e72b8a78282dd853b4e49b6cc2c415b3dd29410ad07d1e6f32b2c290",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:06:07.746Z"
+  },
+  {
+    "job_id": "workday-comcast-R436576",
+    "job_title": "Comcast Market & Competitive Insights Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Market---Competitive-Insights-Co-op_R436576",
+    "job_posted_at_datetime_utc": "2026-05-08T20:06:07.746Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b0208e94d7482ce63e55816b9f4b0bb9571df6c869a309a707c51b19e2204d41",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -3859,11 +3991,17 @@
         "typescript",
         "vue"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:06:00.130Z"
   },
@@ -4220,11 +4358,17 @@
         "statistics",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T20:05:17.438Z"
   },
@@ -4358,11 +4502,17 @@
         "statistics",
         "unity"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 14,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T19:28:40.000Z"
   },
@@ -4421,11 +4571,17 @@
         "spark",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 26,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T17:12:36.271Z"
   },
@@ -4481,11 +4637,17 @@
         "sql",
         "terraform"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 26,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T17:12:27.811Z"
   },
@@ -4539,11 +4701,17 @@
         "spark",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 26,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T17:12:15.187Z"
   },
@@ -4598,11 +4766,17 @@
         "spark",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 26,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T17:12:01.421Z"
   },
@@ -4659,11 +4833,17 @@
         "snowflake",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 26,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T17:11:54.068Z"
   },
@@ -4728,11 +4908,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T09:10:25.000Z"
   },
@@ -4776,11 +4962,28 @@
         "typescript",
         "websockets"
       ],
+      "nice_to_have_skills": [
+        "data visualization",
+        "fiber",
+        "figma",
+        "jest",
+        "mysql",
+        "postgresql",
+        "storybook",
+        "tailwind",
+        "three.js",
+        "vitest"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 9,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-08T06:44:14.000Z"
   },
@@ -4849,11 +5052,17 @@
       "required_skills": [
         "project management"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T19:30:26.313Z"
   },
@@ -4945,11 +5154,17 @@
         "tableau",
         "tensorflow"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": true
+      "is_remote": true,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 7,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T18:43:17.000Z"
   },
@@ -5020,11 +5235,17 @@
         "networking",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T16:24:59.708Z"
   },
@@ -5066,11 +5287,17 @@
         "c++",
         "rf"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": 4,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T15:16:41.432Z"
   },
@@ -5200,11 +5427,17 @@
         "netsuite",
         "oracle"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-07T00:00:00.000Z"
   },
@@ -5219,7 +5452,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864490",
     "job_posted_at_datetime_utc": "2026-05-06T22:44:55.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "dff38feeeeb3e00deed13e301d98b3422d917fc8527c706d0b9c347a864b5a7e",
     "tags": {
@@ -5463,11 +5696,17 @@
         "flux",
         "power bi"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:08:38.178Z"
   },
@@ -6049,11 +6288,17 @@
         "solidworks",
         "visio"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T20:06:37.345Z"
   },
@@ -6209,11 +6454,17 @@
     "_original_source": "smartrecruiters",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T14:29:20.202Z"
   },
@@ -6367,11 +6618,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
@@ -6405,11 +6662,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
@@ -6474,11 +6737,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
@@ -6512,11 +6781,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
@@ -6550,11 +6825,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
@@ -6618,11 +6899,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T07:09:41.000Z"
   },
@@ -6656,11 +6943,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T07:06:05.000Z"
   },
@@ -6695,11 +6988,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T07:03:16.000Z"
   },
@@ -6733,11 +7032,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T07:02:10.000Z"
   },
@@ -6801,11 +7106,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T07:01:04.000Z"
   },
@@ -6839,11 +7150,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T07:00:47.000Z"
   },
@@ -6877,11 +7194,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T06:59:58.000Z"
   },
@@ -6928,11 +7251,20 @@
         "rust",
         "typescript"
       ],
+      "nice_to_have_skills": [
+        "aws",
+        "sql"
+      ],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-06T00:00:00.000Z"
   },
@@ -6998,11 +7330,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T23:01:33.852Z"
   },
@@ -7037,11 +7375,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T22:03:18.000Z"
   },
@@ -7079,11 +7423,17 @@
         "project management",
         "spc"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T21:47:37.240Z"
   },
@@ -7156,11 +7506,17 @@
         "python",
         "robotics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T21:02:05.987Z"
   },
@@ -7271,11 +7627,17 @@
         "scrum",
         "ubuntu"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:07:39.278Z"
   },
@@ -7313,11 +7675,17 @@
         "linux",
         "project management"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:06:59.272Z"
   },
@@ -7384,11 +7752,17 @@
       "required_skills": [
         "microsoft office"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:06:37.834Z"
   },
@@ -7513,11 +7887,17 @@
     "_original_source": "workday",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T20:02:39.931Z"
   },
@@ -7567,11 +7947,17 @@
         "tableau",
         "vba"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:32:20.821Z"
   },
@@ -7719,11 +8105,17 @@
         "statistical analysis",
         "unix"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:03:37.279Z"
   },
@@ -7766,11 +8158,17 @@
         "sql",
         "windchill"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T19:02:20.035Z"
   },
@@ -7807,11 +8205,17 @@
         "cad",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T18:48:51.324Z"
   },
@@ -8035,11 +8439,17 @@
         "sql",
         "sql server"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T17:18:05.589Z"
   },
@@ -8100,11 +8510,17 @@
         "terraform",
         "typescript"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T16:47:45.220Z"
   },
@@ -8268,11 +8684,17 @@
         "spring framework",
         "transformers"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": false,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T16:07:23.909Z"
   },
@@ -8460,11 +8882,17 @@
       "required_skills": [
         "project management"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T15:30:58.433Z"
   },
@@ -8546,11 +8974,17 @@
         "sql",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T15:05:45.190Z"
   },
@@ -8845,11 +9279,17 @@
         "scalability",
         "systemverilog"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T14:32:56.180Z"
   },
@@ -9001,11 +9441,17 @@
         "spring boot",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "associates",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-05T14:07:56.087Z"
   },
@@ -9249,11 +9695,17 @@
         "tcp/ip",
         "windows"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T20:17:39.375Z"
   },
@@ -9287,11 +9739,17 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T20:06:54.000Z"
   },
@@ -9361,11 +9819,17 @@
         "microsoft office",
         "photoshop"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T19:26:47.487Z"
   },
@@ -9437,11 +9901,17 @@
         "python",
         "ruby"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T18:32:00.000Z"
   },
@@ -9542,11 +10012,17 @@
         "assembly",
         "reporting"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T17:54:45.791Z"
   },
@@ -9583,11 +10059,17 @@
       "required_skills": [
         "python"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": false,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 14,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T17:22:24.894Z"
   },
@@ -9903,11 +10385,17 @@
         "python",
         "windows"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T14:50:12.363Z"
   },
@@ -10266,11 +10754,17 @@
         "natural language processing",
         "python"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T13:03:08.705Z"
   },
@@ -10312,11 +10806,17 @@
         "assembly",
         "cad"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": false,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 1,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T12:56:03.507Z"
   },
@@ -10359,11 +10859,17 @@
         "statistics",
         "tableau"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "entry_level",
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T09:46:54.230Z"
   },
@@ -10434,11 +10940,17 @@
         "oop",
         "python"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T08:31:42.106Z"
   },
@@ -10545,11 +11057,17 @@
         "sql",
         "websockets"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:16:50.059Z"
   },
@@ -10596,11 +11114,17 @@
         "sql",
         "websockets"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:16:50.059Z"
   },
@@ -10647,11 +11171,17 @@
         "sql",
         "websockets"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:16:50.059Z"
   },
@@ -10839,11 +11369,17 @@
         "cadence",
         "linear"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T07:02:44.775Z"
   },
@@ -11040,11 +11576,17 @@
         "statistics",
         "typescript"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-04T06:46:29.000Z"
   },
@@ -11146,11 +11688,17 @@
         "i2c",
         "spi"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 7,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:43:48.064Z"
   },
@@ -11184,11 +11732,17 @@
     "_original_source": "simplify",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:35:12.770Z"
   },
@@ -11257,11 +11811,17 @@
     "_original_source": "ashby",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:31:32.461Z"
   },
@@ -11304,13 +11864,49 @@
         "python",
         "soldering"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:31:14.269Z"
+  },
+  {
+    "job_id": "greenhouse-verkada-5113156007",
+    "job_title": "Channel Enablement Intern",
+    "employer_name": "Verkada",
+    "job_city": "San Mateo",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Mateo, CA United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5113156007",
+    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.801Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "4e3e279e2be57182ecc3cc6735969360977f53bd0d2ae33626ea35d25d43c72c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:31:01.801Z"
   },
   {
     "job_id": "greenhouse-verkada-5117760007",
@@ -11347,42 +11943,18 @@
         "multimodal",
         "system design"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": true,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 11,
+      "summary_line": null
     },
-    "job_posted_at": "2026-05-02T13:31:01.801Z"
-  },
-  {
-    "job_id": "greenhouse-verkada-5113156007",
-    "job_title": "Channel Enablement Intern",
-    "employer_name": "Verkada",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Mateo, CA United States",
-    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5113156007",
-    "job_posted_at_datetime_utc": "2026-05-02T13:31:01.801Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "4e3e279e2be57182ecc3cc6735969360977f53bd0d2ae33626ea35d25d43c72c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
     "job_posted_at": "2026-05-02T13:31:01.801Z"
   },
   {
@@ -11452,11 +12024,17 @@
         "r",
         "sql"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": false,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": 12,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:31:01.157Z"
   },
@@ -11533,11 +12111,17 @@
         "r",
         "solidworks"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 20,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:31:00.074Z"
   },
@@ -11697,11 +12281,17 @@
         "pytorch",
         "reinforcement learning"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "phd",
+      "experience_level_from_desc": null,
+      "question_count": 6,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:51.698Z"
   },
@@ -11770,11 +12360,17 @@
     "_original_source": "greenhouse",
     "enrichment": {
       "required_skills": [],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": false,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:47.229Z"
   },
@@ -11821,11 +12417,17 @@
         "spi",
         "uart"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": 9,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:47.157Z"
   },
@@ -11863,43 +12465,19 @@
         "data visualization",
         "dns"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": true,
       "visa_question_present": true,
       "is_simple_apply": false,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 16,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:45.196Z"
-  },
-  {
-    "job_id": "greenhouse-cloudflare-7773799",
-    "job_title": "Sales Project Manager Intern (AI Innovation) (Summer 2026)",
-    "employer_name": "Cloudflare",
-    "job_city": "",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "In-Office",
-    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799",
-    "job_posted_at_datetime_utc": "2026-05-02T13:30:45.195Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "a15342aa2984505f7c9e88aab60442e1f45de036e920bac93367d1d936506133",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-02T13:30:45.195Z"
   },
   {
     "job_id": "greenhouse-cloudflare-7362113",
@@ -11919,6 +12497,36 @@
       "employment": "internship",
       "domains": [
         "product"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "greenhouse",
+    "job_posted_at": "2026-05-02T13:30:45.195Z"
+  },
+  {
+    "job_id": "greenhouse-cloudflare-7773799",
+    "job_title": "Sales Project Manager Intern (AI Innovation) (Summer 2026)",
+    "employer_name": "Cloudflare",
+    "job_city": "",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "In-Office",
+    "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7773799?gh_jid=7773799",
+    "job_posted_at_datetime_utc": "2026-05-02T13:30:45.195Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "a15342aa2984505f7c9e88aab60442e1f45de036e920bac93367d1d936506133",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
       ],
       "locations": [
         "us"
@@ -12126,11 +12734,17 @@
         "matlab",
         "python"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": 4,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:43.694Z"
   },
@@ -12176,11 +12790,17 @@
         "python",
         "robotics"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": true,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": null,
+      "experience_level_from_desc": null,
+      "question_count": 4,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T13:30:43.694Z"
   },
@@ -12380,42 +13000,18 @@
         "spi",
         "uart"
       ],
+      "nice_to_have_skills": [],
       "sponsors_visa": null,
+      "possible_sponsor": null,
       "visa_question_present": false,
       "is_simple_apply": true,
-      "summary_line": null,
-      "is_remote": false
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": 9,
+      "summary_line": null
     },
     "job_posted_at": "2026-05-02T00:18:00.447Z"
-  },
-  {
-    "job_id": "greenhouse-lgelectronics-5208168008",
-    "job_title": "Intern - Builder Business Management",
-    "employer_name": "LG Electronics",
-    "job_city": "Englewood Cliffs",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Englewood Cliffs, NJ",
-    "job_apply_link": "https://job-boards.greenhouse.io/lgelectronics/jobs/5208168008",
-    "job_posted_at_datetime_utc": "2026-05-01T21:50:24.000Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "16b3e1721aad3a9b8fb7257d332c5ea4a906be3be788e9b4d5e9578fc7330d7e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "greenhouse",
-    "job_posted_at": "2026-05-01T21:50:24.000Z"
   }
 ]
