@@ -528,6 +528,60 @@
     "job_posted_at": "2026-05-08T20:08:47.433Z"
   },
   {
+    "job_id": "workday-rtx-01843727",
+    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
+    "employer_name": "RTX",
+    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "data analysis",
+        "matlab",
+        "microsoft office",
+        "perl",
+        "python",
+        "unix",
+        "vba",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
     "job_id": "workday-rtx-01843644",
     "job_title": "2026 Raytheon Part Time -Systems Engineer Co-op(Remote)",
     "employer_name": "RTX",
@@ -663,60 +717,6 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
-  },
-  {
-    "job_id": "workday-rtx-01843727",
-    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
-    "employer_name": "RTX",
-    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "computer science",
-        "data analysis",
-        "matlab",
-        "microsoft office",
-        "perl",
-        "python",
-        "unix",
-        "vba",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
     "job_posted_at": "2026-05-08T20:08:38.176Z"
   },
   {
@@ -2521,144 +2521,6 @@
     "job_posted_at": "2026-05-07T08:01:31.308Z"
   },
   {
-    "job_id": "workday-rtx-01843882",
-    "job_title": "SkillBridge Intern DoD: Information System Security Officer - Forest, MS",
-    "employer_name": "RTX",
-    "job_city": "MS-FOREST-425 ~ 19859 Hwy 80 ~ BLDG 425",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-MS-FOREST-425 ~ 19859 Hwy 80 ~ BLDG 425",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MS-FOREST-425--19859-Hwy-80--BLDG-425/SkillBridge-Intern-DoD--Information-System-Security-Officer---Forest--MS_01843882",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51e29a83ff55bbe2c3f38c5376b4c478d935db140e59b1e6054f6937a6f53636",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843878",
-    "job_title": "SkillBridge Intern DoD: Information System Security Officer - McKinney, Texas",
-    "employer_name": "RTX",
-    "job_city": "TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/SkillBridge-Intern-DoD--Information-System-Security-Officer---McKinney--Texas_01843878",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3eae9329bb05ea8b662e4ea91dcb50d3d742d43e2d0c3fd2b438d86b3f66718",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843537",
-    "job_title": "Stage - Automne 2026 - Stagiaire en ressources humaines / Internship - Fall 2026 - Human Resource Intern",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Stagiaire-en-ressources-humaines---Internship---Fall-2026---Human-Resource-Intern_01843537",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1a7aa7ccade5965bdfe286dd79d441ed41805d60ccde75d119b5d5c7c8213fd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843350",
-    "job_title": "Internship Fall 2026 - Maintenance Reliability Engineer Student",
-    "employer_name": "RTX",
-    "job_city": "Ns",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ns, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Maintenance-Reliability-Engineer-Student_01843350",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "81777c9673a652d93a0712a4b1168eaa283977a7567e00fa9dd94c68592ac491",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "failure mode",
-        "fmea",
-        "root cause analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
     "job_id": "workday-rtx-01843723",
     "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
     "employer_name": "RTX",
@@ -2893,6 +2755,144 @@
     "enrichment": {
       "required_skills": [
         "mes"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:49:28.227Z"
+  },
+  {
+    "job_id": "workday-rtx-01843882",
+    "job_title": "SkillBridge Intern DoD: Information System Security Officer - Forest, MS",
+    "employer_name": "RTX",
+    "job_city": "MS-FOREST-425 ~ 19859 Hwy 80 ~ BLDG 425",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-MS-FOREST-425 ~ 19859 Hwy 80 ~ BLDG 425",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MS-FOREST-425--19859-Hwy-80--BLDG-425/SkillBridge-Intern-DoD--Information-System-Security-Officer---Forest--MS_01843882",
+    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51e29a83ff55bbe2c3f38c5376b4c478d935db140e59b1e6054f6937a6f53636",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:49:28.227Z"
+  },
+  {
+    "job_id": "workday-rtx-01843878",
+    "job_title": "SkillBridge Intern DoD: Information System Security Officer - McKinney, Texas",
+    "employer_name": "RTX",
+    "job_city": "TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/SkillBridge-Intern-DoD--Information-System-Security-Officer---McKinney--Texas_01843878",
+    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3eae9329bb05ea8b662e4ea91dcb50d3d742d43e2d0c3fd2b438d86b3f66718",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:49:28.227Z"
+  },
+  {
+    "job_id": "workday-rtx-01843537",
+    "job_title": "Stage - Automne 2026 - Stagiaire en ressources humaines / Internship - Fall 2026 - Human Resource Intern",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Stagiaire-en-ressources-humaines---Internship---Fall-2026---Human-Resource-Intern_01843537",
+    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1a7aa7ccade5965bdfe286dd79d441ed41805d60ccde75d119b5d5c7c8213fd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:49:28.227Z"
+  },
+  {
+    "job_id": "workday-rtx-01843350",
+    "job_title": "Internship Fall 2026 - Maintenance Reliability Engineer Student",
+    "employer_name": "RTX",
+    "job_city": "Ns",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ns, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Maintenance-Reliability-Engineer-Student_01843350",
+    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "81777c9673a652d93a0712a4b1168eaa283977a7567e00fa9dd94c68592ac491",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "failure mode",
+        "fmea",
+        "root cause analysis"
       ],
       "nice_to_have_skills": [],
       "sponsors_visa": null,
@@ -6077,7 +6077,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -6188,7 +6188,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -6250,7 +6250,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
     "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
     "tags": {
@@ -6399,36 +6399,6 @@
     "job_posted_at": "2026-05-06T14:29:20.202Z"
   },
   {
-    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
-    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
-    "employer_name": "Susquehanna International Group (SIG)",
-    "job_city": "Ardmore",
-    "job_state": "PA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "simplify",
-    "job_posted_at": "2026-05-06T11:31:20.922Z"
-  },
-  {
     "job_id": "simplify-c1c8cc3c-dc3e-4312-b90e-4d713d5af099",
     "job_title": "Summer 2026 – SES Simulation Engineer Intern",
     "employer_name": "Amentum",
@@ -6469,6 +6439,36 @@
       "experience_level_from_desc": null,
       "question_count": null
     },
+    "job_posted_at": "2026-05-06T11:31:20.922Z"
+  },
+  {
+    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
+    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
+    "employer_name": "Susquehanna International Group (SIG)",
+    "job_city": "Ardmore",
+    "job_state": "PA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ardmore, PA",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
+    "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "simplify",
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
