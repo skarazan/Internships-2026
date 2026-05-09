@@ -350,64 +350,6 @@
     "job_posted_at": "2026-05-08T20:08:47.433Z"
   },
   {
-    "job_id": "workday-salesforce-JR340771",
-    "job_title": "Summer 2027 Intern - Software Engineer",
-    "employer_name": "Salesforce",
-    "job_city": "California San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "California San Francisco + 7 more",
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:41.949Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "af16be66821956ff0c9d40b052a4fa1d18548af9fa74f8ed538103ff2a573dda",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agentic",
-        "agents",
-        "computer science",
-        "crm",
-        "github",
-        "html",
-        "java",
-        "javascript",
-        "large language model",
-        "llm",
-        "networking",
-        "salesforce",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:08:41.949Z"
-  },
-  {
     "job_id": "workday-rtx-01843565",
     "job_title": "Internship Fall 2026 - Quality Specialist",
     "employer_name": "RTX",
@@ -5846,6 +5788,64 @@
     "job_posted_at": "2026-05-07T15:16:41.432Z"
   },
   {
+    "job_id": "workday-salesforce-JR340771",
+    "job_title": "Summer 2027 Intern - Software Engineer",
+    "employer_name": "Salesforce",
+    "job_city": "California San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "California San Francisco + 7 more",
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:46.918Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "af16be66821956ff0c9d40b052a4fa1d18548af9fa74f8ed538103ff2a573dda",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agentic",
+        "agents",
+        "computer science",
+        "crm",
+        "github",
+        "html",
+        "java",
+        "javascript",
+        "large language model",
+        "llm",
+        "networking",
+        "salesforce",
+        "sql"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:01:46.918Z"
+  },
+  {
     "job_id": "greenhouse-cloudflare-7736919",
     "job_title": "Marketing Events and Campaigns Intern (Mid-Year 2026)",
     "employer_name": "Cloudflare",
@@ -5916,7 +5916,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -6028,7 +6028,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -7159,19 +7159,19 @@
     "job_posted_at": "2026-05-06T14:29:20.202Z"
   },
   {
-    "job_id": "simplify-14dcee99-b506-4efe-a80a-63151e541c4d",
-    "job_title": "Quantitative Strategy Developer Intern",
+    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
+    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
     "employer_name": "Susquehanna International Group (SIG)",
     "job_city": "Ardmore",
     "job_state": "PA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
     "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "ec01482ecfed3380a3f25bc325964e4f6c14163d238dde79c18bf732267b1087",
+    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -7189,19 +7189,19 @@
     "job_posted_at": "2026-05-06T11:31:20.922Z"
   },
   {
-    "job_id": "simplify-1eeacbc8-6f20-4cf6-b5a2-0a2578151236",
-    "job_title": "Quantitative Systematic Trading Intern - Master's: Summer 2027",
+    "job_id": "simplify-14dcee99-b506-4efe-a80a-63151e541c4d",
+    "job_title": "Quantitative Strategy Developer Intern",
     "employer_name": "Susquehanna International Group (SIG)",
     "job_city": "Ardmore",
     "job_state": "PA",
     "job_country": "United States",
     "job_is_remote": false,
     "job_location": "Ardmore, PA",
-    "job_apply_link": "https://careers-sig.icims.com/jobs/10823/job?mobile=true&needsRedirect=false",
+    "job_apply_link": "https://careers-sig.icims.com/jobs/10838/job?mobile=true&needsRedirect=false",
     "job_posted_at_datetime_utc": "2026-05-06T11:31:20.922Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "c72a3d1dad0c25c0749bfc1781a97d9fe31170723190fefa756e97366698d3b9",
+    "fingerprint": "ec01482ecfed3380a3f25bc325964e4f6c14163d238dde79c18bf732267b1087",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -8239,36 +8239,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T20:17:44.198Z"
-  },
-  {
-    "job_id": "workday-salesforce-JR341243",
-    "job_title": "Summer 2026 Intern - Real Estate & Workplace Services",
-    "employer_name": "Salesforce",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "California - San Francisco",
-    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Real-Estate---Workplace-Services_JR341243-1",
-    "job_posted_at_datetime_utc": "2026-05-05T20:08:41.950Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "ee50bfdb77de5b91d206f6a599e5c0f90ef1bbf898e54ae2628f43dfe8839b0c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T20:08:41.950Z"
   },
   {
     "job_id": "workday-leidos-R-00182554",
@@ -10204,6 +10174,36 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T12:48:57.671Z"
+  },
+  {
+    "job_id": "workday-salesforce-JR341243",
+    "job_title": "Summer 2026 Intern - Real Estate & Workplace Services",
+    "employer_name": "Salesforce",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "California - San Francisco",
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Real-Estate---Workplace-Services_JR341243-1",
+    "job_posted_at_datetime_utc": "2026-05-05T07:01:46.919Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "ee50bfdb77de5b91d206f6a599e5c0f90ef1bbf898e54ae2628f43dfe8839b0c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:01:46.919Z"
   },
   {
     "job_id": "sr-VeoliaEnvironnementSA-744000124524279",
