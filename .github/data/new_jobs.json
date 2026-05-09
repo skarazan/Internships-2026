@@ -2213,6 +2213,66 @@
     "job_posted_at": "2026-05-07T15:16:41.432Z"
   },
   {
+    "job_id": "workday-comcast-R436088",
+    "job_title": "Comcast Global Audit Data Solutions - Data Architecture and Engineering Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Data-Solutions---Data-Architecture-and-Engineering-Co-op_R436088",
+    "job_posted_at_datetime_utc": "2026-05-07T15:16:13.530Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "84915d6f4fc0ecf35e09fedce1e9928e8bdd52cc5f3995d81f192f5a483a27a8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T15:16:13.530Z"
+  },
+  {
+    "job_id": "workday-comcast-R436190",
+    "job_title": "Comcast Software Architect Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Architect-Co-op_R436190",
+    "job_posted_at_datetime_utc": "2026-05-07T15:16:13.530Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bc409984f88e4265ac29930f0e7b47099ae41369e7df58c52f55c150569bc4c1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T15:16:13.530Z"
+  },
+  {
     "job_id": "workday-curtiss-wright-JR12071",
     "job_title": "Safety Intern",
     "employer_name": "Curtiss-Wright",
@@ -4327,6 +4387,418 @@
     "job_posted_at": "2026-05-07T07:47:00.342Z"
   },
   {
+    "job_id": "workday-comcast-R436089",
+    "job_title": "Comcast Global Audit Financial Operations Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Financial-Operations-Co-op_R436089",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "06f083fc72a3c9686abf7d4a063df61989bc28f861725769fec775b3b2a7ea4d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R436090",
+    "job_title": "Comcast Global Audit Financial Operations Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Financial-Operations-Co-op_R436090",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "06f083fc72a3c9686abf7d4a063df61989bc28f861725769fec775b3b2a7ea4d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R436091",
+    "job_title": "Comcast Global Audit Technology Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Technology-Co-op_R436091",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5413a3e830396220d10c857dcdc2dc3eaf200043d667f1b6d5ee694bda1628c1",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R436019",
+    "job_title": "Comcast HR & Workforce Analytics & Data Science Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-HR---Workforce-Analytics---Data-Science-Co-op_R436019",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d639f8a4458a34a3cee25367af9a92eb47c1e513192cba3d3cc545670fde29dc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "analytics",
+        "business intelligence",
+        "computer science",
+        "data analysis",
+        "data science",
+        "forecasting",
+        "machine learning",
+        "networking",
+        "python",
+        "sql",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R436294",
+    "job_title": "Comcast Impact & Inclusion Operations Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Impact---Inclusion-Operations-Co-op_R436294",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "b50d65bc935128495176fc52e2f105f828ffb9c4350b59beaf881cd29fe4f710",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R436098",
+    "job_title": "Comcast Impact & Inclusion Strategic Partnerships and Philanthropy Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Impact---Inclusion-Strategic-Partnerships-and-Philanthropy-Co-op-_R436098",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1f81e1d72e8eba08879059ec5ce7d1d7943c5545847de0cae23df7460085ad3d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R435976",
+    "job_title": "Comcast Inside Sales Communications Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Inside-Sales-Communications-Co-op_R435976",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "1d3b1ece8a10f822cb6b710346bd0c984c1c4205528728418967bf3571930a2b",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R435977",
+    "job_title": "Comcast Inside Sales QA Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Inside-Sales-QA-Co-op_R435977",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "784f2ed7d192b97b53f18d9b999117c7183d421be07a36c9f927df5b1151a91d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "sales"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R436016",
+    "job_title": "Comcast Integrated Marcom Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Integrated-Marcom-Co-op_R436016",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "66072e3013bfe835faad46a4fb23fbe60b3920dbadb7892c9689718116b3dd14",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R435887",
+    "job_title": "Comcast LLM Paid Media Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-LLM-Paid-Media-Co-op_R435887",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cf6bcf1742561f52ba9fc8af9a0b2a7831409a98edc594d771f66edc29db09f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "ai"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "chatgpt",
+        "computer science",
+        "data analysis",
+        "data science",
+        "excel",
+        "generative ai",
+        "large language model",
+        "llm",
+        "networking",
+        "reporting",
+        "statistics"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R436007",
+    "job_title": "Comcast Marketing Business Operations Analyst Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Philadelphia, 1800 Arch St",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "PA - Philadelphia, 1800 Arch St",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Marketing-Business-Operations-Analyst-Co-op_R436007",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c4d5f135971212a9baf877c5a00fda9605e08ff23453e7aec415175fef03cc4a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
+    "job_id": "workday-comcast-R436054",
+    "job_title": "Comcast Network Engineer Co-op",
+    "employer_name": "Comcast",
+    "job_city": "Bellmawr, 321 Benigno Blvd",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "NJ - Bellmawr, 321 Benigno Blvd",
+    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Bellmawr-321-Benigno-Blvd/Comcast-Network-Engineer-Co-op_R436054",
+    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "c5143e5f22175bb249e6c6e426bbb2464ef3695ffad4c213313ab43ae02ad414",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:47:00.341Z"
+  },
+  {
     "job_id": "workday-comcast-R436576",
     "job_title": "Comcast Market & Competitive Insights Co-op",
     "employer_name": "Comcast",
@@ -5343,418 +5815,6 @@
     "job_posted_at": "2026-05-07T07:47:00.341Z"
   },
   {
-    "job_id": "workday-comcast-R436089",
-    "job_title": "Comcast Global Audit Financial Operations Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Financial-Operations-Co-op_R436089",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "06f083fc72a3c9686abf7d4a063df61989bc28f861725769fec775b3b2a7ea4d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R436090",
-    "job_title": "Comcast Global Audit Financial Operations Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Financial-Operations-Co-op_R436090",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "06f083fc72a3c9686abf7d4a063df61989bc28f861725769fec775b3b2a7ea4d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R436091",
-    "job_title": "Comcast Global Audit Technology Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Global-Audit-Technology-Co-op_R436091",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5413a3e830396220d10c857dcdc2dc3eaf200043d667f1b6d5ee694bda1628c1",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R436019",
-    "job_title": "Comcast HR & Workforce Analytics & Data Science Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-HR---Workforce-Analytics---Data-Science-Co-op_R436019",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d639f8a4458a34a3cee25367af9a92eb47c1e513192cba3d3cc545670fde29dc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "analytics",
-        "business intelligence",
-        "computer science",
-        "data analysis",
-        "data science",
-        "forecasting",
-        "machine learning",
-        "networking",
-        "python",
-        "sql",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R436294",
-    "job_title": "Comcast Impact & Inclusion Operations Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Impact---Inclusion-Operations-Co-op_R436294",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "b50d65bc935128495176fc52e2f105f828ffb9c4350b59beaf881cd29fe4f710",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R436098",
-    "job_title": "Comcast Impact & Inclusion Strategic Partnerships and Philanthropy Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Impact---Inclusion-Strategic-Partnerships-and-Philanthropy-Co-op-_R436098",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1f81e1d72e8eba08879059ec5ce7d1d7943c5545847de0cae23df7460085ad3d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R435976",
-    "job_title": "Comcast Inside Sales Communications Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Inside-Sales-Communications-Co-op_R435976",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "1d3b1ece8a10f822cb6b710346bd0c984c1c4205528728418967bf3571930a2b",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R435977",
-    "job_title": "Comcast Inside Sales QA Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1701 John F Kennedy Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1701 John F Kennedy Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Inside-Sales-QA-Co-op_R435977",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "784f2ed7d192b97b53f18d9b999117c7183d421be07a36c9f927df5b1151a91d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "sales"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R436016",
-    "job_title": "Comcast Integrated Marcom Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1800 Arch St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1800 Arch St",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Integrated-Marcom-Co-op_R436016",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "66072e3013bfe835faad46a4fb23fbe60b3920dbadb7892c9689718116b3dd14",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R435887",
-    "job_title": "Comcast LLM Paid Media Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1800 Arch St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1800 Arch St",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-LLM-Paid-Media-Co-op_R435887",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3cf6bcf1742561f52ba9fc8af9a0b2a7831409a98edc594d771f66edc29db09f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "chatgpt",
-        "computer science",
-        "data analysis",
-        "data science",
-        "excel",
-        "generative ai",
-        "large language model",
-        "llm",
-        "networking",
-        "reporting",
-        "statistics"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R436007",
-    "job_title": "Comcast Marketing Business Operations Analyst Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Philadelphia, 1800 Arch St",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "PA - Philadelphia, 1800 Arch St",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Marketing-Business-Operations-Analyst-Co-op_R436007",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c4d5f135971212a9baf877c5a00fda9605e08ff23453e7aec415175fef03cc4a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
-    "job_id": "workday-comcast-R436054",
-    "job_title": "Comcast Network Engineer Co-op",
-    "employer_name": "Comcast",
-    "job_city": "Bellmawr, 321 Benigno Blvd",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "NJ - Bellmawr, 321 Benigno Blvd",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Bellmawr-321-Benigno-Blvd/Comcast-Network-Engineer-Co-op_R436054",
-    "job_posted_at_datetime_utc": "2026-05-07T07:47:00.341Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c5143e5f22175bb249e6c6e426bbb2464ef3695ffad4c213313ab43ae02ad414",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:47:00.341Z"
-  },
-  {
     "job_id": "workday-adobe-R160430",
     "job_title": "2026 Intern - Software Development Engineer",
     "employer_name": "Adobe",
@@ -6126,7 +6186,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -6238,7 +6298,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -7444,36 +7504,6 @@
     "job_posted_at": "2026-05-06T07:48:58.517Z"
   },
   {
-    "job_id": "workday-leidos-R-00182570",
-    "job_title": "Business Intern – College",
-    "employer_name": "Leidos",
-    "job_city": "Huntsville",
-    "job_state": "AL",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Huntsville, AL",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Business-Intern---College_R-00182570",
-    "job_posted_at_datetime_utc": "2026-05-06T07:48:50.273Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0953c9778b3ba6254f707b7804486baa5b5b2609c62ba72211a6b439c0661e22",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T07:48:50.273Z"
-  },
-  {
     "job_id": "workday-leidos-R-00182653",
     "job_title": "Strategic Sourcing Buyer Intern",
     "employer_name": "Leidos",
@@ -7495,6 +7525,36 @@
       "locations": [
         "us",
         "remote"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T07:48:50.273Z"
+  },
+  {
+    "job_id": "workday-leidos-R-00182570",
+    "job_title": "Business Intern – College",
+    "employer_name": "Leidos",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Huntsville, AL",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Business-Intern---College_R-00182570",
+    "job_posted_at_datetime_utc": "2026-05-06T07:48:50.273Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0953c9778b3ba6254f707b7804486baa5b5b2609c62ba72211a6b439c0661e22",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
       ],
       "experience": "entry_level",
       "special": [],
