@@ -99,8 +99,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Uber** | 2026 Fall Software Engineering Internship, US | San Francisco, Ca... | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.uber.com/us/en/careers/list/159161/) |
 | 🏢 **Cloudflare** | Software Engineer Intern - Bengaluru | In- | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7495538?gh_jid=7495538) |
 | 🏢 **Verkada** | AI Software Engineering Intern - Fall 2026 | San Mateo, CA Uni... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5117760007) |
-| 🏢 **Hermeus** | Software Engineering Intern (Modeling & Simulation) - Fall 2026 | Los Angeles, CA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d/apply) |
 | 🏢 **Hermeus** | Software Engineering Intern (HIL) - Fall 2026 | Atlanta, GA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply) |
+| 🏢 **Hermeus** | Software Engineering Intern (Modeling & Simulation) - Fall 2026 | Los Angeles, CA | 6d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d/apply) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -140,7 +140,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Moog** | Intern, Design Engineering | Chatsworth, CA | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Chatsworth-CA/Intern--Design-Engineering_R-26-17605) |
+| 🏢 **Moog** | Intern, Design Engineering | Chatsworth, CA | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Chatsworth-CA/Intern--Design-Engineering_R-26-17605) |
 | 🏢 **Leidos** | Mechanical Design and Analysis Intern | Huntsville, AL | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-and-Analysis-Intern_R-00182711) |
 | 🏢 **Johnson & Johnson** | Digital Art and Design Co-Op | Irving, Texas, Un... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Irving-Texas-United-States-of-America/Digital-Art-and-Design-Co-Op_R-066703) |
 | 🏢 **Comcast** | Comcast Product Analyst Co-op | Philadelphia, PA | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Product-Analyst-Co-op_R436173) |
@@ -361,8 +361,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Disney** | ABC News Talent Strategy & Development Intern, Fall 2026 | New York, NY, USA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Talent-Strategy---Development-Intern--Fall-2026_10149591-1) |
-| 🏢 **Disney** | Nightline Production Intern, Fall 2026 | New York, NY, USA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Nightline-Production-Intern--Fall-2026_10149595) |
-| 🏢 **Disney** | Good Morning America Production Intern, Fall 2026 | New York, NY, USA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Good-Morning-America-Production-Intern--Fall-2026_10149592) |
+| 🏢 **Disney** | Nightline Production Intern, Fall 2026 | New York, NY, USA | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Nightline-Production-Intern--Fall-2026_10149595) |
+| 🏢 **Disney** | Good Morning America Production Intern, Fall 2026 | New York, NY, USA | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Good-Morning-America-Production-Intern--Fall-2026_10149592) |
 | 🏢 **Copart** | Accounts Receivable - Intern | Dallas, TX - Head... | 5h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Accounts-Receivable---Intern_JR108850) |
 | 🏢 **Cursor** | SDR Intern | San Francisco | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cursor/e3205875-39c4-4923-8cb2-2f3cce614a5c/application) |
 | 🏢 **Cribl** | Customer Experience Ops Intern | San Francisco, Ca... | 8h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cribl.io/job-detail/?gh_jid=5807803004) |
