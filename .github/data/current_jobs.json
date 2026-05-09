@@ -318,66 +318,6 @@
     "job_posted_at": "2026-05-08T20:08:41.949Z"
   },
   {
-    "job_id": "workday-rtx-01843565",
-    "job_title": "Internship Fall 2026 - Quality Specialist",
-    "employer_name": "RTX",
-    "job_city": "Ns",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ns, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Quality-Specialist_01843565",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e68c7b1506fc420d05491df165efef6786bd362164d5a82b303a2f1f07a0e011",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.177Z"
-  },
-  {
-    "job_id": "workday-rtx-01843581",
-    "job_title": "Stage Automne 2026 - Qualité centre d'assemblage de Mirabel / Internship Fall 2026 - Quality Mirabel Assembly Centre",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage-Automne-2026---Qualit-centre-d-assemblage-de-Mirabel---Internship-Fall-2026---Quality-Mirabel-Assembly-Centre_01843581",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fec76d2a6d1ca93cba87cc5aaf14261303e87b6f5f068bc780cc2d137990aa69",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.177Z"
-  },
-  {
     "job_id": "workday-rtx-01843889",
     "job_title": "Stage Automne 2026 - Développement des procédés manufacturiers / Internship Fall 2026 - Manufacturing Process Development",
     "employer_name": "RTX",
@@ -574,19 +514,19 @@
     "job_posted_at": "2026-05-08T20:08:38.177Z"
   },
   {
-    "job_id": "workday-rtx-01837366",
-    "job_title": "Industrial Trainee ( CA Intern",
+    "job_id": "workday-rtx-01843565",
+    "job_title": "Internship Fall 2026 - Quality Specialist",
     "employer_name": "RTX",
-    "job_city": "Ka",
-    "job_state": "IN",
+    "job_city": "Ns",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "Ka, IN",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Industrial-Trainee---CA-Intern_01837366",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_location": "Ns, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Quality-Specialist_01843565",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "9fcb06f5d46b0e11ec41e740eaebaf97b3fb3253d05345e1579e9112588e7dbc",
+    "fingerprint": "e68c7b1506fc420d05491df165efef6786bd362164d5a82b303a2f1f07a0e011",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -601,26 +541,26 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
   },
   {
-    "job_id": "workday-rtx-01843727",
-    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
+    "job_id": "workday-rtx-01843581",
+    "job_title": "Stage Automne 2026 - Qualité centre d'assemblage de Mirabel / Internship Fall 2026 - Quality Mirabel Assembly Centre",
     "employer_name": "RTX",
-    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_state": "",
+    "job_city": "Qc",
+    "job_state": "CA",
     "job_country": "United States",
     "job_is_remote": false,
-    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage-Automne-2026---Qualit-centre-d-assemblage-de-Mirabel---Internship-Fall-2026---Quality-Mirabel-Assembly-Centre_01843581",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.177Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
-    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
+    "fingerprint": "fec76d2a6d1ca93cba87cc5aaf14261303e87b6f5f068bc780cc2d137990aa69",
     "tags": {
       "employment": "internship",
       "domains": [
-        "software"
+        "manufacturing"
       ],
       "locations": [
         "us"
@@ -631,32 +571,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "computer science",
-        "data analysis",
-        "matlab",
-        "microsoft office",
-        "perl",
-        "python",
-        "unix",
-        "vba",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null,
-      "summary_line": null
-    },
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
+    "job_posted_at": "2026-05-08T20:08:38.177Z"
   },
   {
     "job_id": "workday-rtx-01843378",
@@ -921,6 +836,91 @@
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "8c7e0e131009f15ebd4e9af7956c54626421a0179522f577cf1b848a89d06e9f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "data analysis",
+        "matlab",
+        "microsoft office",
+        "perl",
+        "python",
+        "unix",
+        "vba",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null,
+      "summary_line": null
+    },
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01837366",
+    "job_title": "Industrial Trainee ( CA Intern",
+    "employer_name": "RTX",
+    "job_city": "Ka",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ka, IN",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Industrial-Trainee---CA-Intern_01837366",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9fcb06f5d46b0e11ec41e740eaebaf97b3fb3253d05345e1579e9112588e7dbc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T20:08:38.176Z"
+  },
+  {
+    "job_id": "workday-rtx-01843727",
+    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
+    "employer_name": "RTX",
+    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727",
+    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
     "tags": {
       "employment": "internship",
       "domains": [
@@ -5938,7 +5938,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -6717,6 +6717,28 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "fda",
+        "microsoft office",
+        "microsoft teams",
+        "minitab",
+        "risk management",
+        "statistical analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:06:53.750Z"
   },
   {
@@ -6747,6 +6769,27 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "excel",
+        "fda",
+        "microsoft office",
+        "microsoft teams",
+        "python",
+        "r"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null,
+      "summary_line": null
+    },
     "job_posted_at": "2026-05-06T20:06:53.750Z"
   },
   {
