@@ -528,198 +528,6 @@
     "job_posted_at": "2026-05-08T20:08:47.433Z"
   },
   {
-    "job_id": "workday-rtx-01843644",
-    "job_title": "2026 Raytheon Part Time -Systems Engineer Co-op(Remote)",
-    "employer_name": "RTX",
-    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-op-Remote-_01843644",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8ecd493866c63c5b96f975976fc59f299cd0cbb589adf282d9c3c508f81a371d",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "computer science",
-        "data analysis",
-        "matlab",
-        "microsoft office",
-        "perl",
-        "python",
-        "unix",
-        "vba",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
-  },
-  {
-    "job_id": "workday-rtx-01843648",
-    "job_title": "2026 Raytheon Part Time -Systems Engineer Co-op (Remote)",
-    "employer_name": "RTX",
-    "job_city": "TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-op--Remote-_01843648",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "8c7e0e131009f15ebd4e9af7956c54626421a0179522f577cf1b848a89d06e9f",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "computer science",
-        "data analysis",
-        "matlab",
-        "microsoft office",
-        "perl",
-        "python",
-        "unix",
-        "vba",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
-  },
-  {
-    "job_id": "workday-rtx-01837366",
-    "job_title": "Industrial Trainee ( CA Intern",
-    "employer_name": "RTX",
-    "job_city": "Ka",
-    "job_state": "IN",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ka, IN",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Industrial-Trainee---CA-Intern_01837366",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "9fcb06f5d46b0e11ec41e740eaebaf97b3fb3253d05345e1579e9112588e7dbc",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
-  },
-  {
-    "job_id": "workday-rtx-01843727",
-    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
-    "employer_name": "RTX",
-    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727",
-    "job_posted_at_datetime_utc": "2026-05-08T20:08:38.176Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "computer science",
-        "data analysis",
-        "matlab",
-        "microsoft office",
-        "perl",
-        "python",
-        "unix",
-        "vba",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:08:38.176Z"
-  },
-  {
     "job_id": "workday-sel-2026-20928",
     "job_title": "Marketing Intern",
     "employer_name": "SEL",
@@ -1074,137 +882,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-08T20:06:05.106Z"
-  },
-  {
-    "job_id": "workday-cisco-2000450",
-    "job_title": "Software Engineer Full Stack & Application Development I (Intern) – United States",
-    "employer_name": "Cisco",
-    "job_city": "San Jose California US",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose California US + 12 more",
-    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Application-Development-I--Intern----United-States_2000450",
-    "job_posted_at_datetime_utc": "2026-05-08T20:06:00.130Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "bf801630a167a9acf6f028d844a5deb12b276e36bbcd968d6821d04a86d409f8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "angular",
-        "ansible",
-        "api",
-        "aws",
-        "azure",
-        "c++",
-        "ci/cd",
-        "circleci",
-        "cisco",
-        "cloudformation",
-        "distributed systems",
-        "docker",
-        "gcp",
-        "github",
-        "github actions",
-        "grafana",
-        "graphql",
-        "grpc",
-        "infrastructure as code",
-        "java",
-        "javascript",
-        "jenkins",
-        "kubernetes",
-        "prometheus",
-        "python",
-        "react",
-        "rest",
-        "splunk",
-        "sql",
-        "terraform",
-        "typescript",
-        "vue"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:06:00.130Z"
-  },
-  {
-    "job_id": "workday-boeing-JR2026509533",
-    "job_title": "Boeing Engineering & Technology Innovation - Graduate Researcher Program – Autonomy Engineering Intern",
-    "employer_name": "Boeing",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Seattle, WA",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Engineering---Technology-Innovation---Graduate-Researcher-Program---Autonomy-Engineering-Intern_JR2026509533",
-    "job_posted_at_datetime_utc": "2026-05-08T20:05:49.183Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "756b574627432b5fc15f2c662bac2c4a1e7c8e24252174fd3813fc412cd3de61",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "c++",
-        "cameo",
-        "computer science",
-        "docker",
-        "eagle",
-        "excel",
-        "machine learning",
-        "matlab",
-        "python",
-        "simulink",
-        "sysml"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-08T20:05:49.183Z"
   },
   {
     "job_id": "workday-booz-allen-hamilton-R0239666",
@@ -1813,6 +1490,329 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-08T09:10:25.000Z"
+  },
+  {
+    "job_id": "workday-boeing-JR2026509533",
+    "job_title": "Boeing Engineering & Technology Innovation - Graduate Researcher Program – Autonomy Engineering Intern",
+    "employer_name": "Boeing",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Seattle, WA",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Engineering---Technology-Innovation---Graduate-Researcher-Program---Autonomy-Engineering-Intern_JR2026509533",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:33.365Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "756b574627432b5fc15f2c662bac2c4a1e7c8e24252174fd3813fc412cd3de61",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "c++",
+        "cameo",
+        "computer science",
+        "docker",
+        "eagle",
+        "excel",
+        "machine learning",
+        "matlab",
+        "python",
+        "simulink",
+        "sysml"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:33.365Z"
+  },
+  {
+    "job_id": "workday-rtx-01837366",
+    "job_title": "Industrial Trainee ( CA Intern",
+    "employer_name": "RTX",
+    "job_city": "Ka",
+    "job_state": "IN",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ka, IN",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Industrial-Trainee---CA-Intern_01837366",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:24.320Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "9fcb06f5d46b0e11ec41e740eaebaf97b3fb3253d05345e1579e9112588e7dbc",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-08T07:01:24.320Z"
+  },
+  {
+    "job_id": "workday-rtx-01843727",
+    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
+    "employer_name": "RTX",
+    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843727",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:24.320Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "data analysis",
+        "matlab",
+        "microsoft office",
+        "perl",
+        "python",
+        "unix",
+        "vba",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:24.320Z"
+  },
+  {
+    "job_id": "workday-rtx-01843644",
+    "job_title": "2026 Raytheon Part Time -Systems Engineer Co-op(Remote)",
+    "employer_name": "RTX",
+    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-op-Remote-_01843644",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:24.319Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8ecd493866c63c5b96f975976fc59f299cd0cbb589adf282d9c3c508f81a371d",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "data analysis",
+        "matlab",
+        "microsoft office",
+        "perl",
+        "python",
+        "unix",
+        "vba",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:24.319Z"
+  },
+  {
+    "job_id": "workday-rtx-01843648",
+    "job_title": "2026 Raytheon Part Time -Systems Engineer Co-op (Remote)",
+    "employer_name": "RTX",
+    "job_city": "TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-op--Remote-_01843648",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:24.319Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "8c7e0e131009f15ebd4e9af7956c54626421a0179522f577cf1b848a89d06e9f",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "data analysis",
+        "matlab",
+        "microsoft office",
+        "perl",
+        "python",
+        "unix",
+        "vba",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:24.319Z"
+  },
+  {
+    "job_id": "workday-cisco-2000450",
+    "job_title": "Software Engineer Full Stack & Application Development I (Intern) – United States",
+    "employer_name": "Cisco",
+    "job_city": "San Jose California US",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Jose California US + 12 more",
+    "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Application-Development-I--Intern----United-States_2000450",
+    "job_posted_at_datetime_utc": "2026-05-08T07:01:24.203Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "bf801630a167a9acf6f028d844a5deb12b276e36bbcd968d6821d04a86d409f8",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "angular",
+        "ansible",
+        "api",
+        "aws",
+        "azure",
+        "c++",
+        "ci/cd",
+        "circleci",
+        "cisco",
+        "cloudformation",
+        "distributed systems",
+        "docker",
+        "gcp",
+        "github",
+        "github actions",
+        "grafana",
+        "graphql",
+        "grpc",
+        "infrastructure as code",
+        "java",
+        "javascript",
+        "jenkins",
+        "kubernetes",
+        "prometheus",
+        "python",
+        "react",
+        "rest",
+        "splunk",
+        "sql",
+        "terraform",
+        "typescript",
+        "vue"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-08T07:01:24.203Z"
   },
   {
     "job_id": "greenhouse-trueanomalyinc-5131359007",
@@ -2519,453 +2519,6 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-07T08:01:31.308Z"
-  },
-  {
-    "job_id": "workday-rtx-01843537",
-    "job_title": "Stage - Automne 2026 - Stagiaire en ressources humaines / Internship - Fall 2026 - Human Resource Intern",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Stagiaire-en-ressources-humaines---Internship---Fall-2026---Human-Resource-Intern_01843537",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d1a7aa7ccade5965bdfe286dd79d441ed41805d60ccde75d119b5d5c7c8213fd",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843350",
-    "job_title": "Internship Fall 2026 - Maintenance Reliability Engineer Student",
-    "employer_name": "RTX",
-    "job_city": "Ns",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ns, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Maintenance-Reliability-Engineer-Student_01843350",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "81777c9673a652d93a0712a4b1168eaa283977a7567e00fa9dd94c68592ac491",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "data analysis",
-        "failure mode",
-        "fmea",
-        "root cause analysis"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843723",
-    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
-    "employer_name": "RTX",
-    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843723",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "computer science",
-        "data analysis",
-        "matlab",
-        "microsoft office",
-        "perl",
-        "python",
-        "unix",
-        "vba",
-        "windows"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": "senior",
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843565",
-    "job_title": "Internship Fall 2026 - Quality Specialist",
-    "employer_name": "RTX",
-    "job_city": "Ns",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Ns, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Quality-Specialist_01843565",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e68c7b1506fc420d05491df165efef6786bd362164d5a82b303a2f1f07a0e011",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843581",
-    "job_title": "Stage Automne 2026 - Qualité centre d'assemblage de Mirabel / Internship Fall 2026 - Quality Mirabel Assembly Centre",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage-Automne-2026---Qualit-centre-d-assemblage-de-Mirabel---Internship-Fall-2026---Quality-Mirabel-Assembly-Centre_01843581",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "fec76d2a6d1ca93cba87cc5aaf14261303e87b6f5f068bc780cc2d137990aa69",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "manufacturing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843889",
-    "job_title": "Stage Automne 2026 - Développement des procédés manufacturiers / Internship Fall 2026 - Manufacturing Process Development",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Dveloppement-des-procds-manufacturiers---Internship-Fall-2026---Manufacturing-Process-Development_01843889",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "57a82c0ffcb0cff76c89fc351bc66c5ba673699584938704d40b43c0ec7965b3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01838817",
-    "job_title": "Stage - Automne 2026 - Superviseur Coop / Internship - Fall 2026 - COOP Supervisor",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Superviseur-Coop---Internship---Fall-2026---COOP-Supervisor_01838817",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "08002d73135b3b9fd7bc15a91cf2da233247d45dd79e5152e9deb69e61b6eeca",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01837593",
-    "job_title": "Stage - Automne 2026 - Superviseur Coop / Internship - Fall 2026 - COOP Supervisor",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Superviseur-Coop---Internship---Fall-2026---COOP-Supervisor_01837593",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "08002d73135b3b9fd7bc15a91cf2da233247d45dd79e5152e9deb69e61b6eeca",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01837135",
-    "job_title": "Stage - Automne 2026 - Ingénierie de projets - Programmes turbopropulseurs régionaux / Internship - Fall 2026 - Project Engineering - Regional engine programs",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Ingnierie-de-projets---Programmes-turbopropulseurs-rgionaux---Internship---Fall-2026---Project-Engineering---Regional-engine-programs_01837135",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "75c016c23d0d2ab90166c2e31a05ae619cba1a1516dd89b352f87eec9684a26e",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "mes"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843882",
-    "job_title": "SkillBridge Intern DoD: Information System Security Officer - Forest, MS",
-    "employer_name": "RTX",
-    "job_city": "MS-FOREST-425 ~ 19859 Hwy 80 ~ BLDG 425",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-MS-FOREST-425 ~ 19859 Hwy 80 ~ BLDG 425",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MS-FOREST-425--19859-Hwy-80--BLDG-425/SkillBridge-Intern-DoD--Information-System-Security-Officer---Forest--MS_01843882",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "51e29a83ff55bbe2c3f38c5376b4c478d935db140e59b1e6054f6937a6f53636",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843878",
-    "job_title": "SkillBridge Intern DoD: Information System Security Officer - McKinney, Texas",
-    "employer_name": "RTX",
-    "job_city": "TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/SkillBridge-Intern-DoD--Information-System-Security-Officer---McKinney--Texas_01843878",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.227Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "e3eae9329bb05ea8b662e4ea91dcb50d3d742d43e2d0c3fd2b438d86b3f66718",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.227Z"
-  },
-  {
-    "job_id": "workday-rtx-01843378",
-    "job_title": "Summer 2026 - Legal Intern (Remote)",
-    "employer_name": "RTX",
-    "job_city": "CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2026---Legal-Intern--Remote-_01843378",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.226Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "01dd3abe1227ae13b1ad3712de6bf26f636b32c73b94c7ccd4aad3082140275a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "legal"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.226Z"
-  },
-  {
-    "job_id": "workday-rtx-01839788",
-    "job_title": "Stage Automne 2026 - Service Technique des Accessoires Moteurs / Internship Fall 2026 - Engine Controls & Accessories Technical Services",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Service-Technique-des-Accessoires-Moteurs---Internship-Fall-2026---Engine-Controls---Accessories-Technical-Services_01839788",
-    "job_posted_at_datetime_utc": "2026-05-07T07:49:28.226Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "0279b17cacd01fbe26994b42b6277310e607c0691d0439d3c5bc19d123437291",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:49:28.226Z"
   },
   {
     "job_id": "workday-oshkosh-corporation-R46423",
@@ -5710,123 +5263,6 @@
     "job_posted_at": "2026-05-07T07:47:00.341Z"
   },
   {
-    "job_id": "workday-adobe-R160430",
-    "job_title": "2026 Intern - Software Development Engineer",
-    "employer_name": "Adobe",
-    "job_city": "San Francisco",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Francisco",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-Intern---Software-Development-Engineer_R160430",
-    "job_posted_at_datetime_utc": "2026-05-07T07:46:25.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "14df73cc38a2ca175d6d5d2053f3c97e021e7e6da3c4a1bba289205971017c7c",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "api",
-        "c++",
-        "computer science",
-        "express",
-        "go",
-        "java",
-        "javascript",
-        "python"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:46:25.053Z"
-  },
-  {
-    "job_id": "workday-adobe-R162027",
-    "job_title": "2026 AI/ML Intern - Machine Learning Engineer",
-    "employer_name": "Adobe",
-    "job_city": "San Jose",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "San Jose",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R162027",
-    "job_posted_at_datetime_utc": "2026-05-07T07:46:25.053Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "39a5ce988e2538a919285169fa71df6c3ba86ba1509a16782902e96f45416543",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "ai",
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Natural Language Processing",
-        "agentic",
-        "agents",
-        "analytics",
-        "computer science",
-        "computer vision",
-        "express",
-        "genai",
-        "hugging face",
-        "java",
-        "machine learning",
-        "multimodal",
-        "python",
-        "pytorch",
-        "ray",
-        "scala",
-        "scikit-learn",
-        "sql",
-        "statistics",
-        "tensorflow"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-07T07:46:25.053Z"
-  },
-  {
     "job_id": "workday-adobe-R160919",
     "job_title": "2026 Intern - Applied Science/Machine Learning Engineer",
     "employer_name": "Adobe",
@@ -5890,36 +5326,6 @@
     "job_posted_at": "2026-05-07T07:46:25.053Z"
   },
   {
-    "job_id": "workday-td-bank-R_1488176",
-    "job_title": "Specialized HR Analyst I (Internship)",
-    "employer_name": "TD Bank",
-    "job_city": "Mount Laurel",
-    "job_state": "NJ",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Mount Laurel, New Jersey",
-    "job_apply_link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Specialized-HR-Analyst-I--Internship-_R_1488176",
-    "job_posted_at_datetime_utc": "2026-05-07T07:32:43.402Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "95e34eb3f9c35f5fa635b78060c4e7f8aee11576c8da7e086977e67398bdd834",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-07T07:32:43.402Z"
-  },
-  {
     "job_id": "workday-biogen-REQ22462",
     "job_title": "Co-op, Cell Culture Development",
     "employer_name": "Biogen",
@@ -5948,6 +5354,36 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-07T07:31:12.880Z"
+  },
+  {
+    "job_id": "workday-td-bank-R_1488176",
+    "job_title": "Specialized HR Analyst I (Internship)",
+    "employer_name": "TD Bank",
+    "job_city": "Mount Laurel",
+    "job_state": "NJ",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Mount Laurel, New Jersey",
+    "job_apply_link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Specialized-HR-Analyst-I--Internship-_R_1488176",
+    "job_posted_at_datetime_utc": "2026-05-07T07:02:07.675Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "95e34eb3f9c35f5fa635b78060c4e7f8aee11576c8da7e086977e67398bdd834",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:02:07.675Z"
   },
   {
     "job_id": "workday-salesforce-JR340771",
@@ -6007,6 +5443,505 @@
     "job_posted_at": "2026-05-07T07:01:46.918Z"
   },
   {
+    "job_id": "workday-adobe-R160430",
+    "job_title": "2026 Intern - Software Development Engineer",
+    "employer_name": "Adobe",
+    "job_city": "San Francisco",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "San Francisco",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2026-Intern---Software-Development-Engineer_R160430",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:30.804Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "14df73cc38a2ca175d6d5d2053f3c97e021e7e6da3c4a1bba289205971017c7c",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "api",
+        "c++",
+        "computer science",
+        "express",
+        "go",
+        "java",
+        "javascript",
+        "python"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:01:30.804Z"
+  },
+  {
+    "job_id": "workday-rtx-01843565",
+    "job_title": "Internship Fall 2026 - Quality Specialist",
+    "employer_name": "RTX",
+    "job_city": "Ns",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ns, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Quality-Specialist_01843565",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.321Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e68c7b1506fc420d05491df165efef6786bd362164d5a82b303a2f1f07a0e011",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:01:24.321Z"
+  },
+  {
+    "job_id": "workday-rtx-01843581",
+    "job_title": "Stage Automne 2026 - Qualité centre d'assemblage de Mirabel / Internship Fall 2026 - Quality Mirabel Assembly Centre",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage-Automne-2026---Qualit-centre-d-assemblage-de-Mirabel---Internship-Fall-2026---Quality-Mirabel-Assembly-Centre_01843581",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.321Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "fec76d2a6d1ca93cba87cc5aaf14261303e87b6f5f068bc780cc2d137990aa69",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "manufacturing"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:01:24.321Z"
+  },
+  {
+    "job_id": "workday-rtx-01843889",
+    "job_title": "Stage Automne 2026 - Développement des procédés manufacturiers / Internship Fall 2026 - Manufacturing Process Development",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Dveloppement-des-procds-manufacturiers---Internship-Fall-2026---Manufacturing-Process-Development_01843889",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.321Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "57a82c0ffcb0cff76c89fc351bc66c5ba673699584938704d40b43c0ec7965b3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:01:24.321Z"
+  },
+  {
+    "job_id": "workday-rtx-01838817",
+    "job_title": "Stage - Automne 2026 - Superviseur Coop / Internship - Fall 2026 - COOP Supervisor",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Superviseur-Coop---Internship---Fall-2026---COOP-Supervisor_01838817",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.321Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "08002d73135b3b9fd7bc15a91cf2da233247d45dd79e5152e9deb69e61b6eeca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:01:24.321Z"
+  },
+  {
+    "job_id": "workday-rtx-01837593",
+    "job_title": "Stage - Automne 2026 - Superviseur Coop / Internship - Fall 2026 - COOP Supervisor",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Superviseur-Coop---Internship---Fall-2026---COOP-Supervisor_01837593",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.321Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "08002d73135b3b9fd7bc15a91cf2da233247d45dd79e5152e9deb69e61b6eeca",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:01:24.321Z"
+  },
+  {
+    "job_id": "workday-rtx-01837135",
+    "job_title": "Stage - Automne 2026 - Ingénierie de projets - Programmes turbopropulseurs régionaux / Internship - Fall 2026 - Project Engineering - Regional engine programs",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Ingnierie-de-projets---Programmes-turbopropulseurs-rgionaux---Internship---Fall-2026---Project-Engineering---Regional-engine-programs_01837135",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.321Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "75c016c23d0d2ab90166c2e31a05ae619cba1a1516dd89b352f87eec9684a26e",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "mes"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:01:24.321Z"
+  },
+  {
+    "job_id": "workday-rtx-01843882",
+    "job_title": "SkillBridge Intern DoD: Information System Security Officer - Forest, MS",
+    "employer_name": "RTX",
+    "job_city": "MS-FOREST-425 ~ 19859 Hwy 80 ~ BLDG 425",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-MS-FOREST-425 ~ 19859 Hwy 80 ~ BLDG 425",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MS-FOREST-425--19859-Hwy-80--BLDG-425/SkillBridge-Intern-DoD--Information-System-Security-Officer---Forest--MS_01843882",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.321Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "51e29a83ff55bbe2c3f38c5376b4c478d935db140e59b1e6054f6937a6f53636",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:01:24.321Z"
+  },
+  {
+    "job_id": "workday-rtx-01843878",
+    "job_title": "SkillBridge Intern DoD: Information System Security Officer - McKinney, Texas",
+    "employer_name": "RTX",
+    "job_city": "TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/SkillBridge-Intern-DoD--Information-System-Security-Officer---McKinney--Texas_01843878",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.321Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "e3eae9329bb05ea8b662e4ea91dcb50d3d742d43e2d0c3fd2b438d86b3f66718",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:01:24.321Z"
+  },
+  {
+    "job_id": "workday-rtx-01843378",
+    "job_title": "Summer 2026 - Legal Intern (Remote)",
+    "employer_name": "RTX",
+    "job_city": "CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2026---Legal-Intern--Remote-_01843378",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.320Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "01dd3abe1227ae13b1ad3712de6bf26f636b32c73b94c7ccd4aad3082140275a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "legal"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:01:24.320Z"
+  },
+  {
+    "job_id": "workday-rtx-01839788",
+    "job_title": "Stage Automne 2026 - Service Technique des Accessoires Moteurs / Internship Fall 2026 - Engine Controls & Accessories Technical Services",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Service-Technique-des-Accessoires-Moteurs---Internship-Fall-2026---Engine-Controls---Accessories-Technical-Services_01839788",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.320Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "0279b17cacd01fbe26994b42b6277310e607c0691d0439d3c5bc19d123437291",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:01:24.320Z"
+  },
+  {
+    "job_id": "workday-rtx-01843537",
+    "job_title": "Stage - Automne 2026 - Stagiaire en ressources humaines / Internship - Fall 2026 - Human Resource Intern",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Stagiaire-en-ressources-humaines---Internship---Fall-2026---Human-Resource-Intern_01843537",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.320Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d1a7aa7ccade5965bdfe286dd79d441ed41805d60ccde75d119b5d5c7c8213fd",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-07T07:01:24.320Z"
+  },
+  {
+    "job_id": "workday-rtx-01843350",
+    "job_title": "Internship Fall 2026 - Maintenance Reliability Engineer Student",
+    "employer_name": "RTX",
+    "job_city": "Ns",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Ns, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Fall-2026---Maintenance-Reliability-Engineer-Student_01843350",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.320Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "81777c9673a652d93a0712a4b1168eaa283977a7567e00fa9dd94c68592ac491",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "data analysis",
+        "failure mode",
+        "fmea",
+        "root cause analysis"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:01:24.320Z"
+  },
+  {
+    "job_id": "workday-rtx-01843723",
+    "job_title": "2026 Raytheon Part Time- Systems Engineer Co-Op (Remote)",
+    "employer_name": "RTX",
+    "job_city": "CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/XMLNAME-2026-Raytheon-Part-Time--Systems-Engineer-Co-Op--Remote-_01843723",
+    "job_posted_at_datetime_utc": "2026-05-07T07:01:24.320Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "3cdec09b471b0f64ca7e738c83b03ddb3cc813fabd78bd8616b9ddccf2f175c5",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "computer science",
+        "data analysis",
+        "matlab",
+        "microsoft office",
+        "perl",
+        "python",
+        "unix",
+        "vba",
+        "windows"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": "senior",
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-07T07:01:24.320Z"
+  },
+  {
     "job_id": "greenhouse-knowbe4-8538904002",
     "job_title": "Sales Development Representative Intern (Hybrid)",
     "employer_name": "KnowBe4",
@@ -6047,7 +5982,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
     "job_posted_at_datetime_utc": "2026-05-07T01:17:41.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "f1b73dee0a6067f88e8e183febd3bad4ac204bc65416b4900828b0b2ac62d984",
     "tags": {
@@ -7039,118 +6974,6 @@
     "job_posted_at": "2026-05-06T07:49:42.034Z"
   },
   {
-    "job_id": "workday-rtx-01837489",
-    "job_title": "Stage - Automne 2026 - Analyste d’affaires et de Données / Internship - Fall 2026 - Business & Data Analyst",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyste-d-affaires-et-de-Donnes---Internship---Fall-2026---Business---Data-Analyst_01837489",
-    "job_posted_at_datetime_utc": "2026-05-06T07:49:28.230Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "5db41229d07f5ce4c991135c96ce30b2e057463c6ed20e7289955d09c2714217",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "data_science"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "agile",
-        "api",
-        "dashboards",
-        "data analysis",
-        "databricks",
-        "etl",
-        "flux",
-        "power bi"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-06T07:49:28.230Z"
-  },
-  {
-    "job_id": "workday-rtx-01838074",
-    "job_title": "Stage Automne 2026 - Stagiaire en technologies chimiques / Internship Fall 2026 - Intern in Chemical Technology",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Stagiaire-en-technologies-chimiques---Internship-Fall-2026---Intern-in-Chemical-Technology_01838074",
-    "job_posted_at_datetime_utc": "2026-05-06T07:49:28.230Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "05f43f7178f3bb16ed117528090c6dd7fb3935044662065e8597371105a02834",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T07:49:28.230Z"
-  },
-  {
-    "job_id": "workday-rtx-01837697",
-    "job_title": "Stage - Automne 2026 - Gestion de la Chaîne d’approvisionnement / Internship - Fall 2026 - Supply Chain Management",
-    "employer_name": "RTX",
-    "job_city": "Qc",
-    "job_state": "CA",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Qc, CA",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Gestion-de-la-Chane-d-approvisionnement---Internship---Fall-2026---Supply-Chain-Management_01837697",
-    "job_posted_at_datetime_utc": "2026-05-06T07:49:28.229Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "d27abd16e19c8e354d4151e3d6d42bd258a2b47b9530bcdff3fa649e87f6e25a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "operations"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-06T07:49:28.229Z"
-  },
-  {
     "job_id": "workday-nvidia-JR2016805",
     "job_title": "Software Engineering Intern, AI Tools - Fall 2026",
     "employer_name": "NVIDIA",
@@ -7965,6 +7788,118 @@
     "job_posted_at": "2026-05-06T07:02:10.000Z"
   },
   {
+    "job_id": "workday-rtx-01837489",
+    "job_title": "Stage - Automne 2026 - Analyste d’affaires et de Données / Internship - Fall 2026 - Business & Data Analyst",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Analyste-d-affaires-et-de-Donnes---Internship---Fall-2026---Business---Data-Analyst_01837489",
+    "job_posted_at_datetime_utc": "2026-05-06T07:01:24.322Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "5db41229d07f5ce4c991135c96ce30b2e057463c6ed20e7289955d09c2714217",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "data_science"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "agile",
+        "api",
+        "dashboards",
+        "data analysis",
+        "databricks",
+        "etl",
+        "flux",
+        "power bi"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-06T07:01:24.322Z"
+  },
+  {
+    "job_id": "workday-rtx-01838074",
+    "job_title": "Stage Automne 2026 - Stagiaire en technologies chimiques / Internship Fall 2026 - Intern in Chemical Technology",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Automne-2026---Stagiaire-en-technologies-chimiques---Internship-Fall-2026---Intern-in-Chemical-Technology_01838074",
+    "job_posted_at_datetime_utc": "2026-05-06T07:01:24.322Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "05f43f7178f3bb16ed117528090c6dd7fb3935044662065e8597371105a02834",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "general"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T07:01:24.322Z"
+  },
+  {
+    "job_id": "workday-rtx-01837697",
+    "job_title": "Stage - Automne 2026 - Gestion de la Chaîne d’approvisionnement / Internship - Fall 2026 - Supply Chain Management",
+    "employer_name": "RTX",
+    "job_city": "Qc",
+    "job_state": "CA",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "Qc, CA",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Gestion-de-la-Chane-d-approvisionnement---Internship---Fall-2026---Supply-Chain-Management_01837697",
+    "job_posted_at_datetime_utc": "2026-05-06T07:01:24.321Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "d27abd16e19c8e354d4151e3d6d42bd258a2b47b9530bcdff3fa649e87f6e25a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "operations"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-06T07:01:24.321Z"
+  },
+  {
     "job_id": "workday-aes-corporation-R1063542",
     "job_title": "Legal Intern-1",
     "employer_name": "AES Corporation",
@@ -7974,7 +7909,7 @@
     "job_is_remote": false,
     "job_location": "US, Salt Lake City, UT",
     "job_apply_link": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Salt-Lake-City-UT/Legal-Intern-1_R1063542-1",
-    "job_posted_at_datetime_utc": "2026-05-06T07:02:06.096Z",
+    "job_posted_at_datetime_utc": "2026-05-06T07:01:17.438Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "a6a63cd095c87e722be00505aa9b1b9858116dbe635b51f44d45c876127a723b",
@@ -7992,7 +7927,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-06T07:02:06.096Z"
+    "job_posted_at": "2026-05-06T07:01:17.438Z"
   },
   {
     "job_id": "simplify-60a4718f-a0f3-41c8-99e8-7e1535bd4516",
@@ -9755,83 +9690,6 @@
     "job_posted_at": "2026-05-05T08:01:57.833Z"
   },
   {
-    "job_id": "workday-globalfoundries-JR-2502795",
-    "job_title": "Field Application Engineering Intern, Austin, TX (Summer 2026)",
-    "employer_name": "GlobalFoundries",
-    "job_city": "Texas - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Texas - Austin",
-    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795",
-    "job_posted_at_datetime_utc": "2026-05-05T08:01:57.632Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "f7598ec131437d960b5a771bb5e00f50f8d94133e6fbf721cf5e19ab09e4771a",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software",
-        "hardware"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "linux",
-        "project management"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "bachelors",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T08:01:57.632Z"
-  },
-  {
-    "job_id": "workday-globalfoundries-JR-2503145",
-    "job_title": "Human Resources Intern, Digital & AI (Summer 2026)",
-    "employer_name": "GlobalFoundries",
-    "job_city": "Texas - Austin",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - Texas - Austin",
-    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--HR-Shared-Services--Summer-2026-_JR-2503145",
-    "job_posted_at_datetime_utc": "2026-05-05T08:01:57.632Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "2a4ac302a9a68160fbb2e54ba0dfd34fe0317798ce9f072871134d49ff60c0f3",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "hr"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-05T08:01:57.632Z"
-  },
-  {
     "job_id": "workday-cadence-(university)-R54668",
     "job_title": "Legal Intern",
     "employer_name": "Cadence (University)",
@@ -10409,6 +10267,83 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-05-05T07:01:46.919Z"
+  },
+  {
+    "job_id": "workday-globalfoundries-JR-2502795",
+    "job_title": "Field Application Engineering Intern, Austin, TX (Summer 2026)",
+    "employer_name": "GlobalFoundries",
+    "job_city": "Texas - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Texas - Austin",
+    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795",
+    "job_posted_at_datetime_utc": "2026-05-05T07:01:30.050Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "f7598ec131437d960b5a771bb5e00f50f8d94133e6fbf721cf5e19ab09e4771a",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "software",
+        "hardware"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "enrichment": {
+      "required_skills": [
+        "linux",
+        "project management"
+      ],
+      "nice_to_have_skills": [],
+      "sponsors_visa": null,
+      "possible_sponsor": true,
+      "visa_question_present": false,
+      "is_simple_apply": false,
+      "is_remote": false,
+      "has_description": true,
+      "min_degree": "bachelors",
+      "experience_level_from_desc": null,
+      "question_count": null
+    },
+    "job_posted_at": "2026-05-05T07:01:30.050Z"
+  },
+  {
+    "job_id": "workday-globalfoundries-JR-2503145",
+    "job_title": "Human Resources Intern, Digital & AI (Summer 2026)",
+    "employer_name": "GlobalFoundries",
+    "job_city": "Texas - Austin",
+    "job_state": "",
+    "job_country": "United States",
+    "job_is_remote": false,
+    "job_location": "USA - Texas - Austin",
+    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--HR-Shared-Services--Summer-2026-_JR-2503145",
+    "job_posted_at_datetime_utc": "2026-05-05T07:01:30.050Z",
+    "job_employment_type": "FULLTIME",
+    "salary": null,
+    "fingerprint": "2a4ac302a9a68160fbb2e54ba0dfd34fe0317798ce9f072871134d49ff60c0f3",
+    "tags": {
+      "employment": "internship",
+      "domains": [
+        "hr"
+      ],
+      "locations": [
+        "us"
+      ],
+      "experience": "entry_level",
+      "special": [],
+      "tag_engine_version": 3
+    },
+    "_source": "aggregator",
+    "_original_source": "workday",
+    "job_posted_at": "2026-05-05T07:01:30.050Z"
   },
   {
     "job_id": "sr-VeoliaEnvironnementSA-744000124524279",
@@ -12333,7 +12268,7 @@
     "job_is_remote": false,
     "job_location": "San Jose + 2 more",
     "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Sales-Operations---Enablement-Specialist_R168466",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:18.824Z",
+    "job_posted_at_datetime_utc": "2026-05-04T07:01:30.806Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "64973323a989c7cd2695424489707747d2460e251fced11a89f7b066ff2957cc",
@@ -12351,7 +12286,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T07:02:18.824Z"
+    "job_posted_at": "2026-05-04T07:01:30.806Z"
   },
   {
     "job_id": "workday-cisco-2008430",
@@ -12363,7 +12298,7 @@
     "job_is_remote": false,
     "job_location": "San Jose California US + 2 more",
     "job_apply_link": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Customer-Experience-Product-Management-Specialist-I--Intern----United-States_2008430",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:10.629Z",
+    "job_posted_at_datetime_utc": "2026-05-04T07:01:24.204Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "7984115111531f201261f9a71a0ba1a10d236f7bfdaf1f6a07c7209e45d043cd",
@@ -12381,7 +12316,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T07:02:10.629Z"
+    "job_posted_at": "2026-05-04T07:01:24.204Z"
   },
   {
     "job_id": "workday-aes-corporation-R1063534",
@@ -12393,7 +12328,7 @@
     "job_is_remote": false,
     "job_location": "US, Louisville, CO",
     "job_apply_link": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Louisville-CO/Summer-Intern---Wind-Development_R1063534",
-    "job_posted_at_datetime_utc": "2026-05-04T07:02:06.097Z",
+    "job_posted_at_datetime_utc": "2026-05-04T07:01:17.438Z",
     "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "cac8d9899fce009bbc6031e9628633e78120bb74de8708b990ea0f482c9aee8e",
@@ -12411,7 +12346,7 @@
     },
     "_source": "aggregator",
     "_original_source": "workday",
-    "job_posted_at": "2026-05-04T07:02:06.097Z"
+    "job_posted_at": "2026-05-04T07:01:17.438Z"
   },
   {
     "job_id": "greenhouse-cloudflare-7495538",
@@ -12501,35 +12436,5 @@
     "_source": "aggregator",
     "_original_source": "apple",
     "job_posted_at": "2026-05-03T13:38:58.097Z"
-  },
-  {
-    "job_id": "workday-globalfoundries-JR-2502722",
-    "job_title": "Digital Manufacturing Intern (Summer 2026)",
-    "employer_name": "GlobalFoundries",
-    "job_city": "New York - Malta",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "USA - New York - Malta",
-    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-1H-University-Intern---Digital-Manufacturing_JR-2502722-1",
-    "job_posted_at_datetime_utc": "2026-05-03T07:02:16.467Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "27d747342a710ad5943beede8aabb3a194aef5e66e2c4a2f6113d848d5e6dbc8",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-05-03T07:02:16.467Z"
   }
 ]
