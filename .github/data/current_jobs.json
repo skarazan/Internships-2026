@@ -6093,7 +6093,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864498",
     "job_posted_at_datetime_utc": "2026-05-06T22:19:11.000Z",
-    "job_employment_type": "FULLTIME",
+    "job_employment_type": "internship",
     "salary": null,
     "fingerprint": "878b562426a137f467accabffada761de8baded5b98cf3563586430a31cfb259",
     "tags": {
@@ -6155,7 +6155,7 @@
     "job_location": "Redmond, Washington, United States",
     "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556864482",
     "job_posted_at_datetime_utc": "2026-05-06T21:17:55.000Z",
-    "job_employment_type": "internship",
+    "job_employment_type": "FULLTIME",
     "salary": null,
     "fingerprint": "811aa009e775687699bbc3db6c3bd75e1126892ad1fa35c8c166093aa19ad89e",
     "tags": {
@@ -9234,77 +9234,6 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-05T14:32:56.180Z"
-  },
-  {
-    "job_id": "workday-walmart-R-2476040",
-    "job_title": "2023 Intern Conversion: 2024 FT Software Engineer III-5",
-    "employer_name": "Walmart",
-    "job_city": "Bentonville",
-    "job_state": "AR",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "Bentonville, AR",
-    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2023-Intern-Conversion--2024-FT-Software-Engineer-III-5_R-2476040",
-    "job_posted_at_datetime_utc": "2026-05-05T14:07:56.087Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "85f7d48387dbb01659e720a8ca30727c18c392ba75375fad96f6d7af0f881b30",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "software"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "enrichment": {
-      "required_skills": [
-        "Node.js",
-        "React",
-        "aks",
-        "analytics",
-        "azure",
-        "azure functions",
-        "ci/cd",
-        "computer science",
-        "cybersecurity",
-        "design patterns",
-        "devops",
-        "etl",
-        "genai",
-        "javascript",
-        "kubernetes",
-        "microservices",
-        "networking",
-        "oop",
-        "react",
-        "react native",
-        "root cause analysis",
-        "routing",
-        "spring",
-        "spring boot",
-        "sql"
-      ],
-      "nice_to_have_skills": [],
-      "sponsors_visa": null,
-      "possible_sponsor": true,
-      "visa_question_present": false,
-      "is_simple_apply": false,
-      "is_remote": false,
-      "has_description": true,
-      "min_degree": "associates",
-      "experience_level_from_desc": null,
-      "question_count": null
-    },
-    "job_posted_at": "2026-05-05T14:07:56.087Z"
   },
   {
     "job_id": "workday-leidos-R-00182471",
