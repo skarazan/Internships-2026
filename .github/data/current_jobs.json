@@ -12332,38 +12332,5 @@
       "question_count": null
     },
     "job_posted_at": "2026-05-04T06:46:29.000Z"
-  },
-  {
-    "job_id": "apple-200606799",
-    "job_title": "MBA Internships - Summer 2026",
-    "employer_name": "Apple",
-    "job_city": "United States",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_location": "United States",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200606799/mba-internships-summer-2026",
-    "job_posted_at_datetime_utc": "2026-05-03T13:38:58.097Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "c987565ab38d7b4d99db835915f0cde1c3305d0a4d00e561f8ef48f575b7f048",
-    "tags": {
-      "employment": "internship",
-      "domains": [
-        "general"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "entry_level",
-      "special": [
-        "faang",
-        "fortune500"
-      ],
-      "tag_engine_version": 3
-    },
-    "_source": "aggregator",
-    "_original_source": "apple",
-    "job_posted_at": "2026-05-03T13:38:58.097Z"
   }
 ]
