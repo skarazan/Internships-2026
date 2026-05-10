@@ -96,7 +96,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **State Street** | Application Developer, Fulltime Internship (July - Dec 2026) | Quincy, Massachus... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Application-Developer--Fulltime-Internship--July---Dec-2026-_R-785064) |
 | 🏢 **Thermo Fisher Scientific** | Software Intern | Pleasanton, Calif... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pleasanton-California-USA/Software-Intern_R-01340600) |
 | 🏢 **Leidos** | Junior CEMA Software Engineer Intern | Lawton, OK + 4 more | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554) |
-| 🏢 **Uber** | 2026 Fall Software Engineering Internship, US | San Francisco, Ca... | 5d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.uber.com/us/en/careers/list/159161/) |
+| 🏢 **Uber** | 2026 Fall Software Engineering Internship, US | San Francisco, Ca... | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.uber.com/us/en/careers/list/159161/) |
 | 🏢 **Cloudflare** | Software Engineer Intern - Bengaluru | In- | 6d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7495538?gh_jid=7495538) |
 
 <p align="center">Apply for more jobs at</p>
@@ -109,7 +109,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Cresta** | Data Science Intern (Customer Success) | United States (Re... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213417008) |
+| 🏢 **Cresta** | Data Science Intern (Customer Success) | United States (Re... | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/cresta/jobs/5213417008) |
 | 🏢 **CACI** | Data and Analytics Intern - Summer 2026 | Remote | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Data-and-Analytics-Intern---Summer-2026_325834) |
 | 🏢 **Adobe** | 2026 Intern - Applied Science/Machine Learning Engineer | San Jose + 1 more | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Applied-Science-Engineer_R160919) |
 | 🏢 **Comcast** | Comcast Business Analytics Co-op | Philadelphia, PA | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Business-Analytics-Co-op_R435981) |
@@ -356,9 +356,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cribl** | Customer Experience Ops Intern | San Francisco, Ca... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cribl.io/job-detail/?gh_jid=5807803004) |
 | 🏢 **TransUnion** | Financial Planning & Analysis Internship | Chicago, Illinois | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Financial-Planning---Analysis-Internship_19040450) |
 | 🏢 **Booz Allen Hamilton** | Cyber Intern | San Antonio, TX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Antonio-TX/Cyber-Intern_R0239666) |
-| 🏢 **Ameriprise Financial** | Capital Market's Graduate Intern | New York, New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/New-York-New-York/Capital-Markert-s-Graduate-Intern_R25_0000004055) |
 | 🏢 **Appian** | Government Relations Intern (Students) | McLean, Virginia | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/appian/jobs/7909114) |
 | 🏢 **Unity** | Intern, Research Science | Mountain View, CA... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://unity.com/careers/positions/7904529?gh_jid=7904529) |
+| 🏢 **Ameriprise Financial** | Capital Market's Graduate Intern | New York, New York | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/New-York-New-York/Capital-Markert-s-Graduate-Intern_R25_0000004055) |
 | 🏢 **Veolia Environnement SA** | Intern - Engineering | Plainfield, IL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000125380509) |
 | 🏢 **Leidos** | Material Control Summer Intern | Huntsville, AL | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Material-Control-Summer-Intern_R-00181120-1) |
 | 🏢 **Comcast** | Comcast Content & Partnerships Intern | Philadelphia, PA | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Content---Partnerships-Intern_R437194) |
