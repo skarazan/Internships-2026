@@ -68,8 +68,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **True Anomaly** | Full Stack Software Engineer Intern | Denver, CO | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131361007) |
-| 🏢 **TikTok** | AI/ML Software Engineer Intern - Data Platform | San Jose, CA | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7499689149813950727) |
+| 🏢 **True Anomaly** | Full Stack Software Engineer Intern | Denver, CO | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131361007) |
+| 🏢 **TikTok** | AI/ML Software Engineer Intern - Data Platform | San Jose, CA | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7499689149813950727) |
 | 🏢 **Tatari** | Software Engineer Intern | San Francisco, Ca... | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8451506002) |
 | 🏢 **Tatari** | Software Engineer Intern | New York, New Yor... | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8451505002) |
 | 🏢 **Tatari** | Software Engineer Intern | Los Angeles, Cali... | 5h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8451504002) |
@@ -85,9 +85,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **GPTZero** | Software Engineering Intern | NYC Hybrid | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/gptzero/e1f12af2-d017-4fca-a9af-99431d989d53/application) |
 | 🏢 **Xometry** | Software Engineer Intern | Waltham, MA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5007635007) |
 | 🏢 **Xometry** | Software Engineer Intern | North Bethesda, M... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5007634007) |
+| 🏢 **Verkada** | Frontend Software Engineering Intern - Fall 2026 | San Mateo, CA Uni... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5099529007) |
 | 🏢 **Verkada** | Backend Software Engineering Intern - Fall 2026 | San Mateo, CA Uni... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5099422007) |
 | 🏢 **Verkada** | Embedded Software Engineering Intern - Fall 2026 | San Mateo, CA Uni... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5099596007) |
-| 🏢 **Verkada** | Frontend Software Engineering Intern - Fall 2026 | San Mateo, CA Uni... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5099529007) |
 | 🏢 **TransMarket Group** | Systems Engineer Intern | Chicago, Illinois... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749924007?gh_jid=4749924007) |
 | 🏢 **Point72** | Quantitative Software Developer Intern | New York, London,... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) |
 | 🏢 **Nuro** | Software Engineer, AI Platform - Intern | Mountain View, Ca... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://nuro.ai/careersitem?gh_jid=7351061) |
@@ -487,7 +487,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **TikTok** | Creative Product Operations Project Intern | United States | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7632363492922034485) |
+| 🏢 **TikTok** | Creative Product Operations Project Intern | United States | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7632363492922034485) |
 | 🏢 **Voyant Photonics** | Business Development Representative Internship | New York | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/5d4f6ba3-69a7-498d-9e4b-b496243138e1/application) |
 | 🏢 **Voyant Photonics** | Technical Program Management Internship (New Grad) | New York | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/7a8eeece-66cb-406d-ab85-0889060703e7/application) |
 | 🏢 **Voyant Photonics** | Operations Program Management Internship (New Grad) | New York | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/d29e8c80-cba3-4cdc-a604-de5736a503a2/application) |
@@ -509,8 +509,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Xometry** | Partner Management Intern | Lexington, KY | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5010165007) |
 | 🏢 **Xometry** | Partner Management Intern | North Bethesda, MD | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5010151007) |
 | 🚗 **Waymo** | 2026 Summer Intern, PhD, Perception | Mountain View, Ca... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7235071) |
-| 🏢 **Twilio** | Video Producer Intern | US | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7748964) |
 | 🏢 **Twilio** | Developer Advocacy Intern | US | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7728956) |
+| 🏢 **Twilio** | Video Producer Intern | US | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7748964) |
 | 🏢 **Truveta** | Agentic AI Software Testing Intern – Intelligence Platform (IPA) | Seattle, WA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/truveta/jobs/5837714004) |
 | 🏢 **SharkNinja** | Fall 2026: APAC NPD Commercial Readiness Co-op (July to December) | Needham, MA, Unit... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646005006) |
 | 🏢 **SharkNinja** | Fall 2026: Consumer Insights Intern (September to December) | Needham, MA, Unit... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4670561006) |
@@ -523,8 +523,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Safari AI** | MBA Intern (Spring and/or Summer '26) | Miami | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/safariai/jobs/5020246007) |
 | 🏢 **Crusoe** | Construction Management Intern, 2026 | San Francisco, CA... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/crusoe/8d07e3e4-290e-48f3-8ff2-30c4c0ada05e/application) |
 | 🏢 **Point72** | Summer 2027 Quantitative Developer Internship | New York | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7297613002?gh_jid=7297613002) |
+| 🏢 **Point72** | Machine Learning Researcher - Intern | New York | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) |
 | 🏢 **Point72** | Quantitative Developer Intern | New York | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002) |
-| 🏢 **Point72** | Quantitative Researcher Intern | New York | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) |
 | 🏢 **Olsson** | Marketing Student Internship | Lincoln, NE | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5142358008) |
 | 🏢 **Olsson** | Student Internship - Construction Administration & Management | Lincoln, NE | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/5176075008) |
 | 🏢 **Olsson** | General Internship Application | Baton Rouge, LA; ... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/olsson/jobs/4632038008) |
@@ -542,17 +542,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Voltus** | Energy Markets Intern (MISO) | Remote | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) |
 | 🏢 **Cartesia** | Product Engineer Intern | * | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/cartesia/ebae3ceb-a6a7-4af0-ae3e-c197af14a67a/application) |
 | 🏢 **Uncountable** | Full-Stack Intern | New York, San Fra... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e/apply) |
-| 🏢 **Samba TV** | Measurement Science Intern | San Francisco, Ca... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/sambatv/13212eae-ab99-4a4e-b2f6-25ac12816893/apply) |
 | 🏢 **Samba TV** | Programmatic Analyst Intern | San Francisco, Ca... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/sambatv/00567176-7d88-40b5-9741-3d2f57e5ad00/apply) |
+| 🏢 **Samba TV** | Measurement Science Intern | San Francisco, Ca... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/sambatv/13212eae-ab99-4a4e-b2f6-25ac12816893/apply) |
 | 🏢 **Samba TV** | Commercial Partnerships Intern | New York City, Ne... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/sambatv/a80bdcb6-caba-48ec-8f99-f5351bdee7a2/apply) |
 | 🏢 **Jump Trading** | Campus Crypto Researcher (Intern) | Chicago | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.jumptrading.com/hr/job?gh_jid=7362347) |
 | 🏢 **Allium** | Generalist Intern | New York | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/allium/8f86b4af-6e4d-42ab-ab6d-6155443542d3/application) |
 | 🏢 **Kikoff** | Data Intern | San Francisco | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/kikoff/jobs/4184371009) |
 | 🏢 **Graphcore** | Intern - Research | Bristol, UK; Camb... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/graphcore/jobs/8287389002) |
 | 🏢 **Match Group** | Android Engineer Intern | Palo Alto, Califo... | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/matchgroup/84135a99-e009-4764-8e88-f0dba164d097/apply) |
+| 🏢 **Formlabs** | Global Sourcing Intern (Summer 2026) | Somerville, MA | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7365384/apply/?gh_jid=7365384) |
+| 🏢 **Formlabs** | Hardware Global Sourcing Intern (Summer 2026) | Somerville, MA | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7739317/apply/?gh_jid=7739317) |
 | 🏢 **Formlabs** | Manufacturing Engineering Co-op (Summer/Fall 2026) | Somerville, MA | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7586088/apply/?gh_jid=7586088) |
-| 🏢 **Formlabs** | Program Management - Global Sourcing Intern (Summer 2026) | Somerville, MA | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7437742/apply/?gh_jid=7437742) |
-| 🏢 **Formlabs** | Supply Planning Intern (Summer 2026) | Somerville, MA | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7723608/apply/?gh_jid=7723608) |
 | 🏢 **Zipline** | Financial Analyst (Summer 2026) | South San Francis... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.zipline.com/careers?gh_jid=7549512003) |
 | 🏢 **Zipline** | Join Our Fall 2026 Internships Mailing List! | South San Francis... | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.zipline.com/careers?gh_jid=7603255003) |
 | 🏢 **Five Rings** | Summer Intern 2026 - Quantitative Researcher | New York | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/fiveringsllc/jobs/4563183008) |
@@ -560,7 +560,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Hermeus** | Propulsion Engineer Intern - Fall 2026 | Los Angeles, CA | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0/apply) |
 | 🏢 **Cloudflare** | Threat Detection and Incident Response Intern (Summer 2026) | Austin, TX | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205) |
 | 🏢 **Cloudflare** | U.S. Public Policy and AI Innovation Intern (Summer 2026) | Washington, DC | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7802906?gh_jid=7802906) |
-| 🏢 **Cloudflare** | Customer Advocacy Intern (Summer 2026) | Austin, TX | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7743202?gh_jid=7743202) |
+| 🏢 **Cloudflare** | Internal Audit Intern (Summer 2026) | Austin, TX | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7652742?gh_jid=7652742) |
 | 🏢 **Bridgewater Associates** | 2027 Investment Associate Intern | New York City | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/bridgewater89/jobs/8395041002) |
 | 🏢 **Blockchain.com** | IT Support Engineer Intern | Dallas | 7h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/blockchain/jobs/7575058) |
 | 🏢 **Blockchain.com** | Legal & Compliance Summer Intern | Dallas | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/blockchain/jobs/7646000) |
