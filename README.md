@@ -74,14 +74,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Booz Allen Hamilton** | University, Software Developer Intern | Fayetteville, NC | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0239759) |
 | 🏢 **Booz Allen Hamilton** | University, Software Engineer Intern | Fayetteville, NC | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0239757) |
 | 🏢 **Booz Allen Hamilton** | University, Systems Engineer Intern | Fayetteville, NC | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University--Systems-Engineer-Intern_R0239755) |
-| 🏢 **Canon** | Software Intern | Irvine, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34092/software-intern/job) |
-| 🏢 **Canon** | Software Intern | Irvine, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34090/job?mobile=true&needsRedirect=false) |
-| 🏢 **Canon** | Software Intern | Irvine, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34092/job?mobile=true&needsRedirect=false) |
-| 🏢 **Cirrus Logic** | Intern - Software Engineer - AI/ML | Austin, TX | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.eu.lever.co/cirrus/103a6cd2-74ef-495f-ab73-9a56dab653cd/apply) |
+| 🏢 **Canon** | Software Intern | Irvine, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34092/software-intern/job) |
+| 🏢 **Canon** | Software Intern | Irvine, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34090/job?mobile=true&needsRedirect=false) |
+| 🏢 **Canon** | Software Intern | Irvine, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34092/job?mobile=true&needsRedirect=false) |
+| 🏢 **Cirrus Logic** | Intern - Software Engineer - AI/ML | Austin, TX | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.eu.lever.co/cirrus/103a6cd2-74ef-495f-ab73-9a56dab653cd/apply) |
 | 🏢 **EarnIn** | Software Engineer Intern (Backend) | Mountain View, US | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/earnin/jobs/7775677) |
 | 🏢 **Astranis** | Embedded Software Developer, Network/Payload Software Intern (Fall 2026) | San Francisco | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4601135006) |
-| 🏢 **True Anomaly** | Full Stack Software Engineer Intern | Denver, CO | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131361007) |
-| 🏢 **TikTok** | AI/ML Software Engineer Intern - Data Platform | San Jose, CA | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7499689149813950727) |
+| 🏢 **True Anomaly** | Full Stack Software Engineer Intern | Denver, CO | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5131361007) |
+| 🏢 **TikTok** | AI/ML Software Engineer Intern - Data Platform | San Jose, CA | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7499689149813950727) |
 | 🏢 **Tatari** | Software Engineer Intern | Los Angeles, Cali... | 17h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8451504002) |
 | 🏢 **Tatari** | Software Engineer Intern | New York, New Yor... | 17h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8451505002) |
 | 🏢 **Tatari** | Software Engineer Intern | San Francisco, Ca... | 17h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/tatari/jobs/8451506002) |
@@ -157,7 +157,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **State Street** | Sales Business Analyst, 6 Months Full-time Internship (Jul- Dec 2026) | Quincy, Massachus... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sales-Business-Analyst--6-Months-Full-time-Internship--Jul--Dec-2026-_R-789951) |
 | 🏢 **Adobe** | 2026 Intern - Data Scientist | San Jose | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Data-Scientist_R161453) |
-| 🏢 **Skydio** | GTM Data Engineer Intern | San Mateo, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/skydio/b90b9b3b-e326-4fb6-85bd-fe52bec5f180/application) |
+| 🏢 **Skydio** | GTM Data Engineer Intern | San Mateo, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/skydio/b90b9b3b-e326-4fb6-85bd-fe52bec5f180/application) |
 | 🏢 **TikTok** | Data Scientist Intern - Tiktok UG-Mid Platform - 2026 Summer | San Jose, CA | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7592001144580262197) |
 | 🏢 **Pulse** | Machine Learning Engineer Intern (Summer 2026) | San Francisco | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/pulse/e9a43a34-1b7b-4ab8-b646-89f4db85d264/application) |
 | 🏢 **Workato** | Intern, AI Engineering | San Francisco, Ca... | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/workato/jobs/8492935002) |
@@ -193,8 +193,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Motorola Solutions** | Design Technologist - 2026 Fall Coop | Illinois, US Offs... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/Design-Technologist---2026-Fall-Coop_R63068) |
-| 🏢 **Cirrus Logic** | Co-Op - Design Verification Engineer | Chandler, AZ | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.eu.lever.co/cirrus/44d85e51-10bf-44d7-b0dc-2d177cf6e858/apply) |
-| 🏢 **Cirrus Logic** | Co-op - Design Verification Engineer | Austin, TX | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4/apply) |
+| 🏢 **Cirrus Logic** | Co-Op - Design Verification Engineer | Chandler, AZ | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.eu.lever.co/cirrus/44d85e51-10bf-44d7-b0dc-2d177cf6e858/apply) |
+| 🏢 **Cirrus Logic** | Co-op - Design Verification Engineer | Austin, TX | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.eu.lever.co/cirrus/645ceaf8-5734-4c69-9047-04bb0a400fe4/apply) |
 | 🏢 **Gecko Robotics** | Motion Brand Designer   Intern | Pittsburgh | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/gecko-robotics/e319d5c9-f360-45f7-a736-0a18efa78386/application) |
 | 🏢 **Xometry** | UX Design Intern | Waltham, Massachu... | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5007725007) |
 | 🏢 **Xometry** | UX Design Intern | North Bethesda, M... | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5007724007) |
@@ -269,7 +269,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Leidos** | Electrical Engineering Intern | Beavercreek, OH | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Beavercreek-OH/Electrical-Engineering-Intern_R-00182991) |
 | 🏢 **Formlabs** | Mechanical Engineering - Reliability Intern (Fall 2026) | Somerville, MA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7812511/apply/?gh_jid=7812511) |
-| 🏢 **Skydio** | Wireless Hardware Engineer Intern | San Mateo, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/skydio/5e1057a4-214f-4783-b676-c1315cfa81ea/application) |
+| 🏢 **Skydio** | Wireless Hardware Engineer Intern | San Mateo, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/skydio/5e1057a4-214f-4783-b676-c1315cfa81ea/application) |
 | 🏢 **Formlabs** | Electrical Engineering Intern (Fall 2026) | Somerville, MA | 3h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.formlabs.com/job/7811941/apply/?gh_jid=7811941) |
 | 🏢 **Voyant Photonics** | Internship, Electrical Engineer | New York | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/62546d1a-8b80-4c06-a8b1-ab1264c9b2be/application) |
 | 🏢 **SharkNinja** | Fall 2026: Electrical Engineering Co-op, Ninja (July to December) | Needham, MA, Unit... | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646302006) |
@@ -302,7 +302,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Astranis** | Environmental Test Engineer Intern (Fall 2026) | San Francisco | 47m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4676888006) |
+| 🏢 **Astranis** | Environmental Test Engineer Intern (Fall 2026) | San Francisco | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4676888006) |
 | 🏢 **Philips** | Co-op – Software Test Automation Engineer – Orange, OH – August-December 2026 | Orange (OH), Ohio... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---August-December-2026_581885) |
 | 🏢 **Johnson & Johnson** | Quality Engineering Fall Co-Op | Santa Clara, Cali... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Santa-Clara-California-United-States-of-America/Quality-Engineering-Fall-Co-Op_R-065104) |
 | 🏢 **Voyant Photonics** | Internship, Lidar Test Engineering | New York | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/2b39c5b6-4ef5-4891-8ae9-65c21b10769f/application) |
@@ -422,7 +422,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Canon** | Research Intern | Irvine, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34087/job?mobile=true&needsRedirect=false) |
+| 🏢 **Canon** | Research Intern | Irvine, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34087/job?mobile=true&needsRedirect=false) |
 | 🏢 **Zoox** | PhD Research Intern, Vision Language Action Models | Foster City, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/zoox/2a00b538-3c7c-4217-a14b-3e7881f2a8a0/apply) |
 | 🏢 **Reality Defender** | Multimodal AI PhD Intern (Summer 2026) | USA Remote | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/realitydefender/e937807e-6dde-4753-ac83-4794b25bc357/application) |
 | 🏢 **Xometry** | UX Research Intern | Waltham, Massachu... | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xometry/jobs/5014705007) |
@@ -457,8 +457,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **RTX** | Electrical (ASIC/FPGA) Engineering Intern (Summer 2026)(Onsite) | Cedar Rapids, IA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--ASIC-FPGA--Engineering-Intern--Summer-2026--Onsite-_01844438) |
 | 🏢 **Curtiss-Wright** | Manufacturing Engineering Intern | East Farmingdale, NY | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Manufacturing-Engineering-Intern_JR12100-1) |
 | 🏢 **Curtiss-Wright** | Manufacturing Intern (3 months) | Aston, PA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Manufacturing-Intern--3-months-_JR12034) |
-| 🏢 **Axon** | Controllership AI & Automation Intern | Scottsdale, Arizo... | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7708574003) |
-| 🏢 **Axon** | Controllership AI & Automation Intern | Boston, Massachus... | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7708565003) |
+| 🏢 **Axon** | Controllership AI & Automation Intern | Scottsdale, Arizo... | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7708574003) |
+| 🏢 **Axon** | Controllership AI & Automation Intern | Boston, Massachus... | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/axon/jobs/7708565003) |
 | 🏢 **Odin Dynamics** | Summer Engineering Intern | Los Angeles | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/odin-dynamics/9b30430d-86e4-4c3f-93d8-f06de09b1f61/application) |
 | 🏢 **Verkada** | Technical Support Engineering Intern - Fall 2026 | San Mateo, CA Uni... | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/verkada/jobs/5017082007) |
 | 🏢 **Neuralink** | Manufacturing Intern, Surgery & Robot Hardware | Fremont, Californ... | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/neuralink/jobs/7666761003?gh_jid=7666761003) |
@@ -496,9 +496,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Leidos** | Capture Management Intern | Reston, VA + 1 more | 13m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Capture-Management-Intern_R-00183006) |
-| 🏢 **Zscaler** | Detection Engineer- SkillBridge Intern | USA | 47m | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
-| 🏢 **Etched** | DFT Intern | San Jose | 47m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application) |
+| 🏢 **Leidos** | Capture Management Intern | Reston, VA + 1 more | 28m |  | [<img src="images/apply.png" width="120" alt="Apply">](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Capture-Management-Intern_R-00183006) |
+| 🏢 **Zscaler** | Detection Engineer- SkillBridge Intern | USA | 1h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5114254007) |
+| 🏢 **Etched** | DFT Intern | San Jose | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/5f1f5739-3b58-467c-b351-ff183c94d96d/application) |
 | 🏢 **S&P Global** | Ratings Analytical Intern - EMEA | Frankfurt, DE + 1... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Frankfurt-DE/Ratings-Analytical-Intern---EMEA_322656-1) |
 | 🏢 **Johnson & Johnson** | Business Excellence Co-op | San Lorenzo, Puer... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/San-Lorenzo-Puerto-Rico-United-States-of-America/Business-Excellence-Co-op_R-072261) |
 | 🏢 **Bosch Group** | Sales & Project Management Intern | Farmington Hills, MI | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000125942467) |
@@ -516,22 +516,22 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🌐 **Cisco** | Optics Engineer II (Co-Op) - United States | Maynard, Massachu... | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Optics-Engineer-II--Co-Op----United-States_2013828) |
 | 🏢 **Boston Dynamics** | R&D Electrical Testing Intern | Waltham | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/R-D-Electrical-Testing-Intern_R2752) |
 | 🏢 **Abbott** | Research Park Intern - Student Researcher | Illinois | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Champaign/Research-Park-Intern---Student-Researcher_31128619) |
-| 🏢 **Skydio** | Product Support Engineer Intern | San Mateo, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/skydio/8df0689e-a489-4c72-a1f7-09dfe59745b8/application) |
-| 🏢 **Canon** | Biomedical Engineer Trainee Intern | Cambridge, MA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34331/job?mobile=true&needsRedirect=false) |
-| 🏢 **Skydio** | Hardware Test and Reliability Intern | San Mateo, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/skydio/4a1441bf-6979-46d0-a466-d9b8fd0a9762/application) |
-| 🏢 **Skydio** | Autonomy Engineer Intern - Deep Learning - Computational Photography | San Mateo, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25/application) |
-| 🏢 **Cirrus Logic** | Analog/Mixed-Signal Verification Intern Co-op | Austin, TX | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95/apply) |
-| 🏢 **Canon** | Software Imaging Intern | Irvine, CA | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34091/software-imaging-intern/job) |
-| 🏢 **Cirrus Logic** | Co-Op - Formal Verification Engineer | Austin, TX | 1h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.eu.lever.co/cirrus/3671d9f4-0389-42e6-af0e-68a95ebeb45d/apply) |
+| 🏢 **Skydio** | Product Support Engineer Intern | San Mateo, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/skydio/8df0689e-a489-4c72-a1f7-09dfe59745b8/application) |
+| 🏢 **Canon** | Biomedical Engineer Trainee Intern | Cambridge, MA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34331/job?mobile=true&needsRedirect=false) |
+| 🏢 **Skydio** | Hardware Test and Reliability Intern | San Mateo, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/skydio/4a1441bf-6979-46d0-a466-d9b8fd0a9762/application) |
+| 🏢 **Skydio** | Autonomy Engineer Intern - Deep Learning - Computational Photography | San Mateo, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/skydio/d13e3179-e646-4873-84a6-d492a692bc25/application) |
+| 🏢 **Cirrus Logic** | Analog/Mixed-Signal Verification Intern Co-op | Austin, TX | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.eu.lever.co/cirrus/a0ee59a9-cfce-410a-b182-459a5da9ba95/apply) |
+| 🏢 **Canon** | Software Imaging Intern | Irvine, CA | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://external-canoncareers.icims.com/jobs/34091/software-imaging-intern/job) |
+| 🏢 **Cirrus Logic** | Co-Op - Formal Verification Engineer | Austin, TX | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.eu.lever.co/cirrus/3671d9f4-0389-42e6-af0e-68a95ebeb45d/apply) |
 | 🏢 **EarnIn** | Mobile Engineer Intern (iOS) | Mountain View, US | 2h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/earnin/jobs/7773844) |
 | 🟦 **Microsoft** | Critical Environment Technician INTERN | Quincy, Washingto... | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556861068) |
 | 🟦 **Microsoft** | Data Center Technician INTERN | San Antonio, Texa... | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556861902) |
 | 🟦 **Microsoft** | Data Center Technician INTERN | Palmetto, Georgia... | 2h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556861077) |
 | 🏢 **Cloudflare** | Program Operations Analyst Intern (Summer 2026) | San Francisco, CA | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7799344?gh_jid=7799344) |
-| 🏢 **Bosch Group** | 2026 Fall Industrial Engineer Co-op | Charleston, SC | 3h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000125915849) |
+| 🏢 **Bosch Group** | 2026 Fall Industrial Engineer Co-op | Charleston, SC | 4h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000125915849) |
 | 🏢 **Datadog** | IT Support Technician Intern | Boston, Massachus... | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788) |
-| 🏢 **Redis** | Video Production & Video Internship (Summer) |  | 6h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/redis/f7127196-71f4-49e4-b226-9f7d9a2bfe79/application) |
-| 🏢 **TikTok** | Creative Product Operations Project Intern | United States | 15h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7632363492922034485) |
+| 🏢 **Redis** | Video Production & Video Internship (Summer) |  | 7h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/redis/f7127196-71f4-49e4-b226-9f7d9a2bfe79/application) |
+| 🏢 **TikTok** | Creative Product Operations Project Intern | United States | 16h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7632363492922034485) |
 | 🏢 **Voyant Photonics** | Business Development Representative Internship | New York | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/5d4f6ba3-69a7-498d-9e4b-b496243138e1/application) |
 | 🏢 **Voyant Photonics** | Technical Program Management Internship (New Grad) | New York | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/7a8eeece-66cb-406d-ab85-0889060703e7/application) |
 | 🏢 **Voyant Photonics** | Operations Program Management Internship (New Grad) | New York | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/voyant-photonics/d29e8c80-cba3-4cdc-a604-de5736a503a2/application) |
