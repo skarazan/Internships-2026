@@ -255,7 +255,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Twilio** | Graphic Design Intern (June 22nd start, 12 weeks) | US | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7835625) |
+| 🏢 **Twilio** | Graphic Design Intern (June 22nd start, 12 weeks) | US | 20h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/twilio/jobs/7835625) |
 | 🏢 **d-Matrix** | HW Design Verification Intern | Santa Clara, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/d-Matrix/a1d69a8b-49bb-4561-91f7-a2536eb3e6df/application) |
 | 🏢 **Kioxia** | Technical Product Marketing Intern | Santa Clara, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/Kioxia/744000113541052) |
 | 🏢 **TikTok** | Product Manager Project Intern - Brand Advertising - Monetization Product | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://lifeattiktok.com/search/7632474163383765301) |
@@ -537,7 +537,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Rocket Lawyer** | UX Research Intern, AI Experience | Arizona ; Califor... | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5181711008) |
 | 🏢 **Hunt Oil Company** | Technology Research Intern - Summer 2026 | Dallas, TX | 10h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/897) |
 | 🏢 **Instacart** | Machine Learning PhD Intern, Economics | Remote | 11h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://instacart.careers/job/?gh_jid=7532267) |
-| 🏢 **Intrinsic Robotics** | Vision Foundation Model Research Intern | Mountain View, Ca... | 13h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5843594004?gh_jid=5843594004) |
+| 🏢 **Intrinsic Robotics** | Vision Foundation Model Research Intern | Mountain View, Ca... | 14h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/intrinsicrobotics/jobs/5843594004?gh_jid=5843594004) |
 | 🏢 **Bose** | Machine Learning and DSP Research Intern | Framingham, MA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Machine-Learning-and-DSP-Research-Intern_R28324) |
 | 🏢 **XPENG Motors** | Research Scientist Intern | Santa Clara, CA | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8329810002) |
 | 🏢 **Robert Bosch Venture Capital** | Wireless Sensing Research Intern | Sunnyvale, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121477597) |
