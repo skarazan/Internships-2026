@@ -375,7 +375,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Zayo** | Intern - Infrastructure & Network Observability | Denver, CO | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Intern---Infrastructure---Network-Observability_R0016208-1) |
+| 🏢 **Zayo** | Intern - Infrastructure & Network Observability | Denver, CO | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Intern---Infrastructure---Network-Observability_R0016208-1) |
 | 🏢 **Lambda** | Security Engineering Intern - Summer 2026 | San Francisco | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) |
 | 🏢 **Cloudflare** | Network Engineering Intern (Summer 2026) | Austin, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) |
 | 🏢 **Etched** | Infrastructure Intern | San Jose | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877/application) |
@@ -511,9 +511,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Tesla** | Operational Automation Engineer Intern | Draper, UT | 2w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://www.tesla.com/careers/search/job/internship-operational-automation-engineer-residential-energy-winter-spring-2026-254150) |
 | 🏢 **Curtiss-Wright** | Quality Assurance Intern | East Farmingdale, NY | 2w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Quality-Assurance-Intern_JR11942-1) |
 | 🏢 **Entegris** | Quality Engineer Co-Op - Fall 2026 | Rockrimmon, Color... | 2w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Quality-Engineer-Co-Op---Fall-2026_REQ-10149-1) |
-| 🏢 **Aptiv** | Software Test Engineering Intern | Troy, MI - USA | 2w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Test-Engineering-Intern_J000685610) |
-| 🏢 **iRhythm** | Electrical Test Engineering Co-op | San Francisco, CA | 3w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op_JR1305) |
-| 🏢 **Biogen** | Co-op, Bio Quality Assurance | Research Triangle... | 3w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Bio-Quality-Assurance_REQ22431) |
+| 🏢 **Aptiv** | Software Test Engineering Intern | Troy, MI - USA | 3w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Test-Engineering-Intern_J000685610) |
+| 🏢 **iRhythm** | Electrical Test Engineering Co-op | San Francisco, CA | 4w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://irhythmtech.wd5.myworkdayjobs.com/iRhythm/job/San-Francisco-CA/Electrical-Test-Engineering-Co-op_JR1305) |
+| 🏢 **Biogen** | Co-op, Bio Quality Assurance | Research Triangle... | 4w |  | [<img src="images/apply.png" width="120" alt="Apply">](https://biibhr.wd3.myworkdayjobs.com/external/job/Research-Triangle-Park-NC/Co-op--Bio-Quality-Assurance_REQ22431) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -594,7 +594,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **XPENG Motors** | AI Intern – Scenario Analysis | Santa Clara, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8535406002) |
 | 🏢 **XPENG Motors** | AI Intern – VLA Deployment | Santa Clara, CA | 19h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8535409002) |
-| 🏢 **KION Group** | AI Intern | Grand Rapids, MI | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1) |
+| 🏢 **KION Group** | AI Intern | Grand Rapids, MI | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1) |
 | 🏢 **Rambus** | Data & AI Intern | San Jose, CA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-rambus.icims.com/jobs/22378/data-%26-ai-intern/job) |
 | 🏢 **Fortinet** | AI Intern | Sunnyvale, CA | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22741) |
 | 🏢 **KION Group** | AI Intern | Grand Rapids, MI | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Atlanta-GA-United-States/AI-Internships_JR-0088855) |
@@ -669,7 +669,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Alarm.com** | Marketing Intern | Liberty Lake, Was... | 18h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8516992002) |
+| 🏢 **Alarm.com** | Marketing Intern | Liberty Lake, Was... | 19h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/alarmcom/jobs/8516992002) |
 | 🏢 **Rocket Lawyer** | Content and Social Marketing Intern | Arizona ; Califor... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/rocketlawyer/jobs/5189753008) |
 | 🏢 **Marmon Holdings** | Product Management/Marketing Intern - Summer 2026 | Charlotte, NC | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-4) |
 | 🏢 **Marmon Holdings** | Product Management/Marketing Intern - Summer 2026 | Charlotte, NC | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Charlotte-NC/Product-Management-Marketing-Intern---Summer-2026_JR0000037719-3) |
@@ -707,8 +707,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **XPENG Motors** | Research Scientist Intern | Santa Clara, CA | 18h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8329810002) |
-| 🏢 **Zillow** | AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience | United States | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043) |
-| 🏢 **Zillow** | AI Applied Scientist - PhD Intern - Evaluation Systems and Metrics | United States | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040) |
+| 🏢 **Zillow** | AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience | United States | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043) |
+| 🏢 **Zillow** | AI Applied Scientist - PhD Intern - Evaluation Systems and Metrics | United States | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040) |
 | 🏢 **Viavi Solutions** | Wireless Network Lab Intern | Chandler, AZ | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1) |
 | 🏢 **TWG Global** | AI/ML Scientist Intern - Simulation Optimization and Reinforcement Learning | Santa Monica, CA | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://apply.workable.com/twgai/j/5FADB8A7EE/apply) |
 | 🏢 **Wex** | PhD Intern - AI/ML/NLP Engineer | United States | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern---AI-ML-NLP-Engineer_R20300-1) |
