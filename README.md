@@ -179,7 +179,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **State Street** | BestX AI Engineer, Full-time Internship (July - Dec 2026) | Quincy, Massachus... | 21h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/BestX-AI-Engineer--Full-time-Internship--July---Dec-2026-_R-784548) |
+| 🏢 **State Street** | BestX AI Engineer, Full-time Internship (July - Dec 2026) | Quincy, Massachus... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/BestX-AI-Engineer--Full-time-Internship--July---Dec-2026-_R-784548) |
 | 🏢 **Actian** | AI Engineer Intern, Database Performance Knowledge | Remote | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/6638beee-45f5-46ac-9dc1-fbde7f1b5310/apply) |
 | 🏢 **Actian** | AI Engineering Intern | Remote | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.lever.co/actian/7e55f709-5eb0-472e-bdc4-d89f93b0608f/apply) |
 | 🏢 **HERE Technologies** | GIS Data Engineer Intern | Chicago, IL | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://careers-here.icims.com/jobs/81364/job?mobile=true&needsRedirect=false) |
@@ -376,7 +376,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Zayo** | Intern - Infrastructure & Network Observability | Denver, CO | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zayo.wd1.myworkdayjobs.com/Zayo_Careers/job/CO---Denver/Intern---Infrastructure---Network-Observability_R0016208-1) |
-| 🏢 **Lambda** | Security Engineering Intern - Summer 2026 | San Francisco | 23h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) |
+| 🏢 **Lambda** | Security Engineering Intern - Summer 2026 | San Francisco | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/lambda/0663f04c-097d-414f-b0a0-414a7cf153d6/application) |
 | 🏢 **Cloudflare** | Network Engineering Intern (Summer 2026) | Austin, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7917883?gh_jid=7917883) |
 | 🏢 **Etched** | Infrastructure Intern | San Jose | 4d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/etched/1b073af4-6764-45ca-a22d-40a4823f0877/application) |
 | 🏢 **Zscaler** | Site Reliability Engineer Federal- SkillBridge Intern | Virginia, USA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/zscaler/jobs/5046050007) |
@@ -491,7 +491,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | 🏢 **Moog** | Intern, Quality Engineering | Buffalo, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Quality-Engineering_R-26-17816) |
 | 🏢 **RTX** | PROYECTO DUAL - Quality Engineer Intern - 1st - On site - Aeroestructuras | Bcn, MX | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/PROYECTO-DUAL---Quality-Engineer-Intern---1st---On-site---Aeroestructuras_01842253-1) |
-| 🏢 **Johnson & Johnson** | Quality Engineering Co-Op - Fall 2026 | Danvers, Massachu... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Quality-Engineering-Co-Op---Fall-2026_R-057076) |
+| 🏢 **Johnson & Johnson** | Quality Engineering Co-Op - Fall 2026 | Danvers, Massachu... | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Danvers-Massachusetts-United-States-of-America/Quality-Engineering-Co-Op---Fall-2026_R-057076) |
 | 🏢 **Astranis** | Environmental Test Engineer Associate (Fall 2026) | San Francisco | 2d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/astranis/jobs/4676910006) |
 | 🏢 **KION Group** | RSD Intern - Test Engineering | Grand Rapids, MI | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332-1) |
 | 🏢 **KION Group** | RSD Intern - Test Engineering | Grand Rapids, MI | 3d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Holland-MI-United-States/RSD-Intern---Test-Engineering_JR-0088332) |
@@ -559,7 +559,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **Lambda** | Capital Markets & Corporate Development Intern - Summer 2026 | San Francisco | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/lambda/4803c790-6e11-4e82-ad5e-f07c79290760/application) |
+| 🏢 **Lambda** | Capital Markets & Corporate Development Intern - Summer 2026 | San Francisco | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://jobs.ashbyhq.com/lambda/4803c790-6e11-4e82-ad5e-f07c79290760/application) |
 | 🏢 **The New York Times** | AI Strategy Intern | New York, NY | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4626649005) |
 | 🏢 **Alo Yoga** | Engineering Intern - ERP Finance Systems | Beverly Hills, Ca... | 1d | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781860004?gh_jid=5781860004) |
 | 🏢 **State Street** | Finance Internship - CRD- 6 Month July-Dec | Burlington Massac... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Finance-Internship---CRD--6-Month-July-Dec_R-783113) |
@@ -706,7 +706,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| 🏢 **XPENG Motors** | Research Scientist Intern | Santa Clara, CA | 22h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8329810002) |
+| 🏢 **XPENG Motors** | Research Scientist Intern | Santa Clara, CA | 23h | ✅ Sponsor | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/xpengmotors/jobs/8329810002) |
 | 🏢 **Zillow** | AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043) |
 | 🏢 **Zillow** | AI Applied Scientist - PhD Intern - Evaluation Systems and Metrics | United States | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Evaluation-Systems-and-Metrics_P748040) |
 | 🏢 **Viavi Solutions** | Wireless Network Lab Intern | Chandler, AZ | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Chandler-AZ-USA/Wireless-Network-Lab-Intern_260004580-1) |
@@ -892,7 +892,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | 🏢 **Philips** | Intern – Informatics Strategy – Bothell, WA – Summer 2026 | Bothell, Washingt... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Informatics-Strategy---Bothell--WA---Summer-2026_583313) |
-| 🏢 **SharkNinja** | Fall 2026: Community Manager Co-op, Social Media & Online Engagement (July to December) | Needham, MA, Unit... | 22h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646013006) |
+| 🏢 **SharkNinja** | Fall 2026: Community Manager Co-op, Social Media & Online Engagement (July to December) | Needham, MA, Unit... | 23h |  | [<img src="images/apply.png" width="120" alt="Apply">](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4646013006) |
 | 🏢 **GlobalFoundries** | Maintenance Technician Intern 12, Associates Degree (Summer 2026) | New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Intern-12--Associates-Degree--Summer-2026-_JR-2602071) |
 | 🏢 **GlobalFoundries** | Maintenance Technician Intern 11, Associates Degree (Summer 2026) | New York | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Maintenance-Technician-Intern-11--Associates-Degree--Summer-2026-_JR-2602065) |
 | 🏢 **Alo Yoga** | TechOps Intern | Beverly Hills, Ca... | 1d |  | [<img src="images/apply.png" width="120" alt="Apply">](https://boards.greenhouse.io/aloyoga/jobs/5781898004?gh_jid=5781898004) |
