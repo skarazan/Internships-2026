@@ -7,13 +7,13 @@
 <!-- Banner -->
 <img src="images/int-heading.png" alt="Internships 2026 - Illustration of people collaborating on internships.">
 
-# Internships 2026
+# SWE & Data Analyst Internships 2026 — NYC & Remote
 
 
 
 </div>
 
-<p align="center">🚀 Software engineering and tech internships for students, updated in real time.</p>
+<p align="center">Filtered from <a href="https://github.com/zapplyjobs/Internships-2026">zapplyjobs/Internships-2026</a>. Showing only <b>Software Engineering</b> and <b>Data Analyst</b> internships in <b>NYC</b> or <b>Remote</b>. Auto-synced every 5 min with Discord notifications.</p>
 
 <div align="center">
 
