@@ -15,6 +15,8 @@
 
 <p align="center">Filtered from <a href="https://github.com/zapplyjobs/Internships-2026">zapplyjobs/Internships-2026</a>. Showing only <b>Software Engineering</b> and <b>Data Analyst</b> internships in <b>NYC</b> or <b>Remote</b>. Auto-synced every 5 min with Discord notifications.</p>
 
+<p align="center"><a href="https://discord.gg/GfSRFugKd"><img src="https://img.shields.io/badge/Live_Demo-Discord-5865F2?logo=discord&logoColor=white" alt="Discord"></a></p>
+
 <div align="center">
 
 ![Total Internships](https://img.shields.io/badge/Total_Internships-1765-brightgreen?style=flat&logo=briefcase)
