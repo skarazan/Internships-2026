@@ -1,0 +1,49 @@
+name: Sync upstream and notify Discord
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # every 5 minutes
+  workflow_dispatch: # manual trigger
+
+concurrency:
+  group: sync-notify
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Sync filter and detect changes
+        id: sync
+        run: python3 .github/scripts/sync_and_notify.py
+
+      - name: Commit changes
+        if: steps.sync.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/data/filtered_jobs.json .github/data/notified_hashes.json
+          git diff-index --quiet HEAD || git commit -m "Sync upstream: new SWE/Data listings in NYC/Remote"
+          git push
+
+      - name: Notify Discord
+        if: steps.sync.outputs.has_changes == 'true'
+        run: |
+          MESSAGE=$(cat .github/scripts/discord_message.txt)
+          if [ ${#MESSAGE} -gt 1990 ]; then
+            MESSAGE="${MESSAGE:0:1990}..."
+          fi
+          jq -n --arg content "$MESSAGE" '{"content": $content}' | \
+            curl -s -H "Content-Type: application/json" \
+              -d @- \
+              "${{ secrets.DISCORD_WEBHOOK_URL }}"
