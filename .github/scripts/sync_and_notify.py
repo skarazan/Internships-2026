@@ -12,12 +12,36 @@ SIBLING_HASH_URLS = [
     "https://raw.githubusercontent.com/skarazan/Summer2026-Internships-NYC/dev/.github/scripts/notified_hashes.json",
 ]
 
-def is_nyc_or_remote(entry):
+def is_phd(entry):
+    title = (entry.get("job_title") or "").lower()
+    return "phd" in title or "ph.d" in title
+
+def is_nyc_or_remote_usa(entry):
     city = (entry.get("job_city") or "").lower()
     loc = (entry.get("job_location") or "").lower()
+    state = (entry.get("job_state") or "").lower()
+    country = (entry.get("job_country") or "").lower()
     remote = entry.get("job_is_remote", False)
+
+    # Reject UK locations
+    if any(kw in loc or kw in city for kw in ("uk", "united kingdom", "london", "england", "scotland")):
+        return False
+    if country in ("gb", "uk", "united kingdom"):
+        return False
+
+    # NYC in-person/hybrid
     nyc_match = any(kw in city or kw in loc for kw in ("new york", "nyc", "manhattan", "brooklyn"))
-    return nyc_match or remote
+
+    # Remote USA only
+    remote_usa = False
+    if remote:
+        if country in ("us", "usa", "united states", ""):
+            remote_usa = True
+        # reject if explicitly non-US
+        if any(kw in loc for kw in ("uk", "canada", "united kingdom", "london", "india", "europe")):
+            remote_usa = False
+
+    return nyc_match or remote_usa
 
 def is_swe_or_data(entry):
     domains = [d.lower() for d in entry.get("tags", {}).get("domains", [])]
@@ -49,7 +73,7 @@ print("Fetching upstream jobs...")
 with urllib.request.urlopen(UPSTREAM_URL) as resp:
     upstream = json.loads(resp.read())
 
-filtered = [e for e in upstream if is_swe_or_data(e) and is_nyc_or_remote(e)]
+filtered = [e for e in upstream if is_swe_or_data(e) and is_nyc_or_remote_usa(e) and not is_phd(e)]
 print(f"Upstream: {len(upstream)} -> Filtered (SWE/Data + NYC/Remote): {len(filtered)}")
 
 old_filtered = load_json(LOCAL_PATH)
