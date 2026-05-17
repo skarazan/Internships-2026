@@ -31,7 +31,9 @@ def is_nyc_or_remote_usa(entry):
         return False
 
     # NYC in-person/hybrid
-    nyc_match = any(kw in city or kw in loc for kw in ("new york", "nyc", "manhattan", "brooklyn"))
+    nyc_match = any(kw in city or kw in loc for kw in ("new york", "nyc", "brooklyn"))
+    if ("manhattan" in city or "manhattan" in loc) and "beach" not in city and "beach" not in loc:
+        nyc_match = True
 
     # Remote USA only
     remote_usa = False
