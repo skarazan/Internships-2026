@@ -24,14 +24,6 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "1Password",
-    "job_title": "Developer Intern, Front-End Platform",
-    "job_location": "Remote (United St",
-    "job_apply_link": "https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application",
-    "job_id": "https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Phia",
     "job_title": "Full Stack Engineer Intern",
     "job_location": "New York City",
@@ -40,19 +32,19 @@
     "section": "Software Engineering"
   },
   {
+    "employer_name": "LiveRamp",
+    "job_title": "CO-Op, Software Engineer - Pixel Serving",
+    "job_location": "New York",
+    "job_apply_link": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
+    "job_id": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Doctors Without Borders",
     "job_title": "Data Science Intern",
     "job_location": "New York, New Yor",
     "job_apply_link": "https://job-boards.greenhouse.io/msfcareers/jobs/5271141008",
     "job_id": "https://job-boards.greenhouse.io/msfcareers/jobs/5271141008",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Leidos",
-    "job_title": "Data Analytics Intern",
-    "job_location": "6314 Remote/Telew",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Analytics-Intern_R-00185665",
-    "job_id": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Analytics-Intern_R-00185665",
     "section": "Data Science & AI"
   },
   {
@@ -80,14 +72,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "1Password",
-    "job_title": "Data Intern, Enterprise Analytics - F",
-    "job_location": "Remote (United St",
-    "job_apply_link": "https://jobs.ashbyhq.com/1password/c502ea19-dc77-4955-8797-6f8b64ccf52f/application",
-    "job_id": "https://jobs.ashbyhq.com/1password/c502ea19-dc77-4955-8797-6f8b64ccf52f/application",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Walleye Capital",
     "job_title": "Investment Data Science Intern (Summe",
     "job_location": "New York, New York",
@@ -104,14 +88,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Ardian",
-    "job_title": "Data Scientist Intern",
-    "job_location": "New York",
-    "job_apply_link": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
-    "job_id": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "FOX",
     "job_title": "Fall 2026 FOX News Media Internship P",
     "job_location": "New York, New Yor",
@@ -125,6 +101,14 @@
     "job_location": "Remote",
     "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/GenAI-Engineering-Intern----SkillBridge--Remote-_R26742",
     "job_id": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/GenAI-Engineering-Intern----SkillBridge--Remote-_R26742",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Ardian",
+    "job_title": "Data Scientist Intern",
+    "job_location": "New York",
+    "job_apply_link": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
+    "job_id": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
     "section": "Data Science & AI"
   }
 ]
