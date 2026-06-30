@@ -1,10 +1,18 @@
 [
   {
-    "employer_name": "1Password",
-    "job_title": "Security Engineer Intern, Application",
-    "job_location": "Remote (United St",
-    "job_apply_link": "https://jobs.ashbyhq.com/1password/9dfa1569-e882-4ac4-a0e8-ec6e899aa8ee/application",
-    "job_id": "https://jobs.ashbyhq.com/1password/9dfa1569-e882-4ac4-a0e8-ec6e899aa8ee/application",
+    "employer_name": "D. E. Shaw",
+    "job_title": "Systems Engineering Intern (New York)",
+    "job_location": "New York",
+    "job_apply_link": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
+    "job_id": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "D. E. Shaw",
+    "job_title": "Systems Administrator Intern (New York)",
+    "job_location": "New York",
+    "job_apply_link": "https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921",
+    "job_id": "https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921",
     "section": "Software Engineering"
   },
   {
@@ -21,22 +29,6 @@
     "job_location": "Remote, Washingto",
     "job_apply_link": "https://unity.com/careers/positions/7947295?gh_jid=7947295",
     "job_id": "https://unity.com/careers/positions/7947295?gh_jid=7947295",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Phia",
-    "job_title": "Full Stack Engineer Intern",
-    "job_location": "New York City",
-    "job_apply_link": "https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162/application",
-    "job_id": "https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162/application",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "LiveRamp",
-    "job_title": "CO-Op, Software Engineer - Pixel Serving",
-    "job_location": "New York",
-    "job_apply_link": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
-    "job_id": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201",
     "section": "Software Engineering"
   },
   {
@@ -80,27 +72,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Anterior",
-    "job_title": "Clinical AI Intern",
-    "job_location": "New York",
-    "job_apply_link": "https://jobs.ashbyhq.com/anterior/550c48f9-eb2e-4d5e-80ff-8db076b4e52d/application",
-    "job_id": "https://jobs.ashbyhq.com/anterior/550c48f9-eb2e-4d5e-80ff-8db076b4e52d/application",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "FOX",
     "job_title": "Fall 2026 FOX News Media Internship P",
     "job_location": "New York, New Yor",
     "job_apply_link": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50032616-1",
     "job_id": "https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Fall-2026-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50032616-1",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "CrowdStrike",
-    "job_title": "GenAI Engineering Intern  - SkillBrid",
-    "job_location": "Remote",
-    "job_apply_link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/GenAI-Engineering-Intern----SkillBridge--Remote-_R26742",
-    "job_id": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/GenAI-Engineering-Intern----SkillBridge--Remote-_R26742",
     "section": "Data Science & AI"
   },
   {
