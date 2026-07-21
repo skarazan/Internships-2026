@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Virtu Financial",
+    "job_title": "Internship - Software Engineer",
+    "job_location": "Austin, TX; New York",
+    "job_apply_link": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+    "job_id": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Five Rings",
     "job_title": "Summer Intern 2027 - Software Developer",
     "job_location": "New York",
@@ -48,19 +56,19 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Auctor",
-    "job_title": "Software Engineering Intern",
-    "job_location": "New York",
-    "job_apply_link": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application",
-    "job_id": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Doctors Without Borders",
     "job_title": "Data Science Intern",
     "job_location": "New York, New Yor",
     "job_apply_link": "https://job-boards.greenhouse.io/msfcareers/jobs/5271141008",
     "job_id": "https://job-boards.greenhouse.io/msfcareers/jobs/5271141008",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Ardian",
+    "job_title": "Data Scientist Intern",
+    "job_location": "New York",
+    "job_apply_link": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
+    "job_id": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
     "section": "Data Science & AI"
   },
   {
@@ -80,11 +88,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Ardian",
-    "job_title": "Data Scientist Intern",
-    "job_location": "New York",
-    "job_apply_link": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
-    "job_id": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
+    "employer_name": "Campbell Soup Company",
+    "job_title": "Business Analyst (Co-op), DA&AI",
+    "job_location": "Remote",
+    "job_apply_link": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
+    "job_id": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
     "section": "Data Science & AI"
   },
   {
