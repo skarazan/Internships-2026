@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Motorola Solutions",
+    "job_title": "Systems Engineer (CO-OP Program)",
+    "job_location": "Texas Remote Work",
+    "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Texas-Remote-Work/Systems-Engineer--CO-OP-Program-_R66970",
+    "job_id": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Texas-Remote-Work/Systems-Engineer--CO-OP-Program-_R66970",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "D. E. Shaw",
     "job_title": "Software Developer Intern (New York)",
     "job_location": "New York",
@@ -53,22 +61,6 @@
     "job_location": "Remote / Home",
     "job_apply_link": "https://job-boards.greenhouse.io/iherb/jobs/7776154003",
     "job_id": "https://job-boards.greenhouse.io/iherb/jobs/7776154003",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Auctor",
-    "job_title": "Software Engineering Intern",
-    "job_location": "New York",
-    "job_apply_link": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application",
-    "job_id": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Eulerity",
-    "job_title": "Android Developer Intern",
-    "job_location": "New York, New York",
-    "job_apply_link": "https://job-boards.greenhouse.io/eulerity/jobs/4671031006",
-    "job_id": "https://job-boards.greenhouse.io/eulerity/jobs/4671031006",
     "section": "Software Engineering"
   },
   {
