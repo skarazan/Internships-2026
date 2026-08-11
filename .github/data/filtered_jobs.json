@@ -1,10 +1,10 @@
 [
   {
-    "employer_name": "GlobalFoundries",
-    "job_title": "Factory Automation Engineering Intern",
-    "job_location": "New York",
-    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358",
-    "job_id": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358",
+    "employer_name": "Palantir",
+    "job_title": "Year at Palantir - Forward Deployed S",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "job_id": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
     "section": "Software Engineering"
   },
   {
@@ -106,9 +106,17 @@
   {
     "employer_name": "Doctors Without Borders",
     "job_title": "Data Science Intern",
-    "job_location": "New York, New Yor",
+    "job_location": "New York, New York, Un",
     "job_apply_link": "https://job-boards.greenhouse.io/msfcareers/jobs/5271141008",
     "job_id": "https://job-boards.greenhouse.io/msfcareers/jobs/5271141008",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Cresta",
+    "job_title": "Data Science Intern (Customer Success)",
+    "job_location": "United States (Remote)",
+    "job_apply_link": "https://job-boards.greenhouse.io/cresta/jobs/5213417008",
+    "job_id": "https://job-boards.greenhouse.io/cresta/jobs/5213417008",
     "section": "Data Science & AI"
   }
 ]
