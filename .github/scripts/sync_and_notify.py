@@ -29,6 +29,23 @@ NON_US_KEYWORDS = ("uk", "united kingdom", "london", "england", "scotland",
                    "ireland", "canada", "india", "europe", "germany", "munich",
                    "toronto", "chennai", "hyderabad", "telangana", "tamil nadu")
 
+def build_chunks(lines, header="@everyone", limit=1900):
+    """Pack listing blocks into Discord-sized messages without splitting a listing."""
+    chunks = []
+    current = header
+    for line in lines:
+        block = line if len(line) <= limit else line[:limit - 1] + "…"
+        candidate = f"{current}\n\n{block}" if current else block
+        if len(candidate) > limit:
+            chunks.append(current)
+            current = block
+        else:
+            current = candidate
+    if current:
+        chunks.append(current)
+    return chunks
+
+
 def clean(s):
     return s.replace("...", "").strip()
 
@@ -129,18 +146,15 @@ if __name__ == "__main__":
         with open(NOTIFIED_PATH, "w") as f:
             json.dump(sorted(notified), f)
 
-        MAX_SHOW = 5
         lines = []
-        for e in deduped[:MAX_SHOW]:
+        for e in deduped:
             loc = e["job_location"]
             url = e["job_apply_link"]
             lines.append(f"🆕 **{e['employer_name']}** — {e['job_title']}\n📍 {loc}\n🔗 <{url}>")
-        extra = len(deduped) - len(lines)
-        if extra > 0:
-            lines.append(f"...and **{extra} more** — check the README")
-        message = "@everyone\n\n" + "\n\n".join(lines)
-        with open(".github/scripts/discord_message.txt", "w") as f:
-            f.write(message)
+        chunks = build_chunks(lines)
+        print(f"Posting {len(lines)} listings across {len(chunks)} Discord message(s)")
+        with open(".github/scripts/discord_chunks.json", "w") as f:
+            json.dump(chunks, f)
         with open(output_file, "a") as f:
             f.write("has_changes=true\n")
     else:
