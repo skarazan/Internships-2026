@@ -1,5 +1,85 @@
 [
   {
+    "employer_name": "Palantir",
+    "job_title": "Year at Palantir - Forward Deployed S",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "job_id": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Palantir",
+    "job_title": "Year at Palantir - Software Engineer,",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "job_id": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Rilla",
+    "job_title": "Software Engineering Intern - 2027 Gr",
+    "job_location": "New York City",
+    "job_apply_link": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
+    "job_id": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Ramp",
+    "job_title": "Software Engineer Internship, Android",
+    "job_location": "New York, NY (",
+    "job_apply_link": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
+    "job_id": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "N1",
+    "job_title": "Software Engineer Intern (Fullstack)",
+    "job_location": "New York City",
+    "job_apply_link": "https://jobs.ashbyhq.com/N1/298585c3-96b1-4728-8d37-31482f85a064",
+    "job_id": "https://jobs.ashbyhq.com/N1/298585c3-96b1-4728-8d37-31482f85a064",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Ellipsis Labs",
+    "job_title": "Software Engineer - 2027 Interns",
+    "job_location": "New York, New York",
+    "job_apply_link": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849",
+    "job_id": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Auctor",
+    "job_title": "Software Engineering Intern",
+    "job_location": "New York",
+    "job_apply_link": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607",
+    "job_id": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Sony",
+    "job_title": "Intern, Information Security Risk and",
+    "job_location": "New York",
+    "job_apply_link": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512",
+    "job_id": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "N1",
+    "job_title": "Software Engineer Intern (Backend, Rust)",
+    "job_location": "New York City",
+    "job_apply_link": "https://jobs.ashbyhq.com/N1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
+    "job_id": "https://jobs.ashbyhq.com/N1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "GardaWorld",
+    "job_title": "Software Engineer Intern",
+    "job_location": "New York, New York, Un",
+    "job_apply_link": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+    "job_id": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "KeyBank",
     "job_title": "2027 Summer Key Technology & Services",
     "job_location": "Brooklyn, OH",
@@ -8,59 +88,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Palantir",
-    "job_title": "Year at Palantir - Forward Deployed S",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
-    "job_id": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "GlobalFoundries",
     "job_title": "Factory Automation Engineering Intern",
     "job_location": "New York",
     "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358",
     "job_id": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "D. E. Shaw",
-    "job_title": "Software Developer Intern (New York)",
-    "job_location": "New York",
-    "job_apply_link": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
-    "job_id": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "D. E. Shaw",
-    "job_title": "Systems Administrator Intern (New York)",
-    "job_location": "New York",
-    "job_apply_link": "https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921",
-    "job_id": "https://www.deshaw.com/careers/systems-administrator-intern-new-york-5921",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Virtu Financial",
-    "job_title": "2027 Internship - Frontend Engineer (UI)",
-    "job_location": "New York",
-    "job_apply_link": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
-    "job_id": "https://job-boards.greenhouse.io/virtu/jobs/8657500002",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "PDT Partners",
-    "job_title": "Summer 2027 Systems Engineering Intern",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
-    "job_id": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "PDT Partners",
-    "job_title": "Summer 2027 Software Engineering Intern",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
-    "job_id": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685",
     "section": "Software Engineering"
   },
   {
@@ -77,6 +109,14 @@
     "job_location": "New York, NY",
     "job_apply_link": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153",
     "job_id": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Research--Analytics---Strategy-Internships--NYC---Fall-2026_R000107153",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Ardian",
+    "job_title": "Data Scientist Intern",
+    "job_location": "New York",
+    "job_apply_link": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
+    "job_id": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
     "section": "Data Science & AI"
   },
   {
@@ -101,14 +141,6 @@
     "job_location": "Remote",
     "job_apply_link": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
     "job_id": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Ardian",
-    "job_title": "Data Scientist Intern",
-    "job_location": "New York",
-    "job_apply_link": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
-    "job_id": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
     "section": "Data Science & AI"
   },
   {
