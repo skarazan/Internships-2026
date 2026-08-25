@@ -1,18 +1,18 @@
 [
   {
-    "employer_name": "Palantir",
-    "job_title": "Software Engineer, Internship",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
-    "job_id": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Deepgram",
     "job_title": "Software Engineering- Internship (Fal",
     "job_location": "USA  Remote",
     "job_apply_link": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
     "job_id": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Palantir",
+    "job_title": "Software Engineer, Internship",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "job_id": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
     "section": "Software Engineering"
   },
   {
@@ -56,6 +56,14 @@
     "section": "Software Engineering"
   },
   {
+    "employer_name": "GlobalFoundries",
+    "job_title": "Cybersecurity Intern (Summer 2027)",
+    "job_location": "New York",
+    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
+    "job_id": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Sony",
     "job_title": "Intern, Information Security Risk and",
     "job_location": "New York",
@@ -93,14 +101,6 @@
     "job_location": "New York",
     "job_apply_link": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
     "job_id": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Audax Group",
-    "job_title": "Data Engineer Co-Op",
-    "job_location": "New York, New York, Un",
-    "job_apply_link": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005",
-    "job_id": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005",
     "section": "Data Science & AI"
   },
   {
