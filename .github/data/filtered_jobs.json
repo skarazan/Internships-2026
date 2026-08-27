@@ -48,6 +48,14 @@
     "section": "Software Engineering"
   },
   {
+    "employer_name": "Leidos",
+    "job_title": "Software Engineering & AI Intern",
+    "job_location": "6314 RemoteTeleworker US",
+    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648",
+    "job_id": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "GlobalFoundries",
     "job_title": "Cybersecurity Intern (Summer 2027)",
     "job_location": "New York",
@@ -72,30 +80,6 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "N1",
-    "job_title": "Software Engineer Intern (Backend, Rust)",
-    "job_location": "New York City",
-    "job_apply_link": "https://jobs.ashbyhq.com/N1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
-    "job_id": "https://jobs.ashbyhq.com/N1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "GardaWorld",
-    "job_title": "Software Engineer Intern",
-    "job_location": "New York, New York, Un",
-    "job_apply_link": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
-    "job_id": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "KeyBank",
-    "job_title": "2027 Summer Key Technology & Services",
-    "job_location": "Brooklyn, OH",
-    "job_apply_link": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
-    "job_id": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Modal",
     "job_title": "ML Research Intern",
     "job_location": "New York",
@@ -109,6 +93,14 @@
     "job_location": "New York, NY, USA",
     "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500",
     "job_id": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Ardian",
+    "job_title": "Data Scientist Intern",
+    "job_location": "New York",
+    "job_apply_link": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
+    "job_id": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
     "section": "Data Science & AI"
   },
   {
@@ -133,14 +125,6 @@
     "job_location": "Remote",
     "job_apply_link": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
     "job_id": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Ardian",
-    "job_title": "Data Scientist Intern",
-    "job_location": "New York",
-    "job_apply_link": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
-    "job_id": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
     "section": "Data Science & AI"
   },
   {
