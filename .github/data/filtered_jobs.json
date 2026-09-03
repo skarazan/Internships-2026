@@ -1,5 +1,21 @@
 [
   {
+    "employer_name": "Palantir",
+    "job_title": "Year at Palantir - Forward Deployed S",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "job_id": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Palantir",
+    "job_title": "Year at Palantir - Forward Deployed S",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "job_id": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Rilla",
     "job_title": "Software Engineering Intern - 2027 Gr",
     "job_location": "New York City",
@@ -24,11 +40,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Palantir",
-    "job_title": "Year at Palantir - Forward Deployed S",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
-    "job_id": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "employer_name": "N1",
+    "job_title": "Software Engineer Intern (Backend, Rust)",
+    "job_location": "New York City",
+    "job_apply_link": "https://jobs.ashbyhq.com/N1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
+    "job_id": "https://jobs.ashbyhq.com/N1/afe7deb5-9cfd-4926-bcb4-058d418592a6",
     "section": "Software Engineering"
   },
   {
@@ -48,6 +64,14 @@
     "section": "Software Engineering"
   },
   {
+    "employer_name": "GlobalFoundries",
+    "job_title": "RF Technology Development Automation",
+    "job_location": "USA - New York - Malta",
+    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/RF-Technology-Development-Automation-Engineering-Intern--Summer-2027-_JR-2604272",
+    "job_id": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/RF-Technology-Development-Automation-Engineering-Intern--Summer-2027-_JR-2604272",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Brunswick",
     "job_title": "Quality Engineering Intern",
     "job_location": "New York Mills, MN",
@@ -61,30 +85,6 @@
     "job_location": "New York, New York",
     "job_apply_link": "https://job-boards.greenhouse.io/eulerity/jobs/4709040006",
     "job_id": "https://job-boards.greenhouse.io/eulerity/jobs/4709040006",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Stripe",
-    "job_title": "Software Engineer, Intern (Summer or",
-    "job_location": "San Francisco, Seattle, New York",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=8128745",
-    "job_id": "https://stripe.com/jobs/search?gh_jid=8128745",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Parsons",
-    "job_title": "Software Developer Intern - Fall 2026",
-    "job_location": "Remote (Any Location), R185565",
-    "job_apply_link": "https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Software-Developer-Intern_R185565",
-    "job_id": "https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Software-Developer-Intern_R185565",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Leidos",
-    "job_title": "SharePoint & Systems Engineering Intern",
-    "job_location": "6314 Remote/Teleworker US",
-    "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982",
-    "job_id": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982",
     "section": "Software Engineering"
   },
   {
