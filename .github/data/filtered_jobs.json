@@ -8,27 +8,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Palantir",
-    "job_title": "Year at Palantir - Forward Deployed S",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
-    "job_id": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Rilla",
     "job_title": "Software Engineering Intern - 2027 Gr",
     "job_location": "New York City",
     "job_apply_link": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
     "job_id": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Ramp",
-    "job_title": "Software Engineer Internship, Android",
-    "job_location": "New York, NY (",
-    "job_apply_link": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
-    "job_id": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
     "section": "Software Engineering"
   },
   {
@@ -64,6 +48,30 @@
     "section": "Software Engineering"
   },
   {
+    "employer_name": "KeyBank",
+    "job_title": "2027 Summer Key Technology & Services",
+    "job_location": "Brooklyn, OH",
+    "job_apply_link": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
+    "job_id": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Schonfeld",
+    "job_title": "2027 Cybersecurity Operations Intern",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
+    "job_id": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Schonfeld",
+    "job_title": "2027 Software Engineering Intern",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
+    "job_id": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "GlobalFoundries",
     "job_title": "RF Technology Development Automation",
     "job_location": "USA - New York - Malta",
@@ -80,19 +88,27 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Eulerity",
-    "job_title": "Backend Developer Intern",
-    "job_location": "New York, New York",
-    "job_apply_link": "https://job-boards.greenhouse.io/eulerity/jobs/4709040006",
-    "job_id": "https://job-boards.greenhouse.io/eulerity/jobs/4709040006",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Modal",
     "job_title": "ML Research Intern",
     "job_location": "New York",
     "job_apply_link": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
     "job_id": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Schonfeld",
+    "job_title": "2027 Data Science Intern",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
+    "job_id": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Schonfeld",
+    "job_title": "2027 Business Analytics Intern",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
+    "job_id": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
     "section": "Data Science & AI"
   },
   {
