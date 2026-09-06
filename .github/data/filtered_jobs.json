@@ -1,10 +1,18 @@
 [
   {
     "employer_name": "Palantir",
-    "job_title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "job_title": "Year at Palantir - Software Engineer, Internship",
     "job_location": "New York, NY",
-    "job_apply_link": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
-    "job_id": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "job_apply_link": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "job_id": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Palantir",
+    "job_title": "Software Engineer, Internship",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "job_id": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
     "section": "Software Engineering"
   },
   {
@@ -56,14 +64,6 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "KeyBank",
-    "job_title": "2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland",
-    "job_location": "Brooklyn, OH",
-    "job_apply_link": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
-    "job_id": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Schonfeld",
     "job_title": "2027 Cybersecurity Operations Intern",
     "job_location": "New York, New York, United States",
@@ -77,6 +77,14 @@
     "job_location": "New York, New York, United States",
     "job_apply_link": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
     "job_id": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "KeyBank",
+    "job_title": "2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland",
+    "job_location": "Brooklyn, OH",
+    "job_apply_link": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
+    "job_id": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
     "section": "Software Engineering"
   },
   {
