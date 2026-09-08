@@ -1,18 +1,18 @@
 [
   {
     "employer_name": "Palantir",
-    "job_title": "Year at Palantir - Software Engineer, Internship",
+    "job_title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
     "job_location": "New York, NY",
-    "job_apply_link": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
-    "job_id": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "job_apply_link": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "job_id": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
     "section": "Software Engineering"
   },
   {
     "employer_name": "Palantir",
-    "job_title": "Software Engineer, Internship",
+    "job_title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
     "job_location": "New York, NY",
-    "job_apply_link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
-    "job_id": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "job_apply_link": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
+    "job_id": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333",
     "section": "Software Engineering"
   },
   {
@@ -112,6 +112,14 @@
     "section": "Data Science & AI"
   },
   {
+    "employer_name": "Capital One",
+    "job_title": "Current Master's, AI Engineering Internship Program - Summer 2027",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1",
+    "job_id": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1",
+    "section": "Data Science & AI"
+  },
+  {
     "employer_name": "Schonfeld",
     "job_title": "2027 Data Science Intern",
     "job_location": "New York, New York, United States",
@@ -149,14 +157,6 @@
     "job_location": "USA - Remote",
     "job_apply_link": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1",
     "job_id": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Disney",
-    "job_title": "ABC News Insights and Analytics Intern, Spring 2027",
-    "job_location": "New York, NY, USA",
-    "job_apply_link": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500",
-    "job_id": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/ABC-News-Insights-and-Analytics-Intern--Spring-2027_10158500",
     "section": "Data Science & AI"
   }
 ]
