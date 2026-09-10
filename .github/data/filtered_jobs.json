@@ -1,18 +1,18 @@
 [
   {
-    "employer_name": "Palantir",
-    "job_title": "Software Engineer, Internship",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
-    "job_id": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Rilla",
     "job_title": "Software Engineering Intern - 2027 Graduates",
     "job_location": "New York City",
     "job_apply_link": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
     "job_id": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Palantir",
+    "job_title": "Software Engineer, Internship - Production Infrastructure",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
+    "job_id": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116",
     "section": "Software Engineering"
   },
   {
@@ -45,46 +45,6 @@
     "job_location": "New York",
     "job_apply_link": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607",
     "job_id": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Talos Trading",
-    "job_title": "Software Engineer Intern, RFQ",
-    "job_location": "New York",
-    "job_apply_link": "https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285",
-    "job_id": "https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "ONE Finance",
-    "job_title": "Software Engineer, Intern",
-    "job_location": "United States (Remote)",
-    "job_apply_link": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770",
-    "job_id": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Talos Trading",
-    "job_title": "Software Engineer Intern, Dealer",
-    "job_location": "New York",
-    "job_apply_link": "https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
-    "job_id": "https://jobs.ashbyhq.com/talos-trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Dropbox",
-    "job_title": "Software Engineering Intern (Summer 2027)",
-    "job_location": "Remote - US: All locations",
-    "job_apply_link": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
-    "job_id": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "KeyBank",
-    "job_title": "2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland",
-    "job_location": "Brooklyn, OH",
-    "job_apply_link": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
-    "job_id": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
     "section": "Software Engineering"
   },
   {
