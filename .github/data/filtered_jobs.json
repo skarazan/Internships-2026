@@ -1,10 +1,10 @@
 [
   {
     "employer_name": "Palantir",
-    "job_title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "job_title": "Software Engineer, Internship",
     "job_location": "New York, NY",
-    "job_apply_link": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
-    "job_id": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
+    "job_apply_link": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "job_id": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
     "section": "Software Engineering"
   },
   {
@@ -48,19 +48,19 @@
     "section": "Software Engineering"
   },
   {
+    "employer_name": "Thomson Reuters",
+    "job_title": "Software Engineer Co-Op",
+    "job_location": "Rochester New York",
+    "job_apply_link": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587",
+    "job_id": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Rochester-New-York/Software-Engineer-Co-Op_JREQ203587",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Schonfeld",
     "job_title": "2027 Platform Engineering Intern",
     "job_location": "New York, New York, United States",
     "job_apply_link": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
     "job_id": "https://job-boards.greenhouse.io/schonfeld/jobs/8171699",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Talos Trading",
-    "job_title": "Software Engineer Intern, RFQ",
-    "job_location": "New York",
-    "job_apply_link": "https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285",
-    "job_id": "https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285",
     "section": "Software Engineering"
   },
   {
@@ -72,19 +72,19 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Coinbase",
-    "job_title": "People Analytics Intern",
-    "job_location": "Hybrid - New York, NY",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
-    "job_id": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Capital One",
     "job_title": "Current Master's, AI Engineering Internship Program - Summer 2027",
     "job_location": "New York, NY",
     "job_apply_link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1",
     "job_id": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Coinbase",
+    "job_title": "People Analytics Intern",
+    "job_location": "Hybrid - New York, NY",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
+    "job_id": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
     "section": "Data Science & AI"
   },
   {
@@ -101,14 +101,6 @@
     "job_location": "New York, New York, United States",
     "job_apply_link": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
     "job_id": "https://job-boards.greenhouse.io/schonfeld/jobs/8171703",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Workiva",
-    "job_title": "Spring & Summer Intern - Sales Analytics",
-    "job_location": "USA - Remote",
-    "job_apply_link": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-Intern---Sales-Analytics_R12356",
-    "job_id": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-Intern---Sales-Analytics_R12356",
     "section": "Data Science & AI"
   }
 ]
