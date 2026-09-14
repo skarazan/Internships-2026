@@ -16,11 +16,27 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
-    "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55293?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55293?s=gh-internships-2027",
+    "employer_name": "Wex",
+    "job_title": "Fullstack Software Engineer Intern (Undergraduate)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22593?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22593?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Wex",
+    "job_title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22589?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22589?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Wex",
+    "job_title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22586?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22586?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -72,27 +88,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Wex",
-    "job_title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22584?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22584?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Wex",
-    "job_title": "Backend Software Engineer Intern - Java & AI (Master\u2019s)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22547?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22547?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Wex",
-    "job_title": "Software Engineer Intern \u2013 AI & Cloud (Graduate/Master\u2019s)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22546?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22546?s=gh-internships-2027",
+    "employer_name": "Dow Jones",
+    "job_title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
+    "job_location": "NYC",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55293?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55293?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -101,14 +101,6 @@
     "job_location": "San Francisco, CA \u2022 New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6143238004?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6143238004?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Lyft",
-    "job_title": "Software Engineer Intern, Fullstack (Summer 2027)",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-lyft-8797837002?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-lyft-8797837002?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -136,6 +128,14 @@
     "section": "Data Science & AI"
   },
   {
+    "employer_name": "Modal",
+    "job_title": "ML Research Intern",
+    "job_location": "New York",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-modal-38888294-6bc7-4dab-b072-6d0f0c2ed79a?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-modal-38888294-6bc7-4dab-b072-6d0f0c2ed79a?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
     "employer_name": "Dow Jones",
     "job_title": "Summer 2027 Internship Program - Marketing Data Science Intern",
     "job_location": "NYC",
@@ -152,14 +152,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Modal",
-    "job_title": "ML Research Intern",
-    "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-modal-38888294-6bc7-4dab-b072-6d0f0c2ed79a?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-modal-38888294-6bc7-4dab-b072-6d0f0c2ed79a?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Figma",
     "job_title": "Data Science Intern (2027)",
     "job_location": "San Francisco, CA \u2022 New York, NY",
@@ -168,19 +160,19 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Lyft",
-    "job_title": "Data Analyst Intern (Summer 2027)",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-lyft-8802198002?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-lyft-8802198002?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "LabCorp",
     "job_title": "Intern \u2013 Financial Analytics & Technology",
     "job_location": "Remote_United States",
     "job_apply_link": "https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Lyft",
+    "job_title": "Data Analyst Intern (Summer 2027)",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-lyft-8802198002?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-lyft-8802198002?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
