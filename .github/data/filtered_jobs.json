@@ -1,18 +1,42 @@
 [
   {
+    "employer_name": "Amgen",
+    "job_title": "Grad Intern \u2013 Software Engineer \u2013 Technology, AI & Data (Summer 2027)",
+    "job_location": "United States - Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255745?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255745?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Amgen",
+    "job_title": "Undergrad Intern \u2013 Software Engineer \u2013 Technology, AI & Data (Summer 2027)",
+    "job_location": "United States - Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255719?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255719?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Dow Jones",
+    "job_title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
+    "job_location": "NYC",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55293?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55293?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Palantir",
+    "job_title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/lever-palantir-e6789b17-62fb-4226-a079-f8c17ff19e2d?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/lever-palantir-e6789b17-62fb-4226-a079-f8c17ff19e2d?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Rilla",
     "job_title": "Software Engineering Intern - 2027 Graduates",
     "job_location": "New York City",
     "job_apply_link": "https://zapply.jobs/l/d/ashby-rilla-123a6a38-c7f9-4378-b00d-c6ae54688bd5?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/ashby-rilla-123a6a38-c7f9-4378-b00d-c6ae54688bd5?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Palantir",
-    "job_title": "Software Engineer, Internship - Infrastructure",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/lever-palantir-b229baac-494b-4a0d-9a13-2e38806e06f3?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/lever-palantir-b229baac-494b-4a0d-9a13-2e38806e06f3?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -48,19 +72,35 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Amgen",
-    "job_title": "Grad Intern \u2013 Software Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
-    "job_location": "United States - Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255745?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255745?s=gh-internships-2027",
+    "employer_name": "Wex",
+    "job_title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22584?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22584?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Amgen",
-    "job_title": "Undergrad Intern \u2013 Software Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
-    "job_location": "United States - Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255719?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255719?s=gh-internships-2027",
+    "employer_name": "Wex",
+    "job_title": "Backend Software Engineer Intern - Java & AI (Master\u2019s)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22547?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22547?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Wex",
+    "job_title": "Software Engineer Intern \u2013 AI & Cloud (Graduate/Master\u2019s)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22546?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22546?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Figma",
+    "job_title": "Software Engineer Intern (Summer 2027)",
+    "job_location": "San Francisco, CA \u2022 New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6143238004?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6143238004?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -72,19 +112,43 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Thomson Reuters",
-    "job_title": "Software Engineer Co-Op",
-    "job_location": "Rochester New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-Rochester?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-Rochester?s=gh-internships-2027",
-    "section": "Software Engineering"
+    "employer_name": "Amgen",
+    "job_title": "Undergrad Intern \u2013 Machine Learning Engineer \u2013 Technology, AI & Data (Summer 2027)",
+    "job_location": "United States - Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255709?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255709?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
-    "employer_name": "LabCorp",
-    "job_title": "Intern \u2013 Financial Analytics & Technology",
-    "job_location": "Remote_United States",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027",
+    "employer_name": "Amgen",
+    "job_title": "Undergrad Intern \u2013 Data Scientist \u2013 Technology, AI & Data (Summer 2027)",
+    "job_location": "United States - Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255704?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255704?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Amgen",
+    "job_title": "Grad Intern \u2013 Data Scientist \u2013 Technology, AI & Data (Summer 2027)",
+    "job_location": "United States - Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Dow Jones",
+    "job_title": "Summer 2027 Internship Program - Marketing Data Science Intern",
+    "job_location": "NYC",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55295?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55295?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Dow Jones",
+    "job_title": "Summer 2027 Internship Program \u2013 Data Analyst Intern",
+    "job_location": "NYC",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55294?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55294?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -96,27 +160,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Amgen",
-    "job_title": "Undergrad Intern \u2013 Machine Learning Engineer \u2013 Amgen\u2019s Technology & Medical Organizations",
-    "job_location": "United States - Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255709?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255709?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Amgen",
-    "job_title": "Undergrad Intern \u2013 Data Engineer \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
-    "job_location": "United States - Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255708?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255708?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Amgen",
-    "job_title": "Undergrad Intern \u2013 Data Scientist \u2013 Amgen\u2019s Technology & Medical Organizations (Summer 2027)",
-    "job_location": "United States - Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255704?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255704?s=gh-internships-2027",
+    "employer_name": "Figma",
+    "job_title": "Data Science Intern (2027)",
+    "job_location": "San Francisco, CA \u2022 New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -125,6 +173,14 @@
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-lyft-8802198002?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-lyft-8802198002?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "LabCorp",
+    "job_title": "Intern \u2013 Financial Analytics & Technology",
+    "job_location": "Remote_United States",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -149,22 +205,6 @@
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/workday-capitalone-capital-one-R249109?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-capitalone-capital-one-R249109?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Schonfeld",
-    "job_title": "2027 Data Science Intern",
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-schonfeld-8171692?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-schonfeld-8171692?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Schonfeld",
-    "job_title": "2027 Business Analytics Intern",
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-schonfeld-8171703?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-schonfeld-8171703?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
