@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Tower Research Capital",
+    "job_title": "Software Engineer Intern (Summer 2027)",
+    "job_location": "New York",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-towerresearchcapital-8212158?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-towerresearchcapital-8212158?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Kitware",
     "job_title": "Software Developer Internship",
     "job_location": "Clifton Park, New York",
@@ -48,30 +56,6 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Wex",
-    "job_title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22584?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22584?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Wex",
-    "job_title": "Backend Software Engineer Intern - Java & AI (Master\u2019s)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22547?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22547?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Wex",
-    "job_title": "Software Engineer Intern \u2013 AI & Cloud (Graduate/Master\u2019s)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22546?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22546?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Amgen",
     "job_title": "Grad Intern \u2013 Software Engineer \u2013 Technology, AI & Data (Summer 2027)",
     "job_location": "United States - Remote",
@@ -85,14 +69,6 @@
     "job_location": "United States - Remote",
     "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255719?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255719?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Figma",
-    "job_title": "Software Engineer Intern (Summer 2027)",
-    "job_location": "San Francisco, CA \u2022 New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6143238004?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6143238004?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -144,14 +120,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Wex",
-    "job_title": "Data & AI Intern (Graduate/Master\u2019s)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Amgen",
     "job_title": "Undergrad Intern \u2013 Machine Learning Engineer \u2013 Technology, AI & Data (Summer 2027)",
     "job_location": "United States - Remote",
@@ -173,6 +141,14 @@
     "job_location": "United States - Remote",
     "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Wex",
+    "job_title": "Data & AI Intern (Graduate/Master\u2019s)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -201,26 +177,10 @@
   },
   {
     "employer_name": "Lyft",
-    "job_title": "Data Science Intern, Algorithms (Summer 2027)",
+    "job_title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-lyft-8796124002?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-lyft-8796124002?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Coinbase",
-    "job_title": "People Analytics Intern",
-    "job_location": "Hybrid - New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-coinbase-8175517?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-coinbase-8175517?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Capital One",
-    "job_title": "Current Master's, AI Engineering Internship Program - Summer 2027",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-capitalone-capital-one-R249109?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-capitalone-capital-one-R249109?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
