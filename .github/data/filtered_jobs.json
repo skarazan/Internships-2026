@@ -1,5 +1,21 @@
 [
   {
+    "employer_name": "Assured Guaranty",
+    "job_title": "Product Software Developer \u2013 Back-End - Summer 2027",
+    "job_location": "New York, NY, United States",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-assuredguaranty-8827458002?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-assuredguaranty-8827458002?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Assured Guaranty",
+    "job_title": "Product Software Developer \u2013 Front-End - Summer 2027",
+    "job_location": "New York, NY, United States",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-assuredguaranty-8827460002?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-assuredguaranty-8827460002?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Mercury",
     "job_title": "Software Engineering Intern - Spring 2027",
     "job_location": "San Francisco, CA, New York,",
@@ -29,22 +45,6 @@
     "job_location": "New York City",
     "job_apply_link": "https://zapply.jobs/l/d/ashby-gecko-robotics-01138338-ff3c-4982-8ba3-5401386bf082?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/ashby-gecko-robotics-01138338-ff3c-4982-8ba3-5401386bf082?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Rilla",
-    "job_title": "Software Engineering Intern, 2028 Grads",
-    "job_location": "New York City",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-rilla-0e111ca4-3837-43d2-8507-6030a0dc32d9?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-rilla-0e111ca4-3837-43d2-8507-6030a0dc32d9?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Duolingo",
-    "job_title": "Software Engineer, Intern",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-duolingo-8805925002?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-duolingo-8805925002?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -80,14 +80,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Figma",
-    "job_title": "Data Science Intern (2027)",
-    "job_location": "San Francisco, CA \u2022 New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Amgen",
     "job_title": "Undergrad Intern \u2013 Machine Learning Engineer \u2013 Technology, AI & Data (Summer 2027)",
     "job_location": "United States - Remote",
@@ -109,6 +101,14 @@
     "job_location": "United States - Remote",
     "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Figma",
+    "job_title": "Data Science Intern (2027)",
+    "job_location": "San Francisco, CA \u2022 New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -144,19 +144,19 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Lyft",
-    "job_title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-lyft-8796124002?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-lyft-8796124002?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "LabCorp",
     "job_title": "Intern \u2013 Financial Analytics & Technology",
     "job_location": "Remote_United States",
     "job_apply_link": "https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Lyft",
+    "job_title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-lyft-8796124002?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-lyft-8796124002?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
