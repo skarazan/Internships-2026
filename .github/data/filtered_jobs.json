@@ -40,12 +40,12 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "LSEG",
-    "job_title": "Business Analyst Summer Internship",
-    "job_location": "New York City, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-lseg-careers-R0123463?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-lseg-careers-R0123463?s=gh-internships-2027",
-    "section": "Data Science & AI"
+    "employer_name": "Kitware",
+    "job_title": "Software Developer Internship",
+    "job_location": "Clifton Park, New York",
+    "job_apply_link": "https://zapply.jobs/l/d/lever-kitware-7b6ff8f9-34c6-4338-845d-4e1bbc142906?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/lever-kitware-7b6ff8f9-34c6-4338-845d-4e1bbc142906?s=gh-internships-2027",
+    "section": "Software Engineering"
   },
   {
     "employer_name": "Coinbase",
@@ -69,6 +69,14 @@
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-vikingglobalinvestors-6202755004?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-vikingglobalinvestors-6202755004?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "LSEG",
+    "job_title": "Business Analyst Summer Internship",
+    "job_location": "New York City, United States",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-lseg-careers-R0123463?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-lseg-careers-R0123463?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -96,27 +104,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program - Marketing Data Science Intern",
-    "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55295?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55295?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program \u2013 Data Analyst Intern",
-    "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55294?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55294?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Wex",
-    "job_title": "Data & AI Intern (Graduate/Master\u2019s)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
+    "employer_name": "Figma",
+    "job_title": "Data Science Intern (2027)",
+    "job_location": "San Francisco, CA \u2022 New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -144,11 +136,27 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Figma",
-    "job_title": "Data Science Intern (2027)",
-    "job_location": "San Francisco, CA \u2022 New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
+    "employer_name": "Dow Jones",
+    "job_title": "Summer 2027 Internship Program - Marketing Data Science Intern",
+    "job_location": "NYC",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55295?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55295?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Dow Jones",
+    "job_title": "Summer 2027 Internship Program \u2013 Data Analyst Intern",
+    "job_location": "NYC",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55294?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55294?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Wex",
+    "job_title": "Data & AI Intern (Graduate/Master\u2019s)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -165,6 +173,14 @@
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-lyft-8802198002?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-lyft-8802198002?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Lyft",
+    "job_title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-lyft-8796124002?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-lyft-8796124002?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
