@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Wex",
+    "job_title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22543?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22543?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Workiva",
     "job_title": "Summer 2027 Intern - Software Engineering",
     "job_location": "USA - Remote",
@@ -80,11 +88,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Figma",
-    "job_title": "Data Engineer Intern (2027)",
-    "job_location": "San Francisco, CA \u2022 New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178851004?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178851004?s=gh-internships-2027",
+    "employer_name": "Amgen",
+    "job_title": "Grad Intern \u2013 Data Scientist \u2013 Technology, AI & Data (Summer 2027)",
+    "job_location": "United States - Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -96,11 +104,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Amgen",
-    "job_title": "Grad Intern \u2013 Data Scientist \u2013 Technology, AI & Data (Summer 2027)",
-    "job_location": "United States - Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-255722?s=gh-internships-2027",
+    "employer_name": "Figma",
+    "job_title": "Data Engineer Intern (2027)",
+    "job_location": "San Francisco, CA \u2022 New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178851004?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178851004?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -176,14 +184,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Figma",
-    "job_title": "Data Science Intern (2027)",
-    "job_location": "San Francisco, CA \u2022 New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Dow Jones",
     "job_title": "Summer 2027 Internship Program - Marketing Data Science Intern",
     "job_location": "NYC",
@@ -197,6 +197,14 @@
     "job_location": "NYC",
     "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55294?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55294?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Figma",
+    "job_title": "Data Science Intern (2027)",
+    "job_location": "San Francisco, CA \u2022 New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178857004?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
