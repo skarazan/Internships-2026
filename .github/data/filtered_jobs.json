@@ -1,18 +1,18 @@
 [
   {
-    "employer_name": "Wex",
-    "job_title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22543?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22543?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Workiva",
     "job_title": "Summer 2027 Intern - Software Engineering",
     "job_location": "USA - Remote",
     "job_apply_link": "https://zapply.jobs/l/d/workday-workiva-careers-R12190?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-workiva-careers-R12190?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Wex",
+    "job_title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22543?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22543?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -48,11 +48,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Biogen",
-    "job_title": "Co-op, Data Science & AI Innovation",
-    "job_location": "Remote, USA",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027",
+    "employer_name": "FOX",
+    "job_title": "Summer 2027 FOX News Media Internship Program - Data Analytics - New York",
+    "job_location": "New York, New York, USA",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-fox-domestic-R50033981?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-fox-domestic-R50033981?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -69,6 +69,14 @@
     "job_location": "New York, New York, USA",
     "job_apply_link": "https://zapply.jobs/l/d/workday-fox-domestic-R50033950?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-fox-domestic-R50033950?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Biogen",
+    "job_title": "Co-op, Data Science & AI Innovation",
+    "job_location": "Remote, USA",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -104,6 +112,14 @@
     "section": "Data Science & AI"
   },
   {
+    "employer_name": "LSEG",
+    "job_title": "Business Analyst Summer Internship",
+    "job_location": "New York City, United States",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-lseg-careers-R0123463?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-lseg-careers-R0123463?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
     "employer_name": "Coinbase",
     "job_title": "Internal Audit Analytics Intern",
     "job_location": "Hybrid - New York, NY",
@@ -117,14 +133,6 @@
     "job_location": "United States (Remote)",
     "job_apply_link": "https://zapply.jobs/l/d/ashby-oneapp-84beb108-c04b-42d3-a9ae-9a91210201b7?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/ashby-oneapp-84beb108-c04b-42d3-a9ae-9a91210201b7?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "LSEG",
-    "job_title": "Business Analyst Summer Internship",
-    "job_location": "New York City, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-lseg-careers-R0123463?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-lseg-careers-R0123463?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
