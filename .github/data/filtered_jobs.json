@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Dandy",
+    "job_title": "Summer 2027 Internship - Full Stack Software Engineering",
+    "job_location": "USA - New York NY",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "GlobalFoundries",
     "job_title": "Reliability Test Engineering Intern (Summer 2027)",
     "job_location": "USA - New York - Malta",
@@ -24,14 +32,6 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Wex",
-    "job_title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22543?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22543?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Workiva",
     "job_title": "Summer 2027 Intern - Software Engineering",
     "job_location": "USA - Remote",
@@ -40,43 +40,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Ramp",
-    "job_title": "Software Engineering Intern, iOS",
-    "job_location": "New York, NY (",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-ramp-b66be397-240b-41a6-9b05-493299b270a9?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-ramp-b66be397-240b-41a6-9b05-493299b270a9?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Ramp",
-    "job_title": "Software Engineering Intern, Android",
-    "job_location": "New York, NY (",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-ramp-fcf118cc-521a-4a62-9d13-945e5b6e3cb8?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-ramp-fcf118cc-521a-4a62-9d13-945e5b6e3cb8?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Ramp",
-    "job_title": "Software Engineer Internship, Frontend",
-    "job_location": "New York, NY (",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-ramp-a13ae586-f4cb-4385-8822-c42b9b54ed74?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-ramp-a13ae586-f4cb-4385-8822-c42b9b54ed74?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "SeatGeek",
-    "job_title": "Software Engineer - Internship",
-    "job_location": "New York, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-seatgeek-8227553?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-seatgeek-8227553?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "TransUnion",
-    "job_title": "Consulting Analytics - Argus Advisory Internship - Summer 2026",
-    "job_location": "White Plains New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-transunion-transunion-19042605?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-transunion-transunion-19042605?s=gh-internships-2027",
+    "employer_name": "LabCorp",
+    "job_title": "Intern \u2013 Financial Analytics & Technology",
+    "job_location": "Remote_United States",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-labcorp-external-2630761?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -120,14 +88,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Workiva",
-    "job_title": "Spring 2027 Intern - Data Analytics",
-    "job_location": "USA - Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-workiva-careers-R12319?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-workiva-careers-R12319?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Coinbase",
     "job_title": "Internal Audit Analytics Intern",
     "job_location": "Hybrid - New York, NY",
@@ -157,22 +117,6 @@
     "job_location": "New York City, United States",
     "job_apply_link": "https://zapply.jobs/l/d/workday-lseg-careers-R0123463?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-lseg-careers-R0123463?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Kitware",
-    "job_title": "AI Research Internship",
-    "job_location": "Clifton Park, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/lever-kitware-ff25a349-a362-45d2-b1e4-2487c1df4f75?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/lever-kitware-ff25a349-a362-45d2-b1e4-2487c1df4f75?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Gecko Robotics",
-    "job_title": "AI/Machine Learning Engineering Intern",
-    "job_location": "New York City",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-gecko-robotics-c097505b-0a28-4a33-a917-268f463641e8?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-gecko-robotics-c097505b-0a28-4a33-a917-268f463641e8?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
