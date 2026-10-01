@@ -1,7 +1,7 @@
 [
   {
     "employer_name": "Dandy",
-    "job_title": "Summer 2027 Internship - Full Stack Software Engineering",
+    "job_title": "Summer 2027 Internship - Software Engineering Intern",
     "job_location": "USA - New York NY",
     "job_apply_link": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
@@ -32,12 +32,12 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Workiva",
-    "job_title": "Summer 2027 Intern - Software Engineering",
-    "job_location": "USA - Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-workiva-careers-R12190?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-workiva-careers-R12190?s=gh-internships-2027",
-    "section": "Software Engineering"
+    "employer_name": "Stripe",
+    "job_title": "Data Analyst, Intern",
+    "job_location": "New York, Seattle, South San",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-stripe-8194291?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-stripe-8194291?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
     "employer_name": "LabCorp",
