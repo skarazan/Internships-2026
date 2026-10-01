@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "CACI",
+    "job_title": "Software Development/Engineer Intern - Summer 2027",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-caci-external-332894?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-caci-external-332894?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Dandy",
     "job_title": "Summer 2027 Internship - Software Engineering Intern",
     "job_location": "USA - New York NY",
@@ -30,6 +38,14 @@
     "job_apply_link": "https://zapply.jobs/l/d/deshaw-5916?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/deshaw-5916?s=gh-internships-2027",
     "section": "Software Engineering"
+  },
+  {
+    "employer_name": "SeatGeek",
+    "job_title": "Data Analyst - Internship",
+    "job_location": "New York, New York",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-seatgeek-8247554?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-seatgeek-8247554?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
     "employer_name": "Stripe",
