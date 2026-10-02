@@ -8,22 +8,6 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Dandy",
-    "job_title": "Summer 2027 Internship - Software Engineering Intern",
-    "job_location": "USA - New York NY",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "GlobalFoundries",
-    "job_title": "Reliability Test Engineering Intern (Summer 2027)",
-    "job_location": "USA - New York - Malta",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604361?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604361?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "D. E. Shaw",
     "job_title": "Software Developer Intern (New York) \u2013 Summer 2027",
     "job_location": "New York",
@@ -38,6 +22,30 @@
     "job_apply_link": "https://zapply.jobs/l/d/deshaw-5916?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/deshaw-5916?s=gh-internships-2027",
     "section": "Software Engineering"
+  },
+  {
+    "employer_name": "SeatGeek",
+    "job_title": "Security Engineer - Internship",
+    "job_location": "New York, New York",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-seatgeek-8248151?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-seatgeek-8248151?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Dandy",
+    "job_title": "Summer 2027 Internship - Software Engineering Intern",
+    "job_location": "USA - New York NY",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "PNC Financial Services",
+    "job_title": "Graduate Intern, Portfolio Management and Analytics, Chief Investment Office (CIO) (Non-Campus)",
+    "job_location": "NY - New York",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-pnc-external-R237633?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-pnc-external-R237633?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
     "employer_name": "SeatGeek",
@@ -88,14 +96,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Figma",
-    "job_title": "Data Engineer Intern (2027)",
-    "job_location": "San Francisco, CA \u2022 New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178851004?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178851004?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Amgen",
     "job_title": "Grad Intern \u2013 Data Scientist \u2013 Technology, AI & Data (Summer 2027)",
     "job_location": "United States - Remote",
@@ -104,27 +104,19 @@
     "section": "Data Science & AI"
   },
   {
+    "employer_name": "Figma",
+    "job_title": "Data Engineer Intern (2027)",
+    "job_location": "San Francisco, CA \u2022 New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-figma-6178851004?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-figma-6178851004?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
     "employer_name": "Coinbase",
     "job_title": "Internal Audit Analytics Intern",
     "job_location": "Hybrid - New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-coinbase-8221238?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-coinbase-8221238?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "ONE Finance",
-    "job_title": "AI Research Intern",
-    "job_location": "United States (Remote)",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-oneapp-84beb108-c04b-42d3-a9ae-9a91210201b7?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-oneapp-84beb108-c04b-42d3-a9ae-9a91210201b7?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Viking Global Investors",
-    "job_title": "Data Science Intern",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-vikingglobalinvestors-6202755004?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-vikingglobalinvestors-6202755004?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
