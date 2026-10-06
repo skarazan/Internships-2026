@@ -1,26 +1,42 @@
 [
   {
-    "employer_name": "Wex",
-    "job_title": "DevOps & AI Engineering Intern (Undergraduate)",
+    "employer_name": "Sigma Computing",
+    "job_title": "Software Engineering Intern (Summer 2027)",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-sigmacomputing-8001295003?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-sigmacomputing-8001295003?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "KnowBe4",
+    "job_title": "Software Engineer Intern (Remote)",
     "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R23056?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R23056?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-knowbe4-8870749002?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-knowbe4-8870749002?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
     "employer_name": "Wex",
-    "job_title": "AI & Data Platform Engineering Intern (Undergraduate)",
+    "job_title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
     "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R23055?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R23055?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22589?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22589?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
     "employer_name": "Wex",
-    "job_title": "SRE & Application Services Intern (Graduate/Master's)",
+    "job_title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
     "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22494?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22494?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22586?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22586?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Wex",
+    "job_title": "Fullstack Software Engineer Intern (Undergraduate)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22593?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22593?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -56,12 +72,20 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "SeatGeek",
-    "job_title": "Security Engineer - Internship",
-    "job_location": "New York, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-seatgeek-8248151?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-seatgeek-8248151?s=gh-internships-2027",
-    "section": "Software Engineering"
+    "employer_name": "Leidos",
+    "job_title": "Business Systems AI Intern",
+    "job_location": "6314 Remote/Teleworker US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193327?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193327?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Leidos",
+    "job_title": "Business Systems AI Intern",
+    "job_location": "6314 Remote/Teleworker US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193767?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193767?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
     "employer_name": "Biogen",
@@ -93,14 +117,6 @@
     "job_location": "Remote",
     "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Leidos",
-    "job_title": "Business Systems AI Intern",
-    "job_location": "6314 Remote/Teleworker US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193770?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193770?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
