@@ -24,19 +24,19 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Harvey",
-    "job_title": "Software Engineering Intern (Summer 2027)",
-    "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-harvey-06d64648-b84b-48ae-94a2-d9c06dfdcb5d?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-harvey-06d64648-b84b-48ae-94a2-d9c06dfdcb5d?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Thomson Reuters",
     "job_title": "Software Engineer Co-Op",
     "job_location": "Rochester New York",
     "job_apply_link": "https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-Rochester?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-Rochester?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Harvey",
+    "job_title": "Software Engineering Intern (Summer 2027)",
+    "job_location": "New York",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-harvey-06d64648-b84b-48ae-94a2-d9c06dfdcb5d?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-harvey-06d64648-b84b-48ae-94a2-d9c06dfdcb5d?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -62,6 +62,14 @@
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-seatgeek-8248151?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-seatgeek-8248151?s=gh-internships-2027",
     "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Biogen",
+    "job_title": "Co-op, Machine Learning Engineering",
+    "job_location": "Remote, USA",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24310?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24310?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
     "employer_name": "EXP",
@@ -96,14 +104,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "PNC Financial Services",
-    "job_title": "Graduate Intern, Portfolio Management and Analytics, Chief Investment Office (CIO) (Non-Campus)",
-    "job_location": "NY - New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-pnc-external-R237633?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-pnc-external-R237633?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "SeatGeek",
     "job_title": "Data Analyst - Internship",
     "job_location": "New York, New York",
@@ -117,6 +117,14 @@
     "job_location": "New York, Seattle, South San",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-stripe-8194291?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-stripe-8194291?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "PNC Financial Services",
+    "job_title": "Graduate Intern, Portfolio Management and Analytics, Chief Investment Office (CIO) (Non-Campus)",
+    "job_location": "NY - New York",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-pnc-external-R237633?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-pnc-external-R237633?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
