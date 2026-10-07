@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Dandy",
+    "job_title": "Summer 2027 Internship - Software Engineering Intern",
+    "job_location": "USA - New York NY",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Sigma Computing",
     "job_title": "Software Engineering Intern (Summer 2027)",
     "job_location": "New York, NY",
@@ -17,26 +25,26 @@
   },
   {
     "employer_name": "Wex",
-    "job_title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
+    "job_title": "DevOps & AI Engineering Intern (Undergraduate)",
     "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22589?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22589?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R23056?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R23056?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
     "employer_name": "Wex",
-    "job_title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
+    "job_title": "AI & Data Platform Engineering Intern (Undergraduate)",
     "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22586?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22586?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R23055?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R23055?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
     "employer_name": "Wex",
-    "job_title": "Fullstack Software Engineer Intern (Undergraduate)",
+    "job_title": "SRE & Application Services Intern (Graduate/Master's)",
     "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22593?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22593?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22494?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22494?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -56,20 +64,12 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "D. E. Shaw",
-    "job_title": "Software Developer Intern (New York) \u2013 Summer 2027",
-    "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/deshaw-5894?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/deshaw-5894?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "D. E. Shaw",
-    "job_title": "Systems Engineering Intern (New York) - Summer 2027",
-    "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/deshaw-5916?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/deshaw-5916?s=gh-internships-2027",
-    "section": "Software Engineering"
+    "employer_name": "Biogen",
+    "job_title": "Co-op, Machine Learning Engineering",
+    "job_location": "Remote, USA",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24310?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24310?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
     "employer_name": "Leidos",
@@ -88,11 +88,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Biogen",
-    "job_title": "Co-op, Machine Learning Engineering",
-    "job_location": "Remote, USA",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24310?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24310?s=gh-internships-2027",
+    "employer_name": "Wex",
+    "job_title": "Data & AI Intern (Graduate/Master\u2019s)",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -109,14 +109,6 @@
     "job_location": "New York, NY, United States",
     "job_apply_link": "https://zapply.jobs/l/d/oracle-exp-93389?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/oracle-exp-93389?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Wex",
-    "job_title": "Data & AI Intern (Graduate/Master\u2019s)",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22551?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
