@@ -1,5 +1,21 @@
 [
   {
+    "employer_name": "Dow Jones",
+    "job_title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
+    "job_location": "NYC",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Point72",
+    "job_title": "2027 Summer Internship \u2013 Software Engineer",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-point72-8885733002?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-point72-8885733002?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Motorola Solutions",
     "job_title": "Software Engineer Co-op Intern - 2026/2027",
     "job_location": "Illinois Remote Work, More",
@@ -24,28 +40,28 @@
     "section": "Software Engineering"
   },
   {
+    "employer_name": "GlobalFoundries",
+    "job_title": "Human Resources Intern, HR Analytics (Summer 2027)",
+    "job_location": "USA - New York - Malta",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
     "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
+    "job_title": "Summer 2027 Internship Program \u2013 Data Analyst Intern",
     "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
-    "section": "Software Engineering"
+    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55893?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55893?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
-    "employer_name": "Dandy",
-    "job_title": "Summer 2027 Internship - Software Engineering Intern",
-    "job_location": "USA - New York NY",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Sigma Computing",
-    "job_title": "Software Engineering Intern (Summer 2027)",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-sigmacomputing-8001295003?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-sigmacomputing-8001295003?s=gh-internships-2027",
-    "section": "Software Engineering"
+    "employer_name": "Dow Jones",
+    "job_title": "Summer 2027 Internship Program - Marketing Data Science Intern",
+    "job_location": "NYC",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
     "employer_name": "RTX",
@@ -72,19 +88,19 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program \u2013 Data Analyst Intern",
-    "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55893?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55893?s=gh-internships-2027",
+    "employer_name": "Leidos",
+    "job_title": "Business Systems AI Intern",
+    "job_location": "6314 Remote/Teleworker US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193327?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193327?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program - Marketing Data Science Intern",
-    "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
+    "employer_name": "Leidos",
+    "job_title": "Business Systems AI Intern",
+    "job_location": "6314 Remote/Teleworker US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193767?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193767?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -101,22 +117,6 @@
     "job_location": "New York, NY, United States",
     "job_apply_link": "https://zapply.jobs/l/d/oracle-exp-93389?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/oracle-exp-93389?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Leidos",
-    "job_title": "Business Systems AI Intern",
-    "job_location": "6314 Remote/Teleworker US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193770?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193770?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "PNC Financial Services",
-    "job_title": "Graduate Intern, Portfolio Management and Analytics, Chief Investment Office (CIO) (Non-Campus)",
-    "job_location": "NY - New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-pnc-external-R237633?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-pnc-external-R237633?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
