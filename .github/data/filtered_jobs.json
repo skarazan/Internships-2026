@@ -1,10 +1,10 @@
 [
   {
-    "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
-    "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
+    "employer_name": "CACI",
+    "job_title": "Software Test Engineer Intern - Spring 2027",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-caci-external-333422?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-caci-external-333422?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -16,11 +16,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Motorola Solutions",
-    "job_title": "Software Engineer Co-op Intern - 2026/2027",
-    "job_location": "Illinois Remote Work, More",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69641?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69641?s=gh-internships-2027",
+    "employer_name": "Dow Jones",
+    "job_title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
+    "job_location": "NYC",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -40,14 +40,6 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "GlobalFoundries",
-    "job_title": "Human Resources Intern, HR Analytics (Summer 2027)",
-    "job_location": "USA - New York - Malta",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Dow Jones",
     "job_title": "Summer 2027 Internship Program \u2013 Data Analyst Intern",
     "job_location": "NYC",
@@ -61,6 +53,14 @@
     "job_location": "NYC",
     "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "GlobalFoundries",
+    "job_title": "Human Resources Intern, HR Analytics (Summer 2027)",
+    "job_location": "USA - New York - Malta",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -91,16 +91,16 @@
     "employer_name": "Leidos",
     "job_title": "Business Systems AI Intern",
     "job_location": "6314 Remote/Teleworker US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193327?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193327?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193769?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193769?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
     "employer_name": "Leidos",
     "job_title": "Business Systems AI Intern",
     "job_location": "6314 Remote/Teleworker US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193767?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193767?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193327?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193327?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
