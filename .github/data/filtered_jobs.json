@@ -40,19 +40,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Biogen",
-    "job_title": "Co-op, Data Science & AI Innovation",
-    "job_location": "Remote, USA",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Ardian",
-    "job_title": "Data Scientist Intern - February 2027   NYC",
-    "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
+    "employer_name": "Eulerity",
+    "job_title": "AI Intern - Office of CEO & Head of Product",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-eulerity-4722871006?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-eulerity-4722871006?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -64,11 +56,27 @@
     "section": "Data Science & AI"
   },
   {
+    "employer_name": "Ardian",
+    "job_title": "Data Scientist Intern - February 2027   NYC",
+    "job_location": "New York",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
     "employer_name": "Duolingo",
     "job_title": "Data Scientist, Intern",
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-duolingo-8888721002?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-duolingo-8888721002?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Biogen",
+    "job_title": "Co-op, Data Science & AI Innovation",
+    "job_location": "Remote, USA",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
