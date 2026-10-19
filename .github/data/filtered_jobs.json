@@ -1,5 +1,21 @@
 [
   {
+    "employer_name": "Patreon",
+    "job_title": "Software Engineering Intern - Summer 2027",
+    "job_location": "New York",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-patreon-cefe07ab-ba4f-48cc-86b9-a88b1859a95c?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-patreon-cefe07ab-ba4f-48cc-86b9-a88b1859a95c?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Braze",
+    "job_title": "Intern, Software Engineering",
+    "job_location": "New York City",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-braze-8301086?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-braze-8301086?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Leidos",
     "job_title": "Cloud Engineering Intern",
     "job_location": "6314 Remote/Teleworker US",
@@ -32,27 +48,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Motorola Solutions",
-    "job_title": "Software Engineer Co-op Intern - 2026/2027",
-    "job_location": "Illinois Remote Work, More",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69641?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69641?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Eulerity",
     "job_title": "AI Intern - Office of CEO & Head of Product",
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-eulerity-4722871006?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-eulerity-4722871006?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Leidos",
-    "job_title": "Performance Enablement AI/ML Intern",
-    "job_location": "6314 Remote/Teleworker US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00194656?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00194656?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -72,11 +72,19 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Biogen",
-    "job_title": "Co-op, Data Science & AI Innovation",
-    "job_location": "Remote, USA",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-biibhr-external-REQ24209?s=gh-internships-2027",
+    "employer_name": "Leidos",
+    "job_title": "Performance Enablement AI/ML Intern",
+    "job_location": "6314 Remote/Teleworker US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00194656?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00194656?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "GlobalFoundries",
+    "job_title": "Human Resources Intern, HR Analytics (Summer 2027)",
+    "job_location": "USA - New York - Malta",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -96,27 +104,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "GlobalFoundries",
-    "job_title": "Human Resources Intern, HR Analytics (Summer 2027)",
-    "job_location": "USA - New York - Malta",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "RTX",
     "job_title": "AI Engineering Intern (Summer 2027)",
     "job_location": "NY-REMOTE",
     "job_apply_link": "https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880596?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880596?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Charles River Associates",
-    "job_title": "(2028 Bachelor's/Master's graduates) Data Analytics Consulting Analyst/Associate Intern (Summer",
-    "job_location": "New York, NY, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-charlesriverassociates-8263475?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-charlesriverassociates-8263475?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
