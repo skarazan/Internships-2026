@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Motorola Solutions",
+    "job_title": "Presale Systems Engineer - Summer 2027 Internship",
+    "job_location": "Massachusetts Remote Work, More",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69640?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69640?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Palantir",
     "job_title": "Software Engineer, Internship - Query Engines",
     "job_location": "New York, NY",
@@ -32,27 +40,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "CACI",
-    "job_title": "Software Test Engineer Intern - Spring 2027",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-caci-external-333422?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-caci-external-333422?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Dow Jones",
     "job_title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
     "job_location": "NYC",
     "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Point72",
-    "job_title": "2027 Summer Internship \u2013 Software Engineer",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-point72-8885733002?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-point72-8885733002?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -88,14 +80,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "GlobalFoundries",
-    "job_title": "Human Resources Intern, HR Analytics (Summer 2027)",
-    "job_location": "USA - New York - Malta",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Dow Jones",
     "job_title": "Summer 2027 Internship Program \u2013 Data Analyst Intern",
     "job_location": "NYC",
@@ -109,6 +93,14 @@
     "job_location": "NYC",
     "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "GlobalFoundries",
+    "job_title": "Human Resources Intern, HR Analytics (Summer 2027)",
+    "job_location": "USA - New York - Malta",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -133,22 +125,6 @@
     "job_location": "6314 Remote/Teleworker US",
     "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193769?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193769?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "EXP",
-    "job_title": "Macy's 2027 Summer Internship \u2013 Consumer Insights: Customer & Digital Intelligence and Analytics",
-    "job_location": "New York, NY, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/oracle-exp-93380?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/oracle-exp-93380?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "EXP",
-    "job_title": "Macy's 2027 Summer Internship \u2013 Customer & Digital Growth, Insights and Platforms \u2013 Analytics",
-    "job_location": "New York, NY, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/oracle-exp-93389?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/oracle-exp-93389?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
