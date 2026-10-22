@@ -1,5 +1,29 @@
 [
   {
+    "employer_name": "CVS Health",
+    "job_title": "Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad",
+    "job_location": "NY - New York",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081114?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081114?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Motorola Solutions",
+    "job_title": "Presale Systems Engineer - Summer 2027 Internship",
+    "job_location": "Brooklyn, NY, More",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69755?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69755?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Palantir",
+    "job_title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/lever-palantir-b3d81928-6c26-432f-8a0a-36602c2eefcb?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/lever-palantir-b3d81928-6c26-432f-8a0a-36602c2eefcb?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Motorola Solutions",
     "job_title": "Presale Systems Engineer - Summer 2027 Internship",
     "job_location": "Massachusetts Remote Work, More",
@@ -16,35 +40,27 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Patreon",
-    "job_title": "Software Engineering Intern - Summer 2027",
+    "employer_name": "CVS Health",
+    "job_title": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Graduate)",
+    "job_location": "NY - New York",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081101?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081101?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "CVS Health",
+    "job_title": "Innovation & Technology Internship \u2013 Data Engineering \u2013 Summer 2027 (Undergraduate)",
+    "job_location": "NY - New York",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081090?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081090?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Ardian",
+    "job_title": "Data Scientist Intern - February 2027   NYC",
     "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-patreon-cefe07ab-ba4f-48cc-86b9-a88b1859a95c?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-patreon-cefe07ab-ba4f-48cc-86b9-a88b1859a95c?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Braze",
-    "job_title": "Intern, Software Engineering",
-    "job_location": "New York City",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-braze-8301086?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-braze-8301086?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Leidos",
-    "job_title": "Cloud Engineering Intern",
-    "job_location": "6314 Remote/Teleworker US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00194668?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00194668?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "KeyBank",
-    "job_title": "2027 Summer Marketing Analytics Internship - Cleveland",
-    "job_location": "Brooklyn, OH",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42822?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42822?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -56,11 +72,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Ardian",
-    "job_title": "Data Scientist Intern - February 2027   NYC",
-    "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
+    "employer_name": "KeyBank",
+    "job_title": "2027 Summer Marketing Analytics Internship - Cleveland",
+    "job_location": "Brooklyn, OH",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42822?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-keybank-external-career-site-R-42822?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -88,14 +104,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "GlobalFoundries",
-    "job_title": "Human Resources Intern, HR Analytics (Summer 2027)",
-    "job_location": "USA - New York - Malta",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Dow Jones",
     "job_title": "Summer 2027 Internship Program \u2013 Data Analyst Intern",
     "job_location": "NYC",
@@ -112,27 +120,19 @@
     "section": "Data Science & AI"
   },
   {
+    "employer_name": "GlobalFoundries",
+    "job_title": "Human Resources Intern, HR Analytics (Summer 2027)",
+    "job_location": "USA - New York - Malta",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604494?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
     "employer_name": "RTX",
     "job_title": "AI Engineering Intern (Summer 2027)",
     "job_location": "NY-REMOTE",
     "job_apply_link": "https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880596?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880596?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "IMC Trading",
-    "job_title": "Machine Learning Engineer Intern - Summer 2027",
-    "job_location": "New York, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-imc-4962456101?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-imc-4962456101?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Leidos",
-    "job_title": "Business Systems AI Intern",
-    "job_location": "6314 Remote/Teleworker US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193769?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193769?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
