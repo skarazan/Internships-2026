@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "VSP Vision",
+    "job_title": "Internship, Software Engineer",
+    "job_location": "Remote US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10068?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10068?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Leidos",
     "job_title": "SharePoint & Systems Engineering Intern",
     "job_location": "6314 Remote/Teleworker US",
@@ -13,14 +21,6 @@
     "job_location": "New York",
     "job_apply_link": "https://zapply.jobs/l/d/deshaw-5894?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/deshaw-5894?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "CVS Health",
-    "job_title": "Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad",
-    "job_location": "NY - New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081114?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1081114?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -80,14 +80,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Duolingo",
-    "job_title": "Data Scientist, Intern",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-duolingo-8888721002?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-duolingo-8888721002?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Leidos",
     "job_title": "Performance Enablement AI/ML Intern",
     "job_location": "6314 Remote/Teleworker US",
@@ -96,19 +88,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program \u2013 Data Analyst Intern",
-    "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55893?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55893?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program - Marketing Data Science Intern",
-    "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
+    "employer_name": "Duolingo",
+    "job_title": "Data Scientist, Intern",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-duolingo-8888721002?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-duolingo-8888721002?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
