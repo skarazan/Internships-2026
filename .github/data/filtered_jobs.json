@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Wex",
+    "job_title": "Software Engineer Intern",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22585?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22585?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "VSP Vision",
     "job_title": "Internship, Software Engineer",
     "job_location": "Remote US",
@@ -8,11 +16,35 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "D. E. Shaw",
-    "job_title": "Software Developer Intern (New York) \u2013 Summer 2027",
+    "employer_name": "VSP Vision",
+    "job_title": "Internship, Software Engineer",
+    "job_location": "Remote US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10046?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10046?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Talos Trading",
+    "job_title": "Software Engineer Intern, Dealer",
     "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/deshaw-5894?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/deshaw-5894?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-talos-trading-91fd5274-3b6b-43cf-b366-9f6dc2ae5977?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-talos-trading-91fd5274-3b6b-43cf-b366-9f6dc2ae5977?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Talos Trading",
+    "job_title": "Software Engineer Intern, RFQ",
+    "job_location": "New York",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-talos-trading-2c833180-484f-4657-80e3-f822cf1a0285?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-talos-trading-2c833180-484f-4657-80e3-f822cf1a0285?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "VSP Vision",
+    "job_title": "Internship, Software Engineer",
+    "job_location": "Remote US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10071?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10071?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -48,14 +80,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Ardian",
-    "job_title": "Data Scientist Intern - February 2027   NYC",
-    "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "KeyBank",
     "job_title": "2027 Summer Marketing Analytics Internship - Cleveland",
     "job_location": "Brooklyn, OH",
@@ -64,19 +88,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Eulerity",
-    "job_title": "AI Intern - Office of CEO & Head of Product",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-eulerity-4722871006?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-eulerity-4722871006?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Leidos",
-    "job_title": "Performance Enablement AI/ML Intern",
-    "job_location": "6314 Remote/Teleworker US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00194656?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00194656?s=gh-internships-2027",
+    "employer_name": "Ardian",
+    "job_title": "Data Scientist Intern - February 2027   NYC",
+    "job_location": "New York",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002271?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
