@@ -3,8 +3,24 @@
     "employer_name": "Zebra",
     "job_title": "2027 Summer Internship (US) - Software Engineer",
     "job_location": "Holtsville, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103638?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103638?s=gh-internships-2027",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103657?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103657?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Zebra",
+    "job_title": "2027 Summer Internship (US) - Software Engineer",
+    "job_location": "Holtsville, New York",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103645?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103645?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Leidos",
+    "job_title": "Software Engineering & AI Intern",
+    "job_location": "6314 RemoteTeleworker US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00196220?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00196220?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -24,11 +40,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Zebra",
-    "job_title": "2027 Summer Internship (US) - Software Engineer",
-    "job_location": "Holtsville, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103626?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103626?s=gh-internships-2027",
+    "employer_name": "Parsons",
+    "job_title": "Software Engineer Intern (Fall 2026)",
+    "job_location": "Remote (Any Location), R188147",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-parsons-search-R188147?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-parsons-search-R188147?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -40,27 +56,11 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "T-Mobile",
-    "job_title": "Summer 2027 Software Engineering Internship",
-    "job_location": "New York, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-tmobile-external-REQ380886?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-tmobile-external-REQ380886?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "The New York Times",
     "job_title": "Backend Engineering Intern, Wirecutter",
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748483005?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748483005?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Wex",
-    "job_title": "Software Engineer Intern",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22585?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22585?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -86,6 +86,14 @@
     "job_apply_link": "https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10071?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10071?s=gh-internships-2027",
     "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Amgen",
+    "job_title": "Grad Intern \u2013 R&D TSRS Data Sciences Operations & Analytic (Summer 2027)",
+    "job_location": "United States - Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-260585?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-260585?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
     "employer_name": "The New York Times",
@@ -141,22 +149,6 @@
     "job_location": "New York, New York, United States",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-schonfeld-8171694?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-schonfeld-8171694?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "ICD",
-    "job_title": "Summer 2027 Human Resources Data & Analytics Internship",
-    "job_location": "New York, NY, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/oracle-icd-301987?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/oracle-icd-301987?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Tradeweb",
-    "job_title": "Summer 2027 Human Resources Data & Analytics Internship",
-    "job_location": "New York, NY, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/oracle-tradeweb-301987?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/oracle-tradeweb-301987?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
