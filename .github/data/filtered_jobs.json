@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Palantir",
+    "job_title": "Software Engineer, Internship - Sovereign AI Systems",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/lever-palantir-cd64bcd4-50bb-4aeb-a135-4e0487ffd312?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/lever-palantir-cd64bcd4-50bb-4aeb-a135-4e0487ffd312?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Zebra",
     "job_title": "2027 Summer Internship (US) - Software Engineer",
     "job_location": "Holtsville, New York",
@@ -80,14 +88,6 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "VSP Vision",
-    "job_title": "Internship, Software Engineer",
-    "job_location": "Remote US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10071?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-vsp-vspvisioncareers-R-10071?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Amgen",
     "job_title": "Grad Intern \u2013 R&D TSRS Data Sciences Operations & Analytic (Summer 2027)",
     "job_location": "United States - Remote",
@@ -101,6 +101,14 @@
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4750496005?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4750496005?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Zebra",
+    "job_title": "2027 Summer Internship (US) - Software/AI Engineer (Handheld Mobile Computers)",
+    "job_location": "Holtsville, New York",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103632?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103632?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -128,27 +136,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Zebra",
-    "job_title": "2027 Summer Internship (US) - Software/AI Engineer (Handheld Mobile Computers)",
-    "job_location": "Holtsville, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103632?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103632?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Stripe",
     "job_title": "Master's Machine Learning Engineer, Intern",
     "job_location": "San Francisco, New York City,",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-stripe-8333074?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-stripe-8333074?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Schonfeld",
-    "job_title": "2027 Enterprise AI Intern",
-    "job_location": "New York, New York, United States",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-schonfeld-8171694?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-schonfeld-8171694?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
