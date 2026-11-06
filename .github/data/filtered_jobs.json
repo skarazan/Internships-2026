@@ -1,5 +1,37 @@
 [
   {
+    "employer_name": "The New York Times",
+    "job_title": "Backend Engineering Intern",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4751973005?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4751973005?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "The New York Times",
+    "job_title": "Frontend Engineering Intern",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4751909005?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4751909005?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Notion",
+    "job_title": "Software Engineering Intern, Frontend (Summer 2027)",
+    "job_location": "New York, New York",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-notion-43ffba97-b64a-4c6a-ac13-c803253c9413?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-notion-43ffba97-b64a-4c6a-ac13-c803253c9413?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Notion",
+    "job_title": "Software Engineering Intern, iOS (Summer 2027)",
+    "job_location": "New York, New York",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-notion-27090d0f-07d3-419b-adaa-837b5e22f947?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-notion-27090d0f-07d3-419b-adaa-837b5e22f947?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Palantir",
     "job_title": "Software Engineer, Internship - Sovereign AI Systems",
     "job_location": "New York, NY",
@@ -13,14 +45,6 @@
     "job_location": "Holtsville, New York",
     "job_apply_link": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103657?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103657?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Zebra",
-    "job_title": "2027 Summer Internship (US) - Software Engineer",
-    "job_location": "Holtsville, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103645?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103645?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -64,30 +88,6 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "The New York Times",
-    "job_title": "Backend Engineering Intern, Wirecutter",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748483005?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4748483005?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Talos Trading",
-    "job_title": "Software Engineer Intern, Dealer",
-    "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-talos-trading-91fd5274-3b6b-43cf-b366-9f6dc2ae5977?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-talos-trading-91fd5274-3b6b-43cf-b366-9f6dc2ae5977?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Talos Trading",
-    "job_title": "Software Engineer Intern, RFQ",
-    "job_location": "New York",
-    "job_apply_link": "https://zapply.jobs/l/d/ashby-talos-trading-2c833180-484f-4657-80e3-f822cf1a0285?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/ashby-talos-trading-2c833180-484f-4657-80e3-f822cf1a0285?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "Amgen",
     "job_title": "Grad Intern \u2013 R&D TSRS Data Sciences Operations & Analytic (Summer 2027)",
     "job_location": "United States - Remote",
@@ -101,14 +101,6 @@
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4750496005?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4750496005?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Zebra",
-    "job_title": "2027 Summer Internship (US) - Software/AI Engineer (Handheld Mobile Computers)",
-    "job_location": "Holtsville, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103632?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-zebra-zebra-careers-JR103632?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
