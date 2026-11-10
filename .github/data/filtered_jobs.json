@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Wex",
+    "job_title": "Software Engineer Intern",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22542?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22542?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "NBCUniversal",
     "job_title": "Software Engineering Internships \u2013 Summer 2027",
     "job_location": "New York, NY",
@@ -64,36 +72,12 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Parsons",
-    "job_title": "Software Engineer Intern (Fall 2026)",
-    "job_location": "Remote (Any Location), R188147",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-parsons-search-R188147?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-parsons-search-R188147?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Motorola Solutions",
-    "job_title": "Software Engineer Cybersecurity Services - 2027 Summer Internship",
-    "job_location": "Virginia Remote Work, More",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69250?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R69250?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
-    "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55891?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Dow Jones",
-    "job_title": "Summer 2027 Internship Program \u2013 Software Engineering Intern",
-    "job_location": "NYC",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55892?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55892?s=gh-internships-2027",
-    "section": "Software Engineering"
+    "employer_name": "The New York Times",
+    "job_title": "Data Analyst Intern",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4752930005?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-thenewyorktimes-4752930005?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
     "employer_name": "NBCUniversal",
