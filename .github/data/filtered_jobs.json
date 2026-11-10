@@ -1,10 +1,10 @@
 [
   {
-    "employer_name": "Wex",
-    "job_title": "Software Engineer Intern",
-    "job_location": "Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22542?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-wexinc-wexinc-R22542?s=gh-internships-2027",
+    "employer_name": "Thomson Reuters",
+    "job_title": "Software Engineer Co-Op",
+    "job_location": "Rochester New York",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-Rochester?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-Rochester?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
@@ -69,6 +69,14 @@
     "job_location": "6314 RemoteTeleworker US",
     "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00196220?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00196220?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Palantir",
+    "job_title": "Software Engineer, Intern - Connectivity Platform and Product",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/lever-palantir-130ee501-bd22-4d44-b651-39581ef97743?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/lever-palantir-130ee501-bd22-4d44-b651-39581ef97743?s=gh-internships-2027",
     "section": "Software Engineering"
   },
   {
