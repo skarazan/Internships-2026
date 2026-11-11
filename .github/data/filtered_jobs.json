@@ -24,6 +24,14 @@
     "section": "Software Engineering"
   },
   {
+    "employer_name": "BAE Systems",
+    "job_title": "Software Developer Intern III, Summer 2027 (Onsite)",
+    "job_location": "Rome, New York",
+    "job_apply_link": "https://zapply.jobs/l/d/phenom-bae-systems-129774BR?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/phenom-bae-systems-129774BR?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "The New York Times",
     "job_title": "Backend Engineering Intern",
     "job_location": "New York, NY",
@@ -64,22 +72,6 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Leidos",
-    "job_title": "Software Engineering & AI Intern",
-    "job_location": "6314 RemoteTeleworker US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00196220?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00196220?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
-    "employer_name": "Palantir",
-    "job_title": "Software Engineer, Intern - Connectivity Platform and Product",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/lever-palantir-130ee501-bd22-4d44-b651-39581ef97743?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/lever-palantir-130ee501-bd22-4d44-b651-39581ef97743?s=gh-internships-2027",
-    "section": "Software Engineering"
-  },
-  {
     "employer_name": "The New York Times",
     "job_title": "Data Analyst Intern",
     "job_location": "New York, NY",
@@ -101,6 +93,14 @@
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160650767?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160650767?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Business Analyst Intern III, Summer 2027 (Remote)",
+    "job_location": "Endicott, New York",
+    "job_apply_link": "https://zapply.jobs/l/d/phenom-bae-systems-129379BR?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/phenom-bae-systems-129379BR?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -141,14 +141,6 @@
     "job_location": "NYC",
     "job_apply_link": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55876?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Stripe",
-    "job_title": "Master's Machine Learning Engineer, Intern",
-    "job_location": "San Francisco, New York City,",
-    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-stripe-8333074?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/greenhouse-stripe-8333074?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
