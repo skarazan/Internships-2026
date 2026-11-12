@@ -1,5 +1,13 @@
 [
   {
+    "employer_name": "Grant Thornton",
+    "job_title": "Cybersecurity and Privacy Intern - Summer 2027",
+    "job_location": "New York, NY, United States",
+    "job_apply_link": "https://zapply.jobs/l/d/oracle-grant-thornton-115637?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/oracle-grant-thornton-115637?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Thomson Reuters",
     "job_title": "Software Engineer Co-Op",
     "job_location": "Rochester New York",
@@ -64,12 +72,12 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Palantir",
-    "job_title": "Software Engineer, Internship - Sovereign AI Systems",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/lever-palantir-cd64bcd4-50bb-4aeb-a135-4e0487ffd312?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/lever-palantir-cd64bcd4-50bb-4aeb-a135-4e0487ffd312?s=gh-internships-2027",
-    "section": "Software Engineering"
+    "employer_name": "BAE Systems",
+    "job_title": "Business Analyst Intern III, Summer 2027 (Remote)",
+    "job_location": "Endicott, New York",
+    "job_apply_link": "https://zapply.jobs/l/d/phenom-bae-systems-129379BR?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/phenom-bae-systems-129379BR?s=gh-internships-2027",
+    "section": "Data Science & AI"
   },
   {
     "employer_name": "The New York Times",
@@ -93,14 +101,6 @@
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160650767?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/sr-NBCUniversal3-744000160650767?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Business Analyst Intern III, Summer 2027 (Remote)",
-    "job_location": "Endicott, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/phenom-bae-systems-129379BR?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/phenom-bae-systems-129379BR?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
