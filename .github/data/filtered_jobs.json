@@ -1,5 +1,21 @@
 [
   {
+    "employer_name": "CACI",
+    "job_title": "Software Development Intern - Summer 2027",
+    "job_location": "Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-caci-external-335425?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-caci-external-335425?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Oscar Health",
+    "job_title": "Software Engineering Intern",
+    "job_location": "New York, New York, United States",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-oscar-8407472?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-oscar-8407472?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "Motorola Solutions",
     "job_title": "Software Engineer Co-op",
     "job_location": "Utah Remote Work",
@@ -13,6 +29,14 @@
     "job_location": "USA - New York - Malta",
     "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604570?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604570?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Bristol Myers Squibb",
+    "job_title": "Data Science Intern (Undergrad)-Summer 2027",
+    "job_location": "Remote - United States - US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608665?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608665?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -32,27 +56,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Bristol Myers Squibb",
-    "job_title": "Data Science Intern (Undergrad)-Summer 2027",
-    "job_location": "Remote - United States - US",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608665?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608665?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "Leidos",
     "job_title": "Business Systems AI Intern",
     "job_location": "6314 Remote/Teleworker US",
     "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00193770?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00193770?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "S&P Global",
-    "job_title": "Summer Intern, Client Services, Equity Analytics Products",
-    "job_location": "New York, NY",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-spgi-spgi-careers-332606?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-spgi-spgi-careers-332606?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -80,11 +88,11 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Business Analyst Intern III, Summer 2027 (Remote)",
-    "job_location": "Endicott, New York",
-    "job_apply_link": "https://zapply.jobs/l/d/phenom-bae-systems-129379BR?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/phenom-bae-systems-129379BR?s=gh-internships-2027",
+    "employer_name": "S&P Global",
+    "job_title": "Summer Intern, Client Services, Equity Analytics Products",
+    "job_location": "New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-spgi-spgi-careers-332606?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-spgi-spgi-careers-332606?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
