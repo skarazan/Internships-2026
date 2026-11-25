@@ -1,5 +1,21 @@
 [
   {
+    "employer_name": "Coinbase",
+    "job_title": "Security Engineer Intern",
+    "job_location": "Hybrid - New York, NY",
+    "job_apply_link": "https://zapply.jobs/l/d/greenhouse-coinbase-8415869?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/greenhouse-coinbase-8415869?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
+    "employer_name": "Dandy",
+    "job_title": "Summer 2027 Internship - Software Engineering Intern",
+    "job_location": "USA - New York NY",
+    "job_apply_link": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/ashby-dandy-d43558e9-8e51-4980-b00d-39275063f099?s=gh-internships-2027",
+    "section": "Software Engineering"
+  },
+  {
     "employer_name": "CACI",
     "job_title": "Software Development Intern - Summer 2027",
     "job_location": "Remote",
@@ -16,20 +32,12 @@
     "section": "Software Engineering"
   },
   {
-    "employer_name": "Motorola Solutions",
-    "job_title": "Software Engineer Co-op",
-    "job_location": "Utah Remote Work",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70561?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-motorolasolutions-careers-R70561?s=gh-internships-2027",
+    "employer_name": "Leidos",
+    "job_title": "SharePoint & Systems Engineering Intern",
+    "job_location": "6314 Remote/Teleworker US",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-leidos-external-R-00197543?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-leidos-external-R-00197543?s=gh-internships-2027",
     "section": "Software Engineering"
-  },
-  {
-    "employer_name": "GlobalFoundries",
-    "job_title": "AI/ML Analytics Intern, Digital Manufacturing (Summer 2027)",
-    "job_location": "USA - New York - Malta",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604570?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604570?s=gh-internships-2027",
-    "section": "Data Science & AI"
   },
   {
     "employer_name": "Bristol Myers Squibb",
@@ -37,6 +45,14 @@
     "job_location": "Remote - United States - US",
     "job_apply_link": "https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608665?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-bristolmyerssquibb-bms-R1608665?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "GlobalFoundries",
+    "job_title": "AI/ML Analytics Intern, Digital Manufacturing (Summer 2027)",
+    "job_location": "USA - New York - Malta",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604570?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604570?s=gh-internships-2027",
     "section": "Data Science & AI"
   },
   {
@@ -64,22 +80,6 @@
     "section": "Data Science & AI"
   },
   {
-    "employer_name": "Amgen",
-    "job_title": "Grad Intern - Product Quality / Global Chemistry Manufacturing & Controls Statistician (Summer 2027)",
-    "job_location": "United States - Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-261900?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-261900?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
-    "employer_name": "Amgen",
-    "job_title": "Grad Intern \u2013 AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027)",
-    "job_location": "United States - Remote",
-    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-260625?s=gh-internships-2027",
-    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-260625?s=gh-internships-2027",
-    "section": "Data Science & AI"
-  },
-  {
     "employer_name": "T-Mobile",
     "job_title": "Summer 2027 Business Intelligence Analyst Internship",
     "job_location": "New York, New York",
@@ -93,6 +93,22 @@
     "job_location": "New York, NY",
     "job_apply_link": "https://zapply.jobs/l/d/workday-spgi-spgi-careers-332606?s=gh-internships-2027",
     "job_id": "https://zapply.jobs/l/d/workday-spgi-spgi-careers-332606?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Amgen",
+    "job_title": "Grad Intern - Product Quality / Global Chemistry Manufacturing & Controls Statistician (Summer 2027)",
+    "job_location": "United States - Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-261900?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-261900?s=gh-internships-2027",
+    "section": "Data Science & AI"
+  },
+  {
+    "employer_name": "Amgen",
+    "job_title": "Grad Intern \u2013 AI-Enabled Knowledge Graphs for Patient Journey Analytics (Summer 2027)",
+    "job_location": "United States - Remote",
+    "job_apply_link": "https://zapply.jobs/l/d/workday-amgen-careers-R-260625?s=gh-internships-2027",
+    "job_id": "https://zapply.jobs/l/d/workday-amgen-careers-R-260625?s=gh-internships-2027",
     "section": "Data Science & AI"
   }
 ]
